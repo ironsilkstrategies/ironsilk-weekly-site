@@ -1,6 +1,115 @@
 {
  "v": 3,
- "generated": 1791882141524,
+ "generated": 1791883767516,
+ "cashed": [
+  {
+   "id": "8gnnk9",
+   "d": "2026-10-12",
+   "who": [
+    "The Banker"
+   ],
+   "banker": true,
+   "props": false,
+   "price": "+904",
+   "units": 9.04,
+   "rec": "Banker 1-3 +6.0u",
+   "legs": [
+    {
+     "sp": "mlb",
+     "game": "CLE@TB",
+     "gl": "#8 CLE@#3 TB",
+     "pick": "CLE +1.5",
+     "price": -152,
+     "push": false
+    },
+    {
+     "sp": "mlb",
+     "game": "LAD@MIL",
+     "gl": "#1 LAD@#4 MIL",
+     "pick": "MIL +1.5",
+     "price": -153,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "VGK@MIN",
+     "gl": "#4 VGK@#6 MIN",
+     "pick": "MIN ML",
+     "price": -112,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "FLA@BUF",
+     "gl": "#24 FLA@#28 BUF",
+     "pick": "BUF ML",
+     "price": -107,
+     "push": false
+    }
+   ]
+  },
+  {
+   "id": "36sbps",
+   "d": "2026-10-12",
+   "who": [
+    "The Simulator",
+    "The Scorekeeper"
+   ],
+   "banker": false,
+   "props": false,
+   "price": "+220",
+   "units": 2.2,
+   "rec": "Simulator 4-0 +3.9u · Scorekeeper 4-0 +3.9u",
+   "legs": [
+    {
+     "sp": "mlb",
+     "game": "LAD@MIL",
+     "gl": "#1 LAD@#4 MIL",
+     "pick": "MIL +1.5",
+     "price": -153,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "FLA@BUF",
+     "gl": "#24 FLA@#28 BUF",
+     "pick": "BUF ML",
+     "price": -107,
+     "push": false
+    }
+   ]
+  },
+  {
+   "id": "17ziv3c",
+   "d": "2026-10-10",
+   "who": [
+    "The Coach"
+   ],
+   "banker": false,
+   "props": false,
+   "price": "+253",
+   "units": 2.53,
+   "rec": "Coach 1-2 +0.5u",
+   "legs": [
+    {
+     "sp": "ncaaf",
+     "game": "UL@LT",
+     "gl": "#77 UL@#92 LT",
+     "pick": "Over 47.5",
+     "price": -118,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "TEX@OU",
+     "gl": "#7 TEX@#28 OU",
+     "pick": "Over 39.5",
+     "price": -110,
+     "push": false
+    }
+   ]
+  }
+ ],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
  "social": {
