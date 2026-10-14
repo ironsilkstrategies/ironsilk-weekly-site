@@ -1,6 +1,6 @@
 {
  "v": 3,
- "generated": 1791954702699,
+ "generated": 1792002099812,
  "cashed": [
   {
    "id": "8gnnk9",
@@ -33,7 +33,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#4 VGK@#7 MIN",
+     "gl": "#5 VGK@#9 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -119,20 +119,74 @@
  "handle": "RuleTheWorldKid",
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
-  "w": 10,
+  "w": 11,
   "l": 4,
   "pu": 0,
-  "u": 5.052585900411989,
+  "u": 5.852585900411989,
   "first": "2026-10-06"
  },
- "today": null,
- "parlay": null,
+ "today": {
+  "d": "2026-10-14",
+  "lockedAt": 1792002073098,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "ncaaf",
+    "start": "2026-10-15T00:00Z"
+   }
+  ],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "9d70bd556cf8b2f1311cbb0992824a2dd6b012d45563d9d10d364190d3b2e2fe",
+   "salt": null
+  }
+ },
+ "parlay": {
+  "d": "2026-10-14",
+  "lockedAt": 1792002072479,
+  "price": "+148",
+  "p": 0.35108,
+  "result": null,
+  "legs": [
+   {
+    "hidden": true,
+    "sp": "nhl"
+   },
+   {
+    "hidden": true,
+    "sp": "nhl"
+   }
+  ]
+ },
  "parlayRecord": {
   "w": 0,
   "l": 5,
   "u": -5
  },
  "history": [
+  {
+   "d": "2026-10-14",
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "WKU@SHSU",
+     "gl": "#108 WKU@#124 SHSU",
+     "pick": "SHSU +1.5",
+     "price": -105,
+     "p": 0.528,
+     "ev": 3.2,
+     "start": "2026-10-15T00:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-13",
    "picks": [
@@ -152,13 +206,13 @@
       "The Scorekeeper",
       "The Commissioner"
      ],
-     "hit": null,
+     "hit": true,
      "push": false
     },
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#7 MIN@#14 WPG",
+     "gl": "#9 MIN@#13 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
