@@ -1,6 +1,6 @@
 {
  "v": 3,
- "generated": 1791940568832,
+ "generated": 1791945166216,
  "cashed": [
   {
    "id": "8gnnk9",
@@ -130,9 +130,34 @@
   "lockedAt": 1791881836918,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-14T02:30Z"
+    "game": "EDM@LA",
+    "gl": "#3 EDM@#25 LA",
+    "pick": "EDM ML",
+    "price": -125,
+    "p": 0.581,
+    "ev": 4.5,
+    "start": "2026-10-14T02:30Z",
+    "tier": "STRONG",
+    "voices": [
+     "The Simulator",
+     "The Judge",
+     "The Scorekeeper",
+     "The Commissioner"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 58% across 10,000 runs vs 56% the price implies.",
+      "Expected value +4.5% per bet at -125.",
+      "Covers' computer has it EDM 3.3–3.02 LA — EDM winning by 0.28.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-19 favorite ML), The Judge (4-0 EDM ML), The Scorekeeper (9-2 road ML), The Commissioner (4-7 NHL ML), Covers (6-8 favorite ML).",
+      "Trend ✓ Oilers are 4-0 in their last 4 games overall."
+     ],
+     "script": "EDM at LA — I'm on EDM ML (-125). We ran this game 10,000 times: EDM wins 58% of the time; the price says 56%. Our projected final is EDM 3.8, LA 3.2. Judge + Scorekeeper + Simulator are all on it — they're 265-166 together. EDM is a top-3 team in our power ratings against one in the bottom half."
+    }
    },
    {
     "sp": "nhl",
@@ -189,17 +214,17 @@
       "Expected value +2.9% per bet at -110.",
       "Covers' computer has it NJ 3–3.04 DET — DET winning by 0.04.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "5 of 9 characters on it, 2 independent of the sim: The Simulator (32-18 favorite ML), The Judge (25-17 home ML), The Scorekeeper (33-16 favorite ML), The Commissioner (0-5 favorite ML), Covers (3-5 home ML)."
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-19 favorite ML), The Judge (29-18 home ML), The Scorekeeper (36-17 favorite ML), The Commissioner (3-4 home ML), Covers (6-7 home ML)."
      ],
      "script": "NJ at DET — I'm on DET ML (-110). We ran this game 10,000 times: DET wins 56% of the time; the price says 52%. Our projected final is NJ 2.7, DET 3.1. Judge + Scorekeeper + Simulator are all on it — they're 265-166 together. Covers' computer projects NJ 3, DET 3.04 — DET winning by 0.04."
     }
    }
   ],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
    "hash": "1064e73850fb508047072a5126d8d2f95bd2217ea369347f329d10513ea08fae",
-   "salt": null
+   "salt": "4e4882763bcbcd6310d19a5af3412263"
   }
  },
  "parlay": {
