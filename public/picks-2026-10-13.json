@@ -1,6 +1,6 @@
 {
  "v": 3,
- "generated": 1791945166216,
+ "generated": 1791946366087,
  "cashed": [
   {
    "id": "8gnnk9",
@@ -12,7 +12,7 @@
    "props": false,
    "price": "+904",
    "units": 9.04,
-   "rec": "Banker 1-3 +6.0u",
+   "rec": "Banker 1-4 +5.0u",
    "legs": [
     {
      "sp": "mlb",
@@ -120,9 +120,9 @@
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
   "w": 10,
-  "l": 3,
+  "l": 4,
   "pu": 0,
-  "u": 6.052585900411989,
+  "u": 5.052585900411989,
   "first": "2026-10-06"
  },
  "today": {
@@ -153,8 +153,8 @@
       "Expected value +4.5% per bet at -125.",
       "Covers' computer has it EDM 3.3–3.02 LA — EDM winning by 0.28.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-19 favorite ML), The Judge (4-0 EDM ML), The Scorekeeper (9-2 road ML), The Commissioner (4-7 NHL ML), Covers (6-8 favorite ML).",
-      "Trend ✓ Oilers are 4-0 in their last 4 games overall."
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-21 favorite ML), The Judge (4-0 EDM ML), The Scorekeeper (9-4 road ML), The Commissioner (4-9 NHL ML), Covers (6-10 favorite ML).",
+      "Standing: EDM (4-0-1, #3 in power, +0.38) at LA (0-2-2, #25, −0.26) — power line EDM by 0.44 goals."
      ],
      "script": "EDM at LA — I'm on EDM ML (-125). We ran this game 10,000 times: EDM wins 58% of the time; the price says 56%. Our projected final is EDM 3.8, LA 3.2. Judge + Scorekeeper + Simulator are all on it — they're 265-166 together. EDM is a top-3 team in our power ratings against one in the bottom half."
     }
@@ -175,7 +175,7 @@
      "The Scorekeeper",
      "The Coach"
     ],
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "bullets": [
@@ -184,7 +184,7 @@
       "Expected value +3.1% per bet at -130.",
       "Covers' computer has it MIN 3.28–3.1 WPG — a 6.4-point total vs 6.5.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "5 of 9 characters on it, 2 independent of the sim: The Simulator (7-1 these teams under), The Judge (3-1 these teams under), The Scorekeeper (8-2 these teams under), The Coach (7-1 these teams under), Covers."
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (7-3 these teams under), The Judge (3-3 these teams under), The Scorekeeper (8-4 these teams under), The Coach (7-3 these teams under), Covers."
      ],
      "script": "MIN at WPG — I'm on Under 6.5 (-130). We ran this game 10,000 times: the under hits 61% of the time; the price says 57%. Our projected final is MIN 3.2, WPG 2.7. Judge + Scorekeeper + Simulator are all on it — they're 265-166 together. Covers' computer projects MIN 3.28, WPG 3.1 — a 6.4-point total vs 6.5."
     }
@@ -214,7 +214,7 @@
       "Expected value +2.9% per bet at -110.",
       "Covers' computer has it NJ 3–3.04 DET — DET winning by 0.04.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-19 favorite ML), The Judge (29-18 home ML), The Scorekeeper (36-17 favorite ML), The Commissioner (3-4 home ML), Covers (6-7 home ML)."
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-21 favorite ML), The Judge (29-18 home ML), The Scorekeeper (36-19 favorite ML), The Commissioner (3-4 home ML), Covers (6-7 home ML)."
      ],
      "script": "NJ at DET — I'm on DET ML (-110). We ran this game 10,000 times: DET wins 56% of the time; the price says 52%. Our projected final is NJ 2.7, DET 3.1. Judge + Scorekeeper + Simulator are all on it — they're 265-166 together. Covers' computer projects NJ 3, DET 3.04 — DET winning by 0.04."
     }
@@ -232,11 +232,28 @@
   "lockedAt": 1791881639309,
   "price": "+191",
   "p": 0.27657,
-  "result": null,
+  "result": false,
   "legs": [
    {
-    "hidden": true,
-    "sp": "mlb"
+    "sp": "mlb",
+    "game": "CLE@TB",
+    "gl": "#8 CLE@#3 TB",
+    "pick": "CLE +1.5",
+    "price": -190,
+    "p": 0.6482,
+    "by": "The Simulator",
+    "hit": false,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 46% across 10,000 runs vs 66% the price implies.",
+      "Desk number after calibration and market blend: 65%.",
+      "Expected value -1.1% per bet at -190.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (12-2 road spread), The Judge (11-2 road spread), The Scorekeeper (12-2 road spread), The Commissioner."
+     ],
+     "script": "CLE at TB — I'm on CLE +1.5 (-190). The price is close to fair here — this one rides on who's backing it. On power ratings alone CLE covers this number by 0.80. 4 of our 9 analysts are on CLE — The Simulator is 12-2 road spread."
+    }
    },
    {
     "sp": "nhl",
@@ -246,7 +263,7 @@
     "price": -265,
     "p": 0.6547,
     "by": "The Commissioner",
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "bullets": [
@@ -284,8 +301,8 @@
  },
  "parlayRecord": {
   "w": 0,
-  "l": 4,
-  "u": -4
+  "l": 5,
+  "u": -5
  },
  "history": [
   {
@@ -326,7 +343,7 @@
       "The Scorekeeper",
       "The Coach"
      ],
-     "hit": null,
+     "hit": false,
      "push": false
     },
     {
