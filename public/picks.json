@@ -1,7 +1,38 @@
 {
  "v": 3,
- "generated": 1792069355285,
+ "generated": 1792070778735,
  "cashed": [
+  {
+   "id": "ieh2h8",
+   "d": "2026-10-14",
+   "who": [
+    "The Simulator",
+    "The Blend"
+   ],
+   "banker": false,
+   "props": false,
+   "price": "+223",
+   "units": 2.23,
+   "rec": "Simulator 5-1 +5.1u · Blend 1-1 +1.2u",
+   "legs": [
+    {
+     "sp": "nhl",
+     "game": "MTL@WSH",
+     "gl": "#22 MTL@#18 WSH",
+     "pick": "WSH ML",
+     "price": -113,
+     "push": false
+    },
+    {
+     "sp": "mlb",
+     "game": "MIL@LAD",
+     "gl": "#3 MIL@#1 LAD",
+     "pick": "MIL +1.5",
+     "price": -140,
+     "push": false
+    }
+   ]
+  },
   {
    "id": "8gnnk9",
    "d": "2026-10-12",
@@ -12,7 +43,7 @@
    "props": false,
    "price": "+904",
    "units": 9.04,
-   "rec": "Banker 1-4 +5.0u",
+   "rec": "Banker 1-5 +4.0u",
    "legs": [
     {
      "sp": "mlb",
@@ -59,7 +90,7 @@
    "props": false,
    "price": "+220",
    "units": 2.2,
-   "rec": "Simulator 4-1 +2.9u · Scorekeeper 4-1 +2.9u",
+   "rec": "Simulator 5-1 +5.1u · Scorekeeper 4-2 +1.9u",
    "legs": [
     {
      "sp": "mlb",
@@ -129,8 +160,8 @@
  "parlay": null,
  "parlayRecord": {
   "w": 0,
-  "l": 5,
-  "u": -5
+  "l": 6,
+  "u": -6
  },
  "history": [
   {
@@ -139,7 +170,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#108 WKU@#124 SHSU",
+     "gl": "#106 WKU@#126 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -345,7 +376,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#129 KENT@#77 WMU",
+     "gl": "#130 KENT@#77 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -422,7 +453,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#122 WYO@#111 SJSU",
+     "gl": "#122 WYO@#110 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
