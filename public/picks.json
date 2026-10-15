@@ -1,6 +1,6 @@
 {
  "v": 3,
- "generated": 1792070778735,
+ "generated": 1792099794956,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -18,7 +18,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#22 MTL@#18 WSH",
+     "gl": "#21 MTL@#18 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -48,7 +48,7 @@
     {
      "sp": "mlb",
      "game": "CLE@TB",
-     "gl": "#8 CLE@#4 TB",
+     "gl": "#9 CLE@#4 TB",
      "pick": "CLE +1.5",
      "price": -152,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#4 VGK@#9 MIN",
+     "gl": "#5 VGK@#9 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -156,14 +156,87 @@
   "u": 4.852585900411989,
   "first": "2026-10-06"
  },
- "today": null,
- "parlay": null,
+ "today": {
+  "d": "2026-10-15",
+  "lockedAt": 1792099794776,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-15T23:00Z"
+   },
+   {
+    "hidden": true,
+    "sp": "ncaaf",
+    "start": "2026-10-16T00:00Z"
+   }
+  ],
+  "allStarted": false
+ },
+ "parlay": {
+  "d": "2026-10-15",
+  "lockedAt": 1792099731061,
+  "price": "+257",
+  "p": 0.27876,
+  "result": null,
+  "legs": [
+   {
+    "hidden": true,
+    "sp": "ncaaf"
+   },
+   {
+    "hidden": true,
+    "sp": "ncaaf"
+   }
+  ]
+ },
  "parlayRecord": {
   "w": 0,
   "l": 6,
   "u": -6
  },
  "history": [
+  {
+   "d": "2026-10-15",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NYR@NJ",
+     "gl": "#8 NYR@#25 NJ",
+     "pick": "Under 6.5",
+     "price": -135,
+     "p": 0.587,
+     "ev": 2.2,
+     "start": "2026-10-15T23:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Coach"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "CSU@TXST",
+     "gl": "#112 CSU@#71 TXST",
+     "pick": "CSU +14",
+     "price": -105,
+     "p": 0.523,
+     "ev": 2,
+     "start": "2026-10-16T00:00Z",
+     "tier": "VALUE",
+     "voices": [
+      "The Simulator",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-14",
    "picks": [
