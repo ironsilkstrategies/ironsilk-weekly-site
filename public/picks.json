@@ -1,6 +1,6 @@
 {
  "v": 3,
- "generated": 1792002350791,
+ "generated": 1792023588391,
  "cashed": [
   {
    "id": "8gnnk9",
@@ -130,16 +130,39 @@
   "lockedAt": 1792002073098,
   "picks": [
    {
-    "hidden": true,
     "sp": "ncaaf",
-    "start": "2026-10-15T00:00Z"
+    "game": "WKU@SHSU",
+    "gl": "#108 WKU@#124 SHSU",
+    "pick": "SHSU +1.5",
+    "price": -105,
+    "p": 0.528,
+    "ev": 3.2,
+    "start": "2026-10-15T00:00Z",
+    "tier": "STRONG",
+    "voices": [
+     "The Simulator",
+     "The Commissioner"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 55% across 10,000 runs vs 51% the price implies.",
+      "Desk number after calibration and market blend: 53%.",
+      "Expected value +3.2% per bet at -105.",
+      "The uploaded projection has it WKU 26.34–25.99 SHSU — SHSU by -0.4, clearing +1.5.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 3 independent of the sim: The Simulator (60-32 underdog spread), The Judge (47-27 underdog spread), The Oracle (3-3 home spread), The Crowd, The Commissioner."
+     ],
+     "script": "WKU at SHSU — I'm on SHSU +1.5 (-105). We ran this game 10,000 times: SHSU covers 55% of the time; the price says 51%. Our projected final is WKU 29, SHSU 30. On power ratings alone SHSU covers this number by 2.5. The uploaded projection projects WKU 26.34, SHSU 25.99 — SHSU by -0.4, clearing +1.5."
+    }
    }
   ],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
    "hash": "9d70bd556cf8b2f1311cbb0992824a2dd6b012d45563d9d10d364190d3b2e2fe",
-   "salt": null
+   "salt": "b9a88f93ac2de83aaf4bb086b9c2eb3b"
   }
  },
  "parlay": {
@@ -150,8 +173,25 @@
   "result": null,
   "legs": [
    {
-    "hidden": true,
-    "sp": "nhl"
+    "sp": "nhl",
+    "game": "MTL@WSH",
+    "gl": "#22 MTL@#16 WSH",
+    "pick": "MTL +1.5",
+    "price": -245,
+    "p": 0.6227,
+    "by": "The Commissioner",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 65% across 10,000 runs vs 71% the price implies.",
+      "Desk number after calibration and market blend: 62%.",
+      "Expected value -12.3% per bet at -245.",
+      "The uploaded projection has it MTL 3.28–3.43 WSH — MTL by -0.2, clearing +1.5.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "MTL at WSH — I'm on MTL +1.5 (-245). The price is close to fair here — this one rides on who's backing it. Our projected final is MTL 3.2, WSH 3.5. Judge + Scorekeeper + Simulator are all on it — they're 291-184 together. On power ratings alone MTL covers this number by 1.23."
+    }
    },
    {
     "hidden": true,
