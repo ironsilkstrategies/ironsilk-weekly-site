@@ -1,6 +1,6 @@
 {
  "v": 3,
- "generated": 1792099871146,
+ "generated": 1792105584725,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -161,9 +161,34 @@
   "lockedAt": 1792099794776,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-15T23:00Z"
+    "game": "NYR@NJ",
+    "gl": "#8 NYR@#25 NJ",
+    "pick": "Under 6.5",
+    "price": -135,
+    "p": 0.587,
+    "ev": 2.2,
+    "start": "2026-10-15T23:00Z",
+    "tier": "STRONG",
+    "voices": [
+     "The Simulator",
+     "The Judge",
+     "The Scorekeeper",
+     "The Coach"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 62% across 10,000 runs vs 57% the price implies.",
+      "Desk number after calibration and market blend: 59%.",
+      "Expected value +2.2% per bet at -135.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (4-4 these teams under), The Judge (11-17 NHL under), The Scorekeeper (6-6 these teams under), The Coach (4-4 these teams under).",
+      "Standing: NYR (6-2, #8 in power, +0.24) at NJ (3-3, #25, −0.22) — power line NYR by 0.36 goals."
+     ],
+     "script": "NYR at NJ — I'm on Under 6.5 (-135). We ran this game 10,000 times: the under hits 62% of the time; the price says 57%. Our projected final is NYR 3.2, NJ 2.7. Judge + Scorekeeper + Simulator are all on it — they're 296-188 together. 4 of our 9 analysts are on the under — The Simulator is 4-4 these teams under."
+    }
    },
    {
     "hidden": true,
