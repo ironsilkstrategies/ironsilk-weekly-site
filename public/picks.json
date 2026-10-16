@@ -1,6 +1,6 @@
 {
  "v": 3,
- "generated": 1792113555163,
+ "generated": 1792122591589,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -13,7 +13,7 @@
    "props": false,
    "price": "+223",
    "units": 2.23,
-   "rec": "Simulator 5-1 +5.1u · Blend 1-1 +1.2u",
+   "rec": "Simulator 5-1 +5.1u · Blend 1-2 +0.2u",
    "legs": [
     {
      "sp": "nhl",
@@ -43,7 +43,7 @@
    "props": false,
    "price": "+904",
    "units": 9.04,
-   "rec": "Banker 1-5 +4.0u",
+   "rec": "Banker 1-6 +3.0u",
    "legs": [
     {
      "sp": "mlb",
@@ -151,9 +151,9 @@
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
   "w": 11,
-  "l": 5,
+  "l": 7,
   "pu": 0,
-  "u": 4.852585900411989,
+  "u": 2.852585900411989,
   "first": "2026-10-06"
  },
  "today": {
@@ -176,7 +176,7 @@
      "The Scorekeeper",
      "The Coach"
     ],
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "bullets": [
@@ -184,10 +184,10 @@
       "Desk number after calibration and market blend: 59%.",
       "Expected value +2.2% per bet at -135.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (4-4 these teams under), The Judge (11-17 NHL under), The Scorekeeper (6-6 these teams under), The Coach (4-4 these teams under).",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (24-30 NHL under), The Judge (12-20 NHL under), The Scorekeeper (39-45 NHL under), The Coach (24-30 NHL under).",
       "Standing: NYR (6-2, #8 in power, +0.24) at NJ (3-3, #25, −0.22) — power line NYR by 0.36 goals."
      ],
-     "script": "NYR at NJ — I'm on Under 6.5 (-135). We ran this game 10,000 times: the under hits 62% of the time; the price says 57%. Our projected final is NYR 3.2, NJ 2.7. Judge + Scorekeeper + Simulator are all on it — they're 296-188 together. 4 of our 9 analysts are on the under — The Simulator is 4-4 these teams under."
+     "script": "NYR at NJ — I'm on Under 6.5 (-135). We ran this game 10,000 times: the under hits 62% of the time; the price says 57%. Our projected final is NYR 3.2, NJ 2.7. Judge + Scorekeeper + Simulator are all on it — they're 296-188 together. 4 of our 9 analysts are on the under — The Simulator is 24-30 NHL under."
     }
    },
    {
@@ -204,7 +204,7 @@
      "The Simulator",
      "The Commissioner"
     ],
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "bullets": [
@@ -212,10 +212,10 @@
       "Desk number after calibration and market blend: 52%.",
       "Expected value +2.0% per bet at -105.",
       "The Judge, weighing every witness by its graded accuracy, is on the other side.",
-      "2 of 9 characters on it, 1 independent of the sim: The Commissioner, The Simulator (60-33 underdog spread).",
+      "2 of 9 characters on it, 1 independent of the sim: The Commissioner (2-3 underdog spread), The Simulator (60-35 underdog spread).",
       "Against: The Judge, The Scorekeeper."
      ],
-     "script": "CSU at TXST — I'm on CSU +14 (-105). We ran this game 10,000 times: CSU covers 54% of the time; the price says 51%. Our projected final is CSU 24, TXST 36. On power ratings alone CSU covers this number by 2.6. 2 of our 9 analysts are on CSU — The Simulator is 60-33 underdog spread."
+     "script": "CSU at TXST — I'm on CSU +14 (-105). We ran this game 10,000 times: CSU covers 54% of the time; the price says 51%. Our projected final is CSU 24, TXST 36. On power ratings alone CSU covers this number by 2.6. 2 of our 9 analysts are on CSU — The Commissioner is 2-3 underdog spread."
     }
    }
   ],
@@ -241,7 +241,7 @@
     "price": -110,
     "p": 0.5227,
     "by": "The Blend",
-    "hit": null,
+    "hit": true,
     "push": false,
     "why": {
      "bullets": [
@@ -270,9 +270,9 @@
       "Desk number after calibration and market blend: 53%.",
       "Expected value -0.3% per bet at -115.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "2 of 9 characters on it: The Judge (68-53 home spread), The Scorekeeper (76-62 home spread)."
+      "2 of 9 characters on it: The Judge (69-53 home spread), The Scorekeeper (77-63 home spread)."
      ],
-     "script": "CSU at TXST — I'm on TXST -14 (-115). Our projected final is CSU 24, TXST 36. 2 of our 9 analysts are on TXST — The Judge is 68-53 home spread."
+     "script": "CSU at TXST — I'm on TXST -14 (-115). Our projected final is CSU 24, TXST 36. 2 of our 9 analysts are on TXST — The Judge is 69-53 home spread."
     }
    }
   ]
@@ -302,7 +302,7 @@
       "The Scorekeeper",
       "The Coach"
      ],
-     "hit": null,
+     "hit": false,
      "push": false
     },
     {
@@ -319,7 +319,7 @@
       "The Simulator",
       "The Commissioner"
      ],
-     "hit": null,
+     "hit": false,
      "push": false
     }
    ]
