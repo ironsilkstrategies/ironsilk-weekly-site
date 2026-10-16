@@ -1,6 +1,6 @@
 {
- "v": 3,
- "generated": 1792158552852,
+ "v": 4,
+ "generated": 1792174270609,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -18,7 +18,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#20 MTL@#18 WSH",
+     "gl": "#19 MTL@#18 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#3 VGK@#7 MIN",
+     "gl": "#1 VGK@#7 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -72,7 +72,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#9 FLA@#23 BUF",
+     "gl": "#8 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -103,7 +103,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#9 FLA@#23 BUF",
+     "gl": "#8 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -161,8 +161,9 @@
  "parlayRecord": {
   "w": 1,
   "l": 6,
-  "u": -3.43
+  "u": 3.04
  },
+ "updates": [],
  "history": [
   {
    "d": "2026-10-15",
@@ -170,7 +171,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#11 NYR@#12 NJ",
+     "gl": "#12 NYR@#11 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -271,7 +272,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#12 NJ@#28 DET",
+     "gl": "#11 NJ@#28 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -295,7 +296,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#9 FLA@#23 BUF",
+     "gl": "#8 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -337,7 +338,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#8 DEN@#23 LAC",
+     "gl": "#7 DEN@#23 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -376,7 +377,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#4 SF@#2 SEA",
+     "gl": "#4 SF@#3 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -534,5 +535,6 @@
     }
    ]
   }
- ]
+ ],
+ "unlockMin": 30
 }
