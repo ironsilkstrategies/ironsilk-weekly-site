@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792174270609,
+ "generated": 1792180268983,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -156,7 +156,26 @@
   "u": 2.852585900411989,
   "first": "2026-10-06"
  },
- "today": null,
+ "today": {
+  "d": "2026-10-16",
+  "lockedAt": 1792180268437,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T01:00Z",
+    "unlockAt": 1792197000000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "662f90ad32b652c83be621da661ba59854931aba02aef487618307d18c1c1255",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": {
   "w": 1,
@@ -165,6 +184,30 @@
  },
  "updates": [],
  "history": [
+  {
+   "d": "2026-10-16",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "PIT@COL",
+     "gl": "#17 PIT@#10 COL",
+     "pick": "COL ML",
+     "price": -205,
+     "p": 0.812,
+     "ev": 20.9,
+     "start": "2026-10-17T01:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-15",
    "picks": [
