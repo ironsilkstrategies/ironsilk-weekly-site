@@ -1,6 +1,6 @@
 {
  "v": 3,
- "generated": 1792122745026,
+ "generated": 1792158552852,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -18,7 +18,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#21 MTL@#18 WSH",
+     "gl": "#20 MTL@#18 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -48,7 +48,7 @@
     {
      "sp": "mlb",
      "game": "CLE@TB",
-     "gl": "#9 CLE@#4 TB",
+     "gl": "#11 CLE@#5 TB",
      "pick": "CLE +1.5",
      "price": -152,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#5 VGK@#9 MIN",
+     "gl": "#3 VGK@#7 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -72,7 +72,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#23 FLA@#28 BUF",
+     "gl": "#9 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -103,7 +103,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#23 FLA@#28 BUF",
+     "gl": "#9 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -125,7 +125,7 @@
     {
      "sp": "ncaaf",
      "game": "UL@LT",
-     "gl": "#76 UL@#89 LT",
+     "gl": "#79 UL@#90 LT",
      "pick": "Over 47.5",
      "price": -118,
      "push": false
@@ -133,7 +133,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#27 OU",
+     "gl": "#7 TEX@#28 OU",
      "pick": "Over 39.5",
      "price": -110,
      "push": false
@@ -156,131 +156,12 @@
   "u": 2.852585900411989,
   "first": "2026-10-06"
  },
- "today": {
-  "d": "2026-10-15",
-  "lockedAt": 1792099794776,
-  "picks": [
-   {
-    "sp": "nhl",
-    "game": "NYR@NJ",
-    "gl": "#8 NYR@#25 NJ",
-    "pick": "Under 6.5",
-    "price": -135,
-    "p": 0.587,
-    "ev": 2.2,
-    "start": "2026-10-15T23:00Z",
-    "tier": "STRONG",
-    "voices": [
-     "The Simulator",
-     "The Judge",
-     "The Scorekeeper",
-     "The Coach"
-    ],
-    "hit": false,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 62% across 10,000 runs vs 57% the price implies.",
-      "Desk number after calibration and market blend: 59%.",
-      "Expected value +2.2% per bet at -135.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (24-30 NHL under), The Judge (12-20 NHL under), The Scorekeeper (39-45 NHL under), The Coach (24-30 NHL under).",
-      "Standing: NYR (6-2, #8 in power, +0.24) at NJ (3-3, #25, −0.22) — power line NYR by 0.36 goals."
-     ],
-     "script": "NYR at NJ — I'm on Under 6.5 (-135). We ran this game 10,000 times: the under hits 62% of the time; the price says 57%. Our projected final is NYR 3.2, NJ 2.7. Blend + Brain + Scorekeeper are all on it — they're 80-44 together. 4 of our 9 analysts are on the under — The Simulator is 24-30 NHL under."
-    }
-   },
-   {
-    "sp": "ncaaf",
-    "game": "CSU@TXST",
-    "gl": "#112 CSU@#71 TXST",
-    "pick": "CSU +14",
-    "price": -105,
-    "p": 0.523,
-    "ev": 2,
-    "start": "2026-10-16T00:00Z",
-    "tier": "VALUE",
-    "voices": [
-     "The Simulator",
-     "The Commissioner"
-    ],
-    "hit": false,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 54% across 10,000 runs vs 51% the price implies.",
-      "Desk number after calibration and market blend: 52%.",
-      "Expected value +2.0% per bet at -105.",
-      "The Judge, weighing every witness by its graded accuracy, is on the other side.",
-      "2 of 9 characters on it, 1 independent of the sim: The Commissioner (2-3 underdog spread), The Simulator (60-35 underdog spread).",
-      "Against: The Judge, The Scorekeeper."
-     ],
-     "script": "CSU at TXST — I'm on CSU +14 (-105). We ran this game 10,000 times: CSU covers 54% of the time; the price says 51%. Our projected final is CSU 24, TXST 36. On power ratings alone CSU covers this number by 2.6. 2 of our 9 analysts are on CSU — The Commissioner is 2-3 underdog spread."
-    }
-   }
-  ],
-  "allStarted": true,
-  "commit": {
-   "alg": "sha256",
-   "hash": "9a3194449d4273ec0c157f827cf0f2422f13da279fefa458de349c0f286f67c3",
-   "salt": "cfd551adc03fb0ff6f1a8f65781e1aa9"
-  }
- },
- "parlay": {
-  "d": "2026-10-15",
-  "lockedAt": 1792099731061,
-  "price": "+257",
-  "p": 0.27876,
-  "result": null,
-  "legs": [
-   {
-    "sp": "ncaaf",
-    "game": "ECU@UAB",
-    "gl": "#72 ECU@#115 UAB",
-    "pick": "UAB +4.5",
-    "price": -110,
-    "p": 0.5227,
-    "by": "The Blend",
-    "hit": true,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 48% across 10,000 runs vs 52% the price implies.",
-      "Desk number after calibration and market blend: 52%.",
-      "Expected value -0.2% per bet at -110.",
-      "The Judge, weighing every witness by its graded accuracy, is on the other side.",
-      "Against: The Simulator, The Judge, The Scorekeeper."
-     ],
-     "script": "ECU at UAB — I'm on UAB +4.5 (-110). Our projected final is ECU 33, UAB 26. On power ratings alone UAB covers this number by 0.7."
-    }
-   },
-   {
-    "sp": "ncaaf",
-    "game": "CSU@TXST",
-    "gl": "#112 CSU@#71 TXST",
-    "pick": "TXST -14",
-    "price": -115,
-    "p": 0.5333,
-    "by": "The Scorekeeper",
-    "hit": null,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 46% across 10,000 runs vs 53% the price implies.",
-      "Desk number after calibration and market blend: 53%.",
-      "Expected value -0.3% per bet at -115.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "2 of 9 characters on it: The Judge (69-53 home spread), The Scorekeeper (77-63 home spread)."
-     ],
-     "script": "CSU at TXST — I'm on TXST -14 (-115). Our projected final is CSU 24, TXST 36. 2 of our 9 analysts are on TXST — The Judge is 69-53 home spread."
-    }
-   }
-  ]
- },
+ "today": null,
+ "parlay": null,
  "parlayRecord": {
-  "w": 0,
+  "w": 1,
   "l": 6,
-  "u": -6
+  "u": -3.43
  },
  "history": [
   {
@@ -289,7 +170,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#8 NYR@#25 NJ",
+     "gl": "#11 NYR@#12 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -308,7 +189,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#112 CSU@#71 TXST",
+     "gl": "#117 CSU@#67 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -352,7 +233,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#3 EDM@#26 LA",
+     "gl": "#5 EDM@#29 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -371,7 +252,7 @@
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#9 MIN@#13 WPG",
+     "gl": "#7 MIN@#16 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
@@ -390,7 +271,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#25 NJ@#27 DET",
+     "gl": "#12 NJ@#28 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -414,7 +295,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#23 FLA@#28 BUF",
+     "gl": "#9 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -456,7 +337,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#9 DEN@#23 LAC",
+     "gl": "#8 DEN@#23 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -518,7 +399,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#27 OU",
+     "gl": "#7 TEX@#28 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -536,7 +417,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#130 KENT@#77 WMU",
+     "gl": "#130 KENT@#76 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -554,7 +435,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#115 UAB@#45 MEM",
+     "gl": "#110 UAB@#44 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -577,7 +458,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#49 ISU@#8 BYU",
+     "gl": "#52 ISU@#8 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -613,7 +494,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#122 WYO@#110 SJSU",
+     "gl": "#121 WYO@#112 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
