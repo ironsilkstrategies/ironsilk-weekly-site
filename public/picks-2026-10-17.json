@@ -1,0 +1,711 @@
+{
+ "v": 4,
+ "generated": 1792218073854,
+ "cashed": [
+  {
+   "id": "ieh2h8",
+   "d": "2026-10-14",
+   "who": [
+    "The Simulator",
+    "The Blend"
+   ],
+   "banker": false,
+   "props": false,
+   "price": "+223",
+   "units": 2.23,
+   "rec": "Simulator 5-1 +5.1u · Blend 1-2 +0.2u",
+   "legs": [
+    {
+     "sp": "nhl",
+     "game": "MTL@WSH",
+     "gl": "#21 MTL@#17 WSH",
+     "pick": "WSH ML",
+     "price": -113,
+     "push": false
+    },
+    {
+     "sp": "mlb",
+     "game": "MIL@LAD",
+     "gl": "#3 MIL@#1 LAD",
+     "pick": "MIL +1.5",
+     "price": -140,
+     "push": false
+    }
+   ]
+  },
+  {
+   "id": "8gnnk9",
+   "d": "2026-10-12",
+   "who": [
+    "The Banker"
+   ],
+   "banker": true,
+   "props": false,
+   "price": "+904",
+   "units": 9.04,
+   "rec": "Banker 1-6 +3.0u",
+   "legs": [
+    {
+     "sp": "mlb",
+     "game": "CLE@TB",
+     "gl": "#18 CLE@#4 TB",
+     "pick": "CLE +1.5",
+     "price": -152,
+     "push": false
+    },
+    {
+     "sp": "mlb",
+     "game": "LAD@MIL",
+     "gl": "#1 LAD@#3 MIL",
+     "pick": "MIL +1.5",
+     "price": -153,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "VGK@MIN",
+     "gl": "#2 VGK@#7 MIN",
+     "pick": "MIN ML",
+     "price": -112,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "FLA@BUF",
+     "gl": "#8 FLA@#26 BUF",
+     "pick": "BUF ML",
+     "price": -107,
+     "push": false
+    }
+   ]
+  },
+  {
+   "id": "36sbps",
+   "d": "2026-10-12",
+   "who": [
+    "The Simulator",
+    "The Scorekeeper"
+   ],
+   "banker": false,
+   "props": false,
+   "price": "+220",
+   "units": 2.2,
+   "rec": "Simulator 5-1 +5.1u · Scorekeeper 4-2 +1.9u",
+   "legs": [
+    {
+     "sp": "mlb",
+     "game": "LAD@MIL",
+     "gl": "#1 LAD@#3 MIL",
+     "pick": "MIL +1.5",
+     "price": -153,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "FLA@BUF",
+     "gl": "#8 FLA@#26 BUF",
+     "pick": "BUF ML",
+     "price": -107,
+     "push": false
+    }
+   ]
+  },
+  {
+   "id": "17ziv3c",
+   "d": "2026-10-10",
+   "who": [
+    "The Coach"
+   ],
+   "banker": false,
+   "props": false,
+   "price": "+253",
+   "units": 2.53,
+   "rec": "Coach 1-2 +0.5u",
+   "legs": [
+    {
+     "sp": "ncaaf",
+     "game": "UL@LT",
+     "gl": "#79 UL@#90 LT",
+     "pick": "Over 47.5",
+     "price": -118,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "TEX@OU",
+     "gl": "#7 TEX@#28 OU",
+     "pick": "Over 39.5",
+     "price": -110,
+     "push": false
+    }
+   ]
+  }
+ ],
+ "brand": "TheDesk",
+ "price": "$25/mo · $10/wk",
+ "social": {
+  "fb": "https://www.facebook.com/share/1FCDFdUvRp/",
+  "tg": "https://t.me/TheDeskApp"
+ },
+ "handle": "RuleTheWorldKid",
+ "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
+ "record": {
+  "w": 12,
+  "l": 7,
+  "pu": 0,
+  "u": 3.3403907784607694,
+  "first": "2026-10-06"
+ },
+ "today": {
+  "d": "2026-10-17",
+  "lockedAt": 1792218041669,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000
+   }
+  ],
+  "props": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T17:00Z",
+    "unlockAt": 1792254600000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T17:00Z",
+    "unlockAt": 1792254600000
+   }
+  ],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "1dd176abcd8ce33e2c854e3d29be7f14162cd6b621a431a5693de4b0c5fbc445",
+   "salt": null
+  }
+ },
+ "parlay": {
+  "d": "2026-10-17",
+  "lockedAt": 1792218041806,
+  "price": "+471",
+  "p": 0.34311127674096,
+  "result": null,
+  "legs": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-18T02:00Z",
+    "unlockAt": 1792287000000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000
+   }
+  ]
+ },
+ "parlayRecord": {
+  "w": 1,
+  "l": 6,
+  "u": 3.04
+ },
+ "updates": [],
+ "history": [
+  {
+   "d": "2026-10-17",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "DAL@CHI",
+     "gl": "#9 DAL@#29 CHI",
+     "pick": "DAL ML",
+     "price": -191,
+     "p": 0.756,
+     "ev": 15.2,
+     "start": "2026-10-17T23:00Z",
+     "tier": "UNANIMOUS",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Oracle",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "CAR@WPG",
+     "gl": "#1 CAR@#23 WPG",
+     "pick": "CAR ML",
+     "price": -179,
+     "p": 0.753,
+     "ev": 17.4,
+     "start": "2026-10-17T19:30Z",
+     "tier": "UNANIMOUS",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Oracle",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "OTT@PHI",
+     "gl": "#14 OTT@#30 PHI",
+     "pick": "OTT ML",
+     "price": -144,
+     "p": 0.734,
+     "ev": 24.3,
+     "start": "2026-10-17T23:00Z",
+     "tier": "UNANIMOUS",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Oracle",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-16",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "PIT@COL",
+     "gl": "#27 PIT@#4 COL",
+     "pick": "COL ML",
+     "price": -205,
+     "p": 0.812,
+     "ev": 20.9,
+     "start": "2026-10-17T01:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-15",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NYR@NJ",
+     "gl": "#13 NYR@#16 NJ",
+     "pick": "Under 6.5",
+     "price": -135,
+     "p": 0.587,
+     "ev": 2.2,
+     "start": "2026-10-15T23:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Coach"
+     ],
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "CSU@TXST",
+     "gl": "#116 CSU@#67 TXST",
+     "pick": "CSU +14",
+     "price": -105,
+     "p": 0.523,
+     "ev": 2,
+     "start": "2026-10-16T00:00Z",
+     "tier": "VALUE",
+     "voices": [
+      "The Simulator",
+      "The Commissioner"
+     ],
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-14",
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "WKU@SHSU",
+     "gl": "#106 WKU@#126 SHSU",
+     "pick": "SHSU +1.5",
+     "price": -105,
+     "p": 0.528,
+     "ev": 3.2,
+     "start": "2026-10-15T00:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Commissioner"
+     ],
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-13",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "EDM@LA",
+     "gl": "#6 EDM@#22 LA",
+     "pick": "EDM ML",
+     "price": -125,
+     "p": 0.581,
+     "ev": 4.5,
+     "start": "2026-10-14T02:30Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@WPG",
+     "gl": "#7 MIN@#23 WPG",
+     "pick": "Under 6.5",
+     "price": -130,
+     "p": 0.583,
+     "ev": 3.1,
+     "start": "2026-10-14T00:15Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Coach"
+     ],
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "NJ@DET",
+     "gl": "#16 NJ@#25 DET",
+     "pick": "DET ML",
+     "price": -110,
+     "p": 0.539,
+     "ev": 2.9,
+     "start": "2026-10-13T22:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-12",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "FLA@BUF",
+     "gl": "#8 FLA@#26 BUF",
+     "pick": "BUF ML",
+     "price": -108,
+     "p": 0.525,
+     "ev": 1,
+     "start": "2026-10-12T17:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper"
+     ],
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "mlb",
+     "game": "LAD@MIL",
+     "gl": "#1 LAD@#3 MIL",
+     "pick": "Under 7",
+     "price": -128,
+     "p": 0.567,
+     "ev": 1,
+     "start": "",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Coach"
+     ],
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-11",
+   "picks": [
+    {
+     "sp": "nfl",
+     "game": "DEN@LAC",
+     "gl": "#9 DEN@#23 LAC",
+     "pick": "Over 41.5",
+     "price": -115,
+     "p": 0.553,
+     "ev": 3.3,
+     "start": "2026-10-11T20:05Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Oracle",
+      "The Coach"
+     ],
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nfl",
+     "game": "DET@ARI",
+     "gl": "#11 DET@#30 ARI",
+     "pick": "Over 54.5",
+     "price": -115,
+     "p": 0.552,
+     "ev": 3.2,
+     "start": "2026-10-11T20:25Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Historian",
+      "The Coach"
+     ],
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nfl",
+     "game": "SF@SEA",
+     "gl": "#4 SF@#3 SEA",
+     "pick": "SF +3",
+     "price": -110,
+     "p": 0.583,
+     "ev": 11.2,
+     "start": "2026-10-11T20:25Z",
+     "tier": "VALUE",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Historian"
+     ],
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-10",
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "TEX@OU",
+     "gl": "#7 TEX@#28 OU",
+     "pick": "OU +8.5",
+     "price": -110,
+     "p": 0.545,
+     "ev": 4,
+     "start": "2026-10-10T19:30Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper"
+     ],
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "KENT@WMU",
+     "gl": "#130 KENT@#76 WMU",
+     "pick": "WMU -13.5",
+     "price": -112,
+     "p": 0.547,
+     "ev": 3.6,
+     "start": "2026-10-10T19:30Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper"
+     ],
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "UAB@MEM",
+     "gl": "#110 UAB@#48 MEM",
+     "pick": "MEM -14",
+     "price": -110,
+     "p": 0.542,
+     "ev": 3.5,
+     "start": "2026-10-10T23:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper"
+     ],
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-09",
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "ISU@BYU",
+     "gl": "#51 ISU@#8 BYU",
+     "pick": "BYU -10.5",
+     "price": -108,
+     "p": 0.539,
+     "ev": 3.8,
+     "start": "2026-10-10T02:15Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper"
+     ],
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "FSU@LOU",
+     "gl": "#52 FSU@#21 LOU",
+     "pick": "LOU -3.5",
+     "price": -112,
+     "p": 0.539,
+     "ev": 2,
+     "start": "2026-10-09T23:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper"
+     ],
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "WYO@SJSU",
+     "gl": "#121 WYO@#111 SJSU",
+     "pick": "WYO +6",
+     "price": -110,
+     "p": 0.537,
+     "ev": 2.5,
+     "start": "2026-10-10T01:00Z",
+     "tier": "VALUE",
+     "voices": [
+      "The Simulator",
+      "The Judge"
+     ],
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-06",
+   "picks": [
+    {
+     "sp": "mlb",
+     "game": "MIL@SD",
+     "gl": "#3 MIL@#6 SD",
+     "pick": "Under 7.5",
+     "price": -110,
+     "p": 0.542,
+     "ev": 3.4,
+     "start": "",
+     "tier": "UNANIMOUS",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Coach"
+     ],
+     "hit": true,
+     "push": false
+    }
+   ]
+  }
+ ],
+ "unlockMin": 30
+}
