@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792255571454,
+ "generated": 1792266744699,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -168,9 +168,33 @@
     "unlockAt": 1792276200000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "CAR@WPG",
+    "gl": "#1 CAR@#23 WPG",
+    "pick": "CAR ML",
+    "price": -179,
+    "p": 0.753,
+    "ev": 17.4,
     "start": "2026-10-17T19:30Z",
+    "tier": "UNANIMOUS",
+    "voices": [
+     "The Simulator",
+     "The Judge",
+     "The Scorekeeper"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 60% across 10,000 runs vs 64% the price implies.",
+      "Desk number after calibration and market blend: 75%.",
+      "Expected value +17.4% per bet at -179.",
+      "The uploaded projection has it CAR 3.61–2.7 WPG — CAR winning by 0.91.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (51-26 favorite ML), The Judge (4-1 CAR ML), The Scorekeeper (14-6 road ML), The Commissioner (16-15 favorite ML), The Oracle (21-16 favorite ML)."
+     ],
+     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 87-47 together. CAR is a top-3 team in our power ratings against one in the bottom half."
+    },
     "unlockAt": 1792263600000
    },
    {
@@ -198,9 +222,19 @@
     "unlockAt": 1792254600000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "player": "Kyle Connor",
+    "team": "WPG",
+    "label": "Kyle Connor over 1.5 SOG",
+    "stat": "SOG",
+    "k": "s",
+    "thr": 1.5,
+    "side": "over",
+    "price": null,
+    "p": 0.859,
     "start": "2026-10-17T19:30Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792263600000
    },
    {
@@ -247,10 +281,27 @@
     "unlockAt": 1792276200000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "CAR@WPG",
+    "gl": "#1 CAR@#23 WPG",
+    "pick": "CAR ML",
+    "price": -179,
+    "p": 0.7531,
     "start": "2026-10-17T19:30Z",
-    "unlockAt": 1792263600000
+    "unlockAt": 1792263600000,
+    "by": "The Simulator + The Judge + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 60% across 10,000 runs vs 64% the price implies.",
+      "Desk number after calibration and market blend: 75%.",
+      "Expected value +17.4% per bet at -179.",
+      "The uploaded projection has it CAR 3.61–2.7 WPG — CAR winning by 0.91.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 87-47 together. CAR is a top-3 team in our power ratings against one in the bottom half."
+    }
    },
    {
     "hidden": true,
