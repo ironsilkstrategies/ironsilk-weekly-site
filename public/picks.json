@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792276241600,
+ "generated": 1792276506402,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -153,7 +153,7 @@
   "w": 13,
   "l": 7,
   "pu": 0,
-  "u": 3.9,
+  "u": 3.8990499963378644,
   "first": "2026-10-06"
  },
  "today": {
@@ -303,7 +303,12 @@
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
+   "salt": "37a4d4abd2d974d373d6f931bc107aef"
+  }
  },
  "parlay": {
   "d": "2026-10-17",
@@ -856,6 +861,5 @@
    ]
   }
  ],
- "unlockMin": 30,
- "by": "worker"
+ "unlockMin": 30
 }
