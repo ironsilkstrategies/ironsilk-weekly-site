@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792180314733,
+ "generated": 1792198122946,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -162,18 +162,41 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "PIT@COL",
+    "gl": "#17 PIT@#10 COL",
+    "pick": "COL ML",
+    "price": -205,
+    "p": 0.812,
+    "ev": 20.9,
     "start": "2026-10-17T01:00Z",
+    "tier": "STRONG",
+    "voices": [
+     "The Simulator",
+     "The Scorekeeper"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 65% across 10,000 runs vs 67% the price implies.",
+      "Desk number after calibration and market blend: 81%.",
+      "Expected value +20.9% per bet at -205.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (48-26 favorite ML), The Judge (37-24 home ML), The Scorekeeper (48-25 favorite ML), The Commissioner (10-10 home ML).",
+      "Against: The Crowd."
+     ],
+     "script": "PIT at COL — I'm on COL ML (-205). The price is close to fair here — this one rides on who's backing it. Our projected final is PIT 3.1, COL 4.1. Blend + Brain + Scorekeeper are all on it — they're 81-45 together. 4 of our 9 analysts are on COL — The Simulator is 48-26 favorite ML."
+    },
     "unlockAt": 1792197000000
    }
   ],
   "props": [],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
    "hash": "662f90ad32b652c83be621da661ba59854931aba02aef487618307d18c1c1255",
-   "salt": null
+   "salt": "b49118531a50941a55cb10cd57920143"
   }
  },
  "parlay": null,
