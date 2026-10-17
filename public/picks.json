@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792249029589,
+ "generated": 1792249217992,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -156,8 +156,81 @@
   "u": 3.3403907784607694,
   "first": "2026-10-06"
  },
- "today": null,
- "parlay": null,
+ "today": {
+  "d": "2026-10-17",
+  "lockedAt": 1792249217496,
+  "unlockMin": 30,
+  "picks": [],
+  "props": [
+   {
+    "hidden": true,
+    "sp": "ncaaf",
+    "start": "2026-10-17T16:00Z",
+    "unlockAt": 1792251000000
+   },
+   {
+    "hidden": true,
+    "sp": "ncaaf",
+    "start": "2026-10-17T16:00Z",
+    "unlockAt": 1792251000000
+   },
+   {
+    "sp": "ncaaf",
+    "player": "Dezmen Roebuck",
+    "team": "WASH",
+    "label": "Dezmen Roebuck over 39.5 rec yds",
+    "stat": "rec yds",
+    "k": "wy",
+    "thr": 39.5,
+    "side": "over",
+    "price": null,
+    "p": 0.712,
+    "start": "2026-10-17T00:00Z",
+    "hit": null,
+    "push": false,
+    "unlockAt": 1792193400000
+   }
+  ],
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "4e2e352325984a8c2b56526cc641f45340cd7f55981863ec0bacef23ebf1567d",
+   "salt": "09c9a5429effe1cca1feb83c6413871f"
+  }
+ },
+ "parlay": {
+  "d": "2026-10-17",
+  "lockedAt": 1792249217641,
+  "price": "+487",
+  "p": 0.31767861272742004,
+  "result": null,
+  "legs": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "",
+    "unlockAt": null
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "",
+    "unlockAt": null
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "",
+    "unlockAt": null
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "",
+    "unlockAt": null
+   }
+  ]
+ },
  "parlayRecord": {
   "w": 1,
   "l": 6,
