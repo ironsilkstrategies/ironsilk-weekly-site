@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792208899065,
+ "generated": 1792217553602,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -18,7 +18,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#19 MTL@#18 WSH",
+     "gl": "#18 MTL@#17 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#1 VGK@#7 MIN",
+     "gl": "#1 VGK@#8 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -72,7 +72,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#8 FLA@#23 BUF",
+     "gl": "#9 FLA@#20 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -103,7 +103,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#8 FLA@#23 BUF",
+     "gl": "#9 FLA@#20 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -153,47 +153,10 @@
   "w": 12,
   "l": 7,
   "pu": 0,
-  "u": 3.34,
+  "u": 3.3403907784607694,
   "first": "2026-10-06"
  },
- "today": {
-  "d": "2026-10-16",
-  "lockedAt": 1792180268437,
-  "unlockMin": 30,
-  "picks": [
-   {
-    "sp": "nhl",
-    "game": "PIT@COL",
-    "gl": "#17 PIT@#10 COL",
-    "pick": "COL ML",
-    "price": -205,
-    "p": 0.812,
-    "ev": 20.9,
-    "start": "2026-10-17T01:00Z",
-    "tier": "STRONG",
-    "voices": [
-     "The Simulator",
-     "The Scorekeeper"
-    ],
-    "hit": true,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 65% across 10,000 runs vs 67% the price implies.",
-      "Desk number after calibration and market blend: 81%.",
-      "Expected value +20.9% per bet at -205.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (4-1 COL ML), The Judge (38-24 home ML), The Scorekeeper (4-1 COL ML), The Commissioner (11-10 home ML).",
-      "Against: The Crowd."
-     ],
-     "script": "PIT at COL — I'm on COL ML (-205). The price is close to fair here — this one rides on who's backing it. Our projected final is PIT 3.1, COL 4.1. Blend + Brain + Scorekeeper are all on it — they're 83-46 together. 4 of our 9 analysts are on COL — The Simulator is 4-1 COL ML."
-    },
-    "unlockAt": 1792197000000
-   }
-  ],
-  "props": [],
-  "allStarted": true
- },
+ "today": null,
  "parlay": null,
  "parlayRecord": {
   "w": 1,
@@ -208,7 +171,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#17 PIT@#10 COL",
+     "gl": "#25 PIT@#6 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -251,7 +214,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#117 CSU@#67 TXST",
+     "gl": "#116 CSU@#67 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -295,7 +258,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#5 EDM@#29 LA",
+     "gl": "#7 EDM@#29 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -314,7 +277,7 @@
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#7 MIN@#16 WPG",
+     "gl": "#8 MIN@#16 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
@@ -333,7 +296,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#11 NJ@#28 DET",
+     "gl": "#11 NJ@#27 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -357,7 +320,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#8 FLA@#23 BUF",
+     "gl": "#9 FLA@#20 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -399,7 +362,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#7 DEN@#23 LAC",
+     "gl": "#8 DEN@#23 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -418,7 +381,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#10 DET@#30 ARI",
+     "gl": "#11 DET@#30 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -497,7 +460,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#110 UAB@#44 MEM",
+     "gl": "#110 UAB@#48 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -520,7 +483,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#52 ISU@#8 BYU",
+     "gl": "#51 ISU@#8 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -538,7 +501,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#51 FSU@#21 LOU",
+     "gl": "#52 FSU@#21 LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -556,7 +519,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#121 WYO@#112 SJSU",
+     "gl": "#121 WYO@#111 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -597,6 +560,5 @@
    ]
   }
  ],
- "unlockMin": 30,
- "by": "worker"
+ "unlockMin": 30
 }
