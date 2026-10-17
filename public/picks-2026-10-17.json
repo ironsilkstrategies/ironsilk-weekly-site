@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792254085251,
+ "generated": 1792255571454,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -182,9 +182,19 @@
   ],
   "props": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "player": "Jack Hughes",
+    "team": "NJ",
+    "label": "Jack Hughes over 1.5 SOG",
+    "stat": "SOG",
+    "k": "s",
+    "thr": 1.5,
+    "side": "over",
+    "price": null,
+    "p": 0.866,
     "start": "2026-10-17T17:00Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792254600000
    },
    {
@@ -194,9 +204,19 @@
     "unlockAt": 1792263600000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "player": "Timo Meier",
+    "team": "NJ",
+    "label": "Timo Meier over 1.5 SOG",
+    "stat": "SOG",
+    "k": "s",
+    "thr": 1.5,
+    "side": "over",
+    "price": null,
+    "p": 0.85,
     "start": "2026-10-17T17:00Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792254600000
    }
   ],
