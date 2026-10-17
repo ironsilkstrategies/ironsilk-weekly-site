@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792275765502,
+ "generated": 1792276506402,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -162,9 +162,32 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "DAL@CHI",
+    "gl": "#9 DAL@#29 CHI",
+    "pick": "DAL ML",
+    "price": -191,
+    "p": 0.756,
+    "ev": 15.2,
     "start": "2026-10-17T23:00Z",
+    "tier": "UNANIMOUS",
+    "voices": [
+     "The Simulator",
+     "The Scorekeeper"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 64% across 10,000 runs vs 66% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +15.2% per bet at -191.",
+      "The uploaded projection has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (52-26 favorite ML), The Judge (52-34 favorite ML), The Scorekeeper (15-6 road ML), The Commissioner (17-15 favorite ML), The Oracle (22-16 favorite ML)."
+     ],
+     "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. The uploaded projection projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
+    },
     "unlockAt": 1792276200000
    },
    {
@@ -193,14 +216,37 @@
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
       "5 of 9 characters on it, 2 independent of the sim: The Simulator (4-1 CAR ML), The Judge (5-1 CAR ML), The Scorekeeper (4-0 CAR ML), The Commissioner (17-15 favorite ML), The Oracle (3-1 CAR ML)."
      ],
-     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 87-47 together. CAR is a top-3 team in our power ratings against one in the bottom half."
+     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. CAR is a top-3 team in our power ratings against one in the bottom half."
     },
     "unlockAt": 1792263600000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "OTT@PHI",
+    "gl": "#14 OTT@#30 PHI",
+    "pick": "OTT ML",
+    "price": -144,
+    "p": 0.734,
+    "ev": 24.3,
     "start": "2026-10-17T23:00Z",
+    "tier": "UNANIMOUS",
+    "voices": [
+     "The Simulator",
+     "The Scorekeeper"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 62% across 10,000 runs vs 59% the price implies.",
+      "Desk number after calibration and market blend: 73%.",
+      "Expected value +24.3% per bet at -144.",
+      "The uploaded projection has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (52-26 favorite ML), The Judge (52-34 favorite ML), The Scorekeeper (15-6 road ML), The Commissioner (17-15 favorite ML), The Oracle (22-16 favorite ML)."
+     ],
+     "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. The uploaded projection projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
+    },
     "unlockAt": 1792276200000
    }
   ],
@@ -234,8 +280,9 @@
     "price": null,
     "p": 0.859,
     "start": "2026-10-17T19:30Z",
-    "hit": null,
+    "hit": true,
     "push": false,
+    "actual": 2,
     "unlockAt": 1792263600000
    },
    {
@@ -256,11 +303,11 @@
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
    "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
-   "salt": null
+   "salt": "37a4d4abd2d974d373d6f931bc107aef"
   }
  },
  "parlay": {
@@ -277,10 +324,27 @@
     "unlockAt": 1792287000000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "DAL@CHI",
+    "gl": "#9 DAL@#29 CHI",
+    "pick": "DAL ML",
+    "price": -191,
+    "p": 0.756,
     "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
+    "unlockAt": 1792276200000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 64% across 10,000 runs vs 66% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +15.2% per bet at -191.",
+      "The uploaded projection has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. The uploaded projection projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
+    }
    },
    {
     "sp": "nhl",
@@ -302,14 +366,31 @@
       "The uploaded projection has it CAR 3.61–2.7 WPG — CAR winning by 0.91.",
       "The Judge, weighing every witness by its graded accuracy, is on this side."
      ],
-     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 87-47 together. CAR is a top-3 team in our power ratings against one in the bottom half."
+     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. CAR is a top-3 team in our power ratings against one in the bottom half."
     }
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "OTT@PHI",
+    "gl": "#14 OTT@#30 PHI",
+    "pick": "OTT ML",
+    "price": -144,
+    "p": 0.7335,
     "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
+    "unlockAt": 1792276200000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 62% across 10,000 runs vs 59% the price implies.",
+      "Desk number after calibration and market blend: 73%.",
+      "Expected value +24.3% per bet at -144.",
+      "The uploaded projection has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. The uploaded projection projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
+    }
    }
   ]
  },
