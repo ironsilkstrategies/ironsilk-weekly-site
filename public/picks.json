@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792275687681,
+ "generated": 1792275765502,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -153,7 +153,7 @@
   "w": 13,
   "l": 7,
   "pu": 0,
-  "u": 3.9,
+  "u": 3.8990499963378644,
   "first": "2026-10-06"
  },
  "today": {
@@ -191,7 +191,7 @@
       "Expected value +17.4% per bet at -179.",
       "The uploaded projection has it CAR 3.61–2.7 WPG — CAR winning by 0.91.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "5 of 9 characters on it, 2 independent of the sim: The Simulator (51-26 favorite ML), The Judge (4-1 CAR ML), The Scorekeeper (14-6 road ML), The Commissioner (16-15 favorite ML), The Oracle (21-16 favorite ML)."
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (4-1 CAR ML), The Judge (5-1 CAR ML), The Scorekeeper (4-0 CAR ML), The Commissioner (17-15 favorite ML), The Oracle (3-1 CAR ML)."
      ],
      "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 87-47 together. CAR is a top-3 team in our power ratings against one in the bottom half."
     },
@@ -234,7 +234,7 @@
     "price": null,
     "p": 0.859,
     "start": "2026-10-17T19:30Z",
-    "hit": true,
+    "hit": null,
     "push": false,
     "unlockAt": 1792263600000
    },
@@ -256,7 +256,12 @@
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": false
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
+   "salt": null
+  }
  },
  "parlay": {
   "d": "2026-10-17",
@@ -355,7 +360,7 @@
       "The Oracle",
       "The Commissioner"
      ],
-     "hit": null,
+     "hit": true,
      "push": false
     },
     {
@@ -775,6 +780,5 @@
    ]
   }
  ],
- "unlockMin": 30,
- "by": "worker"
+ "unlockMin": 30
 }
