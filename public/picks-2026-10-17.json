@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792246543573,
+ "generated": 1792249217992,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -158,85 +158,76 @@
  },
  "today": {
   "d": "2026-10-17",
-  "lockedAt": 1792246483952,
+  "lockedAt": 1792249217496,
   "unlockMin": 30,
-  "picks": [
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T19:30Z",
-    "unlockAt": 1792263600000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
-   }
-  ],
+  "picks": [],
   "props": [
    {
     "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T17:00Z",
-    "unlockAt": 1792254600000
+    "sp": "ncaaf",
+    "start": "2026-10-17T16:00Z",
+    "unlockAt": 1792251000000
    },
    {
     "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T19:30Z",
-    "unlockAt": 1792263600000
+    "sp": "ncaaf",
+    "start": "2026-10-17T16:00Z",
+    "unlockAt": 1792251000000
    },
    {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T17:00Z",
-    "unlockAt": 1792254600000
+    "sp": "ncaaf",
+    "player": "Dezmen Roebuck",
+    "team": "WASH",
+    "label": "Dezmen Roebuck over 39.5 rec yds",
+    "stat": "rec yds",
+    "k": "wy",
+    "thr": 39.5,
+    "side": "over",
+    "price": null,
+    "p": 0.712,
+    "start": "2026-10-17T00:00Z",
+    "hit": null,
+    "push": false,
+    "unlockAt": 1792193400000
    }
   ],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
-   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
-   "salt": null
+   "hash": "4e2e352325984a8c2b56526cc641f45340cd7f55981863ec0bacef23ebf1567d",
+   "salt": "09c9a5429effe1cca1feb83c6413871f"
   }
  },
  "parlay": {
   "d": "2026-10-17",
-  "lockedAt": 1792246490711,
-  "price": "+471",
-  "p": 0.34311127674096,
+  "lockedAt": 1792249217641,
+  "price": "+487",
+  "p": 0.31767861272742004,
   "result": null,
   "legs": [
    {
     "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-18T02:00Z",
-    "unlockAt": 1792287000000
+    "start": "",
+    "unlockAt": null
    },
    {
     "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
+    "start": "",
+    "unlockAt": null
    },
    {
     "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-17T19:30Z",
-    "unlockAt": 1792263600000
+    "start": "",
+    "unlockAt": null
    },
    {
     "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
+    "start": "",
+    "unlockAt": null
    }
   ]
  },
@@ -247,71 +238,6 @@
  },
  "updates": [],
  "history": [
-  {
-   "d": "2026-10-17",
-   "picks": [
-    {
-     "sp": "nhl",
-     "game": "DAL@CHI",
-     "gl": "#9 DAL@#29 CHI",
-     "pick": "DAL ML",
-     "price": -191,
-     "p": 0.756,
-     "ev": 15.2,
-     "start": "2026-10-17T23:00Z",
-     "tier": "UNANIMOUS",
-     "voices": [
-      "The Simulator",
-      "The Judge",
-      "The Scorekeeper",
-      "The Oracle",
-      "The Commissioner"
-     ],
-     "hit": null,
-     "push": false
-    },
-    {
-     "sp": "nhl",
-     "game": "CAR@WPG",
-     "gl": "#1 CAR@#23 WPG",
-     "pick": "CAR ML",
-     "price": -179,
-     "p": 0.753,
-     "ev": 17.4,
-     "start": "2026-10-17T19:30Z",
-     "tier": "UNANIMOUS",
-     "voices": [
-      "The Simulator",
-      "The Judge",
-      "The Scorekeeper",
-      "The Oracle",
-      "The Commissioner"
-     ],
-     "hit": null,
-     "push": false
-    },
-    {
-     "sp": "nhl",
-     "game": "OTT@PHI",
-     "gl": "#14 OTT@#30 PHI",
-     "pick": "OTT ML",
-     "price": -144,
-     "p": 0.734,
-     "ev": 24.3,
-     "start": "2026-10-17T23:00Z",
-     "tier": "UNANIMOUS",
-     "voices": [
-      "The Simulator",
-      "The Judge",
-      "The Scorekeeper",
-      "The Oracle",
-      "The Commissioner"
-     ],
-     "hit": null,
-     "push": false
-    }
-   ]
-  },
   {
    "d": "2026-10-16",
    "picks": [
