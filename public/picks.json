@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792218073854,
+ "generated": 1792246484138,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -158,7 +158,7 @@
  },
  "today": {
   "d": "2026-10-17",
-  "lockedAt": 1792218041669,
+  "lockedAt": 1792246483952,
   "unlockMin": 30,
   "picks": [
    {
@@ -203,43 +203,11 @@
   "allStarted": false,
   "commit": {
    "alg": "sha256",
-   "hash": "1dd176abcd8ce33e2c854e3d29be7f14162cd6b621a431a5693de4b0c5fbc445",
+   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
    "salt": null
   }
  },
- "parlay": {
-  "d": "2026-10-17",
-  "lockedAt": 1792218041806,
-  "price": "+471",
-  "p": 0.34311127674096,
-  "result": null,
-  "legs": [
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-18T02:00Z",
-    "unlockAt": 1792287000000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T19:30Z",
-    "unlockAt": 1792263600000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
-   }
-  ]
- },
+ "parlay": null,
  "parlayRecord": {
   "w": 1,
   "l": 6,
