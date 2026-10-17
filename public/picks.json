@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792208832592,
+ "generated": 1792208899065,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -153,7 +153,7 @@
   "w": 12,
   "l": 7,
   "pu": 0,
-  "u": 3.3403907784607694,
+  "u": 3.34,
   "first": "2026-10-06"
  },
  "today": {
@@ -192,12 +192,7 @@
    }
   ],
   "props": [],
-  "allStarted": true,
-  "commit": {
-   "alg": "sha256",
-   "hash": "662f90ad32b652c83be621da661ba59854931aba02aef487618307d18c1c1255",
-   "salt": "b49118531a50941a55cb10cd57920143"
-  }
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": {
@@ -602,5 +597,6 @@
    ]
   }
  ],
- "unlockMin": 30
+ "unlockMin": 30,
+ "by": "worker"
 }
