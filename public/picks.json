@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792217553602,
+ "generated": 1792218073854,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -18,7 +18,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#18 MTL@#17 WSH",
+     "gl": "#21 MTL@#17 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -48,7 +48,7 @@
     {
      "sp": "mlb",
      "game": "CLE@TB",
-     "gl": "#11 CLE@#5 TB",
+     "gl": "#18 CLE@#4 TB",
      "pick": "CLE +1.5",
      "price": -152,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#1 VGK@#8 MIN",
+     "gl": "#2 VGK@#7 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -72,7 +72,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#9 FLA@#20 BUF",
+     "gl": "#8 FLA@#26 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -103,7 +103,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#9 FLA@#20 BUF",
+     "gl": "#8 FLA@#26 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -156,8 +156,90 @@
   "u": 3.3403907784607694,
   "first": "2026-10-06"
  },
- "today": null,
- "parlay": null,
+ "today": {
+  "d": "2026-10-17",
+  "lockedAt": 1792218041669,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000
+   }
+  ],
+  "props": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T17:00Z",
+    "unlockAt": 1792254600000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T17:00Z",
+    "unlockAt": 1792254600000
+   }
+  ],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "1dd176abcd8ce33e2c854e3d29be7f14162cd6b621a431a5693de4b0c5fbc445",
+   "salt": null
+  }
+ },
+ "parlay": {
+  "d": "2026-10-17",
+  "lockedAt": 1792218041806,
+  "price": "+471",
+  "p": 0.34311127674096,
+  "result": null,
+  "legs": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-18T02:00Z",
+    "unlockAt": 1792287000000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000
+   }
+  ]
+ },
  "parlayRecord": {
   "w": 1,
   "l": 6,
@@ -166,12 +248,77 @@
  "updates": [],
  "history": [
   {
+   "d": "2026-10-17",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "DAL@CHI",
+     "gl": "#9 DAL@#29 CHI",
+     "pick": "DAL ML",
+     "price": -191,
+     "p": 0.756,
+     "ev": 15.2,
+     "start": "2026-10-17T23:00Z",
+     "tier": "UNANIMOUS",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Oracle",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "CAR@WPG",
+     "gl": "#1 CAR@#23 WPG",
+     "pick": "CAR ML",
+     "price": -179,
+     "p": 0.753,
+     "ev": 17.4,
+     "start": "2026-10-17T19:30Z",
+     "tier": "UNANIMOUS",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Oracle",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "OTT@PHI",
+     "gl": "#14 OTT@#30 PHI",
+     "pick": "OTT ML",
+     "price": -144,
+     "p": 0.734,
+     "ev": 24.3,
+     "start": "2026-10-17T23:00Z",
+     "tier": "UNANIMOUS",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Oracle",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
+  {
    "d": "2026-10-16",
    "picks": [
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#25 PIT@#6 COL",
+     "gl": "#27 PIT@#4 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -195,7 +342,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#12 NYR@#11 NJ",
+     "gl": "#13 NYR@#16 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -258,7 +405,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#7 EDM@#29 LA",
+     "gl": "#6 EDM@#22 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -277,7 +424,7 @@
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#8 MIN@#16 WPG",
+     "gl": "#7 MIN@#23 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
@@ -296,7 +443,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#11 NJ@#27 DET",
+     "gl": "#16 NJ@#25 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -320,7 +467,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#9 FLA@#20 BUF",
+     "gl": "#8 FLA@#26 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -362,7 +509,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#8 DEN@#23 LAC",
+     "gl": "#9 DEN@#23 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
