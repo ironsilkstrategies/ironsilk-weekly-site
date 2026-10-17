@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792268418373,
+ "generated": 1792275687681,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -150,10 +150,10 @@
  "handle": "RuleTheWorldKid",
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
-  "w": 12,
+  "w": 13,
   "l": 7,
   "pu": 0,
-  "u": 3.3403907784607694,
+  "u": 3.9,
   "first": "2026-10-06"
  },
  "today": {
@@ -182,7 +182,7 @@
      "The Judge",
      "The Scorekeeper"
     ],
-    "hit": null,
+    "hit": true,
     "push": false,
     "why": {
      "bullets": [
@@ -234,7 +234,7 @@
     "price": null,
     "p": 0.859,
     "start": "2026-10-17T19:30Z",
-    "hit": null,
+    "hit": true,
     "push": false,
     "unlockAt": 1792263600000
    },
@@ -256,12 +256,7 @@
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
-   "salt": null
-  }
+  "allStarted": false
  },
  "parlay": {
   "d": "2026-10-17",
@@ -292,7 +287,7 @@
     "start": "2026-10-17T19:30Z",
     "unlockAt": 1792263600000,
     "by": "The Simulator + The Judge + The Scorekeeper",
-    "hit": null,
+    "hit": true,
     "push": false,
     "why": {
      "bullets": [
@@ -780,5 +775,6 @@
    ]
   }
  ],
- "unlockMin": 30
+ "unlockMin": 30,
+ "by": "worker"
 }
