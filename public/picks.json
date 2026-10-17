@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792275842764,
+ "generated": 1792276241600,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -162,9 +162,32 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "DAL@CHI",
+    "gl": "#9 DAL@#29 CHI",
+    "pick": "DAL ML",
+    "price": -191,
+    "p": 0.756,
+    "ev": 15.2,
     "start": "2026-10-17T23:00Z",
+    "tier": "UNANIMOUS",
+    "voices": [
+     "The Simulator",
+     "The Scorekeeper"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 64% across 10,000 runs vs 66% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +15.2% per bet at -191.",
+      "The uploaded projection has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (52-26 favorite ML), The Judge (52-34 favorite ML), The Scorekeeper (15-6 road ML), The Commissioner (17-15 favorite ML), The Oracle (22-16 favorite ML)."
+     ],
+     "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. The uploaded projection projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
+    },
     "unlockAt": 1792276200000
    },
    {
@@ -198,9 +221,32 @@
     "unlockAt": 1792263600000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "OTT@PHI",
+    "gl": "#14 OTT@#30 PHI",
+    "pick": "OTT ML",
+    "price": -144,
+    "p": 0.734,
+    "ev": 24.3,
     "start": "2026-10-17T23:00Z",
+    "tier": "UNANIMOUS",
+    "voices": [
+     "The Simulator",
+     "The Scorekeeper"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 62% across 10,000 runs vs 59% the price implies.",
+      "Desk number after calibration and market blend: 73%.",
+      "Expected value +24.3% per bet at -144.",
+      "The uploaded projection has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (52-26 favorite ML), The Judge (52-34 favorite ML), The Scorekeeper (15-6 road ML), The Commissioner (17-15 favorite ML), The Oracle (22-16 favorite ML)."
+     ],
+     "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. The uploaded projection projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
+    },
     "unlockAt": 1792276200000
    }
   ],
@@ -257,7 +303,7 @@
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": false
+  "allStarted": true
  },
  "parlay": {
   "d": "2026-10-17",
@@ -273,10 +319,27 @@
     "unlockAt": 1792287000000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "DAL@CHI",
+    "gl": "#9 DAL@#29 CHI",
+    "pick": "DAL ML",
+    "price": -191,
+    "p": 0.756,
     "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
+    "unlockAt": 1792276200000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 64% across 10,000 runs vs 66% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +15.2% per bet at -191.",
+      "The uploaded projection has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. The uploaded projection projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
+    }
    },
    {
     "sp": "nhl",
@@ -302,10 +365,27 @@
     }
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "OTT@PHI",
+    "gl": "#14 OTT@#30 PHI",
+    "pick": "OTT ML",
+    "price": -144,
+    "p": 0.7335,
     "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000
+    "unlockAt": 1792276200000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 62% across 10,000 runs vs 59% the price implies.",
+      "Desk number after calibration and market blend: 73%.",
+      "Expected value +24.3% per bet at -144.",
+      "The uploaded projection has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. The uploaded projection projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
+    }
    }
   ]
  },
