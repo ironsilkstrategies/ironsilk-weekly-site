@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792266744699,
+ "generated": 1792266789893,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -153,7 +153,7 @@
   "w": 12,
   "l": 7,
   "pu": 0,
-  "u": 3.3403907784607694,
+  "u": 3.34,
   "first": "2026-10-06"
  },
  "today": {
@@ -217,8 +217,9 @@
     "price": null,
     "p": 0.866,
     "start": "2026-10-17T17:00Z",
-    "hit": null,
+    "hit": true,
     "push": false,
+    "actual": 4,
     "unlockAt": 1792254600000
    },
    {
@@ -249,17 +250,13 @@
     "price": null,
     "p": 0.85,
     "start": "2026-10-17T17:00Z",
-    "hit": null,
+    "hit": true,
     "push": false,
+    "actual": 3,
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
-   "salt": null
-  }
+  "allStarted": false
  },
  "parlay": {
   "d": "2026-10-17",
@@ -778,5 +775,6 @@
    ]
   }
  ],
- "unlockMin": 30
+ "unlockMin": 30,
+ "by": "worker"
 }
