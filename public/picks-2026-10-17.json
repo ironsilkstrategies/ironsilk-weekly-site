@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792286999872,
+ "generated": 1792289375011,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -318,10 +318,27 @@
   "result": null,
   "legs": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "PIT@VGK",
+    "gl": "#27 PIT@#2 VGK",
+    "pick": "VGK ML",
+    "price": -218,
+    "p": 0.7607,
     "start": "2026-10-18T02:00Z",
-    "unlockAt": 1792287000000
+    "unlockAt": 1792287000000,
+    "by": "The Simulator + The Judge + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 60% across 10,000 runs vs 69% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +11.0% per bet at -218.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (31-16 favorite ML), The Judge (25-14 home ML), The Scorekeeper (31-14 favorite ML), The Commissioner."
+     ],
+     "script": "PIT at VGK — I'm on VGK ML (-218). The price is close to fair here — this one rides on who's backing it. Our projected final is PIT 3.1, VGK 3.9. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. VGK is a top-3 team in our power ratings against one in the bottom half."
+    }
    },
    {
     "hidden": true,
