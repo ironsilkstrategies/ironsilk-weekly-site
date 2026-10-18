@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792285782638,
+ "generated": 1792285801778,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -125,7 +125,7 @@
     {
      "sp": "ncaaf",
      "game": "UL@LT",
-     "gl": "#76 UL@#84 LT",
+     "gl": "#75 UL@#84 LT",
      "pick": "Over 47.5",
      "price": -118,
      "push": false
@@ -133,7 +133,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#31 OU",
+     "gl": "#7 TEX@#30 OU",
      "pick": "Over 39.5",
      "price": -110,
      "push": false
@@ -310,7 +310,90 @@
    "salt": "37a4d4abd2d974d373d6f931bc107aef"
   }
  },
- "parlay": null,
+ "parlay": {
+  "d": "2026-10-17",
+  "lockedAt": 1792285795936,
+  "price": "+487",
+  "p": 0.31767861272742004,
+  "result": null,
+  "legs": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-18T02:00Z",
+    "unlockAt": 1792287000000
+   },
+   {
+    "sp": "nhl",
+    "game": "DAL@CHI",
+    "gl": "#9 DAL@#29 CHI",
+    "pick": "DAL ML",
+    "price": -191,
+    "p": 0.756,
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 64% across 10,000 runs vs 66% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +15.2% per bet at -191.",
+      "Covers' computer has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. Covers' computer projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
+    }
+   },
+   {
+    "sp": "nhl",
+    "game": "CAR@WPG",
+    "gl": "#1 CAR@#23 WPG",
+    "pick": "CAR ML",
+    "price": -179,
+    "p": 0.7531,
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000,
+    "by": "The Simulator + The Judge + The Scorekeeper",
+    "hit": true,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 60% across 10,000 runs vs 64% the price implies.",
+      "Desk number after calibration and market blend: 75%.",
+      "Expected value +17.4% per bet at -179.",
+      "Covers' computer has it CAR 3.61–2.7 WPG — CAR winning by 0.91.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. CAR is a top-3 team in our power ratings against one in the bottom half."
+    }
+   },
+   {
+    "sp": "nhl",
+    "game": "OTT@PHI",
+    "gl": "#14 OTT@#30 PHI",
+    "pick": "OTT ML",
+    "price": -144,
+    "p": 0.7335,
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 62% across 10,000 runs vs 59% the price implies.",
+      "Desk number after calibration and market blend: 73%.",
+      "Expected value +24.3% per bet at -144.",
+      "Covers' computer has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. Covers' computer projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
+    }
+   }
+  ]
+ },
  "parlayRecord": {
   "w": 1,
   "l": 6,
@@ -432,7 +515,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#117 CSU@#67 TXST",
+     "gl": "#117 CSU@#65 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -580,7 +663,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#10 DEN@#23 LAC",
+     "gl": "#8 DEN@#23 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -599,7 +682,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#12 DET@#29 ARI",
+     "gl": "#11 DET@#30 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -619,7 +702,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#5 SF@#2 SEA",
+     "gl": "#4 SF@#3 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -642,7 +725,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#31 OU",
+     "gl": "#7 TEX@#30 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -660,7 +743,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#130 KENT@#80 WMU",
+     "gl": "#130 KENT@#73 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -678,7 +761,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#113 UAB@#49 MEM",
+     "gl": "#112 UAB@#47 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -719,7 +802,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#54 FSU@#21 LOU",
+     "gl": "#53 FSU@#21 LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -737,7 +820,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#121 WYO@#111 SJSU",
+     "gl": "#119 WYO@#111 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
