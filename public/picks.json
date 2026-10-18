@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792310748800,
+ "generated": 1792315212706,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -17,7 +17,7 @@
     {
      "sp": "nhl",
      "game": "PIT@VGK",
-     "gl": "#28 PIT@#1 VGK",
+     "gl": "#27 PIT@#2 VGK",
      "pick": "VGK ML",
      "price": -218,
      "push": false
@@ -33,7 +33,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#2 CAR@#19 WPG",
+     "gl": "#1 CAR@#23 WPG",
      "pick": "CAR ML",
      "price": -179,
      "push": false
@@ -41,7 +41,7 @@
     {
      "sp": "nhl",
      "game": "SEA@FLA",
-     "gl": "#25 SEA@#4 FLA",
+     "gl": "#18 SEA@#8 FLA",
      "pick": "FLA ML",
      "price": -180,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#18 MTL@#15 WSH",
+     "gl": "#21 MTL@#17 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -72,7 +72,7 @@
     {
      "sp": "mlb",
      "game": "MIL@LAD",
-     "gl": "#2 MIL@#1 LAD",
+     "gl": "#3 MIL@#1 LAD",
      "pick": "MIL +1.5",
      "price": -140,
      "push": false
@@ -94,7 +94,7 @@
     {
      "sp": "mlb",
      "game": "CLE@TB",
-     "gl": "#13 CLE@#5 TB",
+     "gl": "#12 CLE@#5 TB",
      "pick": "CLE +1.5",
      "price": -152,
      "push": false
@@ -102,7 +102,7 @@
     {
      "sp": "mlb",
      "game": "LAD@MIL",
-     "gl": "#1 LAD@#2 MIL",
+     "gl": "#1 LAD@#3 MIL",
      "pick": "MIL +1.5",
      "price": -153,
      "push": false
@@ -110,7 +110,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#1 VGK@#8 MIN",
+     "gl": "#2 VGK@#7 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -118,7 +118,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#4 FLA@#22 BUF",
+     "gl": "#8 FLA@#26 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -141,7 +141,7 @@
     {
      "sp": "mlb",
      "game": "LAD@MIL",
-     "gl": "#1 LAD@#2 MIL",
+     "gl": "#1 LAD@#3 MIL",
      "pick": "MIL +1.5",
      "price": -153,
      "push": false
@@ -149,7 +149,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#4 FLA@#22 BUF",
+     "gl": "#8 FLA@#26 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -171,7 +171,7 @@
     {
      "sp": "ncaaf",
      "game": "UL@LT",
-     "gl": "#74 UL@#82 LT",
+     "gl": "#75 UL@#84 LT",
      "pick": "Over 47.5",
      "price": -118,
      "push": false
@@ -179,7 +179,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#32 OU",
+     "gl": "#7 TEX@#30 OU",
      "pick": "Over 39.5",
      "price": -110,
      "push": false
@@ -199,72 +199,256 @@
   "w": 14,
   "l": 8,
   "pu": 0,
-  "u": 3.4226102057619476,
+  "u": 3.42,
   "first": "2026-10-06"
  },
  "today": {
-  "d": "2026-10-18",
-  "lockedAt": 1792310742530,
+  "d": "2026-10-17",
+  "lockedAt": 1792246483952,
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-19T00:00Z",
-    "unlockAt": 1792366200000
+    "game": "DAL@CHI",
+    "gl": "#9 DAL@#29 CHI",
+    "pick": "DAL ML",
+    "price": -191,
+    "p": 0.756,
+    "ev": 15.2,
+    "start": "2026-10-17T23:00Z",
+    "tier": "UNANIMOUS",
+    "voices": [
+     "The Simulator",
+     "The Scorekeeper"
+    ],
+    "hit": true,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 64% across 10,000 runs vs 66% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +15.2% per bet at -191.",
+      "Covers' computer has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-18 favorite ML), The Judge (38-25 favorite ML), The Scorekeeper (35-17 favorite ML), The Commissioner (5-4 favorite ML), The Oracle (25-18 NHL ML)."
+     ],
+     "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 132-71 together. Covers' computer projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
+    },
+    "unlockAt": 1792276200000
    },
    {
-    "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-18T22:00Z",
-    "unlockAt": 1792359000000
+    "game": "CAR@WPG",
+    "gl": "#1 CAR@#23 WPG",
+    "pick": "CAR ML",
+    "price": -179,
+    "p": 0.753,
+    "ev": 17.4,
+    "start": "2026-10-17T19:30Z",
+    "tier": "UNANIMOUS",
+    "voices": [
+     "The Simulator",
+     "The Judge",
+     "The Scorekeeper"
+    ],
+    "hit": true,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 60% across 10,000 runs vs 64% the price implies.",
+      "Desk number after calibration and market blend: 75%.",
+      "Expected value +17.4% per bet at -179.",
+      "Covers' computer has it CAR 3.61–2.7 WPG — CAR winning by 0.91.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-18 favorite ML), The Judge (3-1 CAR ML), The Scorekeeper (35-17 favorite ML), The Commissioner (5-4 favorite ML), The Oracle (25-18 NHL ML)."
+     ],
+     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.8. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 132-71 together. CAR is a top-3 team in our power ratings against one in the bottom half."
+    },
+    "unlockAt": 1792263600000
+   },
+   {
+    "sp": "nhl",
+    "game": "OTT@PHI",
+    "gl": "#14 OTT@#30 PHI",
+    "pick": "OTT ML",
+    "price": -144,
+    "p": 0.734,
+    "ev": 24.3,
+    "start": "2026-10-17T23:00Z",
+    "tier": "UNANIMOUS",
+    "voices": [
+     "The Simulator",
+     "The Scorekeeper"
+    ],
+    "hit": false,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 62% across 10,000 runs vs 59% the price implies.",
+      "Desk number after calibration and market blend: 73%.",
+      "Expected value +24.3% per bet at -144.",
+      "Covers' computer has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (35-18 favorite ML), The Judge (38-25 favorite ML), The Scorekeeper (35-17 favorite ML), The Commissioner (5-4 favorite ML), The Oracle (25-18 NHL ML)."
+     ],
+     "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 132-71 together. Covers' computer projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
+    },
+    "unlockAt": 1792276200000
    }
   ],
   "props": [
    {
-    "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-18T20:25Z",
-    "unlockAt": 1792353300000
+    "sp": "nhl",
+    "player": "Jack Hughes",
+    "team": "NJ",
+    "label": "Jack Hughes over 1.5 SOG",
+    "stat": "SOG",
+    "k": "s",
+    "thr": 1.5,
+    "side": "over",
+    "price": null,
+    "p": 0.866,
+    "start": "2026-10-17T17:00Z",
+    "hit": true,
+    "push": false,
+    "actual": 4,
+    "unlockAt": 1792254600000
    },
    {
-    "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-18T17:00Z",
-    "unlockAt": 1792341000000
+    "sp": "nhl",
+    "player": "Kyle Connor",
+    "team": "WPG",
+    "label": "Kyle Connor over 1.5 SOG",
+    "stat": "SOG",
+    "k": "s",
+    "thr": 1.5,
+    "side": "over",
+    "price": null,
+    "p": 0.859,
+    "start": "2026-10-17T19:30Z",
+    "hit": true,
+    "push": false,
+    "actual": 2,
+    "unlockAt": 1792263600000
    },
    {
-    "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-18T17:00Z",
-    "unlockAt": 1792341000000
+    "sp": "nhl",
+    "player": "Timo Meier",
+    "team": "NJ",
+    "label": "Timo Meier over 1.5 SOG",
+    "stat": "SOG",
+    "k": "s",
+    "thr": 1.5,
+    "side": "over",
+    "price": null,
+    "p": 0.85,
+    "start": "2026-10-17T17:00Z",
+    "hit": true,
+    "push": false,
+    "actual": 3,
+    "unlockAt": 1792254600000
    }
   ],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "40dcc67989af8b7bc02f82b0d5ad15ec55bb0639f43ad2656f1b4eecddd08799",
-   "salt": null
-  }
+  "allStarted": true
  },
  "parlay": {
-  "d": "2026-10-18",
-  "lockedAt": 1792310747639,
-  "price": "+125",
-  "p": 0.66176289,
-  "result": null,
+  "d": "2026-10-17",
+  "lockedAt": 1792285795936,
+  "price": "+487",
+  "p": 0.31767861272742004,
+  "result": false,
   "legs": [
    {
-    "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-19T00:00Z",
-    "unlockAt": 1792366200000
+    "game": "PIT@VGK",
+    "gl": "#27 PIT@#2 VGK",
+    "pick": "VGK ML",
+    "price": -218,
+    "p": 0.7607,
+    "start": "2026-10-18T02:00Z",
+    "unlockAt": 1792287000000,
+    "by": "The Simulator + The Judge + The Scorekeeper",
+    "hit": true,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 54% across 10,000 runs vs 69% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +11.0% per bet at -218.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (35-18 favorite ML), The Judge (3-1 VGK ML), The Scorekeeper (35-17 favorite ML), The Commissioner (4-2 home ML)."
+     ],
+     "script": "PIT at VGK — I'm on VGK ML (-218). The price is close to fair here — this one rides on who's backing it. Our projected final is PIT 3.1, VGK 3.9. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 132-71 together. VGK is a top-3 team in our power ratings against one in the bottom half."
+    }
    },
    {
-    "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-18T22:00Z",
-    "unlockAt": 1792359000000
+    "game": "DAL@CHI",
+    "gl": "#9 DAL@#29 CHI",
+    "pick": "DAL ML",
+    "price": -191,
+    "p": 0.756,
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": true,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 64% across 10,000 runs vs 66% the price implies.",
+      "Desk number after calibration and market blend: 76%.",
+      "Expected value +15.2% per bet at -191.",
+      "Covers' computer has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 132-71 together. Covers' computer projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
+    }
+   },
+   {
+    "sp": "nhl",
+    "game": "CAR@WPG",
+    "gl": "#1 CAR@#23 WPG",
+    "pick": "CAR ML",
+    "price": -179,
+    "p": 0.7531,
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000,
+    "by": "The Simulator + The Judge + The Scorekeeper",
+    "hit": true,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 60% across 10,000 runs vs 64% the price implies.",
+      "Desk number after calibration and market blend: 75%.",
+      "Expected value +17.4% per bet at -179.",
+      "Covers' computer has it CAR 3.61–2.7 WPG — CAR winning by 0.91.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.8. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 132-71 together. CAR is a top-3 team in our power ratings against one in the bottom half."
+    }
+   },
+   {
+    "sp": "nhl",
+    "game": "OTT@PHI",
+    "gl": "#14 OTT@#30 PHI",
+    "pick": "OTT ML",
+    "price": -144,
+    "p": 0.7335,
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": false,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 62% across 10,000 runs vs 59% the price implies.",
+      "Desk number after calibration and market blend: 73%.",
+      "Expected value +24.3% per bet at -144.",
+      "Covers' computer has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side."
+     ],
+     "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 132-71 together. Covers' computer projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
+    }
    }
   ]
  },
@@ -275,49 +459,6 @@
  },
  "updates": [],
  "history": [
-  {
-   "d": "2026-10-18",
-   "picks": [
-    {
-     "sp": "nhl",
-     "game": "CAR@CGY",
-     "gl": "#2 CAR@#32 CGY",
-     "pick": "CAR ML",
-     "price": -218,
-     "p": 0.818,
-     "ev": 19.3,
-     "start": "2026-10-19T00:00Z",
-     "tier": "SUPREME",
-     "voices": [
-      "The Simulator",
-      "The Judge",
-      "The Scorekeeper",
-      "The Commissioner"
-     ],
-     "hit": null,
-     "push": false
-    },
-    {
-     "sp": "nhl",
-     "game": "CBJ@MIN",
-     "gl": "#27 CBJ@#8 MIN",
-     "pick": "MIN ML",
-     "price": -185,
-     "p": 0.809,
-     "ev": 24.6,
-     "start": "2026-10-18T22:00Z",
-     "tier": "STRONG",
-     "voices": [
-      "The Simulator",
-      "The Judge",
-      "The Scorekeeper",
-      "The Commissioner"
-     ],
-     "hit": null,
-     "push": false
-    }
-   ]
-  },
   {
    "d": "2026-10-17",
    "picks": [
@@ -344,7 +485,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#2 CAR@#19 WPG",
+     "gl": "#1 CAR@#23 WPG",
      "pick": "CAR ML",
      "price": -179,
      "p": 0.753,
@@ -364,7 +505,7 @@
     {
      "sp": "nhl",
      "game": "OTT@PHI",
-     "gl": "#11 OTT@#30 PHI",
+     "gl": "#14 OTT@#30 PHI",
      "pick": "OTT ML",
      "price": -144,
      "p": 0.734,
@@ -389,7 +530,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#28 PIT@#6 COL",
+     "gl": "#27 PIT@#4 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -413,7 +554,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#14 NYR@#12 NJ",
+     "gl": "#13 NYR@#16 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -432,7 +573,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#118 CSU@#65 TXST",
+     "gl": "#117 CSU@#65 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -454,7 +595,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#109 WKU@#126 SHSU",
+     "gl": "#107 WKU@#126 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -476,7 +617,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#5 EDM@#21 LA",
+     "gl": "#6 EDM@#22 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -495,7 +636,7 @@
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#8 MIN@#19 WPG",
+     "gl": "#7 MIN@#23 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
@@ -514,7 +655,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#12 NJ@#26 DET",
+     "gl": "#16 NJ@#25 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -538,7 +679,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#4 FLA@#22 BUF",
+     "gl": "#8 FLA@#26 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -556,7 +697,7 @@
     {
      "sp": "mlb",
      "game": "LAD@MIL",
-     "gl": "#1 LAD@#2 MIL",
+     "gl": "#1 LAD@#3 MIL",
      "pick": "Under 7",
      "price": -128,
      "p": 0.567,
@@ -580,7 +721,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#9 DEN@#24 LAC",
+     "gl": "#8 DEN@#23 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -599,7 +740,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#11 DET@#29 ARI",
+     "gl": "#11 DET@#30 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -619,7 +760,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#2 SF@#4 SEA",
+     "gl": "#4 SF@#3 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -642,7 +783,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#32 OU",
+     "gl": "#7 TEX@#30 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -660,7 +801,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#130 KENT@#75 WMU",
+     "gl": "#130 KENT@#73 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -701,7 +842,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#50 ISU@#8 BYU",
+     "gl": "#52 ISU@#8 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -737,7 +878,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#119 WYO@#108 SJSU",
+     "gl": "#119 WYO@#111 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -759,7 +900,7 @@
     {
      "sp": "mlb",
      "game": "MIL@SD",
-     "gl": "#2 MIL@#7 SD",
+     "gl": "#3 MIL@#6 SD",
      "pick": "Under 7.5",
      "price": -110,
      "p": 0.542,
@@ -778,5 +919,6 @@
    ]
   }
  ],
- "unlockMin": 30
+ "unlockMin": 30,
+ "by": "worker"
 }
