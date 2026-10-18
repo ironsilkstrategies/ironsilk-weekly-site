@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792291676118,
+ "generated": 1792291702379,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -153,7 +153,7 @@
   "w": 14,
   "l": 8,
   "pu": 0,
-  "u": 3.4226102057619476,
+  "u": 3.42,
   "first": "2026-10-06"
  },
  "today": {
@@ -303,12 +303,7 @@
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": true,
-  "commit": {
-   "alg": "sha256",
-   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
-   "salt": "37a4d4abd2d974d373d6f931bc107aef"
-  }
+  "allStarted": true
  },
  "parlay": {
   "d": "2026-10-17",
@@ -347,8 +342,8 @@
     "pick": "DAL ML",
     "price": -191,
     "p": 0.756,
-    "start": "",
-    "unlockAt": null,
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000,
     "by": "The Simulator + The Scorekeeper",
     "hit": true,
     "push": false,
@@ -370,8 +365,8 @@
     "pick": "CAR ML",
     "price": -179,
     "p": 0.7531,
-    "start": "",
-    "unlockAt": null,
+    "start": "2026-10-17T19:30Z",
+    "unlockAt": 1792263600000,
     "by": "The Simulator + The Judge + The Scorekeeper",
     "hit": true,
     "push": false,
@@ -393,8 +388,8 @@
     "pick": "OTT ML",
     "price": -144,
     "p": 0.7335,
-    "start": "",
-    "unlockAt": null,
+    "start": "2026-10-17T23:00Z",
+    "unlockAt": 1792276200000,
     "by": "The Simulator + The Scorekeeper",
     "hit": false,
     "push": false,
@@ -878,5 +873,6 @@
    ]
   }
  ],
- "unlockMin": 30
+ "unlockMin": 30,
+ "by": "worker"
 }
