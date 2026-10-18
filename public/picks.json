@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792310351844,
+ "generated": 1792310742911,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -17,7 +17,7 @@
     {
      "sp": "nhl",
      "game": "PIT@VGK",
-     "gl": "#27 PIT@#1 VGK",
+     "gl": "#28 PIT@#1 VGK",
      "pick": "VGK ML",
      "price": -218,
      "push": false
@@ -33,7 +33,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#2 CAR@#18 WPG",
+     "gl": "#2 CAR@#19 WPG",
      "pick": "CAR ML",
      "price": -179,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#17 MTL@#15 WSH",
+     "gl": "#18 MTL@#15 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -202,7 +202,51 @@
   "u": 3.4226102057619476,
   "first": "2026-10-06"
  },
- "today": null,
+ "today": {
+  "d": "2026-10-18",
+  "lockedAt": 1792310742530,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-19T00:00Z",
+    "unlockAt": 1792366200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-18T22:00Z",
+    "unlockAt": 1792359000000
+   }
+  ],
+  "props": [
+   {
+    "hidden": true,
+    "sp": "nfl",
+    "start": "2026-10-18T20:25Z",
+    "unlockAt": 1792353300000
+   },
+   {
+    "hidden": true,
+    "sp": "nfl",
+    "start": "2026-10-18T17:00Z",
+    "unlockAt": 1792341000000
+   },
+   {
+    "hidden": true,
+    "sp": "nfl",
+    "start": "2026-10-18T17:00Z",
+    "unlockAt": 1792341000000
+   }
+  ],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "40dcc67989af8b7bc02f82b0d5ad15ec55bb0639f43ad2656f1b4eecddd08799",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": {
   "w": 1,
@@ -211,6 +255,49 @@
  },
  "updates": [],
  "history": [
+  {
+   "d": "2026-10-18",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "CAR@CGY",
+     "gl": "#2 CAR@#32 CGY",
+     "pick": "CAR ML",
+     "price": -218,
+     "p": 0.818,
+     "ev": 19.3,
+     "start": "2026-10-19T00:00Z",
+     "tier": "SUPREME",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "CBJ@MIN",
+     "gl": "#27 CBJ@#8 MIN",
+     "pick": "MIN ML",
+     "price": -185,
+     "p": 0.809,
+     "ev": 24.6,
+     "start": "2026-10-18T22:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-17",
    "picks": [
@@ -237,7 +324,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#2 CAR@#18 WPG",
+     "gl": "#2 CAR@#19 WPG",
      "pick": "CAR ML",
      "price": -179,
      "p": 0.753,
@@ -282,7 +369,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#27 PIT@#6 COL",
+     "gl": "#28 PIT@#6 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -369,7 +456,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#7 EDM@#21 LA",
+     "gl": "#5 EDM@#21 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -388,7 +475,7 @@
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#8 MIN@#18 WPG",
+     "gl": "#8 MIN@#19 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
@@ -473,7 +560,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#11 DEN@#24 LAC",
+     "gl": "#9 DEN@#24 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -492,7 +579,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#12 DET@#30 ARI",
+     "gl": "#11 DET@#29 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
