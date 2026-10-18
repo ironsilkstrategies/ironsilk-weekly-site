@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792343753724,
+ "generated": 1792353374488,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -222,9 +222,19 @@
   ],
   "props": [
    {
-    "hidden": true,
     "sp": "nfl",
+    "player": "James Cook III",
+    "team": "BUF",
+    "label": "James Cook III over 49.5 rush yds",
+    "stat": "rush yds",
+    "k": "ry",
+    "thr": 49.5,
+    "side": "over",
+    "price": null,
+    "p": 0.856,
     "start": "2026-10-18T20:25Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792353300000
    },
    {
