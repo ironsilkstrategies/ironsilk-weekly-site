@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792310742911,
+ "generated": 1792310748800,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -179,7 +179,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#31 OU",
+     "gl": "#7 TEX@#32 OU",
      "pick": "Over 39.5",
      "price": -110,
      "push": false
@@ -247,7 +247,27 @@
    "salt": null
   }
  },
- "parlay": null,
+ "parlay": {
+  "d": "2026-10-18",
+  "lockedAt": 1792310747639,
+  "price": "+125",
+  "p": 0.66176289,
+  "result": null,
+  "legs": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-19T00:00Z",
+    "unlockAt": 1792366200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-18T22:00Z",
+    "unlockAt": 1792359000000
+   }
+  ]
+ },
  "parlayRecord": {
   "w": 1,
   "l": 7,
@@ -434,7 +454,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#108 WKU@#126 SHSU",
+     "gl": "#109 WKU@#126 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -622,7 +642,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#31 OU",
+     "gl": "#7 TEX@#32 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -699,7 +719,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#53 FSU@#20 LOU",
+     "gl": "#53 FSU@#21 LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -717,7 +737,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#119 WYO@#111 SJSU",
+     "gl": "#119 WYO@#108 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
