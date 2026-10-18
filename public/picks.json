@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792353374488,
+ "generated": 1792353413114,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -199,7 +199,7 @@
   "w": 14,
   "l": 8,
   "pu": 0,
-  "u": 3.4226102057619476,
+  "u": 3.42,
   "first": "2026-10-06"
  },
  "today": {
@@ -265,17 +265,12 @@
     "price": null,
     "p": 0.853,
     "start": "2026-10-18T17:00Z",
-    "hit": null,
+    "hit": true,
     "push": false,
     "unlockAt": 1792341000000
    }
   ],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "40dcc67989af8b7bc02f82b0d5ad15ec55bb0639f43ad2656f1b4eecddd08799",
-   "salt": null
-  }
+  "allStarted": false
  },
  "parlay": {
   "d": "2026-10-18",
@@ -808,5 +803,6 @@
    ]
   }
  ],
- "unlockMin": 30
+ "unlockMin": 30,
+ "by": "worker"
 }
