@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792288330347,
+ "generated": 1792289375011,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -150,10 +150,10 @@
  "handle": "RuleTheWorldKid",
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
-  "w": 14,
-  "l": 8,
+  "w": 13,
+  "l": 7,
   "pu": 0,
-  "u": 3.42,
+  "u": 3.8990499963378644,
   "first": "2026-10-06"
  },
  "today": {
@@ -175,7 +175,7 @@
      "The Simulator",
      "The Scorekeeper"
     ],
-    "hit": true,
+    "hit": null,
     "push": false,
     "why": {
      "bullets": [
@@ -234,7 +234,7 @@
      "The Simulator",
      "The Scorekeeper"
     ],
-    "hit": false,
+    "hit": null,
     "push": false,
     "why": {
      "bullets": [
@@ -303,14 +303,19 @@
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
+   "salt": "37a4d4abd2d974d373d6f931bc107aef"
+  }
  },
  "parlay": {
   "d": "2026-10-17",
   "lockedAt": 1792285795936,
   "price": "+487",
   "p": 0.31767861272742004,
-  "result": false,
+  "result": null,
   "legs": [
    {
     "sp": "nhl",
@@ -336,27 +341,10 @@
     }
    },
    {
+    "hidden": true,
     "sp": "nhl",
-    "game": "DAL@CHI",
-    "gl": "#9 DAL@#29 CHI",
-    "pick": "DAL ML",
-    "price": -191,
-    "p": 0.756,
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000,
-    "by": "The Simulator + The Scorekeeper",
-    "hit": true,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 64% across 10,000 runs vs 66% the price implies.",
-      "Desk number after calibration and market blend: 76%.",
-      "Expected value +15.2% per bet at -191.",
-      "Covers' computer has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side."
-     ],
-     "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. Covers' computer projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
-    }
+    "start": "",
+    "unlockAt": null
    },
    {
     "sp": "nhl",
@@ -365,8 +353,8 @@
     "pick": "CAR ML",
     "price": -179,
     "p": 0.7531,
-    "start": "2026-10-17T19:30Z",
-    "unlockAt": 1792263600000,
+    "start": "",
+    "unlockAt": null,
     "by": "The Simulator + The Judge + The Scorekeeper",
     "hit": true,
     "push": false,
@@ -382,27 +370,10 @@
     }
    },
    {
+    "hidden": true,
     "sp": "nhl",
-    "game": "OTT@PHI",
-    "gl": "#14 OTT@#30 PHI",
-    "pick": "OTT ML",
-    "price": -144,
-    "p": 0.7335,
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000,
-    "by": "The Simulator + The Scorekeeper",
-    "hit": false,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 62% across 10,000 runs vs 59% the price implies.",
-      "Desk number after calibration and market blend: 73%.",
-      "Expected value +24.3% per bet at -144.",
-      "Covers' computer has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side."
-     ],
-     "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. Covers' computer projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
-    }
+    "start": "",
+    "unlockAt": null
    }
   ]
  },
@@ -873,6 +844,5 @@
    ]
   }
  ],
- "unlockMin": 30,
- "by": "worker"
+ "unlockMin": 30
 }
