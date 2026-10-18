@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792359038254,
+ "generated": 1792361457294,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -199,7 +199,7 @@
   "w": 14,
   "l": 8,
   "pu": 0,
-  "u": 3.42,
+  "u": 3.4226102057619476,
   "first": "2026-10-06"
  },
  "today": {
@@ -239,7 +239,7 @@
       "4 of 9 characters on it, 1 independent of the sim: The Simulator (35-18 favorite ML), The Judge (28-16 home ML), The Scorekeeper (35-17 favorite ML), The Commissioner (4-2 home ML).",
       "Against: The Crowd."
      ],
-     "script": "CBJ at MIN — I'm on MIN ML (-185). The price is close to fair here — this one rides on who's backing it. Our projected final is CBJ 2.8, MIN 3.6. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 140-76 together. Kirill Kaprizov 1.2 pts/g, and lately 2.1 lately.",
+     "script": "CBJ at MIN — I'm on MIN ML (-185). The price is close to fair here — this one rides on who's backing it. Our projected final is CBJ 2.8, MIN 3.6. Blend + Brain + Scorekeeper are all on it — they're 166-96 together. Kirill Kaprizov 1.2 pts/g, and lately 2.1 lately.",
      "read": {
       "who": "The Simulator",
       "v": "Sim",
@@ -287,6 +287,7 @@
     "start": "2026-10-18T17:00Z",
     "hit": true,
     "push": false,
+    "actual": 43,
     "unlockAt": 1792341000000
    },
    {
@@ -303,10 +304,16 @@
     "start": "2026-10-18T17:00Z",
     "hit": true,
     "push": false,
+    "actual": 58,
     "unlockAt": 1792341000000
    }
   ],
-  "allStarted": false
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "40dcc67989af8b7bc02f82b0d5ad15ec55bb0639f43ad2656f1b4eecddd08799",
+   "salt": null
+  }
  },
  "parlay": {
   "d": "2026-10-18",
@@ -341,7 +348,7 @@
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
       "4 of 9 characters on it, 1 independent of the sim: The Simulator (35-18 favorite ML), The Judge (28-16 home ML), The Scorekeeper (35-17 favorite ML), The Commissioner (4-2 home ML)."
      ],
-     "script": "CBJ at MIN — I'm on MIN ML (-185). The price is close to fair here — this one rides on who's backing it. Our projected final is CBJ 2.8, MIN 3.6. Blend + Brain + Judge + Scorekeeper + Simulator are all on it — they're 140-76 together. Kirill Kaprizov 1.2 pts/g, and lately 2.1 lately."
+     "script": "CBJ at MIN — I'm on MIN ML (-185). The price is close to fair here — this one rides on who's backing it. Our projected final is CBJ 2.8, MIN 3.6. Blend + Brain + Scorekeeper are all on it — they're 166-96 together. Kirill Kaprizov 1.2 pts/g, and lately 2.1 lately."
     }
    }
   ]
@@ -856,6 +863,5 @@
    ]
   }
  ],
- "unlockMin": 30,
- "by": "worker"
+ "unlockMin": 30
 }
