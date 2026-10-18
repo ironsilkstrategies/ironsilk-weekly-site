@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792310748800,
+ "generated": 1792343753724,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -228,15 +228,35 @@
     "unlockAt": 1792353300000
    },
    {
-    "hidden": true,
     "sp": "nfl",
+    "player": "Chris Olave",
+    "team": "NO",
+    "label": "Chris Olave over 39.5 rec yds",
+    "stat": "rec yds",
+    "k": "wy",
+    "thr": 39.5,
+    "side": "over",
+    "price": null,
+    "p": 0.854,
     "start": "2026-10-18T17:00Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792341000000
    },
    {
-    "hidden": true,
     "sp": "nfl",
+    "player": "Derrick Henry",
+    "team": "BAL",
+    "label": "Derrick Henry over 49.5 rush yds",
+    "stat": "rush yds",
+    "k": "ry",
+    "thr": 49.5,
+    "side": "over",
+    "price": null,
+    "p": 0.853,
     "start": "2026-10-18T17:00Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792341000000
    }
   ],
