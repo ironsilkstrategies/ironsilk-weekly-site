@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792289456973,
+ "generated": 1792291676118,
  "cashed": [
   {
    "id": "ieh2h8",
@@ -43,7 +43,7 @@
    "props": false,
    "price": "+904",
    "units": 9.04,
-   "rec": "Banker 1-6 +3.0u",
+   "rec": "Banker 1-7 +2.0u",
    "legs": [
     {
      "sp": "mlb",
@@ -90,7 +90,7 @@
    "props": false,
    "price": "+220",
    "units": 2.2,
-   "rec": "Simulator 5-1 +5.1u · Scorekeeper 4-2 +1.9u",
+   "rec": "Simulator 5-1 +5.1u · Scorekeeper 4-3 +0.9u",
    "legs": [
     {
      "sp": "mlb",
@@ -153,7 +153,7 @@
   "w": 14,
   "l": 8,
   "pu": 0,
-  "u": 3.42,
+  "u": 3.4226102057619476,
   "first": "2026-10-06"
  },
  "today": {
@@ -184,7 +184,7 @@
       "Expected value +15.2% per bet at -191.",
       "Covers' computer has it DAL 3.54–2.58 CHI — DAL winning by 0.96.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "5 of 9 characters on it, 2 independent of the sim: The Simulator (31-16 favorite ML), The Judge (34-21 favorite ML), The Scorekeeper (31-14 favorite ML), The Commissioner, The Oracle (19-14 favorite ML)."
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (34-17 favorite ML), The Judge (37-23 favorite ML), The Scorekeeper (34-16 favorite ML), The Commissioner (4-2 favorite ML), The Oracle (23-16 favorite ML)."
      ],
      "script": "DAL at CHI — I'm on DAL ML (-191). The price is close to fair here — this one rides on who's backing it. Our projected final is DAL 3.4, CHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. Covers' computer projects DAL 3.54, CHI 2.58 — DAL winning by 0.96."
     },
@@ -214,7 +214,7 @@
       "Expected value +17.4% per bet at -179.",
       "Covers' computer has it CAR 3.61–2.7 WPG — CAR winning by 0.91.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "5 of 9 characters on it, 2 independent of the sim: The Simulator (31-16 favorite ML), The Judge (3-1 CAR ML), The Scorekeeper (31-14 favorite ML), The Commissioner, The Oracle (19-14 favorite ML)."
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (34-17 favorite ML), The Judge (3-1 CAR ML), The Scorekeeper (34-16 favorite ML), The Commissioner (4-2 favorite ML), The Oracle (23-16 favorite ML)."
      ],
      "script": "CAR at WPG — I'm on CAR ML (-179). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 3.5, WPG 2.9. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. CAR is a top-3 team in our power ratings against one in the bottom half."
     },
@@ -243,7 +243,7 @@
       "Expected value +24.3% per bet at -144.",
       "Covers' computer has it OTT 3.03–2.7 PHI — OTT winning by 0.33.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "5 of 9 characters on it, 2 independent of the sim: The Simulator (31-16 favorite ML), The Judge (34-21 favorite ML), The Scorekeeper (31-14 favorite ML), The Commissioner, The Oracle (19-14 favorite ML)."
+      "5 of 9 characters on it, 2 independent of the sim: The Simulator (34-17 favorite ML), The Judge (37-23 favorite ML), The Scorekeeper (34-16 favorite ML), The Commissioner (4-2 favorite ML), The Oracle (23-16 favorite ML)."
      ],
      "script": "OTT at PHI — I'm on OTT ML (-144). We ran this game 10,000 times: OTT wins 62% of the time; the price says 59%. Our projected final is OTT 3.3, PHI 2.5. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. Covers' computer projects OTT 3.03, PHI 2.7 — OTT winning by 0.33."
     },
@@ -303,7 +303,12 @@
     "unlockAt": 1792254600000
    }
   ],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "0d4a0077b288ca355275b01e91f57ec7cd4363ed30a3f654543ef1c8d8a148c9",
+   "salt": "37a4d4abd2d974d373d6f931bc107aef"
+  }
  },
  "parlay": {
   "d": "2026-10-17",
@@ -330,7 +335,7 @@
       "Desk number after calibration and market blend: 76%.",
       "Expected value +11.0% per bet at -218.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (31-16 favorite ML), The Judge (25-14 home ML), The Scorekeeper (31-14 favorite ML), The Commissioner."
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (34-17 favorite ML), The Judge (27-15 home ML), The Scorekeeper (34-16 favorite ML), The Commissioner (3-1 home ML)."
      ],
      "script": "PIT at VGK — I'm on VGK ML (-218). The price is close to fair here — this one rides on who's backing it. Our projected final is PIT 3.1, VGK 3.9. Blend + Brain + Scorekeeper are all on it — they're 105-62 together. VGK is a top-3 team in our power ratings against one in the bottom half."
     }
@@ -342,8 +347,8 @@
     "pick": "DAL ML",
     "price": -191,
     "p": 0.756,
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000,
+    "start": "",
+    "unlockAt": null,
     "by": "The Simulator + The Scorekeeper",
     "hit": true,
     "push": false,
@@ -365,8 +370,8 @@
     "pick": "CAR ML",
     "price": -179,
     "p": 0.7531,
-    "start": "2026-10-17T19:30Z",
-    "unlockAt": 1792263600000,
+    "start": "",
+    "unlockAt": null,
     "by": "The Simulator + The Judge + The Scorekeeper",
     "hit": true,
     "push": false,
@@ -388,8 +393,8 @@
     "pick": "OTT ML",
     "price": -144,
     "p": 0.7335,
-    "start": "2026-10-17T23:00Z",
-    "unlockAt": 1792276200000,
+    "start": "",
+    "unlockAt": null,
     "by": "The Simulator + The Scorekeeper",
     "hit": false,
     "push": false,
@@ -408,8 +413,8 @@
  },
  "parlayRecord": {
   "w": 1,
-  "l": 6,
-  "u": 3.04
+  "l": 7,
+  "u": 2.04
  },
  "updates": [],
  "history": [
@@ -873,6 +878,5 @@
    ]
   }
  ],
- "unlockMin": 30,
- "by": "worker"
+ "unlockMin": 30
 }
