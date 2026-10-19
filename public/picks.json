@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792423367776,
+ "generated": 1792428326083,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -33,7 +33,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#2 CAR@#19 WPG",
+     "gl": "#4 CAR@#19 WPG",
      "pick": "CAR ML",
      "price": -179,
      "push": false
@@ -41,7 +41,7 @@
     {
      "sp": "nhl",
      "game": "SEA@FLA",
-     "gl": "#25 SEA@#4 FLA",
+     "gl": "#24 SEA@#3 FLA",
      "pick": "FLA ML",
      "price": -180,
      "push": false
@@ -89,7 +89,7 @@
    "props": false,
    "price": "+904",
    "units": 9.04,
-   "rec": "Banker 1-7 +2.0u",
+   "rec": "Banker 1-8 +1.0u",
    "legs": [
     {
      "sp": "mlb",
@@ -118,7 +118,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#4 FLA@#22 BUF",
+     "gl": "#3 FLA@#22 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -149,7 +149,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#4 FLA@#22 BUF",
+     "gl": "#3 FLA@#22 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -179,7 +179,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#32 OU",
+     "gl": "#19 TEX@#32 OU",
      "pick": "Over 39.5",
      "price": -110,
      "push": false
@@ -197,27 +197,139 @@
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
   "w": 15,
-  "l": 8,
+  "l": 9,
   "pu": 0,
-  "u": 3.963150746302488,
+  "u": 2.963150746302488,
   "first": "2026-10-06"
  },
- "today": null,
+ "today": {
+  "d": "2026-10-19",
+  "lockedAt": 1792428325685,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-19T23:00Z",
+    "unlockAt": 1792449000000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-20T01:00Z",
+    "unlockAt": 1792456200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-19T23:00Z",
+    "unlockAt": 1792449000000
+   }
+  ],
+  "props": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-19T23:30Z",
+    "unlockAt": 1792450800000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-19T23:30Z",
+    "unlockAt": 1792450800000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-19T23:00Z",
+    "unlockAt": 1792449000000
+   }
+  ],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "8a725209bd20bccbc850d99d8e67f617cb21ba944db1b18da686732538dc58ce",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": {
   "w": 1,
-  "l": 7,
-  "u": 2.04
+  "l": 8,
+  "u": 1.04
  },
  "updates": [],
  "history": [
+  {
+   "d": "2026-10-19",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "COL@PHI",
+     "gl": "#6 COL@#30 PHI",
+     "pick": "COL ML",
+     "price": -238,
+     "p": 0.8,
+     "ev": 13.6,
+     "start": "2026-10-19T23:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "PIT@UTAH",
+     "gl": "#28 PIT@#7 UTAH",
+     "pick": "UTAH ML",
+     "price": -185,
+     "p": 0.762,
+     "ev": 17.4,
+     "start": "2026-10-20T01:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "ANA@NYR",
+     "gl": "#12 ANA@#14 NYR",
+     "pick": "NYR ML",
+     "price": -155,
+     "p": 0.759,
+     "ev": 24.8,
+     "start": "2026-10-19T23:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-18",
    "picks": [
     {
      "sp": "nhl",
      "game": "CAR@CGY",
-     "gl": "#2 CAR@#32 CGY",
+     "gl": "#4 CAR@#32 CGY",
      "pick": "CAR ML",
      "price": -218,
      "p": 0.818,
@@ -230,7 +342,7 @@
       "The Scorekeeper",
       "The Commissioner"
      ],
-     "hit": null,
+     "hit": false,
      "push": false
     },
     {
@@ -280,7 +392,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#2 CAR@#19 WPG",
+     "gl": "#4 CAR@#19 WPG",
      "pick": "CAR ML",
      "price": -179,
      "p": 0.753,
@@ -349,7 +461,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#14 NYR@#12 NJ",
+     "gl": "#14 NYR@#13 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -450,7 +562,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#12 NJ@#26 DET",
+     "gl": "#13 NJ@#26 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -474,7 +586,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#4 FLA@#22 BUF",
+     "gl": "#3 FLA@#22 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -516,7 +628,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#13 DEN@#29 LAC",
+     "gl": "#12 DEN@#29 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -555,7 +667,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#3 SF@#4 SEA",
+     "gl": "#3 SF@#5 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -578,7 +690,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#32 OU",
+     "gl": "#19 TEX@#32 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -637,7 +749,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#50 ISU@#8 BYU",
+     "gl": "#50 ISU@#2 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
