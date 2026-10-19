@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792428326083,
+ "generated": 1792428401323,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -204,7 +204,7 @@
  },
  "today": {
   "d": "2026-10-19",
-  "lockedAt": 1792428325685,
+  "lockedAt": 1792428359824,
   "unlockMin": 30,
   "picks": [
    {
@@ -228,32 +228,84 @@
   ],
   "props": [
    {
+    "sp": "ncaaf",
+    "player": "Charlie Becker",
+    "team": "IU",
+    "label": "Charlie Becker over 39.5 rec yds",
+    "stat": "rec yds",
+    "k": "wy",
+    "thr": 39.5,
+    "side": "over",
+    "price": null,
+    "p": 0.913,
+    "start": "2026-10-17T16:00Z",
+    "hit": null,
+    "push": false,
+    "unlockAt": 1792251000000
+   },
+   {
+    "hidden": true,
+    "sp": "nfl",
+    "start": "2026-10-20T00:15Z",
+    "unlockAt": 1792453500000
+   },
+   {
+    "sp": "ncaaf",
+    "player": "Josh Hoover",
+    "team": "IU",
+    "label": "Josh Hoover over 199.5 pass yds",
+    "stat": "pass yds",
+    "k": "py",
+    "thr": 199.5,
+    "side": "over",
+    "price": null,
+    "p": 0.885,
+    "start": "2026-10-17T16:00Z",
+    "hit": null,
+    "push": false,
+    "unlockAt": 1792251000000
+   }
+  ],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "25832c0eee329fa54bc9b5771a51fbfb2cd1525f8fc5289ece806a8aaff2b54d",
+   "salt": null
+  }
+ },
+ "parlay": {
+  "d": "2026-10-19",
+  "lockedAt": 1792428360372,
+  "price": "+527",
+  "p": 0.35030289012696725,
+  "result": null,
+  "legs": [
+   {
     "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-19T23:30Z",
-    "unlockAt": 1792450800000
+    "start": "2026-10-19T23:00Z",
+    "unlockAt": 1792449000000
    },
    {
     "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-19T23:30Z",
-    "unlockAt": 1792450800000
+    "start": "2026-10-20T01:00Z",
+    "unlockAt": 1792456200000
    },
    {
     "hidden": true,
     "sp": "nhl",
     "start": "2026-10-19T23:00Z",
     "unlockAt": 1792449000000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-19T23:30Z",
+    "unlockAt": 1792450800000
    }
-  ],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "8a725209bd20bccbc850d99d8e67f617cb21ba944db1b18da686732538dc58ce",
-   "salt": null
-  }
+  ]
  },
- "parlay": null,
  "parlayRecord": {
   "w": 1,
   "l": 8,
