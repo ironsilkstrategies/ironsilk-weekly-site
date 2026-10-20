@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792512846442,
+ "generated": 1792512873592,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -204,7 +204,7 @@
  },
  "today": {
   "d": "2026-10-20",
-  "lockedAt": 1792512738992,
+  "lockedAt": 1792512872931,
   "unlockMin": 30,
   "picks": [
    {
@@ -249,15 +249,15 @@
   "allStarted": false,
   "commit": {
    "alg": "sha256",
-   "hash": "863259fe3d6fe32411c5bca35ebe14223c95d9da693280d27730f9eb5282c22b",
+   "hash": "c3074803b261cb961c8a72b0894714ffa2b750fd36f68a98ef7b4211811cd31d",
    "salt": null
   }
  },
  "parlay": {
   "d": "2026-10-20",
-  "lockedAt": 1792512745062,
-  "price": "+396",
-  "p": 0.36631960622620163,
+  "lockedAt": 1792512873255,
+  "price": "+404",
+  "p": 0.3586864353326778,
   "result": null,
   "legs": [
    {
@@ -275,14 +275,14 @@
    {
     "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-21T00:00Z",
-    "unlockAt": 1792539000000
+    "start": "2026-10-20T23:00Z",
+    "unlockAt": 1792535400000
    },
    {
     "hidden": true,
     "sp": "nhl",
-    "start": "2026-10-20T23:00Z",
-    "unlockAt": 1792535400000
+    "start": "2026-10-21T00:00Z",
+    "unlockAt": 1792539000000
    }
   ]
  },
@@ -302,8 +302,8 @@
      "gl": "#1 CAR@#32 VAN",
      "pick": "CAR ML",
      "price": -298,
-     "p": 0.818,
-     "ev": 9.2,
+     "p": 0.8,
+     "ev": 6.9,
      "start": "2026-10-21T02:00Z",
      "tier": "STRONG",
      "voices": [
@@ -321,8 +321,8 @@
      "gl": "#29 SJ@#14 MTL",
      "pick": "MTL ML",
      "price": -225,
-     "p": 0.768,
-     "ev": 11,
+     "p": 0.789,
+     "ev": 14,
      "start": "2026-10-20T23:00Z",
      "tier": "STRONG",
      "voices": [
@@ -336,14 +336,14 @@
     },
     {
      "sp": "nhl",
-     "game": "ANA@NYI",
-     "gl": "#24 ANA@#12 NYI",
-     "pick": "NYI ML",
+     "game": "LA@WSH",
+     "gl": "#27 LA@#16 WSH",
+     "pick": "WSH ML",
      "price": -155,
-     "p": 0.763,
-     "ev": 25.5,
+     "p": 0.752,
+     "ev": 23.7,
      "start": "2026-10-20T23:00Z",
-     "tier": "STRONG",
+     "tier": "SUPREME",
      "voices": [
       "The Simulator",
       "The Judge",
