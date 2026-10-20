@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792512587344,
+ "generated": 1792512740327,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -25,7 +25,7 @@
     {
      "sp": "nhl",
      "game": "DAL@CHI",
-     "gl": "#4 DAL@#29 CHI",
+     "gl": "#4 DAL@#28 CHI",
      "pick": "DAL ML",
      "price": -191,
      "push": false
@@ -118,7 +118,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#24 BUF",
+     "gl": "#5 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -149,7 +149,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#24 BUF",
+     "gl": "#5 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -202,7 +202,57 @@
   "u": 3.148852577165609,
   "first": "2026-10-06"
  },
- "today": null,
+ "today": {
+  "d": "2026-10-20",
+  "lockedAt": 1792512738992,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-21T02:00Z",
+    "unlockAt": 1792546200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-20T23:00Z",
+    "unlockAt": 1792535400000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-20T23:00Z",
+    "unlockAt": 1792535400000
+   }
+  ],
+  "props": [
+   {
+    "hidden": true,
+    "sp": "nba",
+    "start": "2026-10-20T19:00Z",
+    "unlockAt": 1792521000000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-21T01:40Z",
+    "unlockAt": 1792545000000
+   },
+   {
+    "hidden": true,
+    "sp": "nba",
+    "start": "2026-10-21T01:30Z",
+    "unlockAt": 1792544400000
+   }
+  ],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "863259fe3d6fe32411c5bca35ebe14223c95d9da693280d27730f9eb5282c22b",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": {
   "w": 1,
@@ -211,6 +261,68 @@
  },
  "updates": [],
  "history": [
+  {
+   "d": "2026-10-20",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "CAR@VAN",
+     "gl": "#1 CAR@#32 VAN",
+     "pick": "CAR ML",
+     "price": -298,
+     "p": 0.818,
+     "ev": 9.2,
+     "start": "2026-10-21T02:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "SJ@MTL",
+     "gl": "#29 SJ@#14 MTL",
+     "pick": "MTL ML",
+     "price": -225,
+     "p": 0.768,
+     "ev": 11,
+     "start": "2026-10-20T23:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "ANA@NYI",
+     "gl": "#24 ANA@#12 NYI",
+     "pick": "NYI ML",
+     "price": -155,
+     "p": 0.763,
+     "ev": 25.5,
+     "start": "2026-10-20T23:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-19",
    "picks": [
@@ -255,7 +367,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#23 ANA@#9 NYR",
+     "gl": "#24 ANA@#9 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -322,7 +434,7 @@
     {
      "sp": "nhl",
      "game": "DAL@CHI",
-     "gl": "#4 DAL@#29 CHI",
+     "gl": "#4 DAL@#28 CHI",
      "pick": "DAL ML",
      "price": -191,
      "p": 0.756,
@@ -536,7 +648,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#24 BUF",
+     "gl": "#5 FLA@#23 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
