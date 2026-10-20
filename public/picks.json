@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792512740327,
+ "generated": 1792512846442,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -253,7 +253,39 @@
    "salt": null
   }
  },
- "parlay": null,
+ "parlay": {
+  "d": "2026-10-20",
+  "lockedAt": 1792512745062,
+  "price": "+396",
+  "p": 0.36631960622620163,
+  "result": null,
+  "legs": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-21T02:00Z",
+    "unlockAt": 1792546200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-20T23:00Z",
+    "unlockAt": 1792535400000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-21T00:00Z",
+    "unlockAt": 1792539000000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-20T23:00Z",
+    "unlockAt": 1792535400000
+   }
+  ]
+ },
  "parlayRecord": {
   "w": 1,
   "l": 9,
