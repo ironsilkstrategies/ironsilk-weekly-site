@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792513048169,
+ "generated": 1792542101854,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -214,23 +214,105 @@
     "unlockAt": 1792546200000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "SJ@MTL",
+    "gl": "#29 SJ@#14 MTL",
+    "pick": "MTL ML",
+    "price": -225,
+    "p": 0.789,
+    "ev": 14,
     "start": "2026-10-20T23:00Z",
+    "tier": "STRONG",
+    "voices": [
+     "The Simulator",
+     "The Judge",
+     "The Scorekeeper"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 63% across 10,000 runs vs 69% the price implies.",
+      "Desk number after calibration and market blend: 79%.",
+      "Expected value +14.0% per bet at -225.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (33-16 home ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML).",
+      "Against: The Crowd."
+     ],
+     "script": "SJ at MTL — I'm on MTL ML (-225). The price is close to fair here — this one rides on who's backing it. Our projected final is SJ 3.0, MTL 4.0. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Cole Caufield 0.5 goals/g, and lately 0.8 lately.",
+     "read": {
+      "who": "The Simulator",
+      "v": "Sim",
+      "take": "I ran this game 10,000 times. Montreal wins 70% of them.",
+      "text": "I ran this game 10,000 times. Montreal wins 70% of them. My projected final is San Jose 3, Montreal 4. Cole Caufield averages 0.5 goals a game, and 0.8 over his recent games — he's hot. Played 10,000 times, Montreal wins 70% of them. I'm 64-26 on NHL favorites on the moneyline. The worry: Montreal is missing Florian Xhekaj (LW) and Sam Montembeault (G) — that's the hole. At -225 the book needs this to hit 69% of the time. I have it at 79% — the price pays more than the risk. The simulation alone says 70%; my 64-26 record on NHL favorites on the moneyline is why my confidence runs higher.",
+      "also": [
+       {
+        "who": "The Scorekeeper",
+        "take": "My single most likely final: San Jose 2, Montreal 3."
+       }
+      ]
+     }
+    },
     "unlockAt": 1792535400000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "LA@WSH",
+    "gl": "#27 LA@#16 WSH",
+    "pick": "WSH ML",
+    "price": -155,
+    "p": 0.752,
+    "ev": 23.7,
     "start": "2026-10-20T23:00Z",
+    "tier": "SUPREME",
+    "voices": [
+     "The Simulator",
+     "The Judge",
+     "The Scorekeeper"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 66% across 10,000 runs vs 61% the price implies.",
+      "Desk number after calibration and market blend: 75%.",
+      "Expected value +23.7% per bet at -155.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (33-16 home ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML).",
+      "Against: The Crowd."
+     ],
+     "script": "LA at WSH — I'm on WSH ML (-155). We ran this game 10,000 times: WSH wins 66% of the time; the price says 61%. Our projected final is LA 2.6, WSH 3.7. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Ryan Leonard 0.3 goals/g, and lately 0.4 lately.",
+     "read": {
+      "who": "The Simulator",
+      "v": "Sim",
+      "take": "I ran this game 10,000 times. Washington wins 62% of them.",
+      "text": "I ran this game 10,000 times. Washington wins 62% of them. My projected final is Los Angeles 2.6, Washington 3.7. Ilya Protas averages 0.8 points a game. Played 10,000 times, Washington wins 62% of them. I'm 64-26 on NHL favorites on the moneyline. The worry: Washington is missing Justin Sourdif (RW) and Pierre-Luc Dubois (LW) — that's the hole. At -155 the book needs this to hit 61% of the time. I have it at 75% — the price pays more than the risk. The simulation alone says 62%; my 64-26 record on NHL favorites on the moneyline is why my confidence runs higher.",
+      "also": [
+       {
+        "who": "The Scorekeeper",
+        "take": "My single most likely final: Los Angeles 2, Washington 3."
+       }
+      ]
+     }
+    },
     "unlockAt": 1792535400000
    }
   ],
   "props": [
    {
-    "hidden": true,
     "sp": "nba",
+    "player": "Jayson Tatum",
+    "team": "BOS",
+    "label": "Jayson Tatum over 5.5 REB",
+    "stat": "REB",
+    "k": "reb",
+    "thr": 5.5,
+    "side": "over",
+    "price": null,
+    "p": 0.921,
     "start": "2026-10-20T19:00Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792521000000
    },
    {
@@ -267,22 +349,73 @@
     "unlockAt": 1792546200000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "SJ@MTL",
+    "gl": "#29 SJ@#14 MTL",
+    "pick": "MTL ML",
+    "price": -225,
+    "p": 0.7894,
     "start": "2026-10-20T23:00Z",
-    "unlockAt": 1792535400000
+    "unlockAt": 1792535400000,
+    "by": "The Simulator + The Judge + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 63% across 10,000 runs vs 69% the price implies.",
+      "Desk number after calibration and market blend: 79%.",
+      "Expected value +14.0% per bet at -225.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (33-16 home ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML)."
+     ],
+     "script": "SJ at MTL — I'm on MTL ML (-225). The price is close to fair here — this one rides on who's backing it. Our projected final is SJ 3.0, MTL 4.0. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Cole Caufield 0.5 goals/g, and lately 0.8 lately."
+    }
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "LA@WSH",
+    "gl": "#27 LA@#16 WSH",
+    "pick": "WSH ML",
+    "price": -155,
+    "p": 0.7521,
     "start": "2026-10-20T23:00Z",
-    "unlockAt": 1792535400000
+    "unlockAt": 1792535400000,
+    "by": "The Simulator + The Judge + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 66% across 10,000 runs vs 61% the price implies.",
+      "Desk number after calibration and market blend: 75%.",
+      "Expected value +23.7% per bet at -155.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (33-16 home ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML)."
+     ],
+     "script": "LA at WSH — I'm on WSH ML (-155). We ran this game 10,000 times: WSH wins 66% of the time; the price says 61%. Our projected final is LA 2.6, WSH 3.7. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Ryan Leonard 0.3 goals/g, and lately 0.4 lately."
+    }
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "BOS@DAL",
+    "gl": "#6 BOS@#4 DAL",
+    "pick": "DAL ML",
+    "price": -170,
+    "p": 0.7549,
     "start": "2026-10-21T00:00Z",
-    "unlockAt": 1792539000000
+    "unlockAt": 1792539000000,
+    "by": "The Simulator + The Scorekeeper",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 53% across 10,000 runs vs 63% the price implies.",
+      "Desk number after calibration and market blend: 75%.",
+      "Expected value +19.9% per bet at -170.",
+      "The Judge, weighing every witness by its graded accuracy, is on the other side.",
+      "3 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML)."
+     ],
+     "script": "BOS at DAL — I'm on DAL ML (-170). The price is close to fair here — this one rides on who's backing it. Our projected final is BOS 2.8, DAL 3.0. Blend + Brain + Scorekeeper are all on it — they're 186-107 together. 3 of our 9 analysts are on DAL — The Simulator is 41-20 favorite ML."
+    }
    }
   ]
  },
