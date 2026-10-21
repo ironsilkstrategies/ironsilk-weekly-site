@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792546162406,
+ "generated": 1792546377017,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -208,9 +208,46 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "CAR@VAN",
+    "gl": "#1 CAR@#32 VAN",
+    "pick": "CAR ML",
+    "price": -298,
+    "p": 0.8,
+    "ev": 6.9,
     "start": "2026-10-21T02:00Z",
+    "tier": "STRONG",
+    "voices": [
+     "The Simulator",
+     "The Judge",
+     "The Scorekeeper",
+     "The Scout"
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 71% across 10,000 runs vs 75% the price implies.",
+      "Desk number after calibration and market blend: 80%.",
+      "Expected value +6.9% per bet at -298.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (44-27 favorite ML), The Scorekeeper (41-19 favorite ML), The Commissioner (9-6 favorite ML).",
+      "Against: The Crowd."
+     ],
+     "script": "CAR at VAN — I'm on CAR ML (-298). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 4.3, VAN 2.7. The matchup favors CAR: defense top 12% vs VAN bottom 4% shot volume. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together.",
+     "read": {
+      "who": "The Simulator",
+      "v": "Sim",
+      "take": "I ran this game 10,000 times. Carolina wins 76% of them.",
+      "text": "I ran this game 10,000 times. Carolina wins 76% of them. My projected final is Carolina 4.3, Vancouver 2.7. Sebastian Aho averages 1.0 points a game. Played 10,000 times, Carolina wins 76% of them. I'm 64-26 on NHL favorites on the moneyline. The worry: Carolina is missing Taylor Hall (LW) and Mark Jankowski (C) — that's the hole. At -298 the book needs this to hit 75% of the time. I have it at 80% — the price pays more than the risk.",
+      "also": [
+       {
+        "who": "The Scorekeeper",
+        "take": "My single most likely final: Carolina 3, Vancouver 2."
+       }
+      ]
+     }
+    },
     "unlockAt": 1792546200000
    },
    {
@@ -348,11 +385,11 @@
     "unlockAt": 1792544400000
    }
   ],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
    "hash": "c3074803b261cb961c8a72b0894714ffa2b750fd36f68a98ef7b4211811cd31d",
-   "salt": null
+   "salt": "835d6a9428d8cffd1518ad521b7a6563"
   }
  },
  "parlay": {
@@ -363,10 +400,27 @@
   "result": null,
   "legs": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "CAR@VAN",
+    "gl": "#1 CAR@#32 VAN",
+    "pick": "CAR ML",
+    "price": -298,
+    "p": 0.8003,
     "start": "2026-10-21T02:00Z",
-    "unlockAt": 1792546200000
+    "unlockAt": 1792546200000,
+    "by": "The Simulator + The Judge + The Scorekeeper + The Scout",
+    "hit": null,
+    "push": false,
+    "why": {
+     "bullets": [
+      "Sim: 71% across 10,000 runs vs 75% the price implies.",
+      "Desk number after calibration and market blend: 80%.",
+      "Expected value +6.9% per bet at -298.",
+      "The Judge, weighing every witness by its graded accuracy, is on this side.",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (44-27 favorite ML), The Scorekeeper (41-19 favorite ML), The Commissioner (9-6 favorite ML)."
+     ],
+     "script": "CAR at VAN — I'm on CAR ML (-298). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 4.3, VAN 2.7. The matchup favors CAR: defense top 12% vs VAN bottom 4% shot volume. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together."
+    }
    },
    {
     "sp": "nhl",
