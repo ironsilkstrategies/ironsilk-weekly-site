@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792600516128,
+ "generated": 1792623137965,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -17,7 +17,7 @@
     {
      "sp": "nhl",
      "game": "PIT@VGK",
-     "gl": "#27 PIT@#5 VGK",
+     "gl": "#27 PIT@#6 VGK",
      "pick": "VGK ML",
      "price": -218,
      "push": false
@@ -41,7 +41,7 @@
     {
      "sp": "nhl",
      "game": "SEA@FLA",
-     "gl": "#22 SEA@#6 FLA",
+     "gl": "#20 SEA@#5 FLA",
      "pick": "FLA ML",
      "price": -180,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#15 MTL@#16 WSH",
+     "gl": "#15 MTL@#17 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -110,7 +110,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#5 VGK@#8 MIN",
+     "gl": "#6 VGK@#8 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -118,7 +118,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#6 FLA@#21 BUF",
+     "gl": "#5 FLA@#21 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -149,7 +149,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#6 FLA@#21 BUF",
+     "gl": "#5 FLA@#21 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -202,7 +202,45 @@
   "u": 1.4844230469642667,
   "first": "2026-10-06"
  },
- "today": null,
+ "today": {
+  "d": "2026-10-21",
+  "lockedAt": 1792622904588,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-21T23:30Z",
+    "unlockAt": 1792623600000
+   }
+  ],
+  "props": [
+   {
+    "hidden": true,
+    "sp": "nfl",
+    "start": "2026-10-25T20:05Z",
+    "unlockAt": 1792956900000
+   },
+   {
+    "hidden": true,
+    "sp": "nfl",
+    "start": "2026-10-27T00:15Z",
+    "unlockAt": 1793058300000
+   },
+   {
+    "hidden": true,
+    "sp": "nfl",
+    "start": "2026-10-25T20:25Z",
+    "unlockAt": 1792958100000
+   }
+  ],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "1127e079e35c64cf6123a7077d69b6036ea6243aa27d4ccd9423af5e184c2fa3",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": {
   "w": 1,
@@ -211,6 +249,30 @@
  },
  "updates": [],
  "history": [
+  {
+   "d": "2026-10-21",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "PHI@BUF",
+     "gl": "#30 PHI@#21 BUF",
+     "pick": "BUF ML",
+     "price": -205,
+     "p": 0.784,
+     "ev": 16.7,
+     "start": "2026-10-21T23:30Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-20",
    "picks": [
@@ -255,7 +317,7 @@
     {
      "sp": "nhl",
      "game": "LA@WSH",
-     "gl": "#26 LA@#16 WSH",
+     "gl": "#26 LA@#17 WSH",
      "pick": "WSH ML",
      "price": -155,
      "p": 0.752,
@@ -317,7 +379,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#24 ANA@#9 NYR",
+     "gl": "#25 ANA@#9 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -360,7 +422,7 @@
     {
      "sp": "nhl",
      "game": "CBJ@MIN",
-     "gl": "#20 CBJ@#8 MIN",
+     "gl": "#22 CBJ@#8 MIN",
      "pick": "MIN ML",
      "price": -185,
      "p": 0.809,
@@ -598,7 +660,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#6 FLA@#21 BUF",
+     "gl": "#5 FLA@#21 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
