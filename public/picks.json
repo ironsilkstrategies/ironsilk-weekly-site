@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792546377017,
+ "generated": 1792552027461,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -12,7 +12,7 @@
    "props": false,
    "price": "+439",
    "units": 4.39,
-   "rec": "Simulator 6-2 +8.5u",
+   "rec": "Simulator 6-3 +7.5u",
    "legs": [
     {
      "sp": "nhl",
@@ -59,7 +59,7 @@
    "props": false,
    "price": "+223",
    "units": 2.23,
-   "rec": "Simulator 6-2 +8.5u · Blend 1-2 +0.2u",
+   "rec": "Simulator 6-3 +7.5u · Blend 1-2 +0.2u",
    "legs": [
     {
      "sp": "nhl",
@@ -89,7 +89,7 @@
    "props": false,
    "price": "+904",
    "units": 9.04,
-   "rec": "Banker 1-9 +0.0u",
+   "rec": "Banker 1-10 -1.0u",
    "legs": [
     {
      "sp": "mlb",
@@ -136,7 +136,7 @@
    "props": false,
    "price": "+220",
    "units": 2.2,
-   "rec": "Simulator 6-2 +8.5u · Scorekeeper 4-3 +0.9u",
+   "rec": "Simulator 6-3 +7.5u · Scorekeeper 4-4 -0.1u",
    "legs": [
     {
      "sp": "mlb",
@@ -197,9 +197,9 @@
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
   "w": 17,
-  "l": 10,
+  "l": 12,
   "pu": 0,
-  "u": 3.148852577165609,
+  "u": 1.1488525771656088,
   "first": "2026-10-06"
  },
  "today": {
@@ -231,7 +231,7 @@
       "Desk number after calibration and market blend: 80%.",
       "Expected value +6.9% per bet at -298.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (44-27 favorite ML), The Scorekeeper (41-19 favorite ML), The Commissioner (9-6 favorite ML).",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (46-30 favorite ML), The Scorekeeper (44-22 favorite ML), The Commissioner (13-9 favorite ML).",
       "Against: The Crowd."
      ],
      "script": "CAR at VAN — I'm on CAR ML (-298). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 4.3, VAN 2.7. The matchup favors CAR: defense top 12% vs VAN bottom 4% shot volume. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together.",
@@ -239,7 +239,7 @@
       "who": "The Simulator",
       "v": "Sim",
       "take": "I ran this game 10,000 times. Carolina wins 76% of them.",
-      "text": "I ran this game 10,000 times. Carolina wins 76% of them. My projected final is Carolina 4.3, Vancouver 2.7. Sebastian Aho averages 1.0 points a game. Played 10,000 times, Carolina wins 76% of them. I'm 64-26 on NHL favorites on the moneyline. The worry: Carolina is missing Taylor Hall (LW) and Mark Jankowski (C) — that's the hole. At -298 the book needs this to hit 75% of the time. I have it at 80% — the price pays more than the risk.",
+      "text": "I ran this game 10,000 times. Carolina wins 76% of them. My projected final is Carolina 4.3, Vancouver 2.7. Sebastian Aho averages 1.0 points a game. Played 10,000 times, Carolina wins 76% of them. I'm 67-29 on NHL favorites on the moneyline. The worry: Carolina is missing Taylor Hall (LW) and Mark Jankowski (C) — that's the hole. At -298 the book needs this to hit 75% of the time. I have it at 80% — the price pays more than the risk.",
       "also": [
        {
         "who": "The Scorekeeper",
@@ -265,7 +265,7 @@
      "The Judge",
      "The Scorekeeper"
     ],
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "bullets": [
@@ -273,7 +273,7 @@
       "Desk number after calibration and market blend: 79%.",
       "Expected value +14.0% per bet at -225.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (33-16 home ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML).",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (35-19 home ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML).",
       "Against: The Crowd."
      ],
      "script": "SJ at MTL — I'm on MTL ML (-225). The price is close to fair here — this one rides on who's backing it. Our projected final is SJ 3.0, MTL 4.0. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Cole Caufield 0.5 goals/g, and lately 0.8 lately.",
@@ -281,7 +281,7 @@
       "who": "The Simulator",
       "v": "Sim",
       "take": "I ran this game 10,000 times. Montreal wins 70% of them.",
-      "text": "I ran this game 10,000 times. Montreal wins 70% of them. My projected final is San Jose 3, Montreal 4. Cole Caufield averages 0.5 goals a game, and 0.8 over his recent games — he's hot. Played 10,000 times, Montreal wins 70% of them. I'm 64-26 on NHL favorites on the moneyline. The worry: Montreal is missing Florian Xhekaj (LW) and Sam Montembeault (G) — that's the hole. At -225 the book needs this to hit 69% of the time. I have it at 79% — the price pays more than the risk. The simulation alone says 70%; my 64-26 record on NHL favorites on the moneyline is why my confidence runs higher.",
+      "text": "I ran this game 10,000 times. Montreal wins 70% of them. My projected final is San Jose 3, Montreal 4. Cole Caufield averages 0.5 goals a game, and 0.8 over his recent games — he's hot. Played 10,000 times, Montreal wins 70% of them. I'm 67-29 on NHL favorites on the moneyline. The worry: Montreal is missing Florian Xhekaj (LW) and Sam Montembeault (G) — that's the hole. At -225 the book needs this to hit 69% of the time. I have it at 79% — the price pays more than the risk. The simulation alone says 70%; my 67-29 record on NHL favorites on the moneyline is why my confidence runs higher.",
       "also": [
        {
         "who": "The Scorekeeper",
@@ -307,7 +307,7 @@
      "The Judge",
      "The Scorekeeper"
     ],
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "bullets": [
@@ -315,7 +315,7 @@
       "Desk number after calibration and market blend: 75%.",
       "Expected value +23.7% per bet at -155.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (33-16 home ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML).",
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (35-19 home ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML).",
       "Against: The Crowd."
      ],
      "script": "LA at WSH — I'm on WSH ML (-155). We ran this game 10,000 times: WSH wins 66% of the time; the price says 61%. Our projected final is LA 2.6, WSH 3.7. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Ryan Leonard 0.3 goals/g, and lately 0.4 lately.",
@@ -323,7 +323,7 @@
       "who": "The Simulator",
       "v": "Sim",
       "take": "I ran this game 10,000 times. Washington wins 62% of them.",
-      "text": "I ran this game 10,000 times. Washington wins 62% of them. My projected final is Los Angeles 2.6, Washington 3.7. Ilya Protas averages 0.8 points a game. Played 10,000 times, Washington wins 62% of them. I'm 64-26 on NHL favorites on the moneyline. The worry: Washington is missing Justin Sourdif (RW) and Pierre-Luc Dubois (LW) — that's the hole. At -155 the book needs this to hit 61% of the time. I have it at 75% — the price pays more than the risk. The simulation alone says 62%; my 64-26 record on NHL favorites on the moneyline is why my confidence runs higher.",
+      "text": "I ran this game 10,000 times. Washington wins 62% of them. My projected final is Los Angeles 2.6, Washington 3.7. Ilya Protas averages 0.8 points a game. Played 10,000 times, Washington wins 62% of them. I'm 67-29 on NHL favorites on the moneyline. The worry: Washington is missing Justin Sourdif (RW) and Pierre-Luc Dubois (LW) — that's the hole. At -155 the book needs this to hit 61% of the time. I have it at 75% — the price pays more than the risk. The simulation alone says 62%; my 67-29 record on NHL favorites on the moneyline is why my confidence runs higher.",
       "also": [
        {
         "who": "The Scorekeeper",
@@ -397,7 +397,7 @@
   "lockedAt": 1792512873255,
   "price": "+404",
   "p": 0.3586864353326778,
-  "result": null,
+  "result": false,
   "legs": [
    {
     "sp": "nhl",
@@ -417,7 +417,7 @@
       "Desk number after calibration and market blend: 80%.",
       "Expected value +6.9% per bet at -298.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (44-27 favorite ML), The Scorekeeper (41-19 favorite ML), The Commissioner (9-6 favorite ML)."
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (46-30 favorite ML), The Scorekeeper (44-22 favorite ML), The Commissioner (13-9 favorite ML)."
      ],
      "script": "CAR at VAN — I'm on CAR ML (-298). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 4.3, VAN 2.7. The matchup favors CAR: defense top 12% vs VAN bottom 4% shot volume. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together."
     }
@@ -432,7 +432,7 @@
     "start": "2026-10-20T23:00Z",
     "unlockAt": 1792535400000,
     "by": "The Simulator + The Judge + The Scorekeeper",
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "bullets": [
@@ -440,7 +440,7 @@
       "Desk number after calibration and market blend: 79%.",
       "Expected value +14.0% per bet at -225.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (33-16 home ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML)."
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (35-19 home ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML)."
      ],
      "script": "SJ at MTL — I'm on MTL ML (-225). The price is close to fair here — this one rides on who's backing it. Our projected final is SJ 3.0, MTL 4.0. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Cole Caufield 0.5 goals/g, and lately 0.8 lately."
     }
@@ -455,7 +455,7 @@
     "start": "2026-10-20T23:00Z",
     "unlockAt": 1792535400000,
     "by": "The Simulator + The Judge + The Scorekeeper",
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "bullets": [
@@ -463,7 +463,7 @@
       "Desk number after calibration and market blend: 75%.",
       "Expected value +23.7% per bet at -155.",
       "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Judge (33-16 home ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML)."
+      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (35-19 home ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML)."
      ],
      "script": "LA at WSH — I'm on WSH ML (-155). We ran this game 10,000 times: WSH wins 66% of the time; the price says 61%. Our projected final is LA 2.6, WSH 3.7. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Ryan Leonard 0.3 goals/g, and lately 0.4 lately."
     }
@@ -478,7 +478,7 @@
     "start": "2026-10-21T00:00Z",
     "unlockAt": 1792539000000,
     "by": "The Simulator + The Scorekeeper",
-    "hit": null,
+    "hit": true,
     "push": false,
     "why": {
      "bullets": [
@@ -486,17 +486,17 @@
       "Desk number after calibration and market blend: 75%.",
       "Expected value +19.9% per bet at -170.",
       "The Judge, weighing every witness by its graded accuracy, is on the other side.",
-      "3 of 9 characters on it, 1 independent of the sim: The Simulator (41-20 favorite ML), The Scorekeeper (41-19 favorite ML), The Commissioner (8-2 home ML)."
+      "3 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML)."
      ],
-     "script": "BOS at DAL — I'm on DAL ML (-170). The price is close to fair here — this one rides on who's backing it. Our projected final is BOS 2.8, DAL 3.0. Blend + Brain + Scorekeeper are all on it — they're 186-107 together. 3 of our 9 analysts are on DAL — The Simulator is 41-20 favorite ML."
+     "script": "BOS at DAL — I'm on DAL ML (-170). The price is close to fair here — this one rides on who's backing it. Our projected final is BOS 2.8, DAL 3.0. Blend + Brain + Scorekeeper are all on it — they're 186-107 together. 3 of our 9 analysts are on DAL — The Simulator is 44-23 favorite ML."
     }
    }
   ]
  },
  "parlayRecord": {
   "w": 1,
-  "l": 9,
-  "u": 0.04
+  "l": 10,
+  "u": -0.96
  },
  "updates": [],
  "history": [
@@ -538,7 +538,7 @@
       "The Scorekeeper",
       "The Commissioner"
      ],
-     "hit": null,
+     "hit": false,
      "push": false
     },
     {
@@ -557,7 +557,7 @@
       "The Scorekeeper",
       "The Commissioner"
      ],
-     "hit": null,
+     "hit": false,
      "push": false
     }
    ]
