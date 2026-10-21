@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792552027461,
+ "generated": 1792600516128,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -17,7 +17,7 @@
     {
      "sp": "nhl",
      "game": "PIT@VGK",
-     "gl": "#26 PIT@#3 VGK",
+     "gl": "#27 PIT@#5 VGK",
      "pick": "VGK ML",
      "price": -218,
      "push": false
@@ -25,7 +25,7 @@
     {
      "sp": "nhl",
      "game": "DAL@CHI",
-     "gl": "#4 DAL@#28 CHI",
+     "gl": "#2 DAL@#28 CHI",
      "pick": "DAL ML",
      "price": -191,
      "push": false
@@ -33,7 +33,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#1 CAR@#19 WPG",
+     "gl": "#1 CAR@#23 WPG",
      "pick": "CAR ML",
      "price": -179,
      "push": false
@@ -41,7 +41,7 @@
     {
      "sp": "nhl",
      "game": "SEA@FLA",
-     "gl": "#22 SEA@#5 FLA",
+     "gl": "#22 SEA@#6 FLA",
      "pick": "FLA ML",
      "price": -180,
      "push": false
@@ -64,7 +64,7 @@
     {
      "sp": "nhl",
      "game": "MTL@WSH",
-     "gl": "#14 MTL@#16 WSH",
+     "gl": "#15 MTL@#16 WSH",
      "pick": "WSH ML",
      "price": -113,
      "push": false
@@ -110,7 +110,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#3 VGK@#8 MIN",
+     "gl": "#5 VGK@#8 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -118,7 +118,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#23 BUF",
+     "gl": "#6 FLA@#21 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -149,7 +149,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#23 BUF",
+     "gl": "#6 FLA@#21 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -171,7 +171,7 @@
     {
      "sp": "ncaaf",
      "game": "UL@LT",
-     "gl": "#74 UL@#82 LT",
+     "gl": "#67 UL@#80 LT",
      "pick": "Over 47.5",
      "price": -118,
      "push": false
@@ -179,7 +179,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#19 TEX@#32 OU",
+     "gl": "#19 TEX@#25 OU",
      "pick": "Over 39.5",
      "price": -110,
      "push": false
@@ -196,303 +196,14 @@
  "handle": "RuleTheWorldKid",
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
-  "w": 17,
+  "w": 18,
   "l": 12,
   "pu": 0,
-  "u": 1.1488525771656088,
+  "u": 1.4844230469642667,
   "first": "2026-10-06"
  },
- "today": {
-  "d": "2026-10-20",
-  "lockedAt": 1792512872931,
-  "unlockMin": 30,
-  "picks": [
-   {
-    "sp": "nhl",
-    "game": "CAR@VAN",
-    "gl": "#1 CAR@#32 VAN",
-    "pick": "CAR ML",
-    "price": -298,
-    "p": 0.8,
-    "ev": 6.9,
-    "start": "2026-10-21T02:00Z",
-    "tier": "STRONG",
-    "voices": [
-     "The Simulator",
-     "The Judge",
-     "The Scorekeeper",
-     "The Scout"
-    ],
-    "hit": null,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 71% across 10,000 runs vs 75% the price implies.",
-      "Desk number after calibration and market blend: 80%.",
-      "Expected value +6.9% per bet at -298.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (46-30 favorite ML), The Scorekeeper (44-22 favorite ML), The Commissioner (13-9 favorite ML).",
-      "Against: The Crowd."
-     ],
-     "script": "CAR at VAN — I'm on CAR ML (-298). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 4.3, VAN 2.7. The matchup favors CAR: defense top 12% vs VAN bottom 4% shot volume. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together.",
-     "read": {
-      "who": "The Simulator",
-      "v": "Sim",
-      "take": "I ran this game 10,000 times. Carolina wins 76% of them.",
-      "text": "I ran this game 10,000 times. Carolina wins 76% of them. My projected final is Carolina 4.3, Vancouver 2.7. Sebastian Aho averages 1.0 points a game. Played 10,000 times, Carolina wins 76% of them. I'm 67-29 on NHL favorites on the moneyline. The worry: Carolina is missing Taylor Hall (LW) and Mark Jankowski (C) — that's the hole. At -298 the book needs this to hit 75% of the time. I have it at 80% — the price pays more than the risk.",
-      "also": [
-       {
-        "who": "The Scorekeeper",
-        "take": "My single most likely final: Carolina 3, Vancouver 2."
-       }
-      ]
-     }
-    },
-    "unlockAt": 1792546200000
-   },
-   {
-    "sp": "nhl",
-    "game": "SJ@MTL",
-    "gl": "#29 SJ@#14 MTL",
-    "pick": "MTL ML",
-    "price": -225,
-    "p": 0.789,
-    "ev": 14,
-    "start": "2026-10-20T23:00Z",
-    "tier": "STRONG",
-    "voices": [
-     "The Simulator",
-     "The Judge",
-     "The Scorekeeper"
-    ],
-    "hit": false,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 63% across 10,000 runs vs 69% the price implies.",
-      "Desk number after calibration and market blend: 79%.",
-      "Expected value +14.0% per bet at -225.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (35-19 home ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML).",
-      "Against: The Crowd."
-     ],
-     "script": "SJ at MTL — I'm on MTL ML (-225). The price is close to fair here — this one rides on who's backing it. Our projected final is SJ 3.0, MTL 4.0. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Cole Caufield 0.5 goals/g, and lately 0.8 lately.",
-     "read": {
-      "who": "The Simulator",
-      "v": "Sim",
-      "take": "I ran this game 10,000 times. Montreal wins 70% of them.",
-      "text": "I ran this game 10,000 times. Montreal wins 70% of them. My projected final is San Jose 3, Montreal 4. Cole Caufield averages 0.5 goals a game, and 0.8 over his recent games — he's hot. Played 10,000 times, Montreal wins 70% of them. I'm 67-29 on NHL favorites on the moneyline. The worry: Montreal is missing Florian Xhekaj (LW) and Sam Montembeault (G) — that's the hole. At -225 the book needs this to hit 69% of the time. I have it at 79% — the price pays more than the risk. The simulation alone says 70%; my 67-29 record on NHL favorites on the moneyline is why my confidence runs higher.",
-      "also": [
-       {
-        "who": "The Scorekeeper",
-        "take": "My single most likely final: San Jose 2, Montreal 3."
-       }
-      ]
-     }
-    },
-    "unlockAt": 1792535400000
-   },
-   {
-    "sp": "nhl",
-    "game": "LA@WSH",
-    "gl": "#27 LA@#16 WSH",
-    "pick": "WSH ML",
-    "price": -155,
-    "p": 0.752,
-    "ev": 23.7,
-    "start": "2026-10-20T23:00Z",
-    "tier": "SUPREME",
-    "voices": [
-     "The Simulator",
-     "The Judge",
-     "The Scorekeeper"
-    ],
-    "hit": false,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 66% across 10,000 runs vs 61% the price implies.",
-      "Desk number after calibration and market blend: 75%.",
-      "Expected value +23.7% per bet at -155.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (35-19 home ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML).",
-      "Against: The Crowd."
-     ],
-     "script": "LA at WSH — I'm on WSH ML (-155). We ran this game 10,000 times: WSH wins 66% of the time; the price says 61%. Our projected final is LA 2.6, WSH 3.7. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Ryan Leonard 0.3 goals/g, and lately 0.4 lately.",
-     "read": {
-      "who": "The Simulator",
-      "v": "Sim",
-      "take": "I ran this game 10,000 times. Washington wins 62% of them.",
-      "text": "I ran this game 10,000 times. Washington wins 62% of them. My projected final is Los Angeles 2.6, Washington 3.7. Ilya Protas averages 0.8 points a game. Played 10,000 times, Washington wins 62% of them. I'm 67-29 on NHL favorites on the moneyline. The worry: Washington is missing Justin Sourdif (RW) and Pierre-Luc Dubois (LW) — that's the hole. At -155 the book needs this to hit 61% of the time. I have it at 75% — the price pays more than the risk. The simulation alone says 62%; my 67-29 record on NHL favorites on the moneyline is why my confidence runs higher.",
-      "also": [
-       {
-        "who": "The Scorekeeper",
-        "take": "My single most likely final: Los Angeles 2, Washington 3."
-       }
-      ]
-     }
-    },
-    "unlockAt": 1792535400000
-   }
-  ],
-  "props": [
-   {
-    "sp": "nba",
-    "player": "Jayson Tatum",
-    "team": "BOS",
-    "label": "Jayson Tatum over 5.5 REB",
-    "stat": "REB",
-    "k": "reb",
-    "thr": 5.5,
-    "side": "over",
-    "price": null,
-    "p": 0.921,
-    "start": "2026-10-20T19:00Z",
-    "hit": null,
-    "push": false,
-    "unlockAt": 1792521000000
-   },
-   {
-    "sp": "nhl",
-    "player": "Dylan Larkin",
-    "team": "DET",
-    "label": "Dylan Larkin over 1.5 SOG",
-    "stat": "SOG",
-    "k": "s",
-    "thr": 1.5,
-    "side": "over",
-    "price": null,
-    "p": 0.92,
-    "start": "2026-10-21T01:40Z",
-    "hit": null,
-    "push": false,
-    "unlockAt": 1792545000000
-   },
-   {
-    "sp": "nba",
-    "player": "Victor Wembanyama",
-    "team": "SA",
-    "label": "Victor Wembanyama over 5.5 REB",
-    "stat": "REB",
-    "k": "reb",
-    "thr": 5.5,
-    "side": "over",
-    "price": null,
-    "p": 0.92,
-    "start": "2026-10-21T01:30Z",
-    "hit": null,
-    "push": false,
-    "unlockAt": 1792544400000
-   }
-  ],
-  "allStarted": true,
-  "commit": {
-   "alg": "sha256",
-   "hash": "c3074803b261cb961c8a72b0894714ffa2b750fd36f68a98ef7b4211811cd31d",
-   "salt": "835d6a9428d8cffd1518ad521b7a6563"
-  }
- },
- "parlay": {
-  "d": "2026-10-20",
-  "lockedAt": 1792512873255,
-  "price": "+404",
-  "p": 0.3586864353326778,
-  "result": false,
-  "legs": [
-   {
-    "sp": "nhl",
-    "game": "CAR@VAN",
-    "gl": "#1 CAR@#32 VAN",
-    "pick": "CAR ML",
-    "price": -298,
-    "p": 0.8003,
-    "start": "2026-10-21T02:00Z",
-    "unlockAt": 1792546200000,
-    "by": "The Simulator + The Judge + The Scorekeeper + The Scout",
-    "hit": null,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 71% across 10,000 runs vs 75% the price implies.",
-      "Desk number after calibration and market blend: 80%.",
-      "Expected value +6.9% per bet at -298.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (46-30 favorite ML), The Scorekeeper (44-22 favorite ML), The Commissioner (13-9 favorite ML)."
-     ],
-     "script": "CAR at VAN — I'm on CAR ML (-298). The price is close to fair here — this one rides on who's backing it. Our projected final is CAR 4.3, VAN 2.7. The matchup favors CAR: defense top 12% vs VAN bottom 4% shot volume. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together."
-    }
-   },
-   {
-    "sp": "nhl",
-    "game": "SJ@MTL",
-    "gl": "#29 SJ@#14 MTL",
-    "pick": "MTL ML",
-    "price": -225,
-    "p": 0.7894,
-    "start": "2026-10-20T23:00Z",
-    "unlockAt": 1792535400000,
-    "by": "The Simulator + The Judge + The Scorekeeper",
-    "hit": false,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 63% across 10,000 runs vs 69% the price implies.",
-      "Desk number after calibration and market blend: 79%.",
-      "Expected value +14.0% per bet at -225.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (35-19 home ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML)."
-     ],
-     "script": "SJ at MTL — I'm on MTL ML (-225). The price is close to fair here — this one rides on who's backing it. Our projected final is SJ 3.0, MTL 4.0. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Cole Caufield 0.5 goals/g, and lately 0.8 lately."
-    }
-   },
-   {
-    "sp": "nhl",
-    "game": "LA@WSH",
-    "gl": "#27 LA@#16 WSH",
-    "pick": "WSH ML",
-    "price": -155,
-    "p": 0.7521,
-    "start": "2026-10-20T23:00Z",
-    "unlockAt": 1792535400000,
-    "by": "The Simulator + The Judge + The Scorekeeper",
-    "hit": false,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 66% across 10,000 runs vs 61% the price implies.",
-      "Desk number after calibration and market blend: 75%.",
-      "Expected value +23.7% per bet at -155.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Judge (35-19 home ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML)."
-     ],
-     "script": "LA at WSH — I'm on WSH ML (-155). We ran this game 10,000 times: WSH wins 66% of the time; the price says 61%. Our projected final is LA 2.6, WSH 3.7. Blend + Brain + Judge + Scorekeeper are all on it — they're 168-96 together. Ryan Leonard 0.3 goals/g, and lately 0.4 lately."
-    }
-   },
-   {
-    "sp": "nhl",
-    "game": "BOS@DAL",
-    "gl": "#6 BOS@#4 DAL",
-    "pick": "DAL ML",
-    "price": -170,
-    "p": 0.7549,
-    "start": "2026-10-21T00:00Z",
-    "unlockAt": 1792539000000,
-    "by": "The Simulator + The Scorekeeper",
-    "hit": true,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 53% across 10,000 runs vs 63% the price implies.",
-      "Desk number after calibration and market blend: 75%.",
-      "Expected value +19.9% per bet at -170.",
-      "The Judge, weighing every witness by its graded accuracy, is on the other side.",
-      "3 of 9 characters on it, 1 independent of the sim: The Simulator (44-23 favorite ML), The Scorekeeper (44-22 favorite ML), The Commissioner (12-5 home ML)."
-     ],
-     "script": "BOS at DAL — I'm on DAL ML (-170). The price is close to fair here — this one rides on who's backing it. Our projected final is BOS 2.8, DAL 3.0. Blend + Brain + Scorekeeper are all on it — they're 186-107 together. 3 of our 9 analysts are on DAL — The Simulator is 44-23 favorite ML."
-    }
-   }
-  ]
- },
+ "today": null,
+ "parlay": null,
  "parlayRecord": {
   "w": 1,
   "l": 10,
@@ -519,13 +230,13 @@
       "The Scorekeeper",
       "The Commissioner"
      ],
-     "hit": null,
+     "hit": true,
      "push": false
     },
     {
      "sp": "nhl",
      "game": "SJ@MTL",
-     "gl": "#29 SJ@#14 MTL",
+     "gl": "#29 SJ@#15 MTL",
      "pick": "MTL ML",
      "price": -225,
      "p": 0.789,
@@ -544,7 +255,7 @@
     {
      "sp": "nhl",
      "game": "LA@WSH",
-     "gl": "#27 LA@#16 WSH",
+     "gl": "#26 LA@#16 WSH",
      "pick": "WSH ML",
      "price": -155,
      "p": 0.752,
@@ -568,7 +279,7 @@
     {
      "sp": "nhl",
      "game": "COL@PHI",
-     "gl": "#11 COL@#30 PHI",
+     "gl": "#13 COL@#30 PHI",
      "pick": "COL ML",
      "price": -238,
      "p": 0.8,
@@ -587,7 +298,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#26 PIT@#10 UTAH",
+     "gl": "#27 PIT@#10 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -673,7 +384,7 @@
     {
      "sp": "nhl",
      "game": "DAL@CHI",
-     "gl": "#4 DAL@#28 CHI",
+     "gl": "#2 DAL@#28 CHI",
      "pick": "DAL ML",
      "price": -191,
      "p": 0.756,
@@ -693,7 +404,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#1 CAR@#19 WPG",
+     "gl": "#1 CAR@#23 WPG",
      "pick": "CAR ML",
      "price": -179,
      "p": 0.753,
@@ -713,7 +424,7 @@
     {
      "sp": "nhl",
      "game": "OTT@PHI",
-     "gl": "#13 OTT@#30 PHI",
+     "gl": "#12 OTT@#30 PHI",
      "pick": "OTT ML",
      "price": -144,
      "p": 0.734,
@@ -738,7 +449,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#26 PIT@#11 COL",
+     "gl": "#27 PIT@#13 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -762,7 +473,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#9 NYR@#15 NJ",
+     "gl": "#9 NYR@#14 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -781,7 +492,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#118 CSU@#65 TXST",
+     "gl": "#121 CSU@#66 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -803,7 +514,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#109 WKU@#126 SHSU",
+     "gl": "#108 WKU@#129 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -825,7 +536,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#2 EDM@#27 LA",
+     "gl": "#3 EDM@#26 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -844,7 +555,7 @@
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#8 MIN@#19 WPG",
+     "gl": "#8 MIN@#23 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
@@ -863,7 +574,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#15 NJ@#18 DET",
+     "gl": "#14 NJ@#18 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -887,7 +598,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#23 BUF",
+     "gl": "#6 FLA@#21 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -929,7 +640,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#14 DEN@#24 LAC",
+     "gl": "#11 DEN@#23 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -948,7 +659,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#11 DET@#31 ARI",
+     "gl": "#9 DET@#26 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -968,7 +679,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#3 SF@#7 SEA",
+     "gl": "#1 SF@#6 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -991,7 +702,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#19 TEX@#32 OU",
+     "gl": "#19 TEX@#25 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -1009,7 +720,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#130 KENT@#76 WMU",
+     "gl": "#132 KENT@#76 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -1027,7 +738,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#112 UAB@#47 MEM",
+     "gl": "#111 UAB@#54 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -1050,7 +761,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#50 ISU@#2 BYU",
+     "gl": "#57 ISU@#2 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -1068,7 +779,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#53 FSU@#21 LOU",
+     "gl": "#52 FSU@#21 LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -1086,7 +797,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#119 WYO@#108 SJSU",
+     "gl": "#112 WYO@#107 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
