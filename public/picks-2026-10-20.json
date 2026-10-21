@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792542101854,
+ "generated": 1792546162406,
  "cashed": [
   {
    "id": "16kh5gq",
@@ -316,15 +316,35 @@
     "unlockAt": 1792521000000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "player": "Dylan Larkin",
+    "team": "DET",
+    "label": "Dylan Larkin over 1.5 SOG",
+    "stat": "SOG",
+    "k": "s",
+    "thr": 1.5,
+    "side": "over",
+    "price": null,
+    "p": 0.92,
     "start": "2026-10-21T01:40Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792545000000
    },
    {
-    "hidden": true,
     "sp": "nba",
+    "player": "Victor Wembanyama",
+    "team": "SA",
+    "label": "Victor Wembanyama over 5.5 REB",
+    "stat": "REB",
+    "k": "reb",
+    "thr": 5.5,
+    "side": "over",
+    "price": null,
+    "p": 0.92,
     "start": "2026-10-21T01:30Z",
+    "hit": null,
+    "push": false,
     "unlockAt": 1792544400000
    }
   ],
