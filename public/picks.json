@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792702068658,
+ "generated": 1792702075192,
  "cashed": [
   {
    "id": "1eujtky",
@@ -250,9 +250,21 @@
  },
  "today": {
   "d": "2026-10-22",
-  "lockedAt": 1792701853181,
+  "lockedAt": 1792702073105,
   "unlockMin": 30,
   "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-23T00:00Z",
+    "unlockAt": 1792711800000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-23T01:00Z",
+    "unlockAt": 1792715400000
+   },
    {
     "hidden": true,
     "sp": "nhl",
@@ -269,27 +281,27 @@
    },
    {
     "hidden": true,
-    "sp": "nba",
-    "start": "2026-10-23T01:30Z",
-    "unlockAt": 1792717200000
+    "sp": "nfl",
+    "start": "2026-10-25T13:30Z",
+    "unlockAt": 1792933200000
    },
    {
     "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-27T00:15Z",
-    "unlockAt": 1793058300000
+    "sp": "nba",
+    "start": "2026-10-23T01:30Z",
+    "unlockAt": 1792717200000
    }
   ],
   "allStarted": false,
   "commit": {
    "alg": "sha256",
-   "hash": "5cc9ce0cf3bf1f9cf9e9477c97fa8ab450dab926878a994bc8f28b1298741dd7",
+   "hash": "395fa54d68f56fe0559782116fcbdd1c0230097fac8b1af2dcf3a545f998c46a",
    "salt": null
   }
  },
  "parlay": {
   "d": "2026-10-22",
-  "lockedAt": 1792702025779,
+  "lockedAt": 1792702073483,
   "price": "+431",
   "p": 0.336708006149232,
   "result": null,
@@ -332,18 +344,57 @@
    "picks": [
     {
      "sp": "nhl",
-     "game": "NYR@TOR",
-     "gl": "#9 NYR@#13 TOR",
-     "pick": "TOR ML",
-     "price": -108,
-     "p": 0.721,
-     "ev": 38.8,
-     "start": "2026-10-22T23:00Z",
+     "game": "WPG@DAL",
+     "gl": "#26 WPG@#7 DAL",
+     "pick": "DAL ML",
+     "price": -205,
+     "p": 0.777,
+     "ev": 15.6,
+     "start": "2026-10-23T00:00Z",
      "tier": "STRONG",
      "voices": [
       "The Simulator",
       "The Judge",
       "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@CGY",
+     "gl": "#8 MIN@#31 CGY",
+     "pick": "MIN ML",
+     "price": -205,
+     "p": 0.776,
+     "ev": 15.4,
+     "start": "2026-10-23T01:00Z",
+     "tier": "STRONG",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Commissioner"
+     ],
+     "hit": null,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "NSH@BOS",
+     "gl": "#15 NSH@#3 BOS",
+     "pick": "BOS ML",
+     "price": -155,
+     "p": 0.724,
+     "ev": 19.1,
+     "start": "2026-10-22T23:00Z",
+     "tier": "UNANIMOUS",
+     "voices": [
+      "The Simulator",
+      "The Judge",
+      "The Scorekeeper",
+      "The Oracle",
       "The Commissioner"
      ],
      "hit": null,
