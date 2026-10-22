@@ -1,7 +1,53 @@
 {
  "v": 4,
- "generated": 1792623694019,
+ "generated": 1792645308745,
  "cashed": [
+  {
+   "id": "1eujtky",
+   "d": "2026-10-19",
+   "who": [
+    "The Simulator"
+   ],
+   "banker": false,
+   "props": true,
+   "price": "+229",
+   "units": 2.29,
+   "rec": "Simulator 2-2 +1.2u",
+   "legs": [
+    {
+     "sp": "ncaaf",
+     "game": "OSU@IU",
+     "gl": "#3 OSU@#6 IU",
+     "pick": "Josh Hoover 200+ pass yds",
+     "price": -1236,
+     "push": true
+    },
+    {
+     "sp": "ncaaf",
+     "game": "UNM@HAW",
+     "gl": "#31 UNM@#127 HAW",
+     "pick": "Micah Alejado 200+ pass yds",
+     "price": -1163,
+     "push": true
+    },
+    {
+     "sp": "nhl",
+     "game": "SJ@TOR",
+     "gl": "#29 SJ@#24 TOR",
+     "pick": "TOR ML",
+     "price": -135,
+     "push": false
+    },
+    {
+     "sp": "nfl",
+     "game": "WSH@SF",
+     "gl": "#27 WSH@#1 SF",
+     "pick": "WSH +7.5",
+     "price": -112,
+     "push": false
+    }
+   ]
+  },
   {
    "id": "16kh5gq",
    "d": "2026-10-17",
@@ -17,7 +63,7 @@
     {
      "sp": "nhl",
      "game": "PIT@VGK",
-     "gl": "#27 PIT@#6 VGK",
+     "gl": "#27 PIT@#5 VGK",
      "pick": "VGK ML",
      "price": -218,
      "push": false
@@ -41,7 +87,7 @@
     {
      "sp": "nhl",
      "game": "SEA@FLA",
-     "gl": "#20 SEA@#5 FLA",
+     "gl": "#21 SEA@#11 FLA",
      "pick": "FLA ML",
      "price": -180,
      "push": false
@@ -110,7 +156,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#6 VGK@#8 MIN",
+     "gl": "#5 VGK@#7 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -118,7 +164,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#21 BUF",
+     "gl": "#11 FLA@#20 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -149,7 +195,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#21 BUF",
+     "gl": "#11 FLA@#20 BUF",
      "pick": "BUF ML",
      "price": -107,
      "push": false
@@ -197,86 +243,12 @@
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
   "w": 18,
-  "l": 12,
+  "l": 13,
   "pu": 0,
-  "u": 1.4844230469642667,
+  "u": 0.48442304696426675,
   "first": "2026-10-06"
  },
- "today": {
-  "d": "2026-10-21",
-  "lockedAt": 1792623208537,
-  "unlockMin": 30,
-  "picks": [
-   {
-    "sp": "nhl",
-    "game": "PHI@BUF",
-    "gl": "#30 PHI@#21 BUF",
-    "pick": "BUF ML",
-    "price": -218,
-    "p": 0.784,
-    "ev": 14.4,
-    "start": "2026-10-21T23:30Z",
-    "tier": "STRONG",
-    "voices": [
-     "The Simulator",
-     "The Judge",
-     "The Scorekeeper"
-    ],
-    "hit": null,
-    "push": false,
-    "why": {
-     "bullets": [
-      "Sim: 54% across 10,000 runs vs 69% the price implies.",
-      "Desk number after calibration and market blend: 78%.",
-      "Expected value +14.4% per bet at -218.",
-      "The Judge, weighing every witness by its graded accuracy, is on this side.",
-      "4 of 9 characters on it, 1 independent of the sim: The Simulator (47-24 favorite ML), The Judge (37-20 home ML), The Scorekeeper (47-23 favorite ML), The Commissioner (14-6 home ML).",
-      "Standing: PHI (2-6-3, #30 in power, −0.66) at BUF (4-3-2, #21, −0.13) — power line BUF by 0.70 goals."
-     ],
-     "script": "PHI at BUF — I'm on BUF ML (-218). The price is close to fair here — this one rides on who's backing it. Our projected final is PHI 3.0, BUF 3.3. Blend + Brain + Judge + Scorekeeper are all on it — they're 185-106 together. Tage Thompson 0.9 pts/g, and lately 1.0 lately.",
-     "read": {
-      "who": "The Simulator",
-      "v": "Sim",
-      "take": "I ran this game 10,000 times. Buffalo wins 68% of them.",
-      "text": "I ran this game 10,000 times. Buffalo wins 68% of them. My projected final is Philadelphia 3, Buffalo 3.3. Tage Thompson averages 0.9 points a game. Played 10,000 times, Buffalo wins 68% of them. I'm 70-30 on NHL favorites on the moneyline. The worry: Buffalo is missing Sam Carrick (C) and Justin Danforth (RW) — that's the hole. At -218 the book needs this to hit 69% of the time. I have it at 78% — the price pays more than the risk. The simulation alone says 68%; my 70-30 record on NHL favorites on the moneyline is why my confidence runs higher.",
-      "also": [
-       {
-        "who": "The Scorekeeper",
-        "take": "My single most likely final: Philadelphia 2, Buffalo 3."
-       }
-      ]
-     }
-    },
-    "unlockAt": 1792623600000
-   }
-  ],
-  "props": [
-   {
-    "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-25T20:05Z",
-    "unlockAt": 1792956900000
-   },
-   {
-    "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-27T00:15Z",
-    "unlockAt": 1793058300000
-   },
-   {
-    "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-25T13:30Z",
-    "unlockAt": 1792933200000
-   }
-  ],
-  "allStarted": true,
-  "commit": {
-   "alg": "sha256",
-   "hash": "bdece6c3fe3844bb250c5c343b42fc24e87b09cc8389044bcb2606bcb32162ec",
-   "salt": "5bc7afad8dc9f72ee739c4af2f9f4133"
-  }
- },
+ "today": null,
  "parlay": null,
  "parlayRecord": {
   "w": 1,
@@ -291,7 +263,7 @@
     {
      "sp": "nhl",
      "game": "PHI@BUF",
-     "gl": "#30 PHI@#21 BUF",
+     "gl": "#30 PHI@#20 BUF",
      "pick": "BUF ML",
      "price": -218,
      "p": 0.784,
@@ -304,7 +276,7 @@
       "The Scorekeeper",
       "The Commissioner"
      ],
-     "hit": null,
+     "hit": false,
      "push": false
     }
    ]
@@ -377,7 +349,7 @@
     {
      "sp": "nhl",
      "game": "COL@PHI",
-     "gl": "#13 COL@#30 PHI",
+     "gl": "#12 COL@#30 PHI",
      "pick": "COL ML",
      "price": -238,
      "p": 0.8,
@@ -396,7 +368,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#27 PIT@#10 UTAH",
+     "gl": "#27 PIT@#9 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -415,7 +387,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#25 ANA@#9 NYR",
+     "gl": "#25 ANA@#8 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -458,7 +430,7 @@
     {
      "sp": "nhl",
      "game": "CBJ@MIN",
-     "gl": "#22 CBJ@#8 MIN",
+     "gl": "#22 CBJ@#7 MIN",
      "pick": "MIN ML",
      "price": -185,
      "p": 0.809,
@@ -522,7 +494,7 @@
     {
      "sp": "nhl",
      "game": "OTT@PHI",
-     "gl": "#12 OTT@#30 PHI",
+     "gl": "#14 OTT@#30 PHI",
      "pick": "OTT ML",
      "price": -144,
      "p": 0.734,
@@ -547,7 +519,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#27 PIT@#13 COL",
+     "gl": "#27 PIT@#12 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -571,7 +543,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#9 NYR@#14 NJ",
+     "gl": "#8 NYR@#13 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -612,7 +584,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#108 WKU@#129 SHSU",
+     "gl": "#110 WKU@#129 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -653,7 +625,7 @@
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#8 MIN@#23 WPG",
+     "gl": "#7 MIN@#23 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
@@ -672,7 +644,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#14 NJ@#18 DET",
+     "gl": "#13 NJ@#18 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -696,7 +668,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#5 FLA@#21 BUF",
+     "gl": "#11 FLA@#20 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -738,7 +710,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#11 DEN@#23 LAC",
+     "gl": "#13 DEN@#24 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -757,7 +729,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#9 DET@#26 ARI",
+     "gl": "#10 DET@#28 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -777,7 +749,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#1 SF@#6 SEA",
+     "gl": "#1 SF@#7 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
