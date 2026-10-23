@@ -1,7 +1,53 @@
 {
  "v": 4,
- "generated": 1792702606743,
+ "generated": 1792765020805,
  "cashed": [
+  {
+   "id": "dzr5tp",
+   "d": "2026-10-20",
+   "who": [
+    "The Scorekeeper"
+   ],
+   "banker": false,
+   "props": true,
+   "price": "+206",
+   "units": 2.06,
+   "rec": "Scorekeeper 2-2 +0.8u",
+   "legs": [
+    {
+     "sp": "nhl",
+     "game": "DET@SEA",
+     "gl": "#20 DET@#22 SEA",
+     "pick": "Dylan Larkin 2+ SOG",
+     "price": -2521,
+     "push": true
+    },
+    {
+     "sp": "nhl",
+     "game": "SJ@MTL",
+     "gl": "#23 SJ@#14 MTL",
+     "pick": "Cole Caufield 2+ SOG",
+     "price": -2058,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "WPG@STL",
+     "gl": "#26 WPG@#18 STL",
+     "pick": "STL ML",
+     "price": -148,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@EDM",
+     "gl": "#8 MIN@#5 EDM",
+     "pick": "EDM ML",
+     "price": -135,
+     "push": false
+    }
+   ]
+  },
   {
    "id": "1eujtky",
    "d": "2026-10-19",
@@ -63,7 +109,7 @@
     {
      "sp": "nhl",
      "game": "PIT@VGK",
-     "gl": "#27 PIT@#5 VGK",
+     "gl": "#27 PIT@#4 VGK",
      "pick": "VGK ML",
      "price": -218,
      "push": false
@@ -156,7 +202,7 @@
     {
      "sp": "nhl",
      "game": "VGK@MIN",
-     "gl": "#5 VGK@#8 MIN",
+     "gl": "#4 VGK@#8 MIN",
      "pick": "MIN ML",
      "price": -112,
      "push": false
@@ -248,90 +294,8 @@
   "u": 0.48442304696426675,
   "first": "2026-10-06"
  },
- "today": {
-  "d": "2026-10-22",
-  "lockedAt": 1792702073105,
-  "unlockMin": 30,
-  "picks": [
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-23T00:00Z",
-    "unlockAt": 1792711800000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-23T01:00Z",
-    "unlockAt": 1792715400000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-22T23:00Z",
-    "unlockAt": 1792708200000
-   }
-  ],
-  "props": [
-   {
-    "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-27T00:15Z",
-    "unlockAt": 1793058300000
-   },
-   {
-    "hidden": true,
-    "sp": "nfl",
-    "start": "2026-10-25T13:30Z",
-    "unlockAt": 1792933200000
-   },
-   {
-    "hidden": true,
-    "sp": "nba",
-    "start": "2026-10-23T01:30Z",
-    "unlockAt": 1792717200000
-   }
-  ],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "395fa54d68f56fe0559782116fcbdd1c0230097fac8b1af2dcf3a545f998c46a",
-   "salt": null
-  }
- },
- "parlay": {
-  "d": "2026-10-22",
-  "lockedAt": 1792702073483,
-  "price": "+431",
-  "p": 0.336708006149232,
-  "result": null,
-  "legs": [
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-23T00:00Z",
-    "unlockAt": 1792711800000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-23T01:00Z",
-    "unlockAt": 1792715400000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-22T23:00Z",
-    "unlockAt": 1792708200000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-22T23:00Z",
-    "unlockAt": 1792708200000
-   }
-  ]
- },
+ "today": null,
+ "parlay": null,
  "parlayRecord": {
   "w": 1,
   "l": 10,
@@ -751,7 +715,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#4 EDM@#24 LA",
+     "gl": "#5 EDM@#24 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -855,7 +819,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#13 DEN@#24 LAC",
+     "gl": "#13 DEN@#25 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
