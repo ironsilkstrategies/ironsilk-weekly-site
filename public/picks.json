@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792913328071,
+ "generated": 1792934569557,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -19,7 +19,38 @@
   "be": 0.5939653824343427,
   "ap": -146
  },
- "today": null,
+ "today": {
+  "d": "2026-10-25",
+  "lockedAt": 1792934561074,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-25T22:00Z",
+    "unlockAt": 1792963800000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-26T02:00Z",
+    "unlockAt": 1792978200000
+   },
+   {
+    "hidden": true,
+    "sp": "nba",
+    "start": "2026-10-25T23:00Z",
+    "unlockAt": 1792967400000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "42130547e207a325aedbdd179a2cc5db6f179097ad95e81d737df8ccfae29877",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -304,7 +335,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#127 CSU@#57 TXST",
+     "gl": "#125 CSU@#57 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -415,7 +446,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#13 DEN@#25 LAC",
+     "gl": "#15 DEN@#25 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -459,7 +490,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#19 TEX@#47 OU",
+     "gl": "#19 TEX@#45 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -472,7 +503,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#132 KENT@#45 WMU",
+     "gl": "#132 KENT@#46 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -485,7 +516,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#109 UAB@#39 MEM",
+     "gl": "#107 UAB@#40 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -503,7 +534,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#77 ISU@#2 BYU",
+     "gl": "#79 ISU@#2 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -516,7 +547,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#72 FSU@#15 LOU",
+     "gl": "#73 FSU@#13 LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -529,7 +560,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#95 WYO@#85 SJSU",
+     "gl": "#95 WYO@#90 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
