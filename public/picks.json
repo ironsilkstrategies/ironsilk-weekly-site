@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792958586670,
+ "generated": 1792963830862,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -25,9 +25,24 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "NYI@DAL",
+    "gl": "#15 NYI@#4 DAL",
+    "pick": "DAL ML",
+    "price": -190,
+    "p": 0.824,
+    "ev": 25.8,
     "start": "2026-10-25T22:00Z",
+    "tier": "STRONG",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Dallas wins 67% of them.",
+      "text": "I ran this game 10,000 times. Dallas wins 67% of them. My projected final is New York 2.4, Dallas 3. Roope Hintz averages 0.5 goals a game, and 0.8 over his recent games — he's hot. Played 10,000 times, Dallas wins 67% of them. I'm 85-40 on NHL favorites on the moneyline. The worry: Dallas is missing Oskar Back (C) and Esa Lindell (D) — that's the hole. At -190 the book needs this to hit 66% of the time. I have it at 82% — the price pays more than the risk. The simulation alone says 67%; my 85-40 record on NHL favorites on the moneyline is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1792963800000
    },
    {
