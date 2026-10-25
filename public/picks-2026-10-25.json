@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792934569557,
+ "generated": 1792934636480,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -21,21 +21,9 @@
  },
  "today": {
   "d": "2026-10-25",
-  "lockedAt": 1792934561074,
+  "lockedAt": 1792934635390,
   "unlockMin": 30,
   "picks": [
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-25T22:00Z",
-    "unlockAt": 1792963800000
-   },
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-10-26T02:00Z",
-    "unlockAt": 1792978200000
-   },
    {
     "hidden": true,
     "sp": "nba",
@@ -47,7 +35,7 @@
   "allStarted": false,
   "commit": {
    "alg": "sha256",
-   "hash": "42130547e207a325aedbdd179a2cc5db6f179097ad95e81d737df8ccfae29877",
+   "hash": "727da51dc739b8f2c80ae62bbed79bfb5a369eb2f2dd43f6fecd4f40b1df24d3",
    "salt": null
   }
  },
