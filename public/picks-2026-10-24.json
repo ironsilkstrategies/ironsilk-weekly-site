@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792855454762,
+ "generated": 1792890524145,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -21,22 +21,37 @@
  },
  "today": {
   "d": "2026-10-24",
-  "lockedAt": 1792855454129,
+  "lockedAt": 1792861947787,
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "SJ@BOS",
+    "gl": "#18 SJ@#2 BOS",
+    "pick": "BOS ML",
+    "price": -192,
+    "p": 0.805,
+    "ev": 22.4,
     "start": "2026-10-24T23:00Z",
+    "tier": "SUPREME",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Scorekeeper",
+      "take": "My single most likely final: San Jose 2, Boston 3.",
+      "text": "My single most likely final: San Jose 2, Boston 3. Morgan Geekie averages 0.7 points a game. San Jose is without Igor Chernyshov (LW, out) and Alexander Wennberg (C, out). Played 10,000 times, Boston wins 65% of them. I'm 78-36 on NHL favorites on the moneyline. The worry: A hot goalie can flip a game like this — nothing here is a lock. At -192 the book needs this to hit 66% of the time. I have it at 81% — the price pays more than the risk. The simulation alone says 65%; my 78-36 record on NHL favorites on the moneyline is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1792881000000
    }
   ],
   "props": [],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
-   "hash": "34d870788ff9b4d4965b7bec77c116bab325c811fd0369436ccbb1d4411a925a",
-   "salt": null
+   "hash": "23b98886aff1d5eda2b12472d1e33e4db41c12c067f10aef8bdc9c7de0e1b74c",
+   "salt": "d8e410d4ef8fd7af0c9c0b4194521c41"
   }
  },
  "parlay": null,
