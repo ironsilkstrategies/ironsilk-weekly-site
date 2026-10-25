@@ -1,0 +1,596 @@
+{
+ "v": 4,
+ "generated": 1792934569557,
+ "cashed": [],
+ "brand": "TheDesk",
+ "price": "$25/mo · $10/wk",
+ "social": {
+  "fb": "https://www.facebook.com/share/1FCDFdUvRp/",
+  "tg": "https://t.me/TheDeskApp"
+ },
+ "handle": "RuleTheWorldKid",
+ "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
+ "record": {
+  "w": 21,
+  "l": 14,
+  "pu": 0,
+  "u": 1.1382225486689612,
+  "first": "2026-10-06",
+  "be": 0.5939653824343427,
+  "ap": -146
+ },
+ "today": {
+  "d": "2026-10-25",
+  "lockedAt": 1792934561074,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-25T22:00Z",
+    "unlockAt": 1792963800000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-10-26T02:00Z",
+    "unlockAt": 1792978200000
+   },
+   {
+    "hidden": true,
+    "sp": "nba",
+    "start": "2026-10-25T23:00Z",
+    "unlockAt": 1792967400000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "42130547e207a325aedbdd179a2cc5db6f179097ad95e81d737df8ccfae29877",
+   "salt": null
+  }
+ },
+ "parlay": null,
+ "parlayRecord": null,
+ "updates": [],
+ "history": [
+  {
+   "d": "2026-10-24",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "SJ@BOS",
+     "gl": "#16 SJ@#1 BOS",
+     "pick": "BOS ML",
+     "price": -192,
+     "p": 0.805,
+     "ev": 22.4,
+     "start": "2026-10-24T23:00Z",
+     "tier": "SUPREME",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "WPG@DAL",
+     "gl": "#23 WPG@#4 DAL",
+     "pick": "DAL ML",
+     "price": -205,
+     "p": 0.777,
+     "ev": 15.6,
+     "start": "2026-10-23T00:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@CGY",
+     "gl": "#6 MIN@#30 CGY",
+     "pick": "MIN ML",
+     "price": -205,
+     "p": 0.776,
+     "ev": 15.4,
+     "start": "2026-10-23T01:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "NSH@BOS",
+     "gl": "#29 NSH@#1 BOS",
+     "pick": "BOS ML",
+     "price": -155,
+     "p": 0.724,
+     "ev": 19.1,
+     "start": "2026-10-22T23:00Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-21",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "PHI@BUF",
+     "gl": "#26 PHI@#24 BUF",
+     "pick": "BUF ML",
+     "price": -218,
+     "p": 0.784,
+     "ev": 14.4,
+     "start": "2026-10-21T23:30Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-20",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "CAR@VAN",
+     "gl": "#2 CAR@#31 VAN",
+     "pick": "CAR ML",
+     "price": -298,
+     "p": 0.8,
+     "ev": 6.9,
+     "start": "2026-10-21T02:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "SJ@MTL",
+     "gl": "#16 SJ@#14 MTL",
+     "pick": "MTL ML",
+     "price": -225,
+     "p": 0.789,
+     "ev": 14,
+     "start": "2026-10-20T23:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "LA@WSH",
+     "gl": "#27 LA@#22 WSH",
+     "pick": "WSH ML",
+     "price": -155,
+     "p": 0.752,
+     "ev": 23.7,
+     "start": "2026-10-20T23:00Z",
+     "tier": "SUPREME",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-19",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "COL@PHI",
+     "gl": "#3 COL@#26 PHI",
+     "pick": "COL ML",
+     "price": -238,
+     "p": 0.8,
+     "ev": 13.6,
+     "start": "2026-10-19T23:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "PIT@UTAH",
+     "gl": "#18 PIT@#7 UTAH",
+     "pick": "UTAH ML",
+     "price": -185,
+     "p": 0.762,
+     "ev": 17.4,
+     "start": "2026-10-20T01:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "ANA@NYR",
+     "gl": "#25 ANA@#11 NYR",
+     "pick": "NYR ML",
+     "price": -155,
+     "p": 0.759,
+     "ev": 24.8,
+     "start": "2026-10-19T23:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-18",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "CAR@CGY",
+     "gl": "#2 CAR@#30 CGY",
+     "pick": "CAR ML",
+     "price": -218,
+     "p": 0.818,
+     "ev": 19.3,
+     "start": "2026-10-19T00:00Z",
+     "tier": "SUPREME",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "CBJ@MIN",
+     "gl": "#28 CBJ@#6 MIN",
+     "pick": "MIN ML",
+     "price": -185,
+     "p": 0.809,
+     "ev": 24.6,
+     "start": "2026-10-18T22:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-17",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "DAL@CHI",
+     "gl": "#4 DAL@#32 CHI",
+     "pick": "DAL ML",
+     "price": -191,
+     "p": 0.756,
+     "ev": 15.2,
+     "start": "2026-10-17T23:00Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "CAR@WPG",
+     "gl": "#2 CAR@#23 WPG",
+     "pick": "CAR ML",
+     "price": -179,
+     "p": 0.753,
+     "ev": 17.4,
+     "start": "2026-10-17T19:30Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "OTT@PHI",
+     "gl": "#10 OTT@#26 PHI",
+     "pick": "OTT ML",
+     "price": -144,
+     "p": 0.734,
+     "ev": 24.3,
+     "start": "2026-10-17T23:00Z",
+     "tier": "UNANIMOUS",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-16",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "PIT@COL",
+     "gl": "#18 PIT@#3 COL",
+     "pick": "COL ML",
+     "price": -205,
+     "p": 0.812,
+     "ev": 20.9,
+     "start": "2026-10-17T01:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-15",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NYR@NJ",
+     "gl": "#11 NYR@#9 NJ",
+     "pick": "Under 6.5",
+     "price": -135,
+     "p": 0.587,
+     "ev": 2.2,
+     "start": "2026-10-15T23:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "CSU@TXST",
+     "gl": "#125 CSU@#57 TXST",
+     "pick": "CSU +14",
+     "price": -105,
+     "p": 0.523,
+     "ev": 2,
+     "start": "2026-10-16T00:00Z",
+     "tier": "VALUE",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-14",
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "WKU@SHSU",
+     "gl": "#98 WKU@#128 SHSU",
+     "pick": "SHSU +1.5",
+     "price": -105,
+     "p": 0.528,
+     "ev": 3.2,
+     "start": "2026-10-15T00:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-13",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "EDM@LA",
+     "gl": "#5 EDM@#27 LA",
+     "pick": "EDM ML",
+     "price": -125,
+     "p": 0.581,
+     "ev": 4.5,
+     "start": "2026-10-14T02:30Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@WPG",
+     "gl": "#6 MIN@#23 WPG",
+     "pick": "Under 6.5",
+     "price": -130,
+     "p": 0.583,
+     "ev": 3.1,
+     "start": "2026-10-14T00:15Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "NJ@DET",
+     "gl": "#9 NJ@#20 DET",
+     "pick": "DET ML",
+     "price": -110,
+     "p": 0.539,
+     "ev": 2.9,
+     "start": "2026-10-13T22:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-12",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "FLA@BUF",
+     "gl": "#17 FLA@#24 BUF",
+     "pick": "BUF ML",
+     "price": -108,
+     "p": 0.525,
+     "ev": 1,
+     "start": "2026-10-12T17:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "mlb",
+     "game": "LAD@MIL",
+     "gl": "#2 LAD@#1 MIL",
+     "pick": "Under 7",
+     "price": -128,
+     "p": 0.567,
+     "ev": 1,
+     "start": "",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-11",
+   "picks": [
+    {
+     "sp": "nfl",
+     "game": "DEN@LAC",
+     "gl": "#15 DEN@#25 LAC",
+     "pick": "Over 41.5",
+     "price": -115,
+     "p": 0.553,
+     "ev": 3.3,
+     "start": "2026-10-11T20:05Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nfl",
+     "game": "DET@ARI",
+     "gl": "#10 DET@#28 ARI",
+     "pick": "Over 54.5",
+     "price": -115,
+     "p": 0.552,
+     "ev": 3.2,
+     "start": "2026-10-11T20:25Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nfl",
+     "game": "SF@SEA",
+     "gl": "#1 SF@#6 SEA",
+     "pick": "SF +3",
+     "price": -110,
+     "p": 0.583,
+     "ev": 11.2,
+     "start": "2026-10-11T20:25Z",
+     "tier": "VALUE",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-10",
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "TEX@OU",
+     "gl": "#19 TEX@#45 OU",
+     "pick": "OU +8.5",
+     "price": -110,
+     "p": 0.545,
+     "ev": 4,
+     "start": "2026-10-10T19:30Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "KENT@WMU",
+     "gl": "#132 KENT@#46 WMU",
+     "pick": "WMU -13.5",
+     "price": -112,
+     "p": 0.547,
+     "ev": 3.6,
+     "start": "2026-10-10T19:30Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "UAB@MEM",
+     "gl": "#107 UAB@#40 MEM",
+     "pick": "MEM -14",
+     "price": -110,
+     "p": 0.542,
+     "ev": 3.5,
+     "start": "2026-10-10T23:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-09",
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "ISU@BYU",
+     "gl": "#79 ISU@#2 BYU",
+     "pick": "BYU -10.5",
+     "price": -108,
+     "p": 0.539,
+     "ev": 3.8,
+     "start": "2026-10-10T02:15Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "FSU@LOU",
+     "gl": "#73 FSU@#13 LOU",
+     "pick": "LOU -3.5",
+     "price": -112,
+     "p": 0.539,
+     "ev": 2,
+     "start": "2026-10-09T23:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "WYO@SJSU",
+     "gl": "#95 WYO@#90 SJSU",
+     "pick": "WYO +6",
+     "price": -110,
+     "p": 0.537,
+     "ev": 2.5,
+     "start": "2026-10-10T01:00Z",
+     "tier": "VALUE",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-06",
+   "picks": [
+    {
+     "sp": "mlb",
+     "game": "MIL@SD",
+     "gl": "#1 MIL@#7 SD",
+     "pick": "Under 7.5",
+     "price": -110,
+     "p": 0.542,
+     "ev": 3.4,
+     "start": "",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    }
+   ]
+  }
+ ],
+ "unlockMin": 30,
+ "simple": 1
+}
