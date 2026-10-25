@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792946465940,
+ "generated": 1792946642947,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,7 +14,7 @@
   "w": 21,
   "l": 14,
   "pu": 0,
-  "u": 1.14,
+  "u": 1.1382225486689612,
   "first": "2026-10-06",
   "be": 0.5939653824343427,
   "ap": -146
@@ -52,14 +52,19 @@
      "read": {
       "who": "The Crowd",
       "take": "The crowd is on the other side. I'm not.",
-      "text": "The crowd is on the other side. I'm not. Only 29% of the tickets is on this side — we're fading the crowd. Cincinnati is without Tanner Hudson (TE, injured reserve) and Swayze Bozeman (LB, injured reserve). 5 of the 6 characters reading this game are on the same side — one holdout. I'm 6-1 on NFL underdogs against the spread — only 7 games, so it's a footnote, not the reason. The worry: Baltimore is missing Lamar Jackson (QB) and Tavius Robinson (LB) — that's the hole. At -115 the book needs this to hit 53% of the time. I have it at 67% — the price pays more than the risk. The simulation alone says 59%; my 6-1 record on NFL underdogs against the spread is why my confidence runs higher."
+      "text": "The crowd is on the other side. I'm not. Only 29% of the tickets is on this side — we're fading the crowd. Tyler Huntley averages 95 passing yards a game, and 120 over his recent games — he's hot — only 9 games, so it's a footnote, not the reason. 5 of the 6 characters reading this game are on the same side — one holdout. I'm 6-1 on NFL underdogs against the spread — only 7 games, so it's a footnote, not the reason. The worry: Baltimore is missing Lamar Jackson (QB) and Tavius Robinson (LB) — that's the hole. At -115 the book needs this to hit 53% of the time. I have it at 67% — the price pays more than the risk. The simulation alone says 59%; my 6-1 record on NFL underdogs against the spread is why my confidence runs higher."
      }
     },
     "unlockAt": 1792945800000
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "dee997315af80bb9fb51a601b7d57243c8bf9c8a157622195554439190627e7a",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -602,6 +607,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
