@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792989191483,
+ "generated": 1793033387095,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,94 +14,67 @@
   "w": 23,
   "l": 15,
   "pu": 0,
-  "u": 1.17,
+  "u": 1.1721525513406146,
   "first": "2026-10-06",
-  "be": 0.5940228248628467,
-  "ap": -146
+  "be": 0.5958458995585524,
+  "ap": -147
  },
- "today": {
-  "d": "2026-10-25",
-  "lockedAt": 1792936255715,
-  "unlockMin": 30,
-  "picks": [
-   {
-    "sp": "nhl",
-    "game": "NYI@DAL",
-    "gl": "#15 NYI@#4 DAL",
-    "pick": "DAL ML",
-    "price": -190,
-    "p": 0.824,
-    "ev": 25.8,
-    "start": "2026-10-25T22:00Z",
-    "tier": "STRONG",
-    "hit": true,
-    "push": false,
-    "why": {
-     "read": {
-      "who": "The Simulator",
-      "take": "I ran this game 10,000 times. Dallas wins 67% of them.",
-      "text": "I ran this game 10,000 times. Dallas wins 67% of them. My projected final is New York 2.4, Dallas 3. Wyatt Johnston averages 1.0 points a game. Played 10,000 times, Dallas wins 67% of them. I'm 87-40 on NHL favorites on the moneyline. The worry: Dallas is missing Oskar Back (C) and Esa Lindell (D) — that's the hole. At -190 the book needs this to hit 66% of the time. I have it at 82% — the price pays more than the risk. The simulation alone says 67%; my 87-40 record on NHL favorites on the moneyline is why my confidence runs higher."
-     }
-    },
-    "unlockAt": 1792963800000
-   },
-   {
-    "sp": "nhl",
-    "game": "MIN@VAN",
-    "gl": "#6 MIN@#31 VAN",
-    "pick": "MIN ML",
-    "price": -197,
-    "p": 0.823,
-    "ev": 24.1,
-    "start": "2026-10-26T02:00Z",
-    "tier": "SUPREME",
-    "hit": true,
-    "push": false,
-    "why": {
-     "read": {
-      "who": "The Simulator",
-      "take": "I ran this game 10,000 times. Minnesota wins 68% of them.",
-      "text": "I ran this game 10,000 times. Minnesota wins 68% of them. My projected final is Minnesota 4, Vancouver 2.7. Matt Boldy averages 0.8 points a game. Played 10,000 times, Minnesota wins 68% of them. I'm 87-40 on NHL favorites on the moneyline. The worry: Minnesota is missing Filip Gustavsson (G) and Marcus Foligno (LW) — that's the hole. At -197 the book needs this to hit 66% of the time. I have it at 82% — the price pays more than the risk. The simulation alone says 68%; my 87-40 record on NHL favorites on the moneyline is why my confidence runs higher."
-     }
-    },
-    "unlockAt": 1792978200000
-   },
-   {
-    "sp": "nfl",
-    "game": "CIN@BAL",
-    "gl": "#16 CIN@#9 BAL",
-    "pick": "BAL +3",
-    "price": -115,
-    "p": 0.667,
-    "ev": 24.7,
-    "start": "2026-10-25T17:00Z",
-    "tier": "STRONG",
-    "hit": false,
-    "push": false,
-    "why": {
-     "read": {
-      "who": "The Crowd",
-      "take": "The crowd is on the other side. I'm not.",
-      "text": "The crowd is on the other side. I'm not. Only 29% of the tickets is on this side — we're fading the crowd. Tyler Huntley averages 115 passing yards a game, and 174 over his recent games — he's hot. 5 of the 6 characters reading this game are on the same side — one holdout. I'm 9-2 on NFL underdogs against the spread. The worry: Baltimore is missing Lamar Jackson (QB) and Tavius Robinson (LB) — that's the hole. At -115 the book needs this to hit 53% of the time. I have it at 67% — the price pays more than the risk. The simulation alone says 59%; my 9-2 record on NFL underdogs against the spread is why my confidence runs higher."
-     }
-    },
-    "unlockAt": 1792945800000
-   }
-  ],
-  "props": [],
-  "allStarted": true
- },
+ "today": null,
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
  "history": [
+  {
+   "d": "2026-10-25",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NYI@DAL",
+     "gl": "#18 NYI@#4 DAL",
+     "pick": "DAL ML",
+     "price": -190,
+     "p": 0.824,
+     "ev": 25.8,
+     "start": "2026-10-25T22:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@VAN",
+     "gl": "#6 MIN@#31 VAN",
+     "pick": "MIN ML",
+     "price": -197,
+     "p": 0.823,
+     "ev": 24.1,
+     "start": "2026-10-26T02:00Z",
+     "tier": "SUPREME",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nfl",
+     "game": "CIN@BAL",
+     "gl": "#7 CIN@#15 BAL",
+     "pick": "BAL +3",
+     "price": -115,
+     "p": 0.667,
+     "ev": 24.7,
+     "start": "2026-10-25T17:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-24",
    "picks": [
     {
      "sp": "nhl",
      "game": "SJ@BOS",
-     "gl": "#16 SJ@#1 BOS",
+     "gl": "#15 SJ@#1 BOS",
      "pick": "BOS ML",
      "price": -192,
      "p": 0.805,
@@ -163,7 +136,7 @@
     {
      "sp": "nhl",
      "game": "PHI@BUF",
-     "gl": "#26 PHI@#24 BUF",
+     "gl": "#27 PHI@#24 BUF",
      "pick": "BUF ML",
      "price": -218,
      "p": 0.784,
@@ -194,7 +167,7 @@
     {
      "sp": "nhl",
      "game": "SJ@MTL",
-     "gl": "#16 SJ@#14 MTL",
+     "gl": "#15 SJ@#14 MTL",
      "pick": "MTL ML",
      "price": -225,
      "p": 0.789,
@@ -207,7 +180,7 @@
     {
      "sp": "nhl",
      "game": "LA@WSH",
-     "gl": "#27 LA@#22 WSH",
+     "gl": "#26 LA@#22 WSH",
      "pick": "WSH ML",
      "price": -155,
      "p": 0.752,
@@ -225,7 +198,7 @@
     {
      "sp": "nhl",
      "game": "COL@PHI",
-     "gl": "#3 COL@#26 PHI",
+     "gl": "#3 COL@#27 PHI",
      "pick": "COL ML",
      "price": -238,
      "p": 0.8,
@@ -238,7 +211,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#18 PIT@#7 UTAH",
+     "gl": "#16 PIT@#8 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -326,7 +299,7 @@
     {
      "sp": "nhl",
      "game": "OTT@PHI",
-     "gl": "#10 OTT@#26 PHI",
+     "gl": "#10 OTT@#27 PHI",
      "pick": "OTT ML",
      "price": -144,
      "p": 0.734,
@@ -344,7 +317,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#18 PIT@#3 COL",
+     "gl": "#16 PIT@#3 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -393,7 +366,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#98 WKU@#128 SHSU",
+     "gl": "#99 WKU@#128 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -411,7 +384,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#5 EDM@#27 LA",
+     "gl": "#5 EDM@#26 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -486,7 +459,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#15 DEN@#25 LAC",
+     "gl": "#13 DEN@#26 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -499,7 +472,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#10 DET@#28 ARI",
+     "gl": "#11 DET@#28 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -512,7 +485,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#1 SF@#6 SEA",
+     "gl": "#3 SF@#5 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -556,7 +529,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#107 UAB@#40 MEM",
+     "gl": "#87 UAB@#40 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -600,7 +573,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#95 WYO@#90 SJSU",
+     "gl": "#96 WYO@#91 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -632,6 +605,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
