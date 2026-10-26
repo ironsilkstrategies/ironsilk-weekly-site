@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1792974540650,
+ "generated": 1792974992734,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,10 +14,10 @@
   "w": 22,
   "l": 15,
   "pu": 0,
-  "u": 0.66,
+  "u": 0.6645383381426453,
   "first": "2026-10-06",
-  "be": 0.5923242251703396,
-  "ap": -145
+  "be": 0.5940228248628467,
+  "ap": -146
  },
  "today": {
   "d": "2026-10-25",
@@ -40,7 +40,7 @@
      "read": {
       "who": "The Simulator",
       "take": "I ran this game 10,000 times. Dallas wins 67% of them.",
-      "text": "I ran this game 10,000 times. Dallas wins 67% of them. My projected final is New York 2.4, Dallas 3. Roope Hintz averages 0.5 goals a game, and 0.8 over his recent games — he's hot. Played 10,000 times, Dallas wins 67% of them. I'm 85-40 on NHL favorites on the moneyline. The worry: Dallas is missing Oskar Back (C) and Esa Lindell (D) — that's the hole. At -190 the book needs this to hit 66% of the time. I have it at 82% — the price pays more than the risk. The simulation alone says 67%; my 85-40 record on NHL favorites on the moneyline is why my confidence runs higher."
+      "text": "I ran this game 10,000 times. Dallas wins 67% of them. My projected final is New York 2.4, Dallas 3. Wyatt Johnston averages 1.0 points a game. Played 10,000 times, Dallas wins 67% of them. I'm 87-40 on NHL favorites on the moneyline. The worry: Dallas is missing Oskar Back (C) and Esa Lindell (D) — that's the hole. At -190 the book needs this to hit 66% of the time. I have it at 82% — the price pays more than the risk. The simulation alone says 67%; my 87-40 record on NHL favorites on the moneyline is why my confidence runs higher."
      }
     },
     "unlockAt": 1792963800000
@@ -67,14 +67,19 @@
      "read": {
       "who": "The Crowd",
       "take": "The crowd is on the other side. I'm not.",
-      "text": "The crowd is on the other side. I'm not. Only 29% of the tickets is on this side — we're fading the crowd. Tyler Huntley averages 115 passing yards a game, and 174 over his recent games — he's hot. 5 of the 6 characters reading this game are on the same side — one holdout. I'm 8-2 on NFL underdogs against the spread. The worry: Baltimore is missing Lamar Jackson (QB) and Tavius Robinson (LB) — that's the hole. At -115 the book needs this to hit 53% of the time. I have it at 67% — the price pays more than the risk. The simulation alone says 59%; my 8-2 record on NFL underdogs against the spread is why my confidence runs higher."
+      "text": "The crowd is on the other side. I'm not. Only 29% of the tickets is on this side — we're fading the crowd. Tyler Huntley averages 115 passing yards a game, and 174 over his recent games — he's hot. 5 of the 6 characters reading this game are on the same side — one holdout. I'm 9-2 on NFL underdogs against the spread. The worry: Baltimore is missing Lamar Jackson (QB) and Tavius Robinson (LB) — that's the hole. At -115 the book needs this to hit 53% of the time. I have it at 67% — the price pays more than the risk. The simulation alone says 59%; my 9-2 record on NFL underdogs against the spread is why my confidence runs higher."
      }
     },
     "unlockAt": 1792945800000
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "dee997315af80bb9fb51a601b7d57243c8bf9c8a157622195554439190627e7a",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -617,6 +622,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
