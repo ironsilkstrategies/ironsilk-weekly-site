@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793037192616,
+ "generated": 1793062847815,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -21,22 +21,37 @@
  },
  "today": {
   "d": "2026-10-26",
-  "lockedAt": 1793037184621,
+  "lockedAt": 1793038467914,
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "DET@EDM",
+    "gl": "#23 DET@#7 EDM",
+    "pick": "EDM ML",
+    "price": -175,
+    "p": 0.709,
+    "ev": 11.5,
     "start": "2026-10-27T01:30Z",
+    "tier": "STRONG",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Edmonton wins 65% of them.",
+      "text": "I ran this game 10,000 times. Edmonton wins 65% of them. My projected final is Detroit 3, Edmonton 4. Leon Draisaitl averages 1.1 goals a game, and 1.6 over his recent games — he's hot. Played 10,000 times, Edmonton wins 65% of them. I'm 89-41 on NHL favorites on the moneyline. The worry: Edmonton is missing Devon Levi (G) and Mattias Ekholm (D) — that's the hole. At -175 the book needs this to hit 64% of the time. I have it at 71% — the price pays more than the risk. The simulation alone says 65%; my 89-41 record on NHL favorites on the moneyline is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1793062800000
    }
   ],
   "props": [],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
-   "hash": "e03645650aef10b1b8672afff7941c56844a3f7537bed391dcf429a7a9a95173",
-   "salt": null
+   "hash": "bfdbeef543bb22915327bb5affedc61ff9267c25f096e4c18c1cd1db385983a8",
+   "salt": "5b2cc8ae52b3b4f9df18e2df8aa9ef31"
   }
  },
  "parlay": null,
