@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793139046263,
+ "generated": 1793143856161,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,7 +14,7 @@
   "w": 23,
   "l": 16,
   "pu": 0,
-  "u": 0.17,
+  "u": 0.17215255134061458,
   "first": "2026-10-06",
   "be": 0.5968848158868879,
   "ap": -148
@@ -31,14 +31,34 @@
     "unlockAt": 1793154600000
    },
    {
-    "hidden": true,
     "sp": "nba",
+    "game": "SAC@SA",
+    "gl": "#25 SAC@#3 SA",
+    "pick": "SA -18.5",
+    "price": -110,
+    "p": 0.681,
+    "ev": 30,
     "start": "2026-10-28T00:00Z",
+    "tier": "VALUE",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. San Antonio wins 53% of them.",
+      "text": "I ran this game 10,000 times. San Antonio wins 53% of them. My projected final is Sacramento 106, San Antonio 126. Victor Wembanyama averages 24 points a game. Played 10,000 times, San Antonio covers 53% of them. I'm 13-11 on NBA favorites against the spread. The worry: San Antonio is missing Tobias Harris (F) and Jayden Quaintance (F) — that's the hole. At -110 the book needs this to hit 52% of the time. I have it at 68% — the price pays more than the risk. The simulation alone says 53%; my 13-11 record on NBA favorites against the spread is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1793143800000
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "9fff79c0962320bf934884ccd0f4e36c6f7cf26e7d0ecd98b9015f7094c859ad",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -643,6 +663,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
