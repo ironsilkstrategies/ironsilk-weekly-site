@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793077257737,
+ "generated": 1793088984622,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,41 +14,52 @@
   "w": 23,
   "l": 16,
   "pu": 0,
-  "u": 0.17215255134061458,
+  "u": 0.17,
   "first": "2026-10-06",
   "be": 0.5968848158868879,
   "ap": -148
  },
- "today": null,
+ "today": {
+  "d": "2026-10-26",
+  "lockedAt": 1793038467914,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "sp": "nhl",
+    "game": "DET@EDM",
+    "gl": "#23 DET@#7 EDM",
+    "pick": "EDM ML",
+    "price": -175,
+    "p": 0.709,
+    "ev": 11.5,
+    "start": "2026-10-27T01:30Z",
+    "tier": "STRONG",
+    "hit": false,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Edmonton wins 65% of them.",
+      "text": "I ran this game 10,000 times. Edmonton wins 65% of them. My projected final is Detroit 3, Edmonton 4. Connor McDavid averages 2.8 points a game. Played 10,000 times, Edmonton wins 65% of them. I'm 89-44 on NHL favorites on the moneyline. The worry: Edmonton is missing Devon Levi (G) and Mattias Ekholm (D) — that's the hole. At -175 the book needs this to hit 64% of the time. I have it at 71% — the price pays more than the risk. The simulation alone says 65%; my 89-44 record on NHL favorites on the moneyline is why my confidence runs higher."
+     }
+    },
+    "unlockAt": 1793062800000
+   }
+  ],
+  "props": [],
+  "allStarted": true
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
  "history": [
-  {
-   "d": "2026-10-26",
-   "picks": [
-    {
-     "sp": "nhl",
-     "game": "DET@EDM",
-     "gl": "#23 DET@#7 EDM",
-     "pick": "EDM ML",
-     "price": -175,
-     "p": 0.709,
-     "ev": 11.5,
-     "start": "2026-10-27T01:30Z",
-     "tier": "STRONG",
-     "hit": false,
-     "push": false
-    }
-   ]
-  },
   {
    "d": "2026-10-25",
    "picks": [
     {
      "sp": "nhl",
      "game": "NYI@DAL",
-     "gl": "#20 NYI@#3 DAL",
+     "gl": "#19 NYI@#3 DAL",
      "pick": "DAL ML",
      "price": -190,
      "p": 0.824,
@@ -92,7 +103,7 @@
     {
      "sp": "nhl",
      "game": "SJ@BOS",
-     "gl": "#14 SJ@#1 BOS",
+     "gl": "#15 SJ@#1 BOS",
      "pick": "BOS ML",
      "price": -192,
      "p": 0.805,
@@ -154,7 +165,7 @@
     {
      "sp": "nhl",
      "game": "PHI@BUF",
-     "gl": "#29 PHI@#24 BUF",
+     "gl": "#30 PHI@#24 BUF",
      "pick": "BUF ML",
      "price": -218,
      "p": 0.784,
@@ -185,7 +196,7 @@
     {
      "sp": "nhl",
      "game": "SJ@MTL",
-     "gl": "#14 SJ@#13 MTL",
+     "gl": "#15 SJ@#13 MTL",
      "pick": "MTL ML",
      "price": -225,
      "p": 0.789,
@@ -216,7 +227,7 @@
     {
      "sp": "nhl",
      "game": "COL@PHI",
-     "gl": "#4 COL@#29 PHI",
+     "gl": "#4 COL@#30 PHI",
      "pick": "COL ML",
      "price": -238,
      "p": 0.8,
@@ -229,7 +240,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#15 PIT@#9 UTAH",
+     "gl": "#16 PIT@#8 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -242,7 +253,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#26 ANA@#17 NYR",
+     "gl": "#26 ANA@#14 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -273,7 +284,7 @@
     {
      "sp": "nhl",
      "game": "CBJ@MIN",
-     "gl": "#30 CBJ@#5 MIN",
+     "gl": "#29 CBJ@#5 MIN",
      "pick": "MIN ML",
      "price": -185,
      "p": 0.809,
@@ -317,7 +328,7 @@
     {
      "sp": "nhl",
      "game": "OTT@PHI",
-     "gl": "#10 OTT@#29 PHI",
+     "gl": "#10 OTT@#30 PHI",
      "pick": "OTT ML",
      "price": -144,
      "p": 0.734,
@@ -335,7 +346,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#15 PIT@#4 COL",
+     "gl": "#16 PIT@#4 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -353,7 +364,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#17 NYR@#6 NJ",
+     "gl": "#14 NYR@#9 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -428,7 +439,7 @@
     {
      "sp": "nhl",
      "game": "NJ@DET",
-     "gl": "#6 NJ@#23 DET",
+     "gl": "#9 NJ@#23 DET",
      "pick": "DET ML",
      "price": -110,
      "p": 0.539,
@@ -446,7 +457,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#16 FLA@#24 BUF",
+     "gl": "#17 FLA@#24 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -490,7 +501,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#9 DET@#28 ARI",
+     "gl": "#8 DET@#28 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -623,5 +634,6 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1
+ "simple": 1,
+ "by": "worker"
 }
