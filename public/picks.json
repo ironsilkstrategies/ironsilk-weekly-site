@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793167209390,
+ "generated": 1793192403011,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,66 +14,47 @@
   "w": 24,
   "l": 17,
   "pu": 0,
-  "u": 0.08,
+  "u": 0.08124346043152364,
   "first": "2026-10-06",
-  "be": 0.5950579335849538,
-  "ap": -147
+  "be": 0.5930368893987652,
+  "ap": -146
  },
- "today": {
-  "d": "2026-10-27",
-  "lockedAt": 1793138364552,
-  "unlockMin": 30,
-  "picks": [
-   {
-    "sp": "nba",
-    "game": "POR@LAL",
-    "gl": "#9 POR@#4 LAL",
-    "pick": "LAL -2",
-    "price": -105,
-    "p": 0.683,
-    "ev": 33.4,
-    "start": "2026-10-28T03:00Z",
-    "tier": "VALUE",
-    "hit": false,
-    "push": false,
-    "why": {
-     "read": {
-      "who": "The Simulator",
-      "take": "I ran this game 10,000 times. Los Angeles wins 54% of them.",
-      "text": "I ran this game 10,000 times. Los Angeles wins 54% of them. My projected final is Portland 115, Los Angeles 118. Luka Doncic averages 32 points a game. Played 10,000 times, Los Angeles covers 54% of them. I'm 14-12 on NBA favorites against the spread. The worry: Los Angeles is missing Adou Thiero (F) — that's the hole. At -105 the book needs this to hit 51% of the time. I have it at 68% — the price pays more than the risk. The simulation alone says 54%; my 14-12 record on NBA favorites against the spread is why my confidence runs higher."
-     }
-    },
-    "unlockAt": 1793154600000
-   },
-   {
-    "sp": "nba",
-    "game": "SAC@SA",
-    "gl": "#25 SAC@#3 SA",
-    "pick": "SA -18.5",
-    "price": -110,
-    "p": 0.681,
-    "ev": 30,
-    "start": "2026-10-28T00:00Z",
-    "tier": "VALUE",
-    "hit": true,
-    "push": false,
-    "why": {
-     "read": {
-      "who": "The Simulator",
-      "take": "I ran this game 10,000 times. San Antonio wins 53% of them.",
-      "text": "I ran this game 10,000 times. San Antonio wins 53% of them. Sacramento is without Dylan Cardwell (C, out) and Maxime Raynaud (C, out). Victor Wembanyama averages 24 points a game. Played 10,000 times, San Antonio covers 53% of them. I'm 14-12 on NBA favorites against the spread. The worry: San Antonio is missing Tobias Harris (F) and Jayden Quaintance (F) — that's the hole. At -110 the book needs this to hit 52% of the time. I have it at 68% — the price pays more than the risk. The simulation alone says 53%; my 14-12 record on NBA favorites against the spread is why my confidence runs higher."
-     }
-    },
-    "unlockAt": 1793143800000
-   }
-  ],
-  "props": [],
-  "allStarted": true
- },
+ "today": null,
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
  "history": [
+  {
+   "d": "2026-10-27",
+   "picks": [
+    {
+     "sp": "nba",
+     "game": "POR@LAL",
+     "gl": "#7 POR@#4 LAL",
+     "pick": "LAL -2",
+     "price": -105,
+     "p": 0.683,
+     "ev": 33.4,
+     "start": "2026-10-28T03:00Z",
+     "tier": "VALUE",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "SAC@SA",
+     "gl": "#30 SAC@#2 SA",
+     "pick": "SA -18.5",
+     "price": -110,
+     "p": 0.681,
+     "ev": 30,
+     "start": "2026-10-28T00:00Z",
+     "tier": "VALUE",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-10-26",
    "picks": [
@@ -98,7 +79,7 @@
     {
      "sp": "nhl",
      "game": "NYI@DAL",
-     "gl": "#15 NYI@#6 DAL",
+     "gl": "#16 NYI@#8 DAL",
      "pick": "DAL ML",
      "price": -190,
      "p": 0.824,
@@ -160,7 +141,7 @@
     {
      "sp": "nhl",
      "game": "WPG@DAL",
-     "gl": "#28 WPG@#6 DAL",
+     "gl": "#28 WPG@#8 DAL",
      "pick": "DAL ML",
      "price": -205,
      "p": 0.777,
@@ -173,7 +154,7 @@
     {
      "sp": "nhl",
      "game": "MIN@CGY",
-     "gl": "#4 MIN@#27 CGY",
+     "gl": "#4 MIN@#25 CGY",
      "pick": "MIN ML",
      "price": -205,
      "p": 0.776,
@@ -204,7 +185,7 @@
     {
      "sp": "nhl",
      "game": "PHI@BUF",
-     "gl": "#30 PHI@#19 BUF",
+     "gl": "#30 PHI@#20 BUF",
      "pick": "BUF ML",
      "price": -218,
      "p": 0.784,
@@ -248,7 +229,7 @@
     {
      "sp": "nhl",
      "game": "LA@WSH",
-     "gl": "#25 LA@#22 WSH",
+     "gl": "#27 LA@#18 WSH",
      "pick": "WSH ML",
      "price": -155,
      "p": 0.752,
@@ -279,7 +260,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#14 PIT@#8 UTAH",
+     "gl": "#14 PIT@#9 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -292,7 +273,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#23 ANA@#18 NYR",
+     "gl": "#23 ANA@#21 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -310,7 +291,7 @@
     {
      "sp": "nhl",
      "game": "CAR@CGY",
-     "gl": "#1 CAR@#27 CGY",
+     "gl": "#1 CAR@#25 CGY",
      "pick": "CAR ML",
      "price": -218,
      "p": 0.818,
@@ -341,7 +322,7 @@
     {
      "sp": "nhl",
      "game": "DAL@CHI",
-     "gl": "#6 DAL@#31 CHI",
+     "gl": "#8 DAL@#31 CHI",
      "pick": "DAL ML",
      "price": -191,
      "p": 0.756,
@@ -367,7 +348,7 @@
     {
      "sp": "nhl",
      "game": "OTT@PHI",
-     "gl": "#13 OTT@#30 PHI",
+     "gl": "#15 OTT@#30 PHI",
      "pick": "OTT ML",
      "price": -144,
      "p": 0.734,
@@ -403,7 +384,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#18 NYR@#5 NJ",
+     "gl": "#21 NYR@#5 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -416,7 +397,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#125 CSU@#57 TXST",
+     "gl": "#118 CSU@#62 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -434,7 +415,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#99 WKU@#128 SHSU",
+     "gl": "#106 WKU@#130 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -452,7 +433,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#7 EDM@#25 LA",
+     "gl": "#7 EDM@#27 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -496,7 +477,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#16 FLA@#19 BUF",
+     "gl": "#13 FLA@#20 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -571,7 +552,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#11 TEX@#45 OU",
+     "gl": "#11 TEX@#46 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -584,7 +565,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#132 KENT@#46 WMU",
+     "gl": "#113 KENT@#43 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -597,7 +578,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#87 UAB@#40 MEM",
+     "gl": "#84 UAB@#35 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -615,7 +596,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#79 ISU@#8 BYU",
+     "gl": "#96 ISU@#8 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -628,7 +609,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#73 FSU@#13 LOU",
+     "gl": "#64 FSU@#27 LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -641,7 +622,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#96 WYO@#91 SJSU",
+     "gl": "#93 WYO@#108 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -659,7 +640,7 @@
     {
      "sp": "mlb",
      "game": "MIL@SD",
-     "gl": "#1 MIL@#7 SD",
+     "gl": "#1 MIL@#6 SD",
      "pick": "Under 7.5",
      "price": -110,
      "p": 0.542,
@@ -673,6 +654,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
