@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793154403800,
+ "generated": 1793154649666,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -25,9 +25,24 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nba",
+    "game": "POR@LAL",
+    "gl": "#9 POR@#4 LAL",
+    "pick": "LAL -2",
+    "price": -105,
+    "p": 0.683,
+    "ev": 33.4,
     "start": "2026-10-28T03:00Z",
+    "tier": "VALUE",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Los Angeles wins 54% of them.",
+      "text": "I ran this game 10,000 times. Los Angeles wins 54% of them. My projected final is Portland 115, Los Angeles 118. Luka Doncic averages 32 points a game. Played 10,000 times, Los Angeles covers 54% of them. I'm 13-11 on NBA favorites against the spread. The worry: Los Angeles is missing Adou Thiero (F) — that's the hole. At -105 the book needs this to hit 51% of the time. I have it at 68% — the price pays more than the risk. The simulation alone says 54%; my 13-11 record on NBA favorites against the spread is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1793154600000
    },
    {
@@ -53,7 +68,7 @@
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
