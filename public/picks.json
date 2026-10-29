@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793315574078,
+ "generated": 1793316624996,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -46,14 +46,29 @@
     "unlockAt": 1793313000000
    },
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "NYI@MIN",
+    "gl": "#15 NYI@#3 MIN",
+    "pick": "MIN ML",
+    "price": -186,
+    "p": 0.709,
+    "ev": 9.1,
     "start": "2026-10-30T00:00Z",
+    "tier": "STRONG",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Minnesota wins 64% of them.",
+      "text": "I ran this game 10,000 times. Minnesota wins 64% of them. My projected final is New York 2.5, Minnesota 3.2. New York is without Matias Maccelli (LW, injured reserve) and Calum Ritchie (C, injured reserve). Played 10,000 times, Minnesota wins 64% of them. I'm 95-48 on NHL favorites on the moneyline. The worry: Minnesota is missing Brock Faber (D) and Jared Spurgeon (D) — that's the hole. At -186 the book needs this to hit 65% of the time. I have it at 71% — the price pays more than the risk. The simulation alone says 64%; my 95-48 record on NHL favorites on the moneyline is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1793316600000
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
