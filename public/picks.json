@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793307431851,
+ "generated": 1793315574078,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,7 +14,7 @@
   "w": 26,
   "l": 18,
   "pu": 0,
-  "u": 0.9031896302037803,
+  "u": 0.9,
   "first": "2026-10-06",
   "be": 0.5880406006859555,
   "ap": -143
@@ -25,9 +25,24 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "WPG@TB",
+    "gl": "#28 WPG@#14 TB",
+    "pick": "TB ML",
+    "price": -198,
+    "p": 0.714,
+    "ev": 7.5,
     "start": "2026-10-29T23:00Z",
+    "tier": "STRONG",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Tampa Bay wins 65% of them.",
+      "text": "I ran this game 10,000 times. Tampa Bay wins 65% of them. My projected final is Winnipeg 2.6, Tampa Bay 3.6. Jake Guentzel averages 0.6 goals a game, and 0.9 over his recent games — he's hot. Played 10,000 times, Tampa Bay wins 65% of them. I'm 95-48 on NHL favorites on the moneyline. The worry: Tampa Bay is missing Zemgus Girgensons (C) and Yanni Gourde (C) — that's the hole. At -198 the book needs this to hit 66% of the time. I have it at 71% — the price pays more than the risk. The simulation alone says 65%; my 95-48 record on NHL favorites on the moneyline is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1793313000000
    },
    {
@@ -38,12 +53,7 @@
    }
   ],
   "props": [],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "70d8dce9dbc71953a74513db69be9f1416c56f3dcee1d0be3b3b5f2b610bc502",
-   "salt": null
-  }
+  "allStarted": false
  },
  "parlay": null,
  "parlayRecord": null,
@@ -723,5 +733,6 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1
+ "simple": 1,
+ "by": "worker"
 }
