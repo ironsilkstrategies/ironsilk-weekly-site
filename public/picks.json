@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793202207030,
+ "generated": 1793245530745,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -11,15 +11,91 @@
  "handle": "RuleTheWorldKid",
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
-  "w": 24,
-  "l": 17,
+  "w": 26,
+  "l": 18,
   "pu": 0,
-  "u": 0.08124346043152364,
+  "u": 0.9031896302037803,
   "first": "2026-10-06",
-  "be": 0.5930368893987652,
-  "ap": -146
+  "be": 0.5880406006859555,
+  "ap": -143
  },
- "today": null,
+ "today": {
+  "d": "2026-10-28",
+  "lockedAt": 1793198581022,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "sp": "nba",
+    "game": "CHA@DET",
+    "gl": "#20 CHA@#10 DET",
+    "pick": "CHA +7.5",
+    "price": -105,
+    "p": 0.651,
+    "ev": 27.2,
+    "start": "2026-10-28T23:00Z",
+    "tier": "STRONG",
+    "hit": false,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Charlotte wins 54% of them.",
+      "text": "I ran this game 10,000 times. Charlotte wins 54% of them. My projected final is Charlotte 108, Detroit 112. Brandon Miller averages 20 points a game, and 26 over his recent games — he's hot. Played 10,000 times, Charlotte covers 54% of them. I'm 18-9 on NBA underdogs against the spread. The worry: Charlotte is missing Coby White (G) and Kon Knueppel (G) — that's the hole. At -105 the book needs this to hit 51% of the time. I have it at 65% — the price pays more than the risk. The simulation alone says 54%; my 18-9 record on NBA underdogs against the spread is why my confidence runs higher."
+     }
+    },
+    "unlockAt": 1793226600000
+   },
+   {
+    "sp": "nba",
+    "game": "HOU@MIL",
+    "gl": "#1 HOU@#23 MIL",
+    "pick": "HOU -8",
+    "price": -115,
+    "p": 0.65,
+    "ev": 21.6,
+    "start": "2026-10-29T00:00Z",
+    "tier": "STRONG",
+    "hit": true,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Houston wins 54% of them.",
+      "text": "I ran this game 10,000 times. Houston wins 54% of them. My projected final is Houston 118, Milwaukee 108. Kevin Durant averages 26 points a game. Played 10,000 times, Houston covers 54% of them. I'm 14-13 on NBA favorites against the spread. The worry: Houston is missing Alperen Sengun (C) and Steven Adams (C) — that's the hole. At -115 the book needs this to hit 53% of the time. I have it at 65% — the price pays more than the risk. The simulation alone says 54%; my 14-13 record on NBA favorites against the spread is why my confidence runs higher."
+     }
+    },
+    "unlockAt": 1793230200000
+   },
+   {
+    "sp": "nba",
+    "game": "SA@UTAH",
+    "gl": "#2 SA@#29 UTAH",
+    "pick": "UTAH +13",
+    "price": -105,
+    "p": 0.649,
+    "ev": 26.8,
+    "start": "2026-10-29T01:00Z",
+    "tier": "UNANIMOUS",
+    "hit": true,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Simulator",
+      "take": "I ran this game 10,000 times. Utah wins 52% of them.",
+      "text": "I ran this game 10,000 times. Utah wins 52% of them. My projected final is San Antonio 126, Utah 115. Lauri Markkanen averages 24 points a game. Played 10,000 times, Utah covers 52% of them. I'm 18-9 on NBA underdogs against the spread. The worry: Utah is missing Jaren Jackson Jr. (F) and Trey Alexander (G) — that's the hole. At -105 the book needs this to hit 51% of the time. I have it at 65% — the price pays more than the risk. The simulation alone says 52%; my 18-9 record on NBA underdogs against the spread is why my confidence runs higher."
+     }
+    },
+    "unlockAt": 1793233800000
+   }
+  ],
+  "props": [],
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "452e3e25213acaa7738e7389e83ca864786c357d42472ab862d07b163d37b1aa",
+   "salt": "d4d941ab4093f51cc30ea74b558220d2"
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -79,7 +155,7 @@
     {
      "sp": "nhl",
      "game": "NYI@DAL",
-     "gl": "#16 NYI@#8 DAL",
+     "gl": "#15 NYI@#8 DAL",
      "pick": "DAL ML",
      "price": -190,
      "p": 0.824,
@@ -123,7 +199,7 @@
     {
      "sp": "nhl",
      "game": "SJ@BOS",
-     "gl": "#29 SJ@#2 BOS",
+     "gl": "#29 SJ@#3 BOS",
      "pick": "BOS ML",
      "price": -192,
      "p": 0.805,
@@ -167,7 +243,7 @@
     {
      "sp": "nhl",
      "game": "NSH@BOS",
-     "gl": "#17 NSH@#2 BOS",
+     "gl": "#16 NSH@#3 BOS",
      "pick": "BOS ML",
      "price": -155,
      "p": 0.724,
@@ -185,7 +261,7 @@
     {
      "sp": "nhl",
      "game": "PHI@BUF",
-     "gl": "#30 PHI@#20 BUF",
+     "gl": "#30 PHI@#17 BUF",
      "pick": "BUF ML",
      "price": -218,
      "p": 0.784,
@@ -247,7 +323,7 @@
     {
      "sp": "nhl",
      "game": "COL@PHI",
-     "gl": "#3 COL@#30 PHI",
+     "gl": "#2 COL@#30 PHI",
      "pick": "COL ML",
      "price": -238,
      "p": 0.8,
@@ -260,7 +336,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#14 PIT@#9 UTAH",
+     "gl": "#14 PIT@#10 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -273,7 +349,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#23 ANA@#21 NYR",
+     "gl": "#22 ANA@#21 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -348,7 +424,7 @@
     {
      "sp": "nhl",
      "game": "OTT@PHI",
-     "gl": "#15 OTT@#30 PHI",
+     "gl": "#20 OTT@#30 PHI",
      "pick": "OTT ML",
      "price": -144,
      "p": 0.734,
@@ -366,7 +442,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#14 PIT@#3 COL",
+     "gl": "#14 PIT@#2 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -397,7 +473,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#118 CSU@#62 TXST",
+     "gl": "#118 CSU@#63 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -477,7 +553,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#13 FLA@#20 BUF",
+     "gl": "#13 FLA@#17 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -622,7 +698,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#93 WYO@#108 SJSU",
+     "gl": "#94 WYO@#108 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
