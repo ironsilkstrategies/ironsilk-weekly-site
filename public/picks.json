@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793547259879,
+ "generated": 1793547676412,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -19,7 +19,26 @@
   "be": 0.5910557741463703,
   "ap": -145
  },
- "today": null,
+ "today": {
+  "d": "2026-11-01",
+  "lockedAt": 1793547658693,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-11-01T21:00Z",
+    "unlockAt": 1793565000000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "0bc5ca4d042014454e11d2db55b04b0ec3dd6d6ca45654db5c544c3be0c9da6b",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -61,7 +80,7 @@
     {
      "sp": "nba",
      "game": "CHA@DET",
-     "gl": "#24 CHA@#4 DET",
+     "gl": "#24 CHA@#5 DET",
      "pick": "CHA +7.5",
      "price": -105,
      "p": 0.651,
@@ -87,7 +106,7 @@
     {
      "sp": "nba",
      "game": "SA@UTAH",
-     "gl": "#5 SA@#26 UTAH",
+     "gl": "#6 SA@#26 UTAH",
      "pick": "UTAH +13",
      "price": -105,
      "p": 0.649,
@@ -105,7 +124,7 @@
     {
      "sp": "nba",
      "game": "POR@LAL",
-     "gl": "#6 POR@#13 LAL",
+     "gl": "#7 POR@#11 LAL",
      "pick": "LAL -2",
      "price": -105,
      "p": 0.683,
@@ -118,7 +137,7 @@
     {
      "sp": "nba",
      "game": "SAC@SA",
-     "gl": "#30 SAC@#5 SA",
+     "gl": "#30 SAC@#6 SA",
      "pick": "SA -18.5",
      "price": -110,
      "p": 0.681,
@@ -180,7 +199,7 @@
     {
      "sp": "nfl",
      "game": "CIN@BAL",
-     "gl": "#5 CIN@#20 BAL",
+     "gl": "#6 CIN@#19 BAL",
      "pick": "BAL +3",
      "price": -115,
      "p": 0.667,
@@ -583,7 +602,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#14 DEN@#29 LAC",
+     "gl": "#13 DEN@#30 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -596,7 +615,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#8 DET@#31 ARI",
+     "gl": "#7 DET@#31 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -609,7 +628,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#6 SF@#7 SEA",
+     "gl": "#4 SF@#3 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
