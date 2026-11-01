@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793550771714,
+ "generated": 1793550912321,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,7 +14,7 @@
   "w": 27,
   "l": 19,
   "pu": 0,
-  "u": 0.40824013525428526,
+  "u": 0.41,
   "first": "2026-10-06",
   "be": 0.5910557741463703,
   "ap": -145
@@ -32,12 +32,7 @@
    }
   ],
   "props": [],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "672011d765a396bfe8f4ee63c2da39a92cce0cdc41d4cb9ca225dfe45094cc41",
-   "salt": null
-  }
+  "allStarted": false
  },
  "parlay": null,
  "parlayRecord": null,
@@ -199,7 +194,7 @@
     {
      "sp": "nfl",
      "game": "CIN@BAL",
-     "gl": "#7 CIN@#17 BAL",
+     "gl": "#8 CIN@#17 BAL",
      "pick": "BAL +3",
      "price": -115,
      "p": 0.667,
@@ -602,7 +597,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#13 DEN@#25 LAC",
+     "gl": "#9 DEN@#23 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -615,7 +610,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#10 DET@#28 ARI",
+     "gl": "#12 DET@#28 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -628,7 +623,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#3 SF@#4 SEA",
+     "gl": "#4 SF@#6 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -748,5 +743,6 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1
+ "simple": 1,
+ "by": "worker"
 }
