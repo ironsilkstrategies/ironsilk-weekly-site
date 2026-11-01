@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793550912321,
+ "generated": 1793565327375,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -25,14 +25,29 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nfl",
+    "game": "LAC@LAR",
+    "gl": "#23 LAC@#15 LAR",
+    "pick": "LAC +6.5",
+    "price": -105,
+    "p": 0.621,
+    "ev": 21.3,
     "start": "2026-11-01T21:05Z",
+    "tier": "VALUE",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Commissioner",
+      "take": "Los Angeles is the lower-rated team, but the number gives it enough room.",
+      "text": "Los Angeles is the lower-rated team, but the number gives it enough room. Los Angeles is No. 23 in our power index (0-6); Los Angeles is No. 15 (3-4). Justin Herbert averages 211 passing yards a game. On ratings alone Los Angeles loses by 4.8, and the line gives +6.5 — a 1.7-point cushion. I'm 8-7 on NFL underdogs against the spread. The worry: Los Angeles is missing Derwin James Jr. (S) and Kayode Awosika (G) — that's the hole. At -105 the book needs this to hit 51% of the time. I have it at 62% — the price pays more than the risk. The simulation alone says 49%; my 8-7 record on NFL underdogs against the spread is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1793565300000
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
