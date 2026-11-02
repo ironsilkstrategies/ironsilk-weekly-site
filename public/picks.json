@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793610797393,
+ "generated": 1793636109861,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -19,26 +19,7 @@
   "be": 0.5893778879294522,
   "ap": -144
  },
- "today": {
-  "d": "2026-11-02",
-  "lockedAt": 1793610778708,
-  "unlockMin": 30,
-  "picks": [
-   {
-    "hidden": true,
-    "sp": "nhl",
-    "start": "2026-11-03T00:00Z",
-    "unlockAt": 1793662200000
-   }
-  ],
-  "props": [],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "f6737ba73dc715df2d631fca3b75044d5dcc7d5196a44c0290d6ed365c5ffe57",
-   "salt": null
-  }
- },
+ "today": null,
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -111,7 +92,7 @@
     {
      "sp": "nba",
      "game": "HOU@MIL",
-     "gl": "#5 HOU@#30 MIL",
+     "gl": "#2 HOU@#29 MIL",
      "pick": "HOU -8",
      "price": -115,
      "p": 0.65,
@@ -124,7 +105,7 @@
     {
      "sp": "nba",
      "game": "SA@UTAH",
-     "gl": "#1 SA@#26 UTAH",
+     "gl": "#5 SA@#27 UTAH",
      "pick": "UTAH +13",
      "price": -105,
      "p": 0.649,
@@ -142,7 +123,7 @@
     {
      "sp": "nba",
      "game": "POR@LAL",
-     "gl": "#8 POR@#7 LAL",
+     "gl": "#6 POR@#10 LAL",
      "pick": "LAL -2",
      "price": -105,
      "p": 0.683,
@@ -155,7 +136,7 @@
     {
      "sp": "nba",
      "game": "SAC@SA",
-     "gl": "#27 SAC@#1 SA",
+     "gl": "#30 SAC@#5 SA",
      "pick": "SA -18.5",
      "price": -110,
      "p": 0.681,
@@ -527,7 +508,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#76 WKU@#84 SHSU",
+     "gl": "#77 WKU@#85 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -664,7 +645,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#10 TEX@#45 OU",
+     "gl": "#10 TEX@#46 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -690,7 +671,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#77 UAB@#28 MEM",
+     "gl": "#78 UAB@#32 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -721,7 +702,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "FSU@LOU",
+     "gl": "#65 FSU@LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -752,7 +733,7 @@
     {
      "sp": "mlb",
      "game": "MIL@SD",
-     "gl": "#1 MIL@#9 SD",
+     "gl": "#1 MIL@#10 SD",
      "pick": "Under 7.5",
      "price": -110,
      "p": 0.542,
