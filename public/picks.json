@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793640967437,
+ "generated": 1793641044706,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -19,7 +19,26 @@
   "be": 0.5893778879294522,
   "ap": -144
  },
- "today": null,
+ "today": {
+  "d": "2026-11-02",
+  "lockedAt": 1793641044329,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "nba",
+    "start": "2026-11-03T03:00Z",
+    "unlockAt": 1793673000000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "00ede62980e249dbb6b97a197145554baeb60662356232d9bd622b85641481da",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -79,7 +98,7 @@
     {
      "sp": "nba",
      "game": "CHA@DET",
-     "gl": "#23 CHA@#5 DET",
+     "gl": "#22 CHA@#4 DET",
      "pick": "CHA +7.5",
      "price": -105,
      "p": 0.651,
@@ -92,7 +111,7 @@
     {
      "sp": "nba",
      "game": "HOU@MIL",
-     "gl": "#1 HOU@#26 MIL",
+     "gl": "#5 HOU@#30 MIL",
      "pick": "HOU -8",
      "price": -115,
      "p": 0.65,
@@ -105,7 +124,7 @@
     {
      "sp": "nba",
      "game": "SA@UTAH",
-     "gl": "#2 SA@#28 UTAH",
+     "gl": "#1 SA@#26 UTAH",
      "pick": "UTAH +13",
      "price": -105,
      "p": 0.649,
@@ -123,7 +142,7 @@
     {
      "sp": "nba",
      "game": "POR@LAL",
-     "gl": "#15 POR@#13 LAL",
+     "gl": "#8 POR@#7 LAL",
      "pick": "LAL -2",
      "price": -105,
      "p": 0.683,
@@ -136,7 +155,7 @@
     {
      "sp": "nba",
      "game": "SAC@SA",
-     "gl": "#30 SAC@#2 SA",
+     "gl": "#27 SAC@#1 SA",
      "pick": "SA -18.5",
      "price": -110,
      "p": 0.681,
@@ -614,7 +633,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#8 DET@#23 ARI",
+     "gl": "#7 DET@#23 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -627,7 +646,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#7 SF@#5 SEA",
+     "gl": "#6 SF@#9 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
