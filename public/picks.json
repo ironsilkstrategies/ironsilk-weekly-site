@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793636109861,
+ "generated": 1793636578298,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -19,7 +19,32 @@
   "be": 0.5893778879294522,
   "ap": -144
  },
- "today": null,
+ "today": {
+  "d": "2026-11-02",
+  "lockedAt": 1793636577899,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "ncaab",
+    "start": "2026-11-02T22:30Z",
+    "unlockAt": 1793656800000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-11-03T02:00Z",
+    "unlockAt": 1793669400000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "aa08be01cac1426a5235240befb59cd1243da7e62949e088a6224b760fc909af",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -508,7 +533,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#77 WKU@#85 SHSU",
+     "gl": "WKU@SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -645,7 +670,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#10 TEX@#46 OU",
+     "gl": "#10 TEX@#57 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -658,7 +683,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "KENT@#51 WMU",
+     "gl": "KENT@#41 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -671,7 +696,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#78 UAB@#32 MEM",
+     "gl": "#71 UAB@#23 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -702,7 +727,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#65 FSU@LOU",
+     "gl": "FSU@LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -715,7 +740,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#60 WYO@#74 SJSU",
+     "gl": "#63 WYO@#69 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -733,7 +758,7 @@
     {
      "sp": "mlb",
      "game": "MIL@SD",
-     "gl": "#1 MIL@#10 SD",
+     "gl": "#1 MIL@#9 SD",
      "pick": "Under 7.5",
      "price": -110,
      "p": 0.542,
