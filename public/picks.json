@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793649050429,
+ "generated": 1793673059675,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -25,14 +25,30 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nba",
+    "game": "TOR@LAC",
+    "gl": "#10 TOR@#23 LAC",
+    "pick": "LAC +5.5",
+    "price": -114,
+    "p": 0.615,
+    "ev": 15.4,
     "start": "2026-11-03T03:00Z",
+    "tier": "STRONG",
+    "hit": null,
+    "push": false,
+    "spread": true,
+    "why": {
+     "read": {
+      "who": "The Judge",
+      "take": "The evidence points to LA.",
+      "text": "The evidence points to LA. Toronto is without Kawhi Leonard (F, out) and Nate Bittle (C, out). Toronto played last night — tonight is the second night of a back-to-back — a spot we're still testing (18 graded games). Played 10,000 times, LA covers 52% of them. I'm 23-18 on NBA underdogs against the spread. The worry: LA is missing Yanic Konan Niederhauser (C) and Brandon Ingram (F) — that's the hole. At -114 the book needs this to hit 53% of the time. I have it at 61% — the price pays more than the risk. The simulation alone says 52%; my 23-18 record on NBA underdogs against the spread is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1793673000000
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
