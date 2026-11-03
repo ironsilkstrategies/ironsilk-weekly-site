@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793673260297,
+ "generated": 1793685461599,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -12,9 +12,9 @@
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
   "w": 27,
-  "l": 20,
+  "l": 21,
   "pu": 0,
-  "u": -0.5917598647457147,
+  "u": -1.59,
   "first": "2026-10-06",
   "be": 0.5893778879294522,
   "ap": -144
@@ -34,26 +34,21 @@
     "ev": 15.4,
     "start": "2026-11-03T03:00Z",
     "tier": "STRONG",
-    "hit": null,
+    "hit": false,
     "push": false,
     "spread": true,
     "why": {
      "read": {
       "who": "The Judge",
-      "take": "I weigh every witness by how often they've been right — and nearly all of them point to LA.",
-      "text": "I weigh every witness by how often they've been right — and nearly all of them point to LA. Darius Garland averages 21 points a game — only 6 games, so it's a footnote, not the reason. Toronto is without Nate Bittle (C, out) and Kawhi Leonard (F, out). All 3 characters reading this game agree. I'm 23-18 on NBA underdogs against the spread. The worry: LA is missing Rui Hachimura (F) and Derrick Jones Jr. (F) — that's the hole. At -114 the book needs this to hit 53% of the time. I have it at 61% — the price pays more than the risk. The simulation alone says 52%; my 23-18 record on NBA underdogs against the spread is why my confidence runs higher."
+      "take": "The evidence points to LA.",
+      "text": "The evidence points to LA. Toronto is without Kawhi Leonard (F, out) and Nate Bittle (C, out). Toronto played last night — tonight is the second night of a back-to-back — a spot we're still testing (18 graded games). Played 10,000 times, LA covers 52% of them. I'm 23-18 on NBA underdogs against the spread. The worry: LA is missing Yanic Konan Niederhauser (C) and Brandon Ingram (F) — that's the hole. At -114 the book needs this to hit 53% of the time. I have it at 61% — the price pays more than the risk. The simulation alone says 52%; my 23-18 record on NBA underdogs against the spread is why my confidence runs higher."
      }
     },
     "unlockAt": 1793673000000
    }
   ],
   "props": [],
-  "allStarted": true,
-  "commit": {
-   "alg": "sha256",
-   "hash": "a4eb5a1cfe90cc8040986d5681c09b887cdd35545628ff300fa5eaabae6d57fc",
-   "salt": "c09179d104e0048d6dac714778b30ab0"
-  }
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
@@ -525,7 +520,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#121 CSU@#59 TXST",
+     "gl": "#123 CSU@#61 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -543,7 +538,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#116 WKU@#132 SHSU",
+     "gl": "#117 WKU@#132 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -636,7 +631,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#9 DEN@#29 LAC",
+     "gl": "#8 DEN@#29 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -649,7 +644,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#7 DET@#25 ARI",
+     "gl": "#6 DET@#25 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -680,7 +675,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#10 TEX@#39 OU",
+     "gl": "#10 TEX@#46 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -693,7 +688,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#130 KENT@#75 WMU",
+     "gl": "#131 KENT@#72 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -706,7 +701,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#99 UAB@#47 MEM",
+     "gl": "#111 UAB@#48 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -724,7 +719,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#78 ISU@#7 BYU",
+     "gl": "#64 ISU@#7 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -737,7 +732,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#57 FSU@#23 LOU",
+     "gl": "#54 FSU@#22 LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -750,7 +745,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#93 WYO@#110 SJSU",
+     "gl": "#95 WYO@#115 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -782,5 +777,6 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1
+ "simple": 1,
+ "by": "worker"
 }
