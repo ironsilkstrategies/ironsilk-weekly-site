@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793748969567,
+ "generated": 1793803934793,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,19 +14,12 @@
   "w": 27,
   "l": 21,
   "pu": 0,
-  "u": -1.59,
+  "u": -1.5917598647457147,
   "first": "2026-10-06",
   "be": 0.5881973127720435,
   "ap": -143
  },
- "today": {
-  "d": "2026-11-03",
-  "lockedAt": 1793748453791,
-  "unlockMin": 30,
-  "picks": [],
-  "props": [],
-  "allStarted": true
- },
+ "today": null,
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -37,7 +30,7 @@
     {
      "sp": "nba",
      "game": "TOR@LAC",
-     "gl": "#12 TOR@#26 LAC",
+     "gl": "#9 TOR@#25 LAC",
      "pick": "LAC +5.5",
      "price": -114,
      "p": 0.615,
@@ -55,7 +48,7 @@
     {
      "sp": "nfl",
      "game": "LAC@LAR",
-     "gl": "#29 LAC@#12 LAR",
+     "gl": "#29 LAC@#14 LAR",
      "pick": "LAC +6.5",
      "price": -105,
      "p": 0.621,
@@ -73,7 +66,7 @@
     {
      "sp": "nhl",
      "game": "WPG@TB",
-     "gl": "#29 WPG@#5 TB",
+     "gl": "#29 WPG@#4 TB",
      "pick": "TB ML",
      "price": -198,
      "p": 0.714,
@@ -86,7 +79,7 @@
     {
      "sp": "nhl",
      "game": "NYI@MIN",
-     "gl": "#13 NYI@#2 MIN",
+     "gl": "#12 NYI@#2 MIN",
      "pick": "MIN ML",
      "price": -186,
      "p": 0.709,
@@ -117,7 +110,7 @@
     {
      "sp": "nba",
      "game": "HOU@MIL",
-     "gl": "#5 HOU@#29 MIL",
+     "gl": "#5 HOU@#30 MIL",
      "pick": "HOU -8",
      "price": -115,
      "p": 0.65,
@@ -130,7 +123,7 @@
     {
      "sp": "nba",
      "game": "SA@UTAH",
-     "gl": "#1 SA@#28 UTAH",
+     "gl": "#1 SA@#27 UTAH",
      "pick": "UTAH +13",
      "price": -105,
      "p": 0.649,
@@ -148,7 +141,7 @@
     {
      "sp": "nba",
      "game": "POR@LAL",
-     "gl": "#11 POR@#15 LAL",
+     "gl": "#13 POR@#15 LAL",
      "pick": "LAL -2",
      "price": -105,
      "p": 0.683,
@@ -179,7 +172,7 @@
     {
      "sp": "nhl",
      "game": "DET@EDM",
-     "gl": "#25 DET@#4 EDM",
+     "gl": "#25 DET@#5 EDM",
      "pick": "EDM ML",
      "price": -175,
      "p": 0.709,
@@ -197,7 +190,7 @@
     {
      "sp": "nhl",
      "game": "NYI@DAL",
-     "gl": "#13 NYI@#12 DAL",
+     "gl": "#12 NYI@#9 DAL",
      "pick": "DAL ML",
      "price": -190,
      "p": 0.824,
@@ -223,7 +216,7 @@
     {
      "sp": "nfl",
      "game": "CIN@BAL",
-     "gl": "#10 CIN@#21 BAL",
+     "gl": "#9 CIN@#20 BAL",
      "pick": "BAL +3",
      "price": -115,
      "p": 0.667,
@@ -241,7 +234,7 @@
     {
      "sp": "nhl",
      "game": "SJ@BOS",
-     "gl": "#28 SJ@#7 BOS",
+     "gl": "#28 SJ@#6 BOS",
      "pick": "BOS ML",
      "price": -192,
      "p": 0.805,
@@ -259,7 +252,7 @@
     {
      "sp": "nhl",
      "game": "WPG@DAL",
-     "gl": "#29 WPG@#12 DAL",
+     "gl": "#29 WPG@#9 DAL",
      "pick": "DAL ML",
      "price": -205,
      "p": 0.777,
@@ -285,7 +278,7 @@
     {
      "sp": "nhl",
      "game": "NSH@BOS",
-     "gl": "#23 NSH@#7 BOS",
+     "gl": "#21 NSH@#6 BOS",
      "pick": "BOS ML",
      "price": -155,
      "p": 0.724,
@@ -334,7 +327,7 @@
     {
      "sp": "nhl",
      "game": "SJ@MTL",
-     "gl": "#28 SJ@#8 MTL",
+     "gl": "#28 SJ@#10 MTL",
      "pick": "MTL ML",
      "price": -225,
      "p": 0.789,
@@ -347,7 +340,7 @@
     {
      "sp": "nhl",
      "game": "LA@WSH",
-     "gl": "#26 LA@#15 WSH",
+     "gl": "#26 LA@#18 WSH",
      "pick": "WSH ML",
      "price": -155,
      "p": 0.752,
@@ -365,7 +358,7 @@
     {
      "sp": "nhl",
      "game": "COL@PHI",
-     "gl": "#6 COL@#27 PHI",
+     "gl": "#7 COL@#27 PHI",
      "pick": "COL ML",
      "price": -238,
      "p": 0.8,
@@ -378,7 +371,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#20 PIT@#9 UTAH",
+     "gl": "#23 PIT@#8 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -391,7 +384,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#18 ANA@#22 NYR",
+     "gl": "#17 ANA@#19 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -422,7 +415,7 @@
     {
      "sp": "nhl",
      "game": "CBJ@MIN",
-     "gl": "#24 CBJ@#2 MIN",
+     "gl": "#22 CBJ@#2 MIN",
      "pick": "MIN ML",
      "price": -185,
      "p": 0.809,
@@ -440,7 +433,7 @@
     {
      "sp": "nhl",
      "game": "DAL@CHI",
-     "gl": "#12 DAL@#31 CHI",
+     "gl": "#9 DAL@#31 CHI",
      "pick": "DAL ML",
      "price": -191,
      "p": 0.756,
@@ -484,7 +477,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#20 PIT@#6 COL",
+     "gl": "#23 PIT@#7 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -502,7 +495,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#22 NYR@#3 NJ",
+     "gl": "#19 NYR@#3 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -515,7 +508,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#121 CSU@#59 TXST",
+     "gl": "#121 CSU@#60 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -533,7 +526,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#116 WKU@#132 SHSU",
+     "gl": "#117 WKU@#132 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -551,7 +544,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#4 EDM@#26 LA",
+     "gl": "#5 EDM@#26 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -595,7 +588,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#17 FLA@#16 BUF",
+     "gl": "#14 FLA@#16 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -626,7 +619,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#11 DEN@#29 LAC",
+     "gl": "#10 DEN@#29 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -639,7 +632,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#5 DET@#24 ARI",
+     "gl": "#7 DET@#24 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -652,7 +645,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#6 SF@#8 SEA",
+     "gl": "#6 SF@#11 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -670,7 +663,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#10 TEX@#39 OU",
+     "gl": "#10 TEX@#38 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -683,7 +676,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#130 KENT@#75 WMU",
+     "gl": "#130 KENT@#76 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -714,7 +707,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#78 ISU@#7 BYU",
+     "gl": "#79 ISU@#7 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -740,7 +733,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#93 WYO@#110 SJSU",
+     "gl": "#92 WYO@#111 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -758,7 +751,7 @@
     {
      "sp": "mlb",
      "game": "MIL@SD",
-     "gl": "#1 MIL@#7 SD",
+     "gl": "#1 MIL@#6 SD",
      "pick": "Under 7.5",
      "price": -110,
      "p": 0.542,
@@ -772,6 +765,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
