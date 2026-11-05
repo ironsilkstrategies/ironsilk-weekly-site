@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793902961106,
+ "generated": 1793906058188,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -19,7 +19,38 @@
   "be": 0.5846269368942622,
   "ap": -141
  },
- "today": null,
+ "today": {
+  "d": "2026-11-05",
+  "lockedAt": 1793906048934,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "ncaab",
+    "start": "2026-11-06T01:00Z",
+    "unlockAt": 1793925000000
+   },
+   {
+    "hidden": true,
+    "sp": "nba",
+    "start": "2026-11-06T03:00Z",
+    "unlockAt": 1793932200000
+   },
+   {
+    "hidden": true,
+    "sp": "nhl",
+    "start": "2026-11-06T01:00Z",
+    "unlockAt": 1793925000000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "7d1ccc9989f05b4bb1620d4309eea6c45e90460e4abd829dafdcb2a8fecfef23",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -123,7 +154,7 @@
     {
      "sp": "nhl",
      "game": "NYI@MIN",
-     "gl": "#13 NYI@#2 MIN",
+     "gl": "#14 NYI@#2 MIN",
      "pick": "MIN ML",
      "price": -186,
      "p": 0.709,
@@ -154,7 +185,7 @@
     {
      "sp": "nba",
      "game": "HOU@MIL",
-     "gl": "#3 HOU@#29 MIL",
+     "gl": "#4 HOU@#29 MIL",
      "pick": "HOU -8",
      "price": -115,
      "p": 0.65,
@@ -167,7 +198,7 @@
     {
      "sp": "nba",
      "game": "SA@UTAH",
-     "gl": "#1 SA@#27 UTAH",
+     "gl": "#1 SA@#28 UTAH",
      "pick": "UTAH +13",
      "price": -105,
      "p": 0.649,
@@ -185,7 +216,7 @@
     {
      "sp": "nba",
      "game": "POR@LAL",
-     "gl": "#10 POR@#13 LAL",
+     "gl": "#10 POR@#12 LAL",
      "pick": "LAL -2",
      "price": -105,
      "p": 0.683,
@@ -234,7 +265,7 @@
     {
      "sp": "nhl",
      "game": "NYI@DAL",
-     "gl": "#13 NYI@#9 DAL",
+     "gl": "#14 NYI@#9 DAL",
      "pick": "DAL ML",
      "price": -190,
      "p": 0.824,
@@ -340,7 +371,7 @@
     {
      "sp": "nhl",
      "game": "PHI@BUF",
-     "gl": "#27 PHI@#15 BUF",
+     "gl": "#27 PHI@#17 BUF",
      "pick": "BUF ML",
      "price": -218,
      "p": 0.784,
@@ -415,7 +446,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#23 PIT@#7 UTAH",
+     "gl": "#24 PIT@#7 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -428,7 +459,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#17 ANA@#19 NYR",
+     "gl": "#16 ANA@#19 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -521,7 +552,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#23 PIT@#8 COL",
+     "gl": "#24 PIT@#8 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -632,7 +663,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#14 FLA@#15 BUF",
+     "gl": "#13 FLA@#17 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
