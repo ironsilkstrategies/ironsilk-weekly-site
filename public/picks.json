@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793850064334,
+ "generated": 1793855433433,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -11,10 +11,10 @@
  "handle": "RuleTheWorldKid",
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
-  "w": 29,
+  "w": 30,
   "l": 21,
   "pu": 0,
-  "u": 0.22642195343610338,
+  "u": 1.1,
   "first": "2026-10-06",
   "be": 0.5856218012135428,
   "ap": -141
@@ -55,7 +55,7 @@
     "ev": 20.8,
     "start": "2026-11-05T03:00Z",
     "tier": "STRONG",
-    "hit": null,
+    "hit": true,
     "push": false,
     "why": {
      "read": {
@@ -89,12 +89,7 @@
    }
   ],
   "props": [],
-  "allStarted": true,
-  "commit": {
-   "alg": "sha256",
-   "hash": "9565b339845125e94bd4eed6eb58ad1145396f2565f6ed08e2d1f7d982ca4954",
-   "salt": "1b28885c9605e75f5907543cacbe9974"
-  }
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
@@ -841,5 +836,6 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1
+ "simple": 1,
+ "by": "worker"
 }
