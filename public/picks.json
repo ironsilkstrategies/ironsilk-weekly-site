@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793846074927,
+ "generated": 1793846699547,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,10 +14,10 @@
   "w": 28,
   "l": 21,
   "pu": 0,
-  "u": -0.68,
+  "u": -0.6826689556548057,
   "first": "2026-10-06",
-  "be": 0.5881973127720435,
-  "ap": -143
+  "be": 0.5868832762626043,
+  "ap": -142
  },
  "today": {
   "d": "2026-11-04",
@@ -38,9 +38,9 @@
     "push": false,
     "why": {
      "read": {
-      "who": "The Simulator",
-      "take": "I ran this game 10,000 times. The under hits 62% of them.",
-      "text": "I ran this game 10,000 times. The under hits 62% of them. My projected final is CSUN 75, WICH 82 — 156 total against a line of 160.5. Jordan Frison averages 18 points a game, and 22 over his recent games — he's hot. Played 10,000 times, the under hits 62% of them. I'm 31-13 on CBB unders. The worry: A late foul-fest can swing a total like this — nothing here is a lock. At -110 the book needs this to hit 52% of the time. I have it at 65% — the price pays more than the risk."
+      "who": "The Brain",
+      "take": "Everyone has had their say. When I weigh them by who's been right, it comes out the under.",
+      "text": "Everyone has had their say. When I weigh them by who's been right, it comes out the under. Josiah Davis averages 18 points a game. Played 10,000 times, the under hits 63% of them. I'm 14-8 on CBB unders. The worry: A late foul-fest can swing a total like this — nothing here is a lock. At -110 the book needs this to hit 52% of the time. I have it at 63% — the price pays more than the risk."
      }
     },
     "unlockAt": 1793836800000
@@ -48,7 +48,7 @@
    {
     "sp": "ncaab",
     "game": "QUC@LMU",
-    "gl": "#196 QUC@LMU",
+    "gl": "QUC@LMU",
     "pick": "Over 160.5",
     "price": -115,
     "p": 0.646,
@@ -59,9 +59,9 @@
     "push": false,
     "why": {
      "read": {
-      "who": "The Simulator",
-      "take": "I ran this game 10,000 times. The over hits 60% of them.",
-      "text": "I ran this game 10,000 times. The over hits 60% of them. My projected final is QUC 81, LMU 84 — 165 total against a line of 160.5. Played 10,000 times, the over hits 60% of them. I'm 13-5 on CBB overs. The worry: A late foul-fest can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 65% — the price pays more than the risk."
+      "who": "The Brain",
+      "take": "Everyone has had their say. When I weigh them by who's been right, it comes out the over.",
+      "text": "Everyone has had their say. When I weigh them by who's been right, it comes out the over. Jordan Watford averages 14 points a game, and 17 over his recent games — he's hot. Played 10,000 times, the over hits 58% of them. I'm 6-2 on CBB overs — only 8 games, so it's a footnote, not the reason. The worry: A late foul-fest can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 63% — the price pays more than the risk. The simulation alone says 58%; my 6-2 record on CBB overs is why my confidence runs higher."
      }
     },
     "unlockAt": 1793845800000
@@ -80,16 +80,21 @@
     "push": false,
     "why": {
      "read": {
-      "who": "The Simulator",
-      "take": "I ran this game 10,000 times. The under hits 59% of them.",
-      "text": "I ran this game 10,000 times. The under hits 59% of them. My projected final is SELA 69, AUB 78 — 147 total against a line of 151.5. Played 10,000 times, the under hits 59% of them. I'm 31-13 on CBB unders. The worry: A late foul-fest can swing a total like this — nothing here is a lock. At -110 the book needs this to hit 52% of the time. I have it at 64% — the price pays more than the risk."
+      "who": "The Brain",
+      "take": "Everyone has had their say. When I weigh them by who's been right, it comes out the under.",
+      "text": "Everyone has had their say. When I weigh them by who's been right, it comes out the under. Quincy Allen averages 9.8 points a game. Played 10,000 times, the under hits 59% of them. I'm 14-8 on CBB unders. The worry: A late foul-fest can swing a total like this — nothing here is a lock. At -110 the book needs this to hit 52% of the time. I have it at 63% — the price pays more than the risk."
      }
     },
     "unlockAt": 1793838600000
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "9565b339845125e94bd4eed6eb58ad1145396f2565f6ed08e2d1f7d982ca4954",
+   "salt": "1b28885c9605e75f5907543cacbe9974"
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -101,7 +106,7 @@
     {
      "sp": "nba",
      "game": "TOR@LAC",
-     "gl": "#17 TOR@#26 LAC",
+     "gl": "#11 TOR@#24 LAC",
      "pick": "LAC +5.5",
      "price": -114,
      "p": 0.615,
@@ -119,7 +124,7 @@
     {
      "sp": "nfl",
      "game": "LAC@LAR",
-     "gl": "#28 LAC@#13 LAR",
+     "gl": "#30 LAC@#13 LAR",
      "pick": "LAC +6.5",
      "price": -105,
      "p": 0.621,
@@ -168,7 +173,7 @@
     {
      "sp": "nba",
      "game": "CHA@DET",
-     "gl": "#23 CHA@#4 DET",
+     "gl": "#26 CHA@#3 DET",
      "pick": "CHA +7.5",
      "price": -105,
      "p": 0.651,
@@ -181,7 +186,7 @@
     {
      "sp": "nba",
      "game": "HOU@MIL",
-     "gl": "#1 HOU@#28 MIL",
+     "gl": "#1 HOU@#30 MIL",
      "pick": "HOU -8",
      "price": -115,
      "p": 0.65,
@@ -194,7 +199,7 @@
     {
      "sp": "nba",
      "game": "SA@UTAH",
-     "gl": "#2 SA@#25 UTAH",
+     "gl": "#5 SA@#28 UTAH",
      "pick": "UTAH +13",
      "price": -105,
      "p": 0.649,
@@ -212,7 +217,7 @@
     {
      "sp": "nba",
      "game": "POR@LAL",
-     "gl": "#6 POR@#3 LAL",
+     "gl": "#6 POR@#7 LAL",
      "pick": "LAL -2",
      "price": -105,
      "p": 0.683,
@@ -225,7 +230,7 @@
     {
      "sp": "nba",
      "game": "SAC@SA",
-     "gl": "#29 SAC@#2 SA",
+     "gl": "#27 SAC@#5 SA",
      "pick": "SA -18.5",
      "price": -110,
      "p": 0.681,
@@ -287,7 +292,7 @@
     {
      "sp": "nfl",
      "game": "CIN@BAL",
-     "gl": "#7 CIN@#21 BAL",
+     "gl": "#12 CIN@#26 BAL",
      "pick": "BAL +3",
      "price": -115,
      "p": 0.667,
@@ -579,7 +584,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#118 CSU@#62 TXST",
+     "gl": "CSU@TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -597,7 +602,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#117 WKU@#131 SHSU",
+     "gl": "WKU@SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -690,7 +695,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#9 DEN@#28 LAC",
+     "gl": "#9 DEN@#30 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -703,7 +708,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#8 DET@#24 ARI",
+     "gl": "#7 DET@#23 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -716,7 +721,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#6 SF@#14 SEA",
+     "gl": "#6 SF@#15 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -734,7 +739,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#7 TEX@#47 OU",
+     "gl": "#7 TEX@#57 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -747,7 +752,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#132 KENT@#70 WMU",
+     "gl": "KENT@#42 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -760,7 +765,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#108 UAB@#38 MEM",
+     "gl": "#71 UAB@#23 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -778,7 +783,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#75 ISU@#9 BYU",
+     "gl": "ISU@#9 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -791,7 +796,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#64 FSU@#27 LOU",
+     "gl": "FSU@LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -804,7 +809,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#93 WYO@#107 SJSU",
+     "gl": "#63 WYO@#69 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -822,7 +827,7 @@
     {
      "sp": "mlb",
      "game": "MIL@SD",
-     "gl": "#1 MIL@#6 SD",
+     "gl": "#1 MIL@#10 SD",
      "pick": "Under 7.5",
      "price": -110,
      "p": 0.542,
@@ -836,6 +841,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
