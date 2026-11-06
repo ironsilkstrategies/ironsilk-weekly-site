@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1793927779034,
+ "generated": 1793932217805,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,7 +14,7 @@
   "w": 30,
   "l": 21,
   "pu": 0,
-  "u": 1.0959871708274078,
+  "u": 1.1,
   "first": "2026-10-06",
   "be": 0.5846269368942622,
   "ap": -141
@@ -61,25 +61,36 @@
      "read": {
       "who": "The Simulator",
       "take": "I ran this game 10,000 times. The over hits 59% of them.",
-      "text": "I ran this game 10,000 times. The over hits 59% of them. My projected final is Gardner-Webb Runnin' 64, TEX 95 — 159 total against a line of 154.5. Played 10,000 times, the over hits 59% of them. I'm 17-7 on CBB overs. The worry: A late foul-fest can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 63% — the price pays more than the risk."
+      "text": "I ran this game 10,000 times. The over hits 59% of them. My projected final is Gardner-Webb Runnin' 64, TEX 95 — 159 total against a line of 154.5. Played 10,000 times, the over hits 59% of them. I'm 15-6 on CBB overs. The worry: A late foul-fest can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 63% — the price pays more than the risk."
      }
     },
     "unlockAt": 1793925000000
    },
    {
-    "hidden": true,
     "sp": "nba",
+    "game": "MIA@GS",
+    "gl": "#19 MIA@#15 GS",
+    "pick": "GS -7",
+    "price": -110,
+    "p": 0.659,
+    "ev": 25.8,
     "start": "2026-11-06T03:00Z",
+    "tier": "VALUE",
+    "hit": null,
+    "push": false,
+    "spread": true,
+    "why": {
+     "read": {
+      "who": "The Judge",
+      "take": "I weigh every witness by how often they've been right — and nearly all of them point to Golden State.",
+      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Golden State. Golden State is rested and Miami isn't — a spot we're still testing (18 graded games). 2 of the 3 characters reading this game are on the same side — one holdout. I'm 32-25 on NBA favorites against the spread. The worry: Golden State is missing Gui Santos (F) and Kristaps Porzingis (C) — that's the hole. At -110 the book needs this to hit 52% of the time. I have it at 66% — the price pays more than the risk. The simulation alone says 53%; my 32-25 record on NBA favorites against the spread is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1793932200000
    }
   ],
   "props": [],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "caff209b02b8856f269f9270b5b174f933ffa484b6ba74640ad301b4eeade221",
-   "salt": null
-  }
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
@@ -870,5 +881,6 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1
+ "simple": 1,
+ "by": "worker"
 }
