@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794116613362,
+ "generated": 1794117174280,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,10 +14,10 @@
   "w": 32,
   "l": 23,
   "pu": 0,
-  "u": 0.87,
+  "u": 0.8746432973096212,
   "first": "2026-10-06",
-  "be": 0.5816583471718029,
-  "ap": -139
+  "be": 0.5798239996008471,
+  "ap": -138
  },
  "today": {
   "d": "2026-11-07",
@@ -41,14 +41,19 @@
      "read": {
       "who": "The Simulator",
       "take": "I ran this game 10,000 times. The over hits 60% of them.",
-      "text": "I ran this game 10,000 times. The over hits 60% of them. My projected final is Vancouver 2.9, Edmonton 5.1 — 8 total against a line of 7. Elias Pettersson averages 1.0 points a game, and 1.4 over his recent games — he's hot. Played 10,000 times, the over hits 60% of them. I'm 46-35 on NHL overs. The worry: One empty-net goal can swing a total like this — nothing here is a lock. At +108 the book needs this to hit 48% of the time. I have it at 60% — the price pays more than the risk."
+      "text": "I ran this game 10,000 times. The over hits 60% of them. My projected final is Vancouver 2.9, Edmonton 5.1 — 8 total against a line of 7. Elias Pettersson averages 1.0 points a game, and 1.4 over his recent games — he's hot. Played 10,000 times, the over hits 60% of them. I'm 48-37 on NHL overs. The worry: One empty-net goal can swing a total like this — nothing here is a lock. At +108 the book needs this to hit 48% of the time. I have it at 60% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794105000000
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "7a7f013ddc6cf1b11d4d7ed3e6b8ce0f340ba507d6c91b2f8ec30e90edd8e1d0",
+   "salt": "0632d993e90ab8d77b409197d232e318"
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -883,6 +888,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
