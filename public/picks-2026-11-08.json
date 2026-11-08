@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794177632277,
+ "generated": 1794181035160,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -25,9 +25,24 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "NJ@TOR",
+    "gl": "#4 NJ@#19 TOR",
+    "pick": "TOR +1.5",
+    "price": -198,
+    "p": 0.681,
+    "ev": 2.6,
     "start": "2026-11-09T00:00Z",
+    "tier": "UNANIMOUS",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Coach",
+      "take": "This is a spot game, and the spot belongs to Toronto.",
+      "text": "This is a spot game, and the spot belongs to Toronto. New Jersey played last night — tonight is the second night of a back-to-back — a spot we're still testing (17 graded games). Auston Matthews averages 1.5 points a game. On ratings alone Toronto loses by 0.3, and the line gives +1.5 — a 1.2-goal cushion. The worry: Toronto is missing Kirill Marchenko (RW) and Miles Wood (LW) — that's the hole. At -198 the book needs this to hit 66% of the time. I have it at 68% — the price pays more than the risk."
+     }
+    },
     "unlockAt": 1794180600000
    },
    {
@@ -69,18 +84,18 @@
      "read": {
       "who": "The Judge",
       "take": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles.",
-      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 47 over his recent games — he's hot. Detroit is without Isaiah Joe (G, out) and Jalen Duren (C, out). All 4 characters reading this game agree. I'm 31-24 on NBA underdogs against the spread. The worry: Ausar Thompson is hot for Detroit — 12 rebounds a game lately. He can beat this on his own. At -107 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
+      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 47 over his recent games — he's hot. Detroit is without Jalen Duren (C, out) and Isaiah Joe (G, out). All 4 characters reading this game agree. I'm 31-24 on NBA underdogs against the spread. The worry: Los Angeles is missing Luka Doncic (G) — that's the hole. At -107 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794177000000
    }
   ],
   "props": [],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
    "hash": "a5933069ccde51d6b3128eecc60797e472f71b541ffc276b7c4f4311880a9584",
-   "salt": null
+   "salt": "e4575f0284327a4ad2c350d19deef069"
   }
  },
  "parlay": null,
