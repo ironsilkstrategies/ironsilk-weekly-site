@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794173584826,
+ "generated": 1794173869050,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,10 +14,10 @@
   "w": 33,
   "l": 23,
   "pu": 0,
-  "u": 1.46,
+  "u": 1.4628785914272684,
   "first": "2026-10-06",
-  "be": 0.5798239996008471,
-  "ap": -138
+  "be": 0.580713385851361,
+  "ap": -139
  },
  "today": {
   "d": "2026-11-08",
@@ -47,7 +47,7 @@
      "read": {
       "who": "The Judge",
       "take": "I weigh every witness by how often they've been right — and nearly all of them point to New Orleans.",
-      "text": "I weigh every witness by how often they've been right — and nearly all of them point to New Orleans. Tyler Shough averages 246 passing yards a game — only 7 games, so it's a footnote, not the reason. Cleveland is without Maliek Collins (DT, out) and Kalia Davis (DT, injured reserve). All 3 characters reading this game agree. I'm 28-12 on NFL favorites on the moneyline. The worry: New Orleans is missing CJ Donaldson (RB) — that's the hole. At -170 the book needs this to hit 63% of the time. I have it at 65% — the price pays more than the risk. The simulation alone says 59%; my 28-12 record on NFL favorites on the moneyline is why my confidence runs higher."
+      "text": "I weigh every witness by how often they've been right — and nearly all of them point to New Orleans. Tyler Shough averages 248 passing yards a game — only 8 games, so it's a footnote, not the reason. Cleveland is without Taylen Green (QB, out) and Deshaun Watson (QB, out). All 3 characters reading this game agree. I'm 35-12 on NFL favorites on the moneyline. The worry: New Orleans is missing Zach Wilson (QB) and Mason Murphy (OT) — that's the hole. At -170 the book needs this to hit 63% of the time. I have it at 65% — the price pays more than the risk. The simulation alone says 59%; my 35-12 record on NFL favorites on the moneyline is why my confidence runs higher."
      }
     },
     "unlockAt": 1794159000000
@@ -60,7 +60,12 @@
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "a5933069ccde51d6b3128eecc60797e472f71b541ffc276b7c4f4311880a9584",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -913,6 +918,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
