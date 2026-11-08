@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794180612345,
+ "generated": 1794181035160,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,7 +14,7 @@
   "w": 33,
   "l": 23,
   "pu": 0,
-  "u": 1.46,
+  "u": 1.4628785914272684,
   "first": "2026-10-06",
   "be": 0.580713385851361,
   "ap": -139
@@ -84,14 +84,19 @@
      "read": {
       "who": "The Judge",
       "take": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles.",
-      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 47 over his recent games — he's hot. Detroit is without Isaiah Joe (G, out) and Jalen Duren (C, out). All 4 characters reading this game agree. I'm 31-24 on NBA underdogs against the spread. The worry: Ausar Thompson is hot for Detroit — 12 rebounds a game lately. He can beat this on his own. At -107 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
+      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 47 over his recent games — he's hot. Detroit is without Jalen Duren (C, out) and Isaiah Joe (G, out). All 4 characters reading this game agree. I'm 31-24 on NBA underdogs against the spread. The worry: Los Angeles is missing Luka Doncic (G) — that's the hole. At -107 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794177000000
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "a5933069ccde51d6b3128eecc60797e472f71b541ffc276b7c4f4311880a9584",
+   "salt": "e4575f0284327a4ad2c350d19deef069"
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -944,6 +949,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
