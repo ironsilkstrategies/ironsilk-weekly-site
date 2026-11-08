@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794177014179,
+ "generated": 1794177632277,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,7 +14,7 @@
   "w": 33,
   "l": 23,
   "pu": 0,
-  "u": 1.46,
+  "u": 1.4628785914272684,
   "first": "2026-10-06",
   "be": 0.580713385851361,
   "ap": -139
@@ -76,7 +76,12 @@
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "a5933069ccde51d6b3128eecc60797e472f71b541ffc276b7c4f4311880a9584",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -929,6 +934,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
