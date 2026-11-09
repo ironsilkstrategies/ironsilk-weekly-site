@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794188405695,
+ "generated": 1794188426978,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,10 +14,10 @@
   "w": 34,
   "l": 23,
   "pu": 0,
-  "u": 2.4,
+  "u": 2.397458030679605,
   "first": "2026-10-06",
-  "be": 0.580713385851361,
-  "ap": -139
+  "be": 0.5795939968462562,
+  "ap": -138
  },
  "today": {
   "d": "2026-11-08",
@@ -40,7 +40,7 @@
      "read": {
       "who": "The Coach",
       "take": "This is a spot game, and the spot belongs to Toronto.",
-      "text": "This is a spot game, and the spot belongs to Toronto. New Jersey played last night — tonight is the second night of a back-to-back — a spot we're still testing (17 graded games). Auston Matthews averages 1.5 points a game. On ratings alone Toronto loses by 0.3, and the line gives +1.5 — a 1.2-goal cushion. The worry: Toronto is missing Kirill Marchenko (RW) and Miles Wood (LW) — that's the hole. At -198 the book needs this to hit 66% of the time. I have it at 68% — the price pays more than the risk."
+      "text": "This is a spot game, and the spot belongs to Toronto. New Jersey played last night — tonight is the second night of a back-to-back — a spot we're still testing (18 graded games). Auston Matthews averages 1.5 points a game. On ratings alone Toronto loses by 0.3, and the line gives +1.5 — a 1.2-goal cushion. The worry: Toronto is missing Kirill Marchenko (RW) and Miles Wood (LW) — that's the hole. At -198 the book needs this to hit 66% of the time. I have it at 68% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794180600000
@@ -62,7 +62,7 @@
      "read": {
       "who": "The Judge",
       "take": "I weigh every witness by how often they've been right — and nearly all of them point to New Orleans.",
-      "text": "I weigh every witness by how often they've been right — and nearly all of them point to New Orleans. Tyler Shough averages 248 passing yards a game — only 8 games, so it's a footnote, not the reason. Cleveland is without Taylen Green (QB, out) and Deshaun Watson (QB, out). All 3 characters reading this game agree. I'm 35-12 on NFL favorites on the moneyline. The worry: New Orleans is missing Zach Wilson (QB) and Mason Murphy (OT) — that's the hole. At -170 the book needs this to hit 63% of the time. I have it at 65% — the price pays more than the risk. The simulation alone says 59%; my 35-12 record on NFL favorites on the moneyline is why my confidence runs higher."
+      "text": "I weigh every witness by how often they've been right — and nearly all of them point to New Orleans. Tyler Shough averages 248 passing yards a game — only 8 games, so it's a footnote, not the reason. Cleveland is without Taylen Green (QB, out) and Deshaun Watson (QB, out). All 3 characters reading this game agree. I'm 38-13 on NFL favorites on the moneyline. The worry: New Orleans is missing Zach Wilson (QB) and Mason Murphy (OT) — that's the hole. At -170 the book needs this to hit 63% of the time. I have it at 65% — the price pays more than the risk. The simulation alone says 59%; my 38-13 record on NFL favorites on the moneyline is why my confidence runs higher."
      }
     },
     "unlockAt": 1794159000000
@@ -84,14 +84,19 @@
      "read": {
       "who": "The Judge",
       "take": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles.",
-      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 47 over his recent games — he's hot. Detroit is without Jalen Duren (C, out) and Isaiah Joe (G, out). All 4 characters reading this game agree. I'm 31-24 on NBA underdogs against the spread. The worry: Los Angeles is missing Luka Doncic (G) — that's the hole. At -107 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
+      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 47 over his recent games — he's hot. Detroit is without Jalen Duren (C, out) and Isaiah Joe (G, out). All 4 characters reading this game agree. I'm 32-24 on NBA underdogs against the spread. The worry: Los Angeles is missing Luka Doncic (G) — that's the hole. At -107 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794177000000
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "a5933069ccde51d6b3128eecc60797e472f71b541ffc276b7c4f4311880a9584",
+   "salt": "e4575f0284327a4ad2c350d19deef069"
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -944,6 +949,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
