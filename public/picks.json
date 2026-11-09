@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794192722789,
+ "generated": 1794198088786,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,10 +14,10 @@
   "w": 34,
   "l": 24,
   "pu": 0,
-  "u": 1.4,
+  "u": 1.3974580306796047,
   "first": "2026-10-06",
-  "be": 0.5795939968462562,
-  "ap": -138
+  "be": 0.5810566784558266,
+  "ap": -139
  },
  "today": {
   "d": "2026-11-08",
@@ -40,7 +40,7 @@
      "read": {
       "who": "The Coach",
       "take": "This is a spot game, and the spot belongs to Toronto.",
-      "text": "This is a spot game, and the spot belongs to Toronto. New Jersey played last night — tonight is the second night of a back-to-back — a spot we're still testing (18 graded games). Auston Matthews averages 1.5 points a game. On ratings alone Toronto loses by 0.3, and the line gives +1.5 — a 1.2-goal cushion. The worry: Toronto is missing Kirill Marchenko (RW) and Miles Wood (LW) — that's the hole. At -198 the book needs this to hit 66% of the time. I have it at 68% — the price pays more than the risk."
+      "text": "This is a spot game, and the spot belongs to Toronto. New Jersey played last night — tonight is the second night of a back-to-back — a spot we're still testing (21 graded games). Auston Matthews averages 1.5 points a game. On ratings alone Toronto loses by 0.3, and the line gives +1.5 — a 1.2-goal cushion. The worry: Toronto is missing Kirill Marchenko (RW) and Miles Wood (LW) — that's the hole. At -198 the book needs this to hit 66% of the time. I have it at 68% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794180600000
@@ -91,7 +91,12 @@
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "a5933069ccde51d6b3128eecc60797e472f71b541ffc276b7c4f4311880a9584",
+   "salt": "e4575f0284327a4ad2c350d19deef069"
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -944,6 +949,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
