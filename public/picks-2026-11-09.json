@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794270207938,
+ "generated": 1794275403426,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -25,9 +25,24 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nhl",
+    "game": "NYR@EDM",
+    "gl": "#11 NYR@#4 EDM",
+    "pick": "EDM ML",
+    "price": -153,
+    "p": 0.715,
+    "ev": 18.1,
     "start": "2026-11-10T01:00Z",
+    "tier": "STRONG",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Scout",
+      "take": "I watch the talent, and the talent edge is Edmonton's.",
+      "text": "I watch the talent, and the talent edge is Edmonton's. Connor McDavid averages 2.6 points a game. New York is without Sean Durzi (D, injured reserve) and Igor Shesterkin (G, injured reserve). Played 10,000 times, Edmonton wins 59% of them. I'm 24-11 on NHL favorites on the moneyline. The worry: Edmonton is missing Isaac Howard (LW) and Alec Regula (D) — that's the hole. At -153 the book needs this to hit 60% of the time. I have it at 71% — the price pays more than the risk. The simulation alone says 59%; my 24-11 record on NHL favorites on the moneyline is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1794270600000
    },
    {
@@ -46,7 +61,7 @@
      "read": {
       "who": "The Coach",
       "take": "I like Jackson State's matchup and form tonight.",
-      "text": "I like Jackson State's matchup and form tonight. Over the last five, Jackson State is 1-1 and Mississippi State is 2-0. On ratings alone Jackson State loses by 19, and the line gives +23.5 — a 4.2-point cushion. I'm 5-2 on CBB underdogs against the spread — only 7 games, so it's a footnote, not the reason. The worry: Home teams have won 79% across CBB the last two weeks (172 games; it used to be about 63%). At -110 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
+      "text": "I like Jackson State's matchup and form tonight. Over the last five, Jackson State is 1-1 and Mississippi State is 2-0. Jayden Williams averages 6.7 points a game. On ratings alone Jackson State loses by 19, and the line gives +23.5 — a 4.2-point cushion. I'm 7-3 on CBB underdogs against the spread. The worry: Thomas Bassong is hot for Mississippi State — 8.4 points a game lately. He can beat this on his own. Home teams have won 79% across CBB the last two weeks (172 games; it used to be about 63%). At -110 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794268800000
@@ -68,18 +83,18 @@
      "read": {
       "who": "The Judge",
       "take": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles.",
-      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 47 over his recent games — he's hot. Atlanta is without Asa Newell (F, out) and Keshon Gilbert (G, out). 2 of the 3 characters reading this game are on the same side — one holdout. I'm 75-28 on NBA favorites on the moneyline. The worry: Los Angeles is missing Quentin Grimes (G) — that's the hole. At -128 the book needs this to hit 56% of the time. I have it at 73% — the price pays more than the risk. The simulation alone says 58%; my 75-28 record on NBA favorites on the moneyline is why my confidence runs higher."
+      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 47 over his recent games — he's hot. Atlanta is without Asa Newell (F, out) and Keshon Gilbert (G, out). 3 of the 4 characters reading this game are on the same side — one holdout. I'm 75-28 on NBA favorites on the moneyline. The worry: Los Angeles is missing Quentin Grimes (G) — that's the hole. At -128 the book needs this to hit 56% of the time. I have it at 73% — the price pays more than the risk. The simulation alone says 58%; my 75-28 record on NBA favorites on the moneyline is why my confidence runs higher."
      }
     },
     "unlockAt": 1794267000000
    }
   ],
   "props": [],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
    "hash": "5c1846644128209c49b15fd6a9959e8524486b56b408d60af9c7599febb6e7b9",
-   "salt": null
+   "salt": "684bed554ecaf2821b264538d9152c13"
   }
  },
  "parlay": null,
