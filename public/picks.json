@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794339656275,
+ "generated": 1794339753426,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -19,7 +19,26 @@
   "be": 0.5801843191151369,
   "ap": -138
  },
- "today": null,
+ "today": {
+  "d": "2026-11-10",
+  "lockedAt": 1794339752730,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "hidden": true,
+    "sp": "ncaab",
+    "start": "2026-11-11T02:00Z",
+    "unlockAt": 1794360600000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "c9defa024f01f68ad614ffaa94a6c6501a9ee67a8001cf2a304e7819b3bddcc2",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -162,7 +181,7 @@
     {
      "sp": "nba",
      "game": "MIA@GS",
-     "gl": "#18 MIA@#5 GS",
+     "gl": "#18 MIA@#6 GS",
      "pick": "GS -7",
      "price": -110,
      "p": 0.659,
@@ -224,7 +243,7 @@
     {
      "sp": "nba",
      "game": "TOR@LAC",
-     "gl": "#15 TOR@#20 LAC",
+     "gl": "#14 TOR@#21 LAC",
      "pick": "LAC +5.5",
      "price": -114,
      "p": 0.615,
@@ -335,7 +354,7 @@
     {
      "sp": "nba",
      "game": "POR@LAL",
-     "gl": "#14 POR@#9 LAL",
+     "gl": "#15 POR@#9 LAL",
      "pick": "LAL -2",
      "price": -105,
      "p": 0.683,
@@ -883,57 +902,13 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#99 UAB@#38 MEM",
+     "gl": "#100 UAB@#38 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
      "ev": 3.5,
      "start": "2026-10-10T23:00Z",
      "tier": "STRONG",
-     "hit": true,
-     "push": false
-    }
-   ]
-  },
-  {
-   "d": "2026-10-09",
-   "picks": [
-    {
-     "sp": "ncaaf",
-     "game": "ISU@BYU",
-     "gl": "#71 ISU@#12 BYU",
-     "pick": "BYU -10.5",
-     "price": -108,
-     "p": 0.539,
-     "ev": 3.8,
-     "start": "2026-10-10T02:15Z",
-     "tier": "STRONG",
-     "hit": true,
-     "push": false
-    },
-    {
-     "sp": "ncaaf",
-     "game": "FSU@LOU",
-     "gl": "#54 FSU@#17 LOU",
-     "pick": "LOU -3.5",
-     "price": -112,
-     "p": 0.539,
-     "ev": 2,
-     "start": "2026-10-09T23:00Z",
-     "tier": "STRONG",
-     "hit": true,
-     "push": false
-    },
-    {
-     "sp": "ncaaf",
-     "game": "WYO@SJSU",
-     "gl": "#88 WYO@#104 SJSU",
-     "pick": "WYO +6",
-     "price": -110,
-     "p": 0.537,
-     "ev": 2.5,
-     "start": "2026-10-10T01:00Z",
-     "tier": "VALUE",
      "hit": true,
      "push": false
     }
