@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794292553823,
+ "generated": 1794339656275,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -14,88 +14,60 @@
   "w": 36,
   "l": 25,
   "pu": 0,
-  "u": 1.83,
+  "u": 1.832302801921435,
   "first": "2026-10-06",
   "be": 0.5801843191151369,
   "ap": -138
  },
- "today": {
-  "d": "2026-11-09",
-  "lockedAt": 1794224084877,
-  "unlockMin": 30,
-  "picks": [
-   {
-    "sp": "nhl",
-    "game": "NYR@EDM",
-    "gl": "#11 NYR@#4 EDM",
-    "pick": "EDM ML",
-    "price": -153,
-    "p": 0.715,
-    "ev": 18.1,
-    "start": "2026-11-10T01:00Z",
-    "tier": "STRONG",
-    "hit": true,
-    "push": false,
-    "why": {
-     "read": {
-      "who": "The Scout",
-      "take": "This one comes down to players, and Leon Draisaitl is hot.",
-      "text": "This one comes down to players, and Leon Draisaitl is hot. Leon Draisaitl averages 0.9 goals a game, and 1.4 over his recent games — he's hot. New York is without Sean Durzi (D, injured reserve) and Igor Shesterkin (G, injured reserve). Played 10,000 times, Edmonton wins 59% of them. I'm 25-12 on NHL favorites on the moneyline. The worry: Edmonton is missing Isaac Howard (LW) and Alec Regula (D) — that's the hole. At -153 the book needs this to hit 60% of the time. I have it at 71% — the price pays more than the risk. The simulation alone says 59%; my 25-12 record on NHL favorites on the moneyline is why my confidence runs higher."
-     }
-    },
-    "unlockAt": 1794270600000
-   },
-   {
-    "sp": "ncaab",
-    "game": "JKST@MSST",
-    "gl": "#436 JKST@#37 MSST",
-    "pick": "JKST +23.5",
-    "price": -110,
-    "p": 0.549,
-    "ev": 4.9,
-    "start": "2026-11-10T00:30Z",
-    "tier": "UNANIMOUS",
-    "hit": false,
-    "push": false,
-    "why": {
-     "read": {
-      "who": "The Coach",
-      "take": "I like Jackson State's matchup and form tonight.",
-      "text": "I like Jackson State's matchup and form tonight. Over the last five, Jackson State is 1-1 and Mississippi State is 2-0. Jayden Williams averages 6.4 points a game. On ratings alone Jackson State loses by 19, and the line gives +23.5 — a 4.2-point cushion. I'm 20-19 on CBB underdogs against the spread. The worry: Thomas Bassong is hot for Mississippi State — 8.9 points a game lately. He can beat this on his own. Home teams have won 79% across CBB the last two weeks (172 games; it used to be about 63%). At -110 the book needs this to hit 52% of the time. I have it at 55% — the price pays more than the risk."
-     }
-    },
-    "unlockAt": 1794268800000
-   },
-   {
-    "sp": "nba",
-    "game": "LAL@ATL",
-    "gl": "#9 LAL@#14 ATL",
-    "pick": "LAL ML",
-    "price": -128,
-    "p": 0.728,
-    "ev": 29.6,
-    "start": "2026-11-10T00:00Z",
-    "tier": "STRONG",
-    "hit": true,
-    "push": false,
-    "spread": true,
-    "why": {
-     "read": {
-      "who": "The Judge",
-      "take": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles.",
-      "text": "I weigh every witness by how often they've been right — and nearly all of them point to Los Angeles. Luka Doncic averages 35 points a game, and 43 over his recent games — he's hot. Atlanta is without Asa Newell (F, out) and Keshon Gilbert (G, out). 2 of the 3 characters reading this game are on the same side — one holdout. I'm 81-30 on NBA favorites on the moneyline. The worry: Los Angeles is missing Quentin Grimes (G) — that's the hole. At -128 the book needs this to hit 56% of the time. I have it at 73% — the price pays more than the risk. The simulation alone says 58%; my 81-30 record on NBA favorites on the moneyline is why my confidence runs higher."
-     }
-    },
-    "unlockAt": 1794267000000
-   }
-  ],
-  "props": [],
-  "allStarted": true
- },
+ "today": null,
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
  "history": [
+  {
+   "d": "2026-11-09",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NYR@EDM",
+     "gl": "#14 NYR@#4 EDM",
+     "pick": "EDM ML",
+     "price": -153,
+     "p": 0.715,
+     "ev": 18.1,
+     "start": "2026-11-10T01:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaab",
+     "game": "JKST@MSST",
+     "gl": "#467 JKST@#27 MSST",
+     "pick": "JKST +23.5",
+     "price": -110,
+     "p": 0.549,
+     "ev": 4.9,
+     "start": "2026-11-10T00:30Z",
+     "tier": "UNANIMOUS",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "LAL@ATL",
+     "gl": "#9 LAL@#13 ATL",
+     "pick": "LAL ML",
+     "price": -128,
+     "p": 0.728,
+     "ev": 29.6,
+     "start": "2026-11-10T00:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
   {
    "d": "2026-11-08",
    "picks": [
@@ -115,7 +87,7 @@
     {
      "sp": "nfl",
      "game": "CLE@NO",
-     "gl": "#32 CLE@#22 NO",
+     "gl": "#25 CLE@#22 NO",
      "pick": "NO ML",
      "price": -170,
      "p": 0.65,
@@ -164,7 +136,7 @@
     {
      "sp": "ncaab",
      "game": "TOL@MSU",
-     "gl": "#182 TOL@#12 MSU",
+     "gl": "#267 TOL@#152 MSU",
      "pick": "Under 155.5",
      "price": -115,
      "p": 0.63,
@@ -177,7 +149,7 @@
     {
      "sp": "ncaab",
      "game": "GWEB@TEX",
-     "gl": "#486 GWEB@#6 TEX",
+     "gl": "#497 GWEB@#3 TEX",
      "pick": "Over 154.5",
      "price": -115,
      "p": 0.628,
@@ -190,7 +162,7 @@
     {
      "sp": "nba",
      "game": "MIA@GS",
-     "gl": "#19 MIA@#11 GS",
+     "gl": "#18 MIA@#5 GS",
      "pick": "GS -7",
      "price": -110,
      "p": 0.659,
@@ -208,7 +180,7 @@
     {
      "sp": "ncaab",
      "game": "CSUN@WICH",
-     "gl": "#420 CSUN@#410 WICH",
+     "gl": "#423 CSUN@#410 WICH",
      "pick": "Under 160.5",
      "price": -110,
      "p": 0.65,
@@ -221,7 +193,7 @@
     {
      "sp": "ncaab",
      "game": "QUC@LMU",
-     "gl": "#220 QUC@#201 LMU",
+     "gl": "#473 QUC@#134 LMU",
      "pick": "Over 160.5",
      "price": -115,
      "p": 0.646,
@@ -234,7 +206,7 @@
     {
      "sp": "ncaab",
      "game": "SELA@AUB",
-     "gl": "#322 SELA@#3 AUB",
+     "gl": "#455 SELA@#20 AUB",
      "pick": "Under 151.5",
      "price": -110,
      "p": 0.644,
@@ -252,7 +224,7 @@
     {
      "sp": "nba",
      "game": "TOR@LAC",
-     "gl": "#15 TOR@#21 LAC",
+     "gl": "#15 TOR@#20 LAC",
      "pick": "LAC +5.5",
      "price": -114,
      "p": 0.615,
@@ -270,7 +242,7 @@
     {
      "sp": "nfl",
      "game": "LAC@LAR",
-     "gl": "#27 LAC@#7 LAR",
+     "gl": "#26 LAC@#8 LAR",
      "pick": "LAC +6.5",
      "price": -105,
      "p": 0.621,
@@ -288,7 +260,7 @@
     {
      "sp": "nhl",
      "game": "WPG@TB",
-     "gl": "#24 WPG@#6 TB",
+     "gl": "#25 WPG@#6 TB",
      "pick": "TB ML",
      "price": -198,
      "p": 0.714,
@@ -332,7 +304,7 @@
     {
      "sp": "nba",
      "game": "HOU@MIL",
-     "gl": "#3 HOU@#29 MIL",
+     "gl": "#2 HOU@#30 MIL",
      "pick": "HOU -8",
      "price": -115,
      "p": 0.65,
@@ -363,7 +335,7 @@
     {
      "sp": "nba",
      "game": "POR@LAL",
-     "gl": "#13 POR@#9 LAL",
+     "gl": "#14 POR@#9 LAL",
      "pick": "LAL -2",
      "price": -105,
      "p": 0.683,
@@ -376,7 +348,7 @@
     {
      "sp": "nba",
      "game": "SAC@SA",
-     "gl": "#30 SAC@#1 SA",
+     "gl": "#29 SAC@#1 SA",
      "pick": "SA -18.5",
      "price": -110,
      "p": 0.681,
@@ -474,7 +446,7 @@
     {
      "sp": "nhl",
      "game": "WPG@DAL",
-     "gl": "#24 WPG@#7 DAL",
+     "gl": "#25 WPG@#7 DAL",
      "pick": "DAL ML",
      "price": -205,
      "p": 0.777,
@@ -500,7 +472,7 @@
     {
      "sp": "nhl",
      "game": "NSH@BOS",
-     "gl": "#14 NSH@#3 BOS",
+     "gl": "#13 NSH@#3 BOS",
      "pick": "BOS ML",
      "price": -155,
      "p": 0.724,
@@ -562,7 +534,7 @@
     {
      "sp": "nhl",
      "game": "LA@WSH",
-     "gl": "#25 LA@#18 WSH",
+     "gl": "#24 LA@#18 WSH",
      "pick": "WSH ML",
      "price": -155,
      "p": 0.752,
@@ -593,7 +565,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#21 PIT@#12 UTAH",
+     "gl": "#21 PIT@#11 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -606,7 +578,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#16 ANA@#11 NYR",
+     "gl": "#16 ANA@#14 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -668,7 +640,7 @@
     {
      "sp": "nhl",
      "game": "CAR@WPG",
-     "gl": "#1 CAR@#24 WPG",
+     "gl": "#1 CAR@#25 WPG",
      "pick": "CAR ML",
      "price": -179,
      "p": 0.753,
@@ -717,7 +689,7 @@
     {
      "sp": "nhl",
      "game": "NYR@NJ",
-     "gl": "#11 NYR@#2 NJ",
+     "gl": "#14 NYR@#2 NJ",
      "pick": "Under 6.5",
      "price": -135,
      "p": 0.587,
@@ -730,7 +702,7 @@
     {
      "sp": "ncaaf",
      "game": "CSU@TXST",
-     "gl": "#122 CSU@#58 TXST",
+     "gl": "#128 CSU@#48 TXST",
      "pick": "CSU +14",
      "price": -105,
      "p": 0.523,
@@ -748,7 +720,7 @@
     {
      "sp": "ncaaf",
      "game": "WKU@SHSU",
-     "gl": "#116 WKU@#132 SHSU",
+     "gl": "#122 WKU@#135 SHSU",
      "pick": "SHSU +1.5",
      "price": -105,
      "p": 0.528,
@@ -766,7 +738,7 @@
     {
      "sp": "nhl",
      "game": "EDM@LA",
-     "gl": "#4 EDM@#25 LA",
+     "gl": "#4 EDM@#24 LA",
      "pick": "EDM ML",
      "price": -125,
      "p": 0.581,
@@ -779,7 +751,7 @@
     {
      "sp": "nhl",
      "game": "MIN@WPG",
-     "gl": "#8 MIN@#24 WPG",
+     "gl": "#8 MIN@#25 WPG",
      "pick": "Under 6.5",
      "price": -130,
      "p": 0.583,
@@ -810,7 +782,7 @@
     {
      "sp": "nhl",
      "game": "FLA@BUF",
-     "gl": "#13 FLA@#19 BUF",
+     "gl": "#12 FLA@#19 BUF",
      "pick": "BUF ML",
      "price": -108,
      "p": 0.525,
@@ -841,7 +813,7 @@
     {
      "sp": "nfl",
      "game": "DEN@LAC",
-     "gl": "#8 DEN@#27 LAC",
+     "gl": "#9 DEN@#26 LAC",
      "pick": "Over 41.5",
      "price": -115,
      "p": 0.553,
@@ -854,7 +826,7 @@
     {
      "sp": "nfl",
      "game": "DET@ARI",
-     "gl": "#6 DET@#28 ARI",
+     "gl": "#7 DET@#27 ARI",
      "pick": "Over 54.5",
      "price": -115,
      "p": 0.552,
@@ -867,7 +839,7 @@
     {
      "sp": "nfl",
      "game": "SF@SEA",
-     "gl": "#9 SF@#11 SEA",
+     "gl": "#6 SF@#10 SEA",
      "pick": "SF +3",
      "price": -110,
      "p": 0.583,
@@ -885,7 +857,7 @@
     {
      "sp": "ncaaf",
      "game": "TEX@OU",
-     "gl": "#8 TEX@#39 OU",
+     "gl": "#8 TEX@#34 OU",
      "pick": "OU +8.5",
      "price": -110,
      "p": 0.545,
@@ -898,7 +870,7 @@
     {
      "sp": "ncaaf",
      "game": "KENT@WMU",
-     "gl": "#131 KENT@#65 WMU",
+     "gl": "#131 KENT@#75 WMU",
      "pick": "WMU -13.5",
      "price": -112,
      "p": 0.547,
@@ -911,7 +883,7 @@
     {
      "sp": "ncaaf",
      "game": "UAB@MEM",
-     "gl": "#112 UAB@#47 MEM",
+     "gl": "#99 UAB@#38 MEM",
      "pick": "MEM -14",
      "price": -110,
      "p": 0.542,
@@ -929,7 +901,7 @@
     {
      "sp": "ncaaf",
      "game": "ISU@BYU",
-     "gl": "#64 ISU@#12 BYU",
+     "gl": "#71 ISU@#12 BYU",
      "pick": "BYU -10.5",
      "price": -108,
      "p": 0.539,
@@ -942,7 +914,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@LOU",
-     "gl": "#52 FSU@#23 LOU",
+     "gl": "#54 FSU@#17 LOU",
      "pick": "LOU -3.5",
      "price": -112,
      "p": 0.539,
@@ -955,7 +927,7 @@
     {
      "sp": "ncaaf",
      "game": "WYO@SJSU",
-     "gl": "#87 WYO@#106 SJSU",
+     "gl": "#88 WYO@#104 SJSU",
      "pick": "WYO +6",
      "price": -110,
      "p": 0.537,
@@ -969,6 +941,5 @@
   }
  ],
  "unlockMin": 30,
- "simple": 1,
- "by": "worker"
+ "simple": 1
 }
