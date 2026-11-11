@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794422145693,
+ "generated": 1794439829354,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -25,9 +25,24 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nba",
+    "game": "CLE@NY",
+    "gl": "#17 CLE@#8 NY",
+    "pick": "NY ML",
+    "price": -160,
+    "p": 0.731,
+    "ev": 18.7,
     "start": "2026-11-12T00:00Z",
+    "tier": "SUPREME",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Scout",
+      "take": "This one comes down to players, and Karl-Anthony Towns is hot.",
+      "text": "This one comes down to players, and Karl-Anthony Towns is hot. Karl-Anthony Towns averages 12 rebounds a game, and 14 over his recent games — he's hot. Cleveland is without Sam Merrill (G, out) and Jaylon Tyson (G, out). Played 10,000 times, New York wins 63% of them. I'm 46-13 on NBA favorites on the moneyline. The worry: New York is missing Josh Hart (G) — that's the hole. At -160 the book needs this to hit 62% of the time. I have it at 73% — the price pays more than the risk. The simulation alone says 63%; my 46-13 record on NBA favorites on the moneyline is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1794439800000
    },
    {
@@ -37,9 +52,25 @@
     "unlockAt": 1794450600000
    },
    {
-    "hidden": true,
     "sp": "ncaab",
+    "game": "MILW@INST",
+    "gl": "#401 MILW@#424 INST",
+    "pick": "INST ML",
+    "price": -185,
+    "p": 0.711,
+    "ev": 9.5,
     "start": "2026-11-12T00:00Z",
+    "tier": "STRONG",
+    "hit": null,
+    "push": false,
+    "spread": true,
+    "why": {
+     "read": {
+      "who": "The Commissioner",
+      "take": "On paper, Indiana State is the better team — No. 424 against No. 401.",
+      "text": "On paper, Indiana State is the better team — No. 424 against No. 401. Indiana State is No. 424 in our power index (1-1); Milwaukee is No. 401 (1-2). Over the last five, Indiana State is 1-1 and Milwaukee is 1-2. Home teams have won 81% across CBB the last two weeks (262 games; it used to be about 63%). On ratings Indiana State is the better team by 6.2 pts. I'm 136-29 on CBB favorites on the moneyline. The worry: One cold shooting night can flip a game like this — nothing here is a lock. At -185 the book needs this to hit 65% of the time. I have it at 71% — the price pays more than the risk."
+     }
+    },
     "unlockAt": 1794439800000
    }
   ],
