@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794340068835,
+ "generated": 1794357022584,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -25,14 +25,29 @@
   "unlockMin": 30,
   "picks": [
    {
-    "hidden": true,
     "sp": "nba",
+    "game": "BOS@PHI",
+    "gl": "#6 BOS@#10 PHI",
+    "pick": "BOS -1.5",
+    "price": -113,
+    "p": 0.541,
+    "ev": 2,
     "start": "2026-11-11T01:00Z",
+    "tier": "VALUE",
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Judge",
+      "take": "The evidence points to Boston.",
+      "text": "The evidence points to Boston. Jayson Tatum averages 24 points a game. Philadelphia is without Adem Bona (C, out) and Dominick Barlow (F, out). Played 10,000 times, Boston covers 55% of them. I'm 44-30 on NBA favorites against the spread. The worry: Late free throws can decide a number like this — nothing here is a lock. At -113 the book needs this to hit 53% of the time. I have it at 54% — the price pays more than the risk."
+     }
+    },
     "unlockAt": 1794357000000
    }
   ],
   "props": [],
-  "allStarted": false
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
