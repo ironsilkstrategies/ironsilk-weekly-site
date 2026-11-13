@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794557883724,
+ "generated": 1794558999913,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -1643,7 +1643,7 @@
      "gl": "#13 ATL@#29 CHI",
      "pick": "Under 245.5",
      "price": -110,
-     "p": 0.509,
+     "p": 0.802,
      "start": "2026-11-14T01:00Z",
      "hit": null,
      "push": false,
@@ -1975,28 +1975,28 @@
     {
      "kind": "game",
      "sp": "ncaab",
-     "game": "XAV@MSST",
-     "gl": "#6 XAV@#27 MSST",
-     "pick": "Under 165",
-     "price": -105,
-     "p": 0.501,
-     "start": "2026-11-14T02:00Z",
-     "hit": null,
-     "push": false,
-     "note": "his total 150.7 vs 165 · 74 possessions · XAV: 7.7 threes, 20.1 twos, 13.6 FT · MSST: 7.6 threes, 18.0 twos, 15.1 FT"
-    },
-    {
-     "kind": "game",
-     "sp": "ncaab",
      "game": "UWF@CLE",
      "gl": "#127 UWF@#412 CLE",
      "pick": "UWF ML",
      "price": 145,
-     "p": 0.423,
+     "p": 0.864,
      "start": "2026-11-13T20:00Z",
      "hit": null,
      "push": false,
      "note": "his final UWF 91 – 73 CLE · 72 possessions · UWF: 11.1 threes, 21.0 twos, 15.7 FT · CLE: 6.2 threes, 19.2 twos, 16.4 FT"
+    },
+    {
+     "kind": "game",
+     "sp": "ncaab",
+     "game": "COLU@BUCK",
+     "gl": "#132 COLU@#526 BUCK",
+     "pick": "COLU ML",
+     "price": -192,
+     "p": 0.773,
+     "start": "2026-11-14T00:00Z",
+     "hit": null,
+     "push": false,
+     "note": "his final COLU 85 – 70 BUCK · 70 possessions · COLU: 9.6 threes, 21.5 twos, 14.5 FT · BUCK: 7.6 threes, 15.9 twos, 13.4 FT"
     },
     {
      "kind": "prop",
@@ -2938,7 +2938,21 @@
     "w": 0,
     "l": 0
    },
-   "picks": [],
+   "picks": [
+    {
+     "kind": "game",
+     "sp": "ncaab",
+     "game": "SEMO@MTSU",
+     "gl": "#231 SEMO@#196 MTSU",
+     "pick": "MTSU -5.5",
+     "price": -115,
+     "p": 0.6,
+     "start": "2026-11-14T00:30Z",
+     "hit": null,
+     "push": false,
+     "note": ""
+    }
+   ],
    "recent": [
     {
      "d": "2026-11-12",
@@ -3192,28 +3206,28 @@
     {
      "kind": "game",
      "sp": "nba",
-     "game": "GS@SA",
-     "gl": "#11 GS@#1 SA",
-     "pick": "GS +12.5",
-     "price": -112,
-     "p": 0.541,
-     "start": "2026-11-14T02:30Z",
-     "hit": null,
-     "push": false,
-     "note": "+13 power says SA by 3.0, the line says 12.5 · +7.1 GS as a dog: 3-3 outright · -5.6 SA as a favorite: 10-1 · +4.9 GS as a dog: 4-2 against the spread · +2.5 SA covers as a favorite: 5-6"
-    },
-    {
-     "kind": "game",
-     "sp": "nba",
      "game": "CLE@MIA",
      "gl": "#15 CLE@#17 MIA",
      "pick": "CLE +2.5",
      "price": -110,
-     "p": 0.53,
+     "p": 0.79,
      "start": "2026-11-14T01:00Z",
      "hit": null,
      "push": false,
      "note": "+8.8 MIA covers as a favorite: 1-6 · +7.6 power says MIA by -3.3, the line says 2.5 · +5.1 CLE's offense (116.4 a game) vs MIA's defense (allows 120.0) · +4.4 MIA as a favorite: 4-3 · -2.6 CLE as a dog: 2-4 against the spread"
+    },
+    {
+     "kind": "game",
+     "sp": "nba",
+     "game": "GS@SA",
+     "gl": "#11 GS@#1 SA",
+     "pick": "GS +12.5",
+     "price": -112,
+     "p": 0.76,
+     "start": "2026-11-14T02:30Z",
+     "hit": null,
+     "push": false,
+     "note": "+13 power says SA by 3.0, the line says 12.5 · +7.1 GS as a dog: 3-3 outright · -5.6 SA as a favorite: 10-1 · +4.9 GS as a dog: 4-2 against the spread · +2.5 SA covers as a favorite: 5-6"
     }
    ],
    "recent": [
@@ -4643,6 +4657,6 @@
    }
   ]
  },
- "betaSig": "[0,[[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[0,[]],[2,[null,null]],[0,[]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[0,[[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[1,[null]],[2,[null,null]],[0,[]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
