@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794527035292,
+ "generated": 1794531402790,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -46,24 +46,56 @@
     "unlockAt": 1794526200000
    },
    {
-    "hidden": true,
     "sp": "ncaaf",
+    "game": "MEM@USF",
+    "gl": "#40 MEM@#60 USF",
+    "pick": "Over 50.5",
+    "price": -110,
+    "p": 0.556,
+    "ev": 6.2,
     "start": "2026-11-13T01:00Z",
+    "tier": "VALUE",
+    "hit": null,
+    "push": false,
+    "spread": true,
+    "why": {
+     "read": {
+      "who": "The Scout",
+      "take": "This one comes down to players, and Jaylin Carter is hot.",
+      "text": "This one comes down to players, and Jaylin Carter is hot. Jaylin Carter averages 61 rushing yards a game, and 92 over his recent games — he's hot. Played 10,000 times, the over hits 50% of them. I'm 12-3 on CFB overs. The worry: One garbage-time score can swing a total like this — nothing here is a lock. At -110 the book needs this to hit 52% of the time. I have it at 56% — the price pays more than the risk. The simulation alone says 50%; my 12-3 record on CFB overs is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1794529800000
    },
    {
-    "hidden": true,
     "sp": "nba",
+    "game": "DAL@MIN",
+    "gl": "#13 DAL@#5 MIN",
+    "pick": "MIN -6",
+    "price": -105,
+    "p": 0.567,
+    "ev": 10.7,
     "start": "2026-11-13T01:00Z",
+    "tier": "VALUE",
+    "hit": null,
+    "push": false,
+    "spread": true,
+    "why": {
+     "read": {
+      "who": "The Scout",
+      "take": "I watch the talent, and the talent edge is Minnesota's.",
+      "text": "I watch the talent, and the talent edge is Minnesota's. Anthony Edwards averages 33 points a game — only 4 games, so it's a footnote, not the reason. Dallas is without Dereck Lively II (C, out) and Tarik Biberovic (F, out). Played 10,000 times, Minnesota covers 52% of them. I'm 30-23 on NBA favorites against the spread. The worry: Minnesota is missing Anthony Edwards (G) and Donte DiVincenzo (G) — that's the hole. At -105 the book needs this to hit 51% of the time. I have it at 57% — the price pays more than the risk. The simulation alone says 52%; my 30-23 record on NBA favorites against the spread is why my confidence runs higher."
+     }
+    },
     "unlockAt": 1794529800000
    }
   ],
   "props": [],
-  "allStarted": false,
+  "allStarted": true,
   "commit": {
    "alg": "sha256",
    "hash": "eaea9e6d2a2c83575aeaa5ab9bfff049371bb5d27ae801778b093f50c0b67714",
-   "salt": null
+   "salt": "ee7036984b74195e12a2a1004857ea22"
   }
  },
  "parlay": null,
