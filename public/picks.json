@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794553284671,
+ "generated": 1794553304280,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -11,19 +11,909 @@
  "handle": "RuleTheWorldKid",
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
-  "w": 0,
-  "l": 0,
+  "w": 41,
+  "l": 27,
   "pu": 0,
-  "u": 0,
-  "first": null,
-  "be": null,
-  "ap": null
+  "u": 3.6851004247492396,
+  "first": "2026-10-06",
+  "be": 0.5810383039325459,
+  "ap": -139
  },
  "today": null,
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
- "history": [],
+ "history": [
+  {
+   "d": "2026-11-12",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "MIN@TOR",
+     "gl": "#2 MIN@#23 TOR",
+     "pick": "MIN ML",
+     "price": -170,
+     "p": 0.749,
+     "ev": 18.9,
+     "start": "2026-11-13T00:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "MEM@USF",
+     "gl": "#37 MEM@#64 USF",
+     "pick": "Over 50.5",
+     "price": -110,
+     "p": 0.556,
+     "ev": 6.2,
+     "start": "2026-11-13T01:00Z",
+     "tier": "VALUE",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "DAL@MIN",
+     "gl": "#14 DAL@#3 MIN",
+     "pick": "MIN -6",
+     "price": -105,
+     "p": 0.567,
+     "ev": 10.7,
+     "start": "2026-11-13T01:00Z",
+     "tier": "VALUE",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-11",
+   "picks": [
+    {
+     "sp": "nba",
+     "game": "CLE@NY",
+     "gl": "#15 CLE@#10 NY",
+     "pick": "NY ML",
+     "price": -160,
+     "p": 0.731,
+     "ev": 18.7,
+     "start": "2026-11-12T00:00Z",
+     "tier": "SUPREME",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "PIT@SJ",
+     "gl": "#21 PIT@#30 SJ",
+     "pick": "SJ +1.5",
+     "price": -193,
+     "p": 0.663,
+     "ev": 0.6,
+     "start": "2026-11-12T03:00Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaab",
+     "game": "MILW@INST",
+     "gl": "#182 MILW@#413 INST",
+     "pick": "INST ML",
+     "price": -185,
+     "p": 0.711,
+     "ev": 9.5,
+     "start": "2026-11-12T00:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-10",
+   "picks": [
+    {
+     "sp": "nba",
+     "game": "BOS@PHI",
+     "gl": "#5 BOS@#9 PHI",
+     "pick": "BOS -1.5",
+     "price": -113,
+     "p": 0.541,
+     "ev": 2,
+     "start": "2026-11-11T01:00Z",
+     "tier": "VALUE",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-09",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NYR@EDM",
+     "gl": "#12 NYR@#4 EDM",
+     "pick": "EDM ML",
+     "price": -153,
+     "p": 0.715,
+     "ev": 18.1,
+     "start": "2026-11-10T01:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaab",
+     "game": "JKST@MSST",
+     "gl": "#417 JKST@#27 MSST",
+     "pick": "JKST +23.5",
+     "price": -110,
+     "p": 0.549,
+     "ev": 4.9,
+     "start": "2026-11-10T00:30Z",
+     "tier": "UNANIMOUS",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "LAL@ATL",
+     "gl": "#4 LAL@#13 ATL",
+     "pick": "LAL ML",
+     "price": -128,
+     "p": 0.728,
+     "ev": 29.6,
+     "start": "2026-11-10T00:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-08",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NJ@TOR",
+     "gl": "#6 NJ@#23 TOR",
+     "pick": "TOR +1.5",
+     "price": -198,
+     "p": 0.681,
+     "ev": 2.6,
+     "start": "2026-11-09T00:00Z",
+     "tier": "UNANIMOUS",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nfl",
+     "game": "CLE@NO",
+     "gl": "#23 CLE@#24 NO",
+     "pick": "NO ML",
+     "price": -170,
+     "p": 0.65,
+     "ev": 3.2,
+     "start": "2026-11-08T18:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "LAL@DET",
+     "gl": "#4 LAL@#6 DET",
+     "pick": "LAL +4.5",
+     "price": -107,
+     "p": 0.554,
+     "ev": 7.2,
+     "start": "2026-11-08T23:00Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-07",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "VAN@EDM",
+     "gl": "#32 VAN@#4 EDM",
+     "pick": "Over 7",
+     "price": 108,
+     "p": 0.596,
+     "ev": 24,
+     "start": "2026-11-08T03:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-05",
+   "picks": [
+    {
+     "sp": "ncaab",
+     "game": "TOL@MSU",
+     "gl": "#415 TOL@#106 MSU",
+     "pick": "Under 155.5",
+     "price": -115,
+     "p": 0.63,
+     "ev": 17.7,
+     "start": "2026-11-06T01:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaab",
+     "game": "GWEB@TEX",
+     "gl": "#515 GWEB@#3 TEX",
+     "pick": "Over 154.5",
+     "price": -115,
+     "p": 0.628,
+     "ev": 17.5,
+     "start": "2026-11-06T01:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "MIA@GS",
+     "gl": "#17 MIA@#11 GS",
+     "pick": "GS -7",
+     "price": -110,
+     "p": 0.659,
+     "ev": 25.8,
+     "start": "2026-11-06T03:00Z",
+     "tier": "VALUE",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-04",
+   "picks": [
+    {
+     "sp": "ncaab",
+     "game": "CSUN@WICH",
+     "gl": "#255 CSUN@#232 WICH",
+     "pick": "Under 160.5",
+     "price": -110,
+     "p": 0.65,
+     "ev": 24.1,
+     "start": "2026-11-05T00:30Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaab",
+     "game": "QUC@LMU",
+     "gl": "#505 QUC@#160 LMU",
+     "pick": "Over 160.5",
+     "price": -115,
+     "p": 0.646,
+     "ev": 20.8,
+     "start": "2026-11-05T03:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "ncaab",
+     "game": "SELA@AUB",
+     "gl": "#495 SELA@#31 AUB",
+     "pick": "Under 151.5",
+     "price": -110,
+     "p": 0.644,
+     "ev": 22.9,
+     "start": "2026-11-05T01:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-02",
+   "picks": [
+    {
+     "sp": "nba",
+     "game": "TOR@LAC",
+     "gl": "#22 TOR@#21 LAC",
+     "pick": "LAC +5.5",
+     "price": -114,
+     "p": 0.615,
+     "ev": 15.4,
+     "start": "2026-11-03T03:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-11-01",
+   "picks": [
+    {
+     "sp": "nfl",
+     "game": "LAC@LAR",
+     "gl": "#31 LAC@#6 LAR",
+     "pick": "LAC +6.5",
+     "price": -105,
+     "p": 0.621,
+     "ev": 21.3,
+     "start": "2026-11-01T21:05Z",
+     "tier": "VALUE",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-29",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "WPG@TB",
+     "gl": "#19 WPG@#9 TB",
+     "pick": "TB ML",
+     "price": -198,
+     "p": 0.714,
+     "ev": 7.5,
+     "start": "2026-10-29T23:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "NYI@MIN",
+     "gl": "#20 NYI@#2 MIN",
+     "pick": "MIN ML",
+     "price": -186,
+     "p": 0.709,
+     "ev": 9.1,
+     "start": "2026-10-30T00:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-28",
+   "picks": [
+    {
+     "sp": "nba",
+     "game": "CHA@DET",
+     "gl": "#26 CHA@#6 DET",
+     "pick": "CHA +7.5",
+     "price": -105,
+     "p": 0.651,
+     "ev": 27.2,
+     "start": "2026-10-28T23:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "HOU@MIL",
+     "gl": "#2 HOU@#30 MIL",
+     "pick": "HOU -8",
+     "price": -115,
+     "p": 0.65,
+     "ev": 21.6,
+     "start": "2026-10-29T00:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "SA@UTAH",
+     "gl": "#1 SA@#27 UTAH",
+     "pick": "UTAH +13",
+     "price": -105,
+     "p": 0.649,
+     "ev": 26.8,
+     "start": "2026-10-29T01:00Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-27",
+   "picks": [
+    {
+     "sp": "nba",
+     "game": "POR@LAL",
+     "gl": "#12 POR@#4 LAL",
+     "pick": "LAL -2",
+     "price": -105,
+     "p": 0.683,
+     "ev": 33.4,
+     "start": "2026-10-28T03:00Z",
+     "tier": "VALUE",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nba",
+     "game": "SAC@SA",
+     "gl": "#28 SAC@#1 SA",
+     "pick": "SA -18.5",
+     "price": -110,
+     "p": 0.681,
+     "ev": 30,
+     "start": "2026-10-28T00:00Z",
+     "tier": "VALUE",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-26",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "DET@EDM",
+     "gl": "#27 DET@#4 EDM",
+     "pick": "EDM ML",
+     "price": -175,
+     "p": 0.709,
+     "ev": 11.5,
+     "start": "2026-10-27T01:30Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-25",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NYI@DAL",
+     "gl": "#20 NYI@#15 DAL",
+     "pick": "DAL ML",
+     "price": -190,
+     "p": 0.824,
+     "ev": 25.8,
+     "start": "2026-10-25T22:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@VAN",
+     "gl": "#2 MIN@#32 VAN",
+     "pick": "MIN ML",
+     "price": -197,
+     "p": 0.823,
+     "ev": 24.1,
+     "start": "2026-10-26T02:00Z",
+     "tier": "SUPREME",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nfl",
+     "game": "CIN@BAL",
+     "gl": "#3 CIN@#21 BAL",
+     "pick": "BAL +3",
+     "price": -115,
+     "p": 0.667,
+     "ev": 24.7,
+     "start": "2026-10-25T17:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-24",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "SJ@BOS",
+     "gl": "#30 SJ@#5 BOS",
+     "pick": "BOS ML",
+     "price": -192,
+     "p": 0.805,
+     "ev": 22.4,
+     "start": "2026-10-24T23:00Z",
+     "tier": "SUPREME",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-22",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "WPG@DAL",
+     "gl": "#19 WPG@#15 DAL",
+     "pick": "DAL ML",
+     "price": -205,
+     "p": 0.777,
+     "ev": 15.6,
+     "start": "2026-10-23T00:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@CGY",
+     "gl": "#2 MIN@#29 CGY",
+     "pick": "MIN ML",
+     "price": -205,
+     "p": 0.776,
+     "ev": 15.4,
+     "start": "2026-10-23T01:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "NSH@BOS",
+     "gl": "#11 NSH@#5 BOS",
+     "pick": "BOS ML",
+     "price": -155,
+     "p": 0.724,
+     "ev": 19.1,
+     "start": "2026-10-22T23:00Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-21",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "PHI@BUF",
+     "gl": "#28 PHI@#24 BUF",
+     "pick": "BUF ML",
+     "price": -218,
+     "p": 0.784,
+     "ev": 14.4,
+     "start": "2026-10-21T23:30Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-20",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "CAR@VAN",
+     "gl": "#1 CAR@#32 VAN",
+     "pick": "CAR ML",
+     "price": -298,
+     "p": 0.8,
+     "ev": 6.9,
+     "start": "2026-10-21T02:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "SJ@MTL",
+     "gl": "#30 SJ@#7 MTL",
+     "pick": "MTL ML",
+     "price": -225,
+     "p": 0.789,
+     "ev": 14,
+     "start": "2026-10-20T23:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "LA@WSH",
+     "gl": "#26 LA@#16 WSH",
+     "pick": "WSH ML",
+     "price": -155,
+     "p": 0.752,
+     "ev": 23.7,
+     "start": "2026-10-20T23:00Z",
+     "tier": "SUPREME",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-19",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "COL@PHI",
+     "gl": "#8 COL@#28 PHI",
+     "pick": "COL ML",
+     "price": -238,
+     "p": 0.8,
+     "ev": 13.6,
+     "start": "2026-10-19T23:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "PIT@UTAH",
+     "gl": "#21 PIT@#18 UTAH",
+     "pick": "UTAH ML",
+     "price": -185,
+     "p": 0.762,
+     "ev": 17.4,
+     "start": "2026-10-20T01:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "ANA@NYR",
+     "gl": "#10 ANA@#12 NYR",
+     "pick": "NYR ML",
+     "price": -155,
+     "p": 0.759,
+     "ev": 24.8,
+     "start": "2026-10-19T23:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-18",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "CAR@CGY",
+     "gl": "#1 CAR@#29 CGY",
+     "pick": "CAR ML",
+     "price": -218,
+     "p": 0.818,
+     "ev": 19.3,
+     "start": "2026-10-19T00:00Z",
+     "tier": "SUPREME",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "CBJ@MIN",
+     "gl": "#22 CBJ@#2 MIN",
+     "pick": "MIN ML",
+     "price": -185,
+     "p": 0.809,
+     "ev": 24.6,
+     "start": "2026-10-18T22:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-17",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "DAL@CHI",
+     "gl": "#15 DAL@#31 CHI",
+     "pick": "DAL ML",
+     "price": -191,
+     "p": 0.756,
+     "ev": 15.2,
+     "start": "2026-10-17T23:00Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "CAR@WPG",
+     "gl": "#1 CAR@#19 WPG",
+     "pick": "CAR ML",
+     "price": -179,
+     "p": 0.753,
+     "ev": 17.4,
+     "start": "2026-10-17T19:30Z",
+     "tier": "UNANIMOUS",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "OTT@PHI",
+     "gl": "#13 OTT@#28 PHI",
+     "pick": "OTT ML",
+     "price": -144,
+     "p": 0.734,
+     "ev": 24.3,
+     "start": "2026-10-17T23:00Z",
+     "tier": "UNANIMOUS",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-16",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "PIT@COL",
+     "gl": "#21 PIT@#8 COL",
+     "pick": "COL ML",
+     "price": -205,
+     "p": 0.812,
+     "ev": 20.9,
+     "start": "2026-10-17T01:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-15",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "NYR@NJ",
+     "gl": "#12 NYR@#6 NJ",
+     "pick": "Under 6.5",
+     "price": -135,
+     "p": 0.587,
+     "ev": 2.2,
+     "start": "2026-10-15T23:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "ncaaf",
+     "game": "CSU@TXST",
+     "gl": "#128 CSU@#48 TXST",
+     "pick": "CSU +14",
+     "price": -105,
+     "p": 0.523,
+     "ev": 2,
+     "start": "2026-10-16T00:00Z",
+     "tier": "VALUE",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-14",
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "WKU@SHSU",
+     "gl": "#122 WKU@#135 SHSU",
+     "pick": "SHSU +1.5",
+     "price": -105,
+     "p": 0.528,
+     "ev": 3.2,
+     "start": "2026-10-15T00:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-13",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "EDM@LA",
+     "gl": "#4 EDM@#26 LA",
+     "pick": "EDM ML",
+     "price": -125,
+     "p": 0.581,
+     "ev": 4.5,
+     "start": "2026-10-14T02:30Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "MIN@WPG",
+     "gl": "#2 MIN@#19 WPG",
+     "pick": "Under 6.5",
+     "price": -130,
+     "p": 0.583,
+     "ev": 3.1,
+     "start": "2026-10-14T00:15Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    },
+    {
+     "sp": "nhl",
+     "game": "NJ@DET",
+     "gl": "#6 NJ@#27 DET",
+     "pick": "DET ML",
+     "price": -110,
+     "p": 0.539,
+     "ev": 2.9,
+     "start": "2026-10-13T22:00Z",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  },
+  {
+   "d": "2026-10-12",
+   "picks": [
+    {
+     "sp": "nhl",
+     "game": "FLA@BUF",
+     "gl": "#14 FLA@#24 BUF",
+     "pick": "BUF ML",
+     "price": -108,
+     "p": 0.525,
+     "ev": 1,
+     "start": "2026-10-12T17:00Z",
+     "tier": "STRONG",
+     "hit": true,
+     "push": false
+    },
+    {
+     "sp": "mlb",
+     "game": "LAD@MIL",
+     "gl": "#5 LAD@#1 MIL",
+     "pick": "Under 7",
+     "price": -128,
+     "p": 0.567,
+     "ev": 1,
+     "start": "",
+     "tier": "STRONG",
+     "hit": false,
+     "push": false
+    }
+   ]
+  }
+ ],
  "unlockMin": 30,
  "plans": [
   {
@@ -73,10 +963,10 @@
    "color": "#FFD75E",
    "bio": "10,000 Monte Carlo runs of the game — the engine everyone reads; official on the heavy moneylines (-500 or shorter), anything else only at 80%+",
    "record": {
-    "w": 0,
-    "l": 0,
+    "w": 143,
+    "l": 78,
     "pu": 0,
-    "u": 0
+    "u": -1.99
    },
    "picks": []
   },
@@ -87,10 +977,10 @@
    "color": "#f5a524",
    "bio": "weighs every witness by its graded accuracy (forecast combination)",
    "record": {
-    "w": 0,
-    "l": 0,
+    "w": 111,
+    "l": 64,
     "pu": 0,
-    "u": 0
+    "u": -8.37
    },
    "picks": []
   },
@@ -101,12 +991,25 @@
    "color": "#5FD3E8",
    "bio": "keeps everyone honest — scales each character's confidence to its real hit rate; his own score from season scoring, rest, spots, revenge, weather and the news",
    "record": {
-    "w": 0,
-    "l": 0,
+    "w": 23,
+    "l": 34,
     "pu": 0,
-    "u": 0
+    "u": -14.5
    },
-   "picks": []
+   "picks": [
+    {
+     "sp": "nba",
+     "game": "ATL@CHI",
+     "gl": "#13 ATL@#29 CHI",
+     "pick": "Under 245.5",
+     "price": -110,
+     "p": 0.509,
+     "start": "2026-11-14T01:00Z",
+     "hit": null,
+     "push": false,
+     "note": "his total 230.0 vs 245.5"
+    }
+   ]
   },
   {
    "v": "Most common",
@@ -115,10 +1018,91 @@
    "color": "#a78bfa",
    "bio": "every final built from its parts — touchdowns × what they bring + field goals, possessions × threes / twos / free throws, shots × the goalie — off the season's box scores",
    "record": {
+    "w": 131,
+    "l": 95,
+    "pu": 0,
+    "u": -11.65
+   },
+   "picks": [
+    {
+     "sp": "ncaab",
+     "game": "XAV@MSST",
+     "gl": "#6 XAV@#27 MSST",
+     "pick": "Under 165",
+     "price": -105,
+     "p": 0.501,
+     "start": "2026-11-14T02:00Z",
+     "hit": null,
+     "push": false,
+     "note": "his total 150.7 vs 165 · 74 possessions · XAV: 7.7 threes, 20.1 twos, 13.6 FT · MSST: 7.6 threes, 18.0 twos, 15.1 FT"
+    },
+    {
+     "sp": "ncaab",
+     "game": "UWF@CLE",
+     "gl": "#127 UWF@#412 CLE",
+     "pick": "UWF ML",
+     "price": 145,
+     "p": 0.423,
+     "start": "2026-11-13T20:00Z",
+     "hit": null,
+     "push": false,
+     "note": "his final UWF 91 – 73 CLE · 72 possessions · UWF: 11.1 threes, 21.0 twos, 15.7 FT · CLE: 6.2 threes, 19.2 twos, 16.4 FT"
+    }
+   ]
+  },
+  {
+   "v": "Pred",
+   "name": "The Oracle",
+   "chip": "ORACLE",
+   "color": "#e8c15a",
+   "bio": "the outside world's consensus — prediction markets, 50+ computer rating systems, expert picks and your uploads, each weighed by its own record",
+   "record": {
+    "w": 11,
+    "l": 6,
+    "pu": 0,
+    "u": 1.48
+   },
+   "picks": []
+  },
+  {
+   "v": "Covers",
+   "name": "Covers",
+   "chip": "COVERS",
+   "color": "#ff7a1a",
+   "bio": "Covers / OddsShark computer predicted score",
+   "record": {
     "w": 0,
     "l": 0,
     "pu": 0,
     "u": 0
+   },
+   "picks": []
+  },
+  {
+   "v": "Trends",
+   "name": "The Historian",
+   "chip": "TRENDS",
+   "color": "#34d399",
+   "bio": "prestige, head-to-head, dynasties and pretenders, units exposed for years, the referee — ten finished seasons (plus your uploaded trends)",
+   "record": {
+    "w": 2,
+    "l": 1,
+    "pu": 0,
+    "u": 0.74
+   },
+   "picks": []
+  },
+  {
+   "v": "Consensus",
+   "name": "The Crowd",
+   "chip": "CROWD",
+   "color": "#f472b6",
+   "bio": "where the public tickets and money are",
+   "record": {
+    "w": 4,
+    "l": 1,
+    "pu": 0,
+    "u": 2.65
    },
    "picks": []
   },
@@ -129,10 +1113,63 @@
    "color": "#818cf8",
    "bio": "TheDesk Power Index — who's better and by how much, plus prestige and the all-time series",
    "record": {
-    "w": 0,
-    "l": 0,
+    "w": 47,
+    "l": 10,
     "pu": 0,
-    "u": 0
+    "u": 4.92
+   },
+   "picks": []
+  },
+  {
+   "v": "Dog",
+   "name": "The Underdog Spotter",
+   "chip": "🐕 DOG",
+   "color": "#2dd4bf",
+   "bio": "knows the dogs — who wins and covers every time they get points, favorites that drop games to dogs, power, offense vs defense, rest and injuries; official at a gut of 70+",
+   "record": {
+    "w": 8,
+    "l": 5,
+    "pu": 0,
+    "u": 2.2
+   },
+   "picks": [
+    {
+     "sp": "nba",
+     "game": "GS@SA",
+     "gl": "#11 GS@#1 SA",
+     "pick": "GS +12.5",
+     "price": -112,
+     "p": 0.541,
+     "start": "2026-11-14T02:30Z",
+     "hit": null,
+     "push": false,
+     "note": "+13 power says SA by 3.0, the line says 12.5 · +7.1 GS as a dog: 3-3 outright · -5.6 SA as a favorite: 10-1 · +4.9 GS as a dog: 4-2 against the spread · +2.5 SA covers as a favorite: 5-6"
+    },
+    {
+     "sp": "nba",
+     "game": "CLE@MIA",
+     "gl": "#15 CLE@#17 MIA",
+     "pick": "CLE +2.5",
+     "price": -110,
+     "p": 0.53,
+     "start": "2026-11-14T01:00Z",
+     "hit": null,
+     "push": false,
+     "note": "+8.8 MIA covers as a favorite: 1-6 · +7.6 power says MIA by -3.3, the line says 2.5 · +5.1 CLE's offense (116.4 a game) vs MIA's defense (allows 120.0) · +4.4 MIA as a favorite: 4-3 · -2.6 CLE as a dog: 2-4 against the spread"
+    }
+   ]
+  },
+  {
+   "v": "Scout",
+   "name": "The Scout",
+   "chip": "🔭 SCOUT",
+   "color": "#fb7185",
+   "bio": "talent: superstars vs busts — QB efficiency, pass rush, ball hawks, shooters, goalies — read as matchups",
+   "record": {
+    "w": 42,
+    "l": 21,
+    "pu": 0,
+    "u": -2.16
    },
    "picks": []
   },
@@ -143,10 +1180,24 @@
    "color": "#d4af37",
    "bio": "the secretary — reads every character's books (sport × bet type × favorite/dog/over/under) and backs the side the strongest accounts are on; builds the Master Parlay Sheet",
    "record": {
-    "w": 0,
-    "l": 0,
+    "w": 8,
+    "l": 12,
     "pu": 0,
-    "u": 0
+    "u": -5.36
+   },
+   "picks": []
+  },
+  {
+   "v": "Brain",
+   "name": "The Brain",
+   "chip": "🧠 BRAIN",
+   "color": "#60a5fa",
+   "bio": "the tough middle — only -350…+350, only when his chance beats the price: the exchanges and the outside consensus against the book, steam, the longshot bias, the crowd",
+   "record": {
+    "w": 74,
+    "l": 39,
+    "pu": 0,
+    "u": -2.1
    },
    "picks": []
   }
@@ -156,8 +1207,449 @@
    "n": 100,
    "days": 10
   },
-  "cells": []
+  "cells": [
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 1,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 1,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Commissioner",
+    "v": "Power",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 1,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Blend",
+    "v": "Blend",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Blend",
+    "v": "Blend",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Blend",
+    "v": "Blend",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Underdog Spotter",
+    "v": "Dog",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Banker",
+    "v": "Banker",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Commissioner",
+    "v": "Power",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Underdog Spotter",
+    "v": "Dog",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Banker",
+    "v": "Banker",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Banker",
+    "v": "Banker",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Oracle",
+    "v": "Pred",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Oracle",
+    "v": "Pred",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Oracle",
+    "v": "Pred",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "Covers",
+    "v": "Covers",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "Covers",
+    "v": "Covers",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "Covers",
+    "v": "Covers",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scout",
+    "v": "Scout",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scout",
+    "v": "Scout",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scout",
+    "v": "Scout",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Brain",
+    "v": "Brain",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Brain",
+    "v": "Brain",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Brain",
+    "v": "Brain",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Crowd",
+    "v": "Consensus",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Crowd",
+    "v": "Consensus",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Crowd",
+    "v": "Consensus",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   }
+  ]
  },
- "betaSig": "[0,[[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]]],[]]",
+ "betaSig": "[0,[[0,[]],[0,[]],[1,[null]],[2,[null,null]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[2,[null,null]],[0,[]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
