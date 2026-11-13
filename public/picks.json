@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794553132171,
+ "generated": 1794553241757,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -963,10 +963,10 @@
    "color": "#FFD75E",
    "bio": "10,000 Monte Carlo runs of the game — the engine everyone reads; official on the heavy moneylines (-500 or shorter), anything else only at 80%+",
    "record": {
-    "w": 151,
-    "l": 80,
+    "w": 143,
+    "l": 78,
     "pu": 0,
-    "u": -2.93
+    "u": -1.99
    },
    "picks": []
   },
@@ -977,10 +977,10 @@
    "color": "#f5a524",
    "bio": "weighs every witness by its graded accuracy (forecast combination)",
    "record": {
-    "w": 116,
-    "l": 68,
+    "w": 111,
+    "l": 64,
     "pu": 0,
-    "u": -11.82
+    "u": -8.37
    },
    "picks": []
   },
@@ -1002,8 +1002,8 @@
      "game": "ATL@CHI",
      "gl": "#13 ATL@#29 CHI",
      "pick": "Under 245.5",
-     "price": -108,
-     "p": 0.505,
+     "price": -110,
+     "p": 0.509,
      "start": "2026-11-14T01:00Z",
      "hit": null,
      "push": false,
@@ -1018,23 +1018,35 @@
    "color": "#a78bfa",
    "bio": "every final built from its parts — touchdowns × what they bring + field goals, possessions × threes / twos / free throws, shots × the goalie — off the season's box scores",
    "record": {
-    "w": 136,
-    "l": 97,
+    "w": 131,
+    "l": 95,
     "pu": 0,
-    "u": -13.1
+    "u": -11.65
    },
    "picks": [
     {
-     "sp": "nba",
-     "game": "GS@SA",
-     "gl": "#11 GS@#1 SA",
-     "pick": "GS +12.5",
-     "price": -112,
-     "p": 0.541,
-     "start": "2026-11-14T02:30Z",
+     "sp": "ncaab",
+     "game": "XAV@MSST",
+     "gl": "#6 XAV@#27 MSST",
+     "pick": "Under 165",
+     "price": -105,
+     "p": 0.501,
+     "start": "2026-11-14T02:00Z",
      "hit": null,
      "push": false,
-     "note": "his final GS 113 – 116 SA · 102 possessions · GS: 14.9 threes, 25.7 twos, 18.7 FT · SA: 12.3 threes, 28.8 twos, 19.9 FT"
+     "note": "his total 150.7 vs 165 · 74 possessions · XAV: 7.7 threes, 20.1 twos, 13.6 FT · MSST: 7.6 threes, 18.0 twos, 15.1 FT"
+    },
+    {
+     "sp": "ncaab",
+     "game": "UWF@CLE",
+     "gl": "#127 UWF@#412 CLE",
+     "pick": "UWF ML",
+     "price": 145,
+     "p": 0.423,
+     "start": "2026-11-13T20:00Z",
+     "hit": null,
+     "push": false,
+     "note": "his final UWF 91 – 73 CLE · 72 possessions · UWF: 11.1 threes, 21.0 twos, 15.7 FT · CLE: 6.2 threes, 19.2 twos, 16.4 FT"
     }
    ]
   },
@@ -1138,8 +1150,8 @@
      "game": "CLE@MIA",
      "gl": "#15 CLE@#17 MIA",
      "pick": "CLE +2.5",
-     "price": -112,
-     "p": 0.534,
+     "price": -110,
+     "p": 0.53,
      "start": "2026-11-14T01:00Z",
      "hit": null,
      "push": false,
@@ -1206,9 +1218,9 @@
    "bio": "the secretary — reads every character's books (sport × bet type × favorite/dog/over/under) and backs the side the strongest accounts are on; builds the Master Parlay Sheet",
    "record": {
     "w": 8,
-    "l": 13,
+    "l": 12,
     "pu": 0,
-    "u": -6.36
+    "u": -5.36
    },
    "picks": []
   },
@@ -1219,10 +1231,10 @@
    "color": "#60a5fa",
    "bio": "the tough middle — only -350…+350, only when his chance beats the price: the exchanges and the outside consensus against the book, steam, the longshot bias, the crowd",
    "record": {
-    "w": 80,
-    "l": 45,
+    "w": 74,
+    "l": 39,
     "pu": 0,
-    "u": -5.41
+    "u": -2.1
    },
    "picks": []
   }
@@ -1675,6 +1687,6 @@
    }
   ]
  },
- "betaSig": "[0,[[0,[]],[0,[]],[1,[null]],[1,[null]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[2,[null,null]],[3,[null,null,null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[0,[[0,[]],[0,[]],[1,[null]],[2,[null,null]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[2,[null,null]],[3,[null,null,null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
