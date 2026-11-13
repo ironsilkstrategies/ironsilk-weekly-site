@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794568166959,
+ "generated": 1794568172427,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -19,7 +19,165 @@
   "be": 0.5810383039325459,
   "ap": -139
  },
- "today": null,
+ "today": {
+  "d": "2026-11-13",
+  "lockedAt": 1794568171049,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "sp": "ncaaf",
+    "game": "FSU@PITT",
+    "gl": "#54 FSU@#46 PITT",
+    "pick": "PITT ML",
+    "price": -168,
+    "p": 0.713,
+    "ev": 13.8,
+    "start": "2026-11-14T00:00Z",
+    "tier": "SUPREME",
+    "calls": [
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "PITT ML",
+      "p": 0.73,
+      "official": true,
+      "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Brain",
+      "v": "Brain",
+      "with": true,
+      "pick": "PITT ML",
+      "p": 0.71,
+      "official": false,
+      "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "PITT ML",
+      "p": 0.662,
+      "official": false,
+      "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "PITT ML",
+      "p": 0.649,
+      "official": false,
+      "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "PITT ML",
+      "p": 0.641,
+      "official": false,
+      "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "PITT ML",
+      "p": 0.59,
+      "official": false,
+      "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+     }
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Scout",
+      "take": "This one comes down to players, and Cataurus Hicks is hot.",
+      "text": "This one comes down to players, and Cataurus Hicks is hot. Cataurus Hicks averages 59 receiving yards a game, and 84 over his recent games — he's hot. Pittsburgh is coming off a bye — a spot we're still testing (30 graded games). I'm 40-11 on CFB favorites on the moneyline. The worry: Ousmane Kromah is hot for FSU — 71 rushing yards a game lately. He can beat this on his own. At -168 the book needs this to hit 63% of the time. I have it at 71% — the price pays more than the risk."
+     }
+    },
+    "unlockAt": 1794612600000
+   },
+   {
+    "sp": "nhl",
+    "game": "NSH@VGK",
+    "gl": "#11 NSH@#3 VGK",
+    "pick": "VGK ML",
+    "price": -180,
+    "p": 0.714,
+    "ev": 11.1,
+    "start": "2026-11-14T03:00Z",
+    "tier": "STRONG",
+    "calls": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "VGK ML",
+      "p": 0.767,
+      "official": true,
+      "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "VGK ML",
+      "p": 0.751,
+      "official": true,
+      "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+     },
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "VGK ML",
+      "p": 0.731,
+      "official": true,
+      "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "VGK ML",
+      "p": 0.724,
+      "official": false,
+      "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "VGK ML",
+      "p": 0.569,
+      "official": false,
+      "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+     }
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Scout",
+      "take": "This one comes down to players, and Jack Eichel is hot.",
+      "text": "This one comes down to players, and Jack Eichel is hot. Jack Eichel averages 1.3 points a game, and 1.9 over his recent games — he's hot. Vegas has the clear talent edge — a spot we're still testing (33 graded games). I'm 32-16 on NHL favorites on the moneyline. The worry: Vegas is missing Noah Hanifin (D) — that's the hole. At -180 the book needs this to hit 64% of the time. I have it at 71% — the price pays more than the risk."
+     }
+    },
+    "unlockAt": 1794623400000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "f5bb34f18a2361ea67edc64bd063785a5d8bffe196a73b518da512b642c44248",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -881,37 +1039,6 @@
      "push": false
     }
    ]
-  },
-  {
-   "d": "2026-10-12",
-   "picks": [
-    {
-     "sp": "nhl",
-     "game": "FLA@BUF",
-     "gl": "#14 FLA@#24 BUF",
-     "pick": "BUF ML",
-     "price": -108,
-     "p": 0.525,
-     "ev": 1,
-     "start": "2026-10-12T17:00Z",
-     "tier": "STRONG",
-     "hit": true,
-     "push": false
-    },
-    {
-     "sp": "mlb",
-     "game": "LAD@MIL",
-     "gl": "#5 LAD@#1 MIL",
-     "pick": "Under 7",
-     "price": -128,
-     "p": 0.567,
-     "ev": 1,
-     "start": "",
-     "tier": "STRONG",
-     "hit": false,
-     "push": false
-    }
-   ]
   }
  ],
  "unlockMin": 30,
@@ -954,7 +1081,2023 @@
   }
  ],
  "beta": true,
- "vip": null,
+ "vip": {
+  "top10": [
+   {
+    "sp": "nba",
+    "game": "OKC@LAC",
+    "gl": "#7 OKC@#21 LAC",
+    "pick": "OKC ML",
+    "price": -280,
+    "p": 0.865,
+    "start": "2026-11-14T03:30Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "OKC ML",
+      "p": 0.871,
+      "official": true,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "OKC ML",
+      "p": 0.851,
+      "official": true,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+     },
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "OKC ML",
+      "p": 0.838,
+      "official": true,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "OKC ML",
+      "p": 0.821,
+      "official": true,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "OKC ML",
+      "p": 0.444,
+      "official": false,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+     }
+    ],
+    "ev": 17.4,
+    "voicesBy": [
+     "The Simulator",
+     "The Judge",
+     "The Commissioner",
+     "The Scout"
+    ]
+   },
+   {
+    "sp": "nba",
+    "game": "NY@IND",
+    "gl": "#10 NY@#20 IND",
+    "pick": "NY ML",
+    "price": -275,
+    "p": 0.865,
+    "start": "2026-11-14T00:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "NY ML",
+      "p": 0.871,
+      "official": true,
+      "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+     },
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "NY ML",
+      "p": 0.838,
+      "official": true,
+      "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "NY ML",
+      "p": 0.82,
+      "official": true,
+      "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "NY ML",
+      "p": 0.782,
+      "official": false,
+      "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+     },
+     {
+      "who": "The Brain",
+      "v": "Brain",
+      "with": true,
+      "pick": "NY ML",
+      "p": 0.775,
+      "official": false,
+      "note": "picked team under-performing its scoring (Pythagorean) · picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "NY ML",
+      "p": 0.44,
+      "official": false,
+      "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+     }
+    ],
+    "ev": 17.9,
+    "voicesBy": [
+     "The Judge",
+     "The Commissioner",
+     "The Scout"
+    ]
+   },
+   {
+    "sp": "nba",
+    "game": "ATL@CHI",
+    "gl": "#13 ATL@#29 CHI",
+    "pick": "ATL ML",
+    "price": -280,
+    "p": 0.864,
+    "start": "2026-11-14T01:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "ATL ML",
+      "p": 0.87,
+      "official": true,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+     },
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "ATL ML",
+      "p": 0.837,
+      "official": true,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "ATL ML",
+      "p": 0.82,
+      "official": true,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+     },
+     {
+      "who": "The Brain",
+      "v": "Brain",
+      "with": true,
+      "pick": "ATL ML",
+      "p": 0.855,
+      "official": false,
+      "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "ATL ML",
+      "p": 0.783,
+      "official": false,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "ATL ML",
+      "p": 0.468,
+      "official": false,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+     }
+    ],
+    "ev": 17.2,
+    "voicesBy": [
+     "The Judge",
+     "The Commissioner",
+     "The Scout"
+    ]
+   },
+   {
+    "sp": "nhl",
+    "game": "NYR@VAN",
+    "gl": "#12 NYR@#32 VAN",
+    "pick": "NYR ML",
+    "price": -217,
+    "p": 0.865,
+    "start": "2026-11-14T02:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "NYR ML",
+      "p": 0.882,
+      "official": true,
+      "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+     },
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "NYR ML",
+      "p": 0.768,
+      "official": true,
+      "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "NYR ML",
+      "p": 0.752,
+      "official": true,
+      "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "NYR ML",
+      "p": 0.725,
+      "official": false,
+      "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "NYR ML",
+      "p": 0.664,
+      "official": false,
+      "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+     }
+    ],
+    "ev": 26.3,
+    "voicesBy": [
+     "The Judge",
+     "The Commissioner",
+     "The Scout"
+    ]
+   }
+  ],
+  "banker": {
+   "price": "+267",
+   "p": 0.582,
+   "legs": [
+    {
+     "sp": "nba",
+     "game": "OKC@LAC",
+     "gl": "#7 OKC@#21 LAC",
+     "pick": "OKC ML",
+     "price": -280,
+     "p": 0.871,
+     "start": "2026-11-14T03:30Z",
+     "hit": null,
+     "push": false,
+     "by": [
+      "The Simulator",
+      "The Judge",
+      "The Commissioner",
+      "The Scout"
+     ],
+     "voices": [
+      {
+       "who": "The Judge",
+       "v": "Judge",
+       "with": true,
+       "pick": "OKC ML",
+       "p": 0.871,
+       "official": true,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+      },
+      {
+       "who": "The Simulator",
+       "v": "Sim",
+       "with": true,
+       "pick": "OKC ML",
+       "p": 0.851,
+       "official": true,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+      },
+      {
+       "who": "The Scout",
+       "v": "Scout",
+       "with": true,
+       "pick": "OKC ML",
+       "p": 0.838,
+       "official": true,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+      },
+      {
+       "who": "The Commissioner",
+       "v": "Power",
+       "with": true,
+       "pick": "OKC ML",
+       "p": 0.821,
+       "official": true,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+      },
+      {
+       "who": "The Banker",
+       "v": "Banker",
+       "with": true,
+       "pick": "OKC ML",
+       "p": 0.444,
+       "official": false,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+      }
+     ]
+    },
+    {
+     "sp": "nba",
+     "game": "NY@IND",
+     "gl": "#10 NY@#20 IND",
+     "pick": "NY ML",
+     "price": -275,
+     "p": 0.871,
+     "start": "2026-11-14T00:00Z",
+     "hit": null,
+     "push": false,
+     "by": [
+      "The Judge",
+      "The Commissioner",
+      "The Scout"
+     ],
+     "voices": [
+      {
+       "who": "The Judge",
+       "v": "Judge",
+       "with": true,
+       "pick": "NY ML",
+       "p": 0.871,
+       "official": true,
+       "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+      },
+      {
+       "who": "The Scout",
+       "v": "Scout",
+       "with": true,
+       "pick": "NY ML",
+       "p": 0.838,
+       "official": true,
+       "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+      },
+      {
+       "who": "The Commissioner",
+       "v": "Power",
+       "with": true,
+       "pick": "NY ML",
+       "p": 0.82,
+       "official": true,
+       "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+      },
+      {
+       "who": "The Simulator",
+       "v": "Sim",
+       "with": true,
+       "pick": "NY ML",
+       "p": 0.782,
+       "official": false,
+       "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+      },
+      {
+       "who": "The Brain",
+       "v": "Brain",
+       "with": true,
+       "pick": "NY ML",
+       "p": 0.775,
+       "official": false,
+       "note": "picked team under-performing its scoring (Pythagorean) · picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5"
+      },
+      {
+       "who": "The Banker",
+       "v": "Banker",
+       "with": true,
+       "pick": "NY ML",
+       "p": 0.44,
+       "official": false,
+       "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+      }
+     ]
+    },
+    {
+     "sp": "nba",
+     "game": "ATL@CHI",
+     "gl": "#13 ATL@#29 CHI",
+     "pick": "ATL ML",
+     "price": -280,
+     "p": 0.87,
+     "start": "2026-11-14T01:00Z",
+     "hit": null,
+     "push": false,
+     "by": [
+      "The Judge",
+      "The Commissioner",
+      "The Scout"
+     ],
+     "voices": [
+      {
+       "who": "The Judge",
+       "v": "Judge",
+       "with": true,
+       "pick": "ATL ML",
+       "p": 0.87,
+       "official": true,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      },
+      {
+       "who": "The Scout",
+       "v": "Scout",
+       "with": true,
+       "pick": "ATL ML",
+       "p": 0.837,
+       "official": true,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      },
+      {
+       "who": "The Commissioner",
+       "v": "Power",
+       "with": true,
+       "pick": "ATL ML",
+       "p": 0.82,
+       "official": true,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      },
+      {
+       "who": "The Brain",
+       "v": "Brain",
+       "with": true,
+       "pick": "ATL ML",
+       "p": 0.855,
+       "official": false,
+       "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series"
+      },
+      {
+       "who": "The Simulator",
+       "v": "Sim",
+       "with": true,
+       "pick": "ATL ML",
+       "p": 0.783,
+       "official": false,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      },
+      {
+       "who": "The Banker",
+       "v": "Banker",
+       "with": true,
+       "pick": "ATL ML",
+       "p": 0.468,
+       "official": false,
+       "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      }
+     ]
+    },
+    {
+     "sp": "nhl",
+     "game": "NYR@VAN",
+     "gl": "#12 NYR@#32 VAN",
+     "pick": "NYR ML",
+     "price": -217,
+     "p": 0.882,
+     "start": "2026-11-14T02:00Z",
+     "hit": null,
+     "push": false,
+     "by": [
+      "The Judge",
+      "The Commissioner",
+      "The Scout"
+     ],
+     "voices": [
+      {
+       "who": "The Scout",
+       "v": "Scout",
+       "with": true,
+       "pick": "NYR ML",
+       "p": 0.882,
+       "official": true,
+       "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+      },
+      {
+       "who": "The Judge",
+       "v": "Judge",
+       "with": true,
+       "pick": "NYR ML",
+       "p": 0.768,
+       "official": true,
+       "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+      },
+      {
+       "who": "The Commissioner",
+       "v": "Power",
+       "with": true,
+       "pick": "NYR ML",
+       "p": 0.752,
+       "official": true,
+       "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+      },
+      {
+       "who": "The Simulator",
+       "v": "Sim",
+       "with": true,
+       "pick": "NYR ML",
+       "p": 0.725,
+       "official": false,
+       "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+      },
+      {
+       "who": "The Banker",
+       "v": "Banker",
+       "with": true,
+       "pick": "NYR ML",
+       "p": 0.664,
+       "official": false,
+       "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+      }
+     ]
+    }
+   ]
+  },
+  "parlays": [
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "skill": false,
+    "px": false,
+    "price": "+265",
+    "p": 0.668,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "UWF@CLE",
+      "gl": "#127 UWF@#412 CLE",
+      "pick": "UWF ML",
+      "price": 140,
+      "p": 0.864,
+      "start": "2026-11-13T20:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.864,
+        "official": true,
+        "note": "his final UWF 91 – 73 CLE · 72 possessions · UWF: 11.1 threes, 21.0 twos, 15.7 FT · CLE: 6.2 threes, 19.2 twos, 16.4 FT"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.463,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.339,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.335,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.325,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "ncaab",
+      "game": "COLU@BUCK",
+      "gl": "#132 COLU@#526 BUCK",
+      "pick": "COLU ML",
+      "price": -192,
+      "p": 0.773,
+      "start": "2026-11-14T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.773,
+        "official": true,
+        "note": "his final COLU 85 – 70 BUCK · 70 possessions · COLU: 9.6 threes, 21.5 twos, 14.5 FT · BUCK: 7.6 threes, 15.9 twos, 13.4 FT"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.583,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.583,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.572,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.565,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.438,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Underdog Spotter",
+    "v": "Dog",
+    "skill": false,
+    "px": false,
+    "price": "+261",
+    "p": 0.6,
+    "legs": [
+     {
+      "sp": "nba",
+      "game": "CLE@MIA",
+      "gl": "#15 CLE@#17 MIA",
+      "pick": "CLE +2.5",
+      "price": -110,
+      "p": 0.79,
+      "start": "2026-11-14T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Underdog Spotter"
+      ],
+      "voices": [
+       {
+        "who": "The Underdog Spotter",
+        "v": "Dog",
+        "with": true,
+        "pick": "CLE +2.5",
+        "p": 0.79,
+        "official": true,
+        "note": "+8.8 MIA covers as a favorite: 1-6 · +7.6 power says MIA by -3.3, the line says 2.5 · +5.1 CLE's offense (116.4 a game) vs MIA's defense (allows 120.0) · +4.4 MIA as a favorite: 4-3 · -2.6 CLE as a dog: 2-4 against the spread"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "CLE +2.5",
+        "p": 0.593,
+        "official": false,
+        "note": "his final CLE 118 – 115 MIA · 104 possessions · CLE: 16.2 threes, 26.5 twos, 17.5 FT · MIA: 14.2 threes, 27.0 twos, 17.6 FT"
+       },
+       {
+        "who": "The Oracle",
+        "v": "Pred",
+        "with": true,
+        "pick": "CLE +2.5",
+        "p": 0.553,
+        "official": false,
+        "note": "outside consensus MIA by 1.0 vs the line -2.5 · ESPN FPI/BPI CLE 64% · Kalshi MIA 55% · Polymarket MIA 56% · DRatings CLE 50% · Pickswise experts: ★★★ CLE +2.5 — 54% on 24 · DRatings: CLE by 0.2 — 53% on 34 · the outside world 54% vs the De"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "CLE +2.5",
+        "p": 0.538,
+        "official": false,
+        "note": "picked team on its 3rd straight road game · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "CLE +2.5",
+        "p": 0.515,
+        "official": false,
+        "note": "picked team on its 3rd straight road game · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CLE +2.5",
+        "p": 0.515,
+        "official": false,
+        "note": "picked team on its 3rd straight road game · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "CLE +2.5",
+        "p": 0.487,
+        "official": false,
+        "note": "picked team on its 3rd straight road game · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "CLE +2.5",
+        "p": 0.478,
+        "official": false,
+        "note": "picked team on its 3rd straight road game · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": false,
+        "pick": "MIA +2",
+        "p": 0.485,
+        "official": false,
+        "note": "home underdog · opponent has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       }
+      ]
+     },
+     {
+      "sp": "nba",
+      "game": "GS@SA",
+      "gl": "#11 GS@#1 SA",
+      "pick": "GS +12.5",
+      "price": -112,
+      "p": 0.76,
+      "start": "2026-11-14T02:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Underdog Spotter"
+      ],
+      "voices": [
+       {
+        "who": "The Underdog Spotter",
+        "v": "Dog",
+        "with": true,
+        "pick": "GS +12.5",
+        "p": 0.76,
+        "official": true,
+        "note": "+13 power says SA by 3.0, the line says 12.5 · +7.1 GS as a dog: 3-3 outright · -5.6 SA as a favorite: 10-1 · +4.9 GS as a dog: 4-2 against the spread · +2.5 SA covers as a favorite: 5-6"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "GS +12",
+        "p": 0.641,
+        "official": false,
+        "note": "his final GS 113 – 116 SA · 102 possessions · GS: 14.9 threes, 25.7 twos, 18.7 FT · SA: 12.3 threes, 28.8 twos, 19.9 FT"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "GS +12",
+        "p": 0.538,
+        "official": false,
+        "note": "big spread (10+) · picked team won 4+ of its last 5 · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "GS +12",
+        "p": 0.516,
+        "official": false,
+        "note": "big spread (10+) · picked team won 4+ of its last 5 · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "GS +12",
+        "p": 0.5,
+        "official": false,
+        "note": "-4.5 GS news: 2 reports of a player out · -1.3 GS news: a suspension · +1.28 GS revenge: lost the last meeting (2026) · his score GS 108 – 116 SA vs the line -12"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "GS +12.5",
+        "p": 0.493,
+        "official": false,
+        "note": "big spread (10+) · picked team won 4+ of its last 5 · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "GS +12",
+        "p": 0.479,
+        "official": false,
+        "note": "big spread (10+) · picked team won 4+ of its last 5 · picked team leads the head-to-head series"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Commissioner",
+    "v": "Power",
+    "skill": false,
+    "px": false,
+    "price": "+152",
+    "p": 0.565,
+    "legs": [
+     {
+      "sp": "nba",
+      "game": "MEM@NO",
+      "gl": "#16 MEM@#23 NO",
+      "pick": "MEM ML",
+      "price": -162,
+      "p": 0.752,
+      "start": "2026-11-14T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Commissioner"
+      ],
+      "voices": [
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.752,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.74,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.704,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.784,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.725,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.326,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "NSH@VGK",
+      "gl": "#11 NSH@#3 VGK",
+      "pick": "VGK ML",
+      "price": -180,
+      "p": 0.751,
+      "start": "2026-11-14T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Commissioner"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.767,
+        "official": true,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.751,
+        "official": true,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.731,
+        "official": true,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.724,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.569,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "skill": false,
+    "px": false,
+    "price": "+306",
+    "p": 0.489,
+    "legs": [
+     {
+      "sp": "nba",
+      "game": "OKC@LAC",
+      "gl": "#7 OKC@#21 LAC",
+      "pick": "OKC ML",
+      "price": -280,
+      "p": 0.871,
+      "start": "2026-11-14T03:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "OKC ML",
+        "p": 0.871,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "OKC ML",
+        "p": 0.851,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "OKC ML",
+        "p": 0.838,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "OKC ML",
+        "p": 0.821,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "OKC ML",
+        "p": 0.444,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       }
+      ]
+     },
+     {
+      "sp": "nba",
+      "game": "NY@IND",
+      "gl": "#10 NY@#20 IND",
+      "pick": "NY ML",
+      "price": -275,
+      "p": 0.871,
+      "start": "2026-11-14T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "NY ML",
+        "p": 0.871,
+        "official": true,
+        "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "NY ML",
+        "p": 0.838,
+        "official": true,
+        "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "NY ML",
+        "p": 0.82,
+        "official": true,
+        "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "NY ML",
+        "p": 0.782,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": true,
+        "pick": "NY ML",
+        "p": 0.775,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "NY ML",
+        "p": 0.44,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team playing its 3rd game in 4 nights"
+       }
+      ]
+     },
+     {
+      "sp": "nba",
+      "game": "ATL@CHI",
+      "gl": "#13 ATL@#29 CHI",
+      "pick": "ATL ML",
+      "price": -280,
+      "p": 0.87,
+      "start": "2026-11-14T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "ATL ML",
+        "p": 0.87,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "ATL ML",
+        "p": 0.837,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "ATL ML",
+        "p": 0.82,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": true,
+        "pick": "ATL ML",
+        "p": 0.855,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "ATL ML",
+        "p": 0.783,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "ATL ML",
+        "p": 0.468,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "nba",
+      "game": "MEM@NO",
+      "gl": "#16 MEM@#23 NO",
+      "pick": "MEM ML",
+      "price": -162,
+      "p": 0.74,
+      "start": "2026-11-14T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.752,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.74,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.704,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.784,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.725,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.326,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Scout",
+    "v": "Scout",
+    "skill": false,
+    "px": false,
+    "price": "+486",
+    "p": 0.331,
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "NYR@VAN",
+      "gl": "#12 NYR@#32 VAN",
+      "pick": "NYR ML",
+      "price": -217,
+      "p": 0.882,
+      "start": "2026-11-14T02:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "NYR ML",
+        "p": 0.882,
+        "official": true,
+        "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "NYR ML",
+        "p": 0.768,
+        "official": true,
+        "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "NYR ML",
+        "p": 0.752,
+        "official": true,
+        "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "NYR ML",
+        "p": 0.725,
+        "official": false,
+        "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "NYR ML",
+        "p": 0.664,
+        "official": false,
+        "note": "road favorite · picked team on its 3rd straight road game · picked team won 4+ of its last 5"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "FSU@PITT",
+      "gl": "#54 FSU@#46 PITT",
+      "pick": "PITT ML",
+      "price": -168,
+      "p": 0.73,
+      "start": "2026-11-14T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "PITT ML",
+        "p": 0.73,
+        "official": true,
+        "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": true,
+        "pick": "PITT ML",
+        "p": 0.71,
+        "official": false,
+        "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "PITT ML",
+        "p": 0.662,
+        "official": false,
+        "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "PITT ML",
+        "p": 0.649,
+        "official": false,
+        "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "PITT ML",
+        "p": 0.641,
+        "official": false,
+        "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "PITT ML",
+        "p": 0.59,
+        "official": false,
+        "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "NSH@VGK",
+      "gl": "#11 NSH@#3 VGK",
+      "pick": "VGK ML",
+      "price": -180,
+      "p": 0.731,
+      "start": "2026-11-14T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.767,
+        "official": true,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.751,
+        "official": true,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.731,
+        "official": true,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.724,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "VGK ML",
+        "p": 0.569,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · opponent's main goalie is top 20%"
+       }
+      ]
+     },
+     {
+      "sp": "nba",
+      "game": "MEM@NO",
+      "gl": "#16 MEM@#23 NO",
+      "pick": "MEM ML",
+      "price": -162,
+      "p": 0.704,
+      "start": "2026-11-14T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.752,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.74,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.704,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.784,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.725,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.326,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "skill": false,
+    "px": true,
+    "price": "-662",
+    "p": 0.796,
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "NSH@VGK",
+      "gl": "#11 NSH@#3 VGK",
+      "pick": "Nic Dowd 2+ SOG",
+      "price": -1706,
+      "p": 0.904,
+      "start": "2026-11-14T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "nhl",
+      "game": "NYR@VAN",
+      "gl": "#12 NYR@#32 VAN",
+      "pick": "Filip Hronek 3+ SOG",
+      "price": -1146,
+      "p": 0.88,
+      "start": "2026-11-14T02:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": []
+     }
+    ]
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "skill": false,
+    "px": true,
+    "price": "-633",
+    "p": 0.791,
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "NSH@VGK",
+      "gl": "#11 NSH@#3 VGK",
+      "pick": "Jayden Struble 2+ SOG",
+      "price": -1341,
+      "p": 0.89,
+      "start": "2026-11-14T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Historian"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "nhl",
+      "game": "NYR@VAN",
+      "gl": "#12 NYR@#32 VAN",
+      "pick": "Arshdeep Bains 2+ SOG",
+      "price": -1287,
+      "p": 0.888,
+      "start": "2026-11-14T02:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Historian"
+      ],
+      "voices": []
+     }
+    ]
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "skill": false,
+    "px": true,
+    "price": "-441",
+    "p": 0.746,
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "NSH@VGK",
+      "gl": "#11 NSH@#3 VGK",
+      "pick": "Braeden Bowman 3+ SOG",
+      "price": -1053,
+      "p": 0.874,
+      "start": "2026-11-14T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "nhl",
+      "game": "NYR@VAN",
+      "gl": "#12 NYR@#32 VAN",
+      "pick": "Elias Pettersson 3+ SOG",
+      "price": -829,
+      "p": 0.854,
+      "start": "2026-11-14T02:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": []
+     }
+    ]
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "skill": false,
+    "px": true,
+    "price": "+126",
+    "p": 0.62,
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "NSH@VGK",
+      "gl": "#11 NSH@#3 VGK",
+      "pick": "Jayden Struble 2+ SOG",
+      "price": -1630,
+      "p": 0.902,
+      "start": "2026-11-14T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "nhl",
+      "game": "NYR@VAN",
+      "gl": "#12 NYR@#32 VAN",
+      "pick": "Elias Pettersson 3+ SOG",
+      "price": -860,
+      "p": 0.857,
+      "start": "2026-11-14T02:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "nba",
+      "game": "ATL@CHI",
+      "gl": "#13 ATL@#29 CHI",
+      "pick": "Under 245.5",
+      "price": -110,
+      "p": 0.802,
+      "start": "2026-11-14T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": [
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "Under 245.5",
+        "p": 0.802,
+        "official": true,
+        "note": "his total 230.0 vs 245.5"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": true,
+        "pick": "Under 253",
+        "p": 0.458,
+        "official": false,
+        "note": "high total · both offenses outclass the defenses (Scout) · conference game (not division)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "Over 245.5",
+        "p": 0.537,
+        "official": false,
+        "note": "high total · both offenses outclass the defenses (Scout) · conference game (not division)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "Over 245.5",
+        "p": 0.537,
+        "official": false,
+        "note": "high total · both offenses outclass the defenses (Scout) · conference game (not division)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "Over 245.5",
+        "p": 0.505,
+        "official": false,
+        "note": "high total · both offenses outclass the defenses (Scout) · conference game (not division)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "skill": false,
+    "px": true,
+    "price": "+324",
+    "p": 0.527,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "UWF@CLE",
+      "gl": "#127 UWF@#412 CLE",
+      "pick": "UWF ML",
+      "price": 140,
+      "p": 0.864,
+      "start": "2026-11-13T20:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.864,
+        "official": true,
+        "note": "his final UWF 91 – 73 CLE · 72 possessions · UWF: 11.1 threes, 21.0 twos, 15.7 FT · CLE: 6.2 threes, 19.2 twos, 16.4 FT"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.463,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.339,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.335,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.325,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "NSH@VGK",
+      "gl": "#11 NSH@#3 VGK",
+      "pick": "Nic Dowd 2+ SOG",
+      "price": -1748,
+      "p": 0.905,
+      "start": "2026-11-14T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "nhl",
+      "game": "NYR@VAN",
+      "gl": "#12 NYR@#32 VAN",
+      "pick": "Filip Hronek 3+ SOG",
+      "price": -1018,
+      "p": 0.871,
+      "start": "2026-11-14T02:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "COLU@BUCK",
+      "gl": "#132 COLU@#526 BUCK",
+      "pick": "COLU ML",
+      "price": -192,
+      "p": 0.773,
+      "start": "2026-11-14T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.773,
+        "official": true,
+        "note": "his final COLU 85 – 70 BUCK · 70 possessions · COLU: 9.6 threes, 21.5 twos, 14.5 FT · BUCK: 7.6 threes, 15.9 twos, 13.4 FT"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.583,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.583,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.572,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.565,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "COLU ML",
+        "p": 0.438,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "props": [
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "sp": "nhl",
+    "pick": "Nic Dowd 2+ SOG (VGK · NSH@VGK · 9:00 PM CT)",
+    "p": 0.908,
+    "star": false
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "sp": "nhl",
+    "pick": "Jayden Struble 2+ SOG (NSH · NSH@VGK · 9:00 PM CT)",
+    "p": 0.894,
+    "star": false
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "sp": "nhl",
+    "pick": "Arshdeep Bains 2+ SOG (VAN · NYR@VAN · 8:00 PM CT)",
+    "p": 0.888,
+    "star": false
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "sp": "nhl",
+    "pick": "Raphael Lavoie 3+ SOG (VGK · NSH@VGK · 9:00 PM CT)",
+    "p": 0.884,
+    "star": false
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "sp": "nhl",
+    "pick": "Filip Hronek 3+ SOG (VAN · NYR@VAN · 8:00 PM CT)",
+    "p": 0.871,
+    "star": false
+   }
+  ]
+ },
  "characters": [
   {
    "v": "Sim",
@@ -39092,6 +41235,6 @@
   },
   "heavy": -500
  },
- "betaSig": "[[[0,[],17],[1,[\"strong\"],15],[1,[\"value\"],11],[0,[],11],[2,[\"supreme\",\"strong\"],11],[2,[\"supreme\",\"strong\"],14],[1,[\"strong!\"],13],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],15],[1,[\"strong\"],17],[1,[\"strong\"],16],[0,[],12],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],10],[0,[],14],[0,[],13],[0,[],13],[0,[],11],[2,[\"supreme\",\"value\"],13],[0,[],8],[0,[],11],[2,[\"strong\",\"value\"],12],[1,[\"value\"],13],[1,[\"supreme\"],15],[0,[],13],[0,[],11],[3,[\"supreme!\",\"strong\",\"value\"],10],[2,[\"supreme\",\"value\"],11],[0,[],11],[1,[\"strong\"],13],[0,[],14],[0,[],15],[2,[\"supreme!\",\"value\"],11],[2,[\"supreme\",\"strong\"],12],[2,[\"strong\",\"strong\"],15],[0,[],10],[0,[],14],[2,[\"supreme\",\"strong\"],11],[1,[\"strong\"],15],[0,[],14],[0,[],9],[2,[\"supreme\",\"strong\"],14],[0,[],14],[0,[],14],[3,[\"supreme*\",\"strong\",\"strong\"],15],[1,[\"strong\"],15],[2,[\"supreme\",\"value\"],15],[0,[],14],[0,[],12],[1,[\"strong\"],14],[0,[],9],[1,[\"strong\"],17],[1,[\"strong\"],13],[0,[],14],[0,[],13],[2,[\"strong\",\"value\"],10],[1,[\"strong!\"],13],[0,[],13],[2,[\"strong\",\"strong\"],12],[1,[\"supreme\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],10],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],13],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"supreme!\",\"value\"],12],[1,[\"strong\"],9],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"strong\"],13],[1,[\"value\"],10],[1,[\"strong\"],10],[0,[],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],10],[2,[\"strong\",\"value\"],13],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"value\",\"value\"],14],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],9],[0,[],9],[0,[],11],[2,[\"strong\",\"value\"],11],[0,[],11],[2,[\"strong\",\"value\"],12],[3,[\"strong\",\"value\",\"value\"],10],[1,[\"value\"],10],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"value\"],13],[0,[],14],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],12],[1,[\"supreme\"],10],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],12],[1,[\"supreme\"],12],[1,[\"strong\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[3,[\"strong\",\"strong\",\"value\"],10],[0,[],10],[0,[],12],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],13],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"value\"],7],[0,[],9],[0,[],10],[3,[\"strong\",\"strong\",\"value\"],12],[1,[\"supreme\"],11],[1,[\"supreme\"],12],[1,[\"strong\"],11],[1,[\"value\"],11],[0,[],9],[1,[\"strong\"],12],[2,[\"supreme\",\"strong\"],13],[0,[],15],[1,[\"supreme\"],12],[1,[\"value\"],11],[0,[],13],[0,[],15],[3,[\"strong\",\"strong\",\"strong\"],11],[1,[\"value\"],12],[1,[\"strong\"],11],[1,[\"strong\"],10],[1,[\"value\"],14],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],12]],0,[[11,[null,null,null,null,null,null,null,null,null,null,null]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[7,[null,null,null,null,null,null,null]],[2,[null,null]],[11,[null,null,null,null,null,null,null,null,null,null,null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[[0,[],17],[1,[\"strong\"],15],[1,[\"value\"],11],[0,[],11],[2,[\"supreme\",\"strong\"],11],[2,[\"supreme\",\"strong\"],14],[1,[\"strong!\"],13],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],15],[1,[\"strong\"],17],[1,[\"strong\"],16],[0,[],12],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],10],[0,[],14],[0,[],13],[0,[],13],[0,[],11],[2,[\"supreme\",\"value\"],13],[0,[],8],[0,[],11],[2,[\"strong\",\"value\"],12],[1,[\"value\"],13],[1,[\"supreme\"],15],[0,[],13],[0,[],11],[3,[\"supreme!\",\"strong\",\"value\"],10],[2,[\"supreme\",\"value\"],11],[0,[],11],[1,[\"strong\"],13],[0,[],14],[0,[],15],[2,[\"supreme!\",\"value\"],11],[2,[\"supreme\",\"strong\"],12],[2,[\"strong\",\"strong\"],15],[0,[],10],[0,[],14],[2,[\"supreme\",\"strong\"],11],[1,[\"strong\"],15],[0,[],14],[0,[],9],[2,[\"supreme\",\"strong\"],14],[0,[],14],[0,[],14],[3,[\"supreme*\",\"strong\",\"strong\"],15],[1,[\"strong\"],15],[2,[\"supreme\",\"value\"],15],[0,[],14],[0,[],12],[1,[\"strong\"],14],[0,[],9],[1,[\"strong\"],17],[1,[\"strong\"],13],[0,[],14],[0,[],13],[2,[\"strong\",\"value\"],10],[1,[\"strong!\"],13],[0,[],13],[2,[\"strong\",\"strong\"],12],[1,[\"supreme\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],10],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],13],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"supreme!\",\"value\"],12],[1,[\"strong\"],9],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"strong\"],13],[1,[\"value\"],10],[1,[\"strong\"],10],[0,[],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],10],[2,[\"strong\",\"value\"],13],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"value\",\"value\"],14],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],9],[0,[],9],[0,[],11],[2,[\"strong\",\"value\"],11],[0,[],11],[2,[\"strong\",\"value\"],12],[3,[\"strong\",\"value\",\"value\"],10],[1,[\"value\"],10],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"value\"],13],[0,[],14],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],12],[1,[\"supreme\"],10],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],12],[1,[\"supreme\"],12],[1,[\"strong\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[3,[\"strong\",\"strong\",\"value\"],10],[0,[],10],[0,[],12],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],13],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"value\"],7],[0,[],9],[0,[],10],[3,[\"strong\",\"strong\",\"value\"],12],[1,[\"supreme\"],11],[1,[\"supreme\"],12],[1,[\"strong\"],11],[1,[\"value\"],11],[0,[],9],[1,[\"strong\"],12],[2,[\"supreme\",\"strong\"],13],[0,[],15],[1,[\"supreme\"],12],[1,[\"value\"],11],[0,[],13],[0,[],15],[3,[\"strong\",\"strong\",\"strong\"],11],[1,[\"value\"],12],[1,[\"strong\"],11],[1,[\"strong\"],10],[1,[\"value\"],14],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],12]],[4,10,[null,null,null,null]],[[11,[null,null,null,null,null,null,null,null,null,null,null]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[7,[null,null,null,null,null,null,null]],[2,[null,null]],[11,[null,null,null,null,null,null,null,null,null,null,null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
