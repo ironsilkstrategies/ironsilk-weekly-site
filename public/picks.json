@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794553304280,
+ "generated": 1794557883724,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -961,43 +961,683 @@
    "name": "The Simulator",
    "chip": "★ SIM",
    "color": "#FFD75E",
-   "bio": "10,000 Monte Carlo runs of the game — the engine everyone reads; official on the heavy moneylines (-500 or shorter), anything else only at 80%+",
+   "title": "The Visionary",
+   "bio": "He has watched more football, hockey and hoops than anyone alive, and it shows: by the time the anthem ends he has already seen every way the night can go. Quiet, unflappable, allergic to hype. When a favorite is supposed to roll, he is the one who knows whether it actually will.",
+   "origin": "Grew up in a film room with the lights off. Learned early that the game tells you what it is going to do if you have watched it enough times.",
+   "best": [
+    {
+     "lane": "NFL overs",
+     "w": 26,
+     "l": 18,
+     "u": 5.7
+    },
+    {
+     "lane": "NBA underdogs on the spread",
+     "w": 34,
+     "l": 27,
+     "u": 4.1
+    },
+    {
+     "lane": "NBA favorites on the moneyline",
+     "w": 92,
+     "l": 31,
+     "u": 5.2
+    }
+   ],
+   "still": [
+    {
+     "lane": "College hoops underdogs on the moneyline",
+     "w": 9,
+     "l": 33
+    }
+   ],
    "record": {
     "w": 143,
     "l": 78,
     "pu": 0,
     "u": -1.99
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Katin Houser under 39.5 rec yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Katin Houser under 3.5 rec",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Aidan Laughery under 199.5 pass yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Aidan Laughery under 219.5 pass+rush yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 199.5 pass yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 39.5 rec yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    }
+   ],
+   "recent": [
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "PHI ML",
+     "price": -435,
+     "gl": "#22 TOR@#9 PHI",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "DET ML",
+     "price": -425,
+     "gl": "#6 DET@#25 WSH",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "SA ML",
+     "price": -1200,
+     "gl": "#1 SA@#29 CHI",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "LAL ML",
+     "price": -750,
+     "gl": "#4 LAL@#30 MIL",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "UCD ML",
+     "price": -800,
+     "gl": "#472 UIW@#219 UCD",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "SDSU ML",
+     "price": -3600,
+     "gl": "#455 BCU@#86 SDSU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "ND ML",
+     "price": -20000,
+     "gl": "#266 SCST@#4 ND",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "SC ML",
+     "price": -8000,
+     "gl": "#501 SPU@#68 SC",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "BOIS ML",
+     "price": -2025,
+     "gl": "#485 OAK@#87 BOIS",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "GCU ML",
+     "price": -3200,
+     "gl": "#440 CP@#71 GCU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "CLE ML",
+     "price": -340,
+     "gl": "#15 CLE@#26 CHA",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "DET ML",
+     "price": -475,
+     "gl": "#25 WSH@#6 DET",
+     "r": "win"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nba",
+     "team": "PHI",
+     "for": {
+      "w": 4,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "SA",
+     "for": {
+      "w": 4,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DET",
+     "for": {
+      "w": 4,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "VAN",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 5,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "MIN",
+     "for": {
+      "w": 4,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "MIL",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 5,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "ANA",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 3,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "BKN",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 3,
+      "l": 1
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Judge",
    "name": "The Judge",
    "chip": "JUDGE",
    "color": "#f5a524",
-   "bio": "weighs every witness by its graded accuracy (forecast combination)",
+   "title": "The Gavel",
+   "bio": "Nobody talks over the Judge. She lets every voice in the room make its case, then rules, and her rulings stick. Patient, fair and impossible to rush, she is at her best when the desk is split and somebody has to decide.",
+   "origin": "Spent years listening to experts argue and keeping score of who was actually right. Trusts a track record over a loud voice, every time.",
+   "best": [
+    {
+     "lane": "NFL favorites on the moneyline",
+     "w": 40,
+     "l": 14,
+     "u": 5.1
+    }
+   ],
+   "still": [
+    {
+     "lane": "NHL unders",
+     "w": 23,
+     "l": 32
+    }
+   ],
    "record": {
     "w": 111,
     "l": 64,
     "pu": 0,
     "u": -8.37
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Katin Houser under 39.5 rec yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Katin Houser under 3.5 rec",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Aidan Laughery under 199.5 pass yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Aidan Laughery under 219.5 pass+rush yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 199.5 pass yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 39.5 rec yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    }
+   ],
+   "recent": [
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "NYG ML",
+     "price": -135,
+     "gl": "#19 WSH@#17 NYG",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "CAR ML",
+     "price": -291,
+     "gl": "#1 CAR@#25 SEA",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "BOS ML",
+     "price": -120,
+     "gl": "#7 MTL@#5 BOS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "MIN ML",
+     "price": -170,
+     "gl": "#2 MIN@#23 TOR",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "FLA ML",
+     "price": -166,
+     "gl": "#27 DET@#14 FLA",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "PHI ML",
+     "price": -435,
+     "gl": "#22 TOR@#9 PHI",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "DET ML",
+     "price": -425,
+     "gl": "#6 DET@#25 WSH",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "MIN ML",
+     "price": -220,
+     "gl": "#14 DAL@#3 MIN",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "PHX ML",
+     "price": -245,
+     "gl": "#26 CHA@#18 PHX",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "NY -3.5",
+     "price": -115,
+     "gl": "#15 CLE@#10 NY",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "BOS ML",
+     "price": -215,
+     "gl": "#5 BOS@#22 TOR",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "SA -15.5",
+     "price": -110,
+     "gl": "#1 SA@#29 CHI",
+     "r": "loss"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nba",
+     "team": "DET",
+     "for": {
+      "w": 4,
+      "l": 2
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "PHI",
+     "for": {
+      "w": 4,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "BKN",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 4,
+      "l": 2
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "PHX",
+     "for": {
+      "w": 3,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 2
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "CHA",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 3,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DAL",
+     "for": {
+      "w": 1,
+      "l": 1
+     },
+     "vs": {
+      "w": 2,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "SA",
+     "for": {
+      "w": 3,
+      "l": 1
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "GS",
+     "for": {
+      "w": 3,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 0
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Coach",
    "name": "The Coach",
    "chip": "COACH",
    "color": "#5FD3E8",
-   "bio": "keeps everyone honest — scales each character's confidence to its real hit rate; his own score from season scoring, rest, spots, revenge, weather and the news",
+   "title": "The Sideline General",
+   "bio": "Twenty seasons of road trips, red-eyes and locker rooms taught the Coach one thing: talent is half the story, the other half is whether a team is ready to play tonight. He keeps everyone on the desk honest and calls out the spots where a good team is due to stumble.",
+   "origin": "Came up as a grinder, not a star. Knows what a long week on the road does to legs, and what a team looks like when it has something to prove.",
+   "best": [
+    {
+     "lane": "NHL overs",
+     "w": 55,
+     "l": 40,
+     "u": 7.5
+    },
+    {
+     "lane": "NFL overs",
+     "w": 25,
+     "l": 19,
+     "u": 3.8
+    },
+    {
+     "lane": "College hoops unders",
+     "w": 32,
+     "l": 26,
+     "u": 3.1
+    }
+   ],
+   "still": [
+    {
+     "lane": "College hoops overs",
+     "w": 37,
+     "l": 43
+    }
+   ],
    "record": {
     "w": 23,
     "l": 34,
     "pu": 0,
     "u": -14.5
    },
+   "props": {
+    "w": 0,
+    "l": 0
+   },
    "picks": [
     {
+     "kind": "game",
      "sp": "nba",
      "game": "ATL@CHI",
      "gl": "#13 ATL@#29 CHI",
@@ -1008,23 +1648,332 @@
      "hit": null,
      "push": false,
      "note": "his total 230.0 vs 245.5"
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Nic Dowd under 1.5 SOG",
+     "team": "VGK",
+     "side": "under",
+     "p": 0.908,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Jayden Struble under 1.5 SOG",
+     "team": "NSH",
+     "side": "under",
+     "p": 0.902,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Filip Hronek under 2.5 SOG",
+     "team": "VAN",
+     "side": "under",
+     "p": 0.886,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Vitali Pinchuk under 2.5 SOG",
+     "team": "NSH",
+     "side": "under",
+     "p": 0.878,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Braeden Bowman under 2.5 SOG",
+     "team": "VGK",
+     "side": "under",
+     "p": 0.878,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Adam Wilsby under 2.5 SOG",
+     "team": "NSH",
+     "side": "under",
+     "p": 0.87,
+     "hit": null,
+     "push": false,
+     "note": ""
     }
-   ]
+   ],
+   "recent": [
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "SAC +17",
+     "price": -112,
+     "gl": "#138 SAC@#103 CMU",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "Under 238",
+     "price": -105,
+     "gl": "#1 SA@#29 CHI",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "CGY +1.5",
+     "price": -210,
+     "gl": "#12 NYR@#29 CGY",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "WSH +10.5",
+     "price": -105,
+     "gl": "#25 WSH@#6 DET",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "PHX +8.5",
+     "price": -105,
+     "gl": "#1 SA@#18 PHX",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "MRSH +26",
+     "price": -105,
+     "gl": "#468 MRSH@#63 OSU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "WAG +38",
+     "price": -105,
+     "gl": "#513 WAG@#10 CONN",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Over 139.5",
+     "price": -115,
+     "gl": "#513 WAG@#10 CONN",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "GRAM +35.5",
+     "price": -110,
+     "gl": "#509 GRAM@#3 TEX",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "RAD +28.5",
+     "price": -105,
+     "gl": "#514 RAD@#24 TENN",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "UNF +34",
+     "price": -115,
+     "gl": "#516 UNF@#28 MIA",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 162",
+     "price": -105,
+     "gl": "#516 UNF@#28 MIA",
+     "r": "win"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nhl",
+     "team": "CGY",
+     "for": {
+      "w": 1,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "IONA",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "SJU",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "SEMO",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "SC",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "GB",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "STMN",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "AF",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Most common",
    "name": "The Scorekeeper",
    "chip": "SCORE",
    "color": "#a78bfa",
-   "bio": "every final built from its parts — touchdowns × what they bring + field goals, possessions × threes / twos / free throws, shots × the goalie — off the season's box scores",
+   "title": "The Scorekeeper",
+   "bio": "Give her a game and she will hand you the final before kickoff. She does not care about stories or streaks, only how points actually get scored, possession by possession. Deadly on totals and on games where everyone else is guessing.",
+   "origin": "Kept the official book in a press box for years. Watched every point go up on the board and learned exactly where they come from.",
+   "best": [
+    {
+     "lane": "NBA favorites on the spread",
+     "w": 40,
+     "l": 30,
+     "u": 6
+    },
+    {
+     "lane": "NFL overs",
+     "w": 22,
+     "l": 17,
+     "u": 3
+    },
+    {
+     "lane": "NBA underdogs on the spread",
+     "w": 32,
+     "l": 26,
+     "u": 3.3
+    }
+   ],
+   "still": [
+    {
+     "lane": "College hoops underdogs on the moneyline",
+     "w": 7,
+     "l": 24
+    }
+   ],
    "record": {
     "w": 131,
     "l": 95,
     "pu": 0,
     "u": -11.65
    },
+   "props": {
+    "w": 0,
+    "l": 0
+   },
    "picks": [
     {
+     "kind": "game",
      "sp": "ncaab",
      "game": "XAV@MSST",
      "gl": "#6 XAV@#27 MSST",
@@ -1037,6 +1986,7 @@
      "note": "his total 150.7 vs 165 · 74 possessions · XAV: 7.7 threes, 20.1 twos, 13.6 FT · MSST: 7.6 threes, 18.0 twos, 15.1 FT"
     },
     {
+     "kind": "game",
      "sp": "ncaab",
      "game": "UWF@CLE",
      "gl": "#127 UWF@#412 CLE",
@@ -1047,93 +1997,1200 @@
      "hit": null,
      "push": false,
      "note": "his final UWF 91 – 73 CLE · 72 possessions · UWF: 11.1 threes, 21.0 twos, 15.7 FT · CLE: 6.2 threes, 19.2 twos, 16.4 FT"
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Katin Houser under 39.5 rec yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Aidan Laughery under 199.5 pass yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Aidan Laughery under 219.5 pass+rush yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 199.5 pass yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 39.5 rec yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 219.5 pass+rush yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
     }
-   ]
+   ],
+   "recent": [
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "SHU ML",
+     "price": -225,
+     "gl": "#199 CCSU@#209 SHU",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 179",
+     "price": -110,
+     "gl": "#114 OKST@#76 TA&M",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "COFC -1.5",
+     "price": -113,
+     "gl": "#72 COFC@#434 TEM",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "SFA -6.5",
+     "price": -115,
+     "gl": "#47 SFA@#476 ACU",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "SFA ML",
+     "price": -250,
+     "gl": "#47 SFA@#476 ACU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "BOIS -16.5",
+     "price": -108,
+     "gl": "#485 OAK@#87 BOIS",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 181.5",
+     "price": -110,
+     "gl": "#440 CP@#71 GCU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 165.5",
+     "price": -115,
+     "gl": "#454 MER@#416 GASO",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 166.5",
+     "price": -108,
+     "gl": "#49 ILL@#198 TTU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 157.5",
+     "price": -110,
+     "gl": "#98 BEL@#432 LIP",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "BUF ML",
+     "price": -165,
+     "gl": "#4 BUF@#15 MIN",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "CLE ML",
+     "price": -278,
+     "gl": "#15 CLE@#26 CHA",
+     "r": "loss"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nba",
+     "team": "PHI",
+     "for": {
+      "w": 3,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 2
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "BKN",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 4,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "VAN",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 5,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DET",
+     "for": {
+      "w": 2,
+      "l": 2
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "CAR",
+     "for": {
+      "w": 4,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "MIN",
+     "for": {
+      "w": 2,
+      "l": 2
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DAL",
+     "for": {
+      "w": 1,
+      "l": 1
+     },
+     "vs": {
+      "w": 1,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "MIN",
+     "for": {
+      "w": 3,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Pred",
    "name": "The Oracle",
    "chip": "ORACLE",
    "color": "#e8c15a",
-   "bio": "the outside world's consensus — prediction markets, 50+ computer rating systems, expert picks and your uploads, each weighed by its own record",
+   "title": "The Oracle",
+   "bio": "The Oracle has ears everywhere. Markets, insiders, the sharpest minds in the business: she hears it all, sorts the signal from the noise and tells you what the smart world really thinks. When the room is quiet, she is the one who already knows.",
+   "origin": "Built a network before she built a following. Believes the crowd of the best is smarter than any one genius, and has the receipts.",
+   "best": [
+    {
+     "lane": "NHL overs",
+     "w": 18,
+     "l": 15,
+     "u": 1
+    }
+   ],
+   "still": [
+    {
+     "lane": "College hoops underdogs on the spread",
+     "w": 30,
+     "l": 36
+    }
+   ],
    "record": {
     "w": 11,
     "l": 6,
     "pu": 0,
     "u": 1.48
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [],
+   "recent": [
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 159.5",
+     "price": -105,
+     "gl": "#478 LAS@#83 VILL",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 165.5",
+     "price": -115,
+     "gl": "#454 MER@#416 GASO",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 159.5",
+     "price": -112,
+     "gl": "#229 SIE@#175 DAY",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 166.5",
+     "price": -108,
+     "gl": "#49 ILL@#198 TTU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 150.5",
+     "price": -108,
+     "gl": "#134 GB@#184 UNI",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Over 133.5",
+     "price": -112,
+     "gl": "#240 HOF@#59 ASU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "HOU ML",
+     "price": -291,
+     "gl": "#8 DEN@#2 HOU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "UNCG +20",
+     "price": -110,
+     "gl": "#261 UNCG@#53 UIC",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "EIU +28",
+     "price": -110,
+     "gl": "#498 EIU@#4 ND",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "TOW ML",
+     "price": -250,
+     "gl": "#248 LIU@#145 TOW",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "OAK +32",
+     "price": -105,
+     "gl": "#485 OAK@#21 ALA",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "SIUE +29.5",
+     "price": -110,
+     "gl": "#469 SIUE@#14 MIZ",
+     "r": "loss"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nhl",
+     "team": "TB",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "VAN",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "NJ",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "ANA",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "HOU",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DEN",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "UNCG",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaab",
+     "team": "UIC",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Covers",
    "name": "Covers",
    "chip": "COVERS",
    "color": "#ff7a1a",
-   "bio": "Covers / OddsShark computer predicted score",
+   "title": "The Outsider",
+   "bio": "A sharp outside voice the desk keeps in the room to hear what the rest of the industry is projecting. Useful as a second opinion, never the final word.",
+   "origin": "Comes from outside the building, and that is the point: a fresh set of eyes on every game.",
+   "best": [],
+   "still": [],
    "record": {
     "w": 0,
     "l": 0,
     "pu": 0,
     "u": 0
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [],
+   "recent": [],
+   "teams": [],
+   "players": []
   },
   {
    "v": "Trends",
    "name": "The Historian",
    "chip": "TRENDS",
    "color": "#34d399",
-   "bio": "prestige, head-to-head, dynasties and pretenders, units exposed for years, the referee — ten finished seasons (plus your uploaded trends)",
+   "title": "The Historian",
+   "bio": "He has read every box score back to the leather-helmet days and he remembers all of them. Dynasties, pretenders, the rivalry that always goes the same way: if history has an opinion about tonight, the Historian will tell you. Best when the past keeps repeating itself.",
+   "origin": "Raised on old almanacs and grainy tape. Swears history does not repeat, but it rhymes, and he can hear the rhyme.",
+   "best": [],
+   "still": [],
    "record": {
     "w": 2,
     "l": 1,
     "pu": 0,
     "u": 0.74
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Katin Houser under 39.5 rec yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Katin Houser under 3.5 rec",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Aidan Laughery under 199.5 pass yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Aidan Laughery under 219.5 pass+rush yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 199.5 pass yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Javari Barnett under 39.5 rec yds",
+     "team": "ILL",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    }
+   ],
+   "recent": [
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "TOL -14",
+     "price": -115,
+     "gl": "#114 MASS@#62 TOL",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "PHI +3",
+     "price": -112,
+     "gl": "#17 NYG@#32 PHI",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "SEA -8",
+     "price": -115,
+     "gl": "#29 ARI@#12 SEA",
+     "r": "win"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nfl",
+     "team": "PHI",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "NYG",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "SEA",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "ARI",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaaf",
+     "team": "TOL",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaaf",
+     "team": "MASS",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Consensus",
    "name": "The Crowd",
    "chip": "CROWD",
    "color": "#f472b6",
-   "bio": "where the public tickets and money are",
+   "title": "The Crowd",
+   "bio": "The voice of the people. The Crowd knows where the public is leaning and how hard, and sometimes the smartest move is knowing which way everyone else is going.",
+   "origin": "Lives in the stands, the group chats and the betting lines at the window. Feels the room before the room knows it.",
+   "best": [],
+   "still": [],
    "record": {
     "w": 4,
     "l": 1,
     "pu": 0,
     "u": 2.65
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [],
+   "recent": [
+    {
+     "d": "2026-10-25",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "MIA +3.5",
+     "price": -105,
+     "gl": "#27 MIA@#30 NYJ",
+     "r": "win"
+    },
+    {
+     "d": "2026-10-25",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "TB +3",
+     "price": -110,
+     "gl": "#14 TB@#25 CAR",
+     "r": "win"
+    },
+    {
+     "d": "2026-10-25",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "BAL +3",
+     "price": -115,
+     "gl": "#3 CIN@#21 BAL",
+     "r": "loss"
+    },
+    {
+     "d": "2026-10-25",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "GB +3.5",
+     "price": -112,
+     "gl": "#8 GB@#9 DET",
+     "r": "win"
+    },
+    {
+     "d": "2026-10-19",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "WSH +7.5",
+     "price": -112,
+     "gl": "#19 WSH@#5 SF",
+     "r": "win"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nfl",
+     "team": "WSH",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "SF",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "MIA",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "NYJ",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "TB",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "CAR",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "BAL",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "CIN",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Power",
    "name": "The Commissioner",
    "chip": "⚡ POWER",
    "color": "#818cf8",
-   "bio": "TheDesk Power Index — who's better and by how much, plus prestige and the all-time series",
+   "title": "The Commissioner",
+   "bio": "The Commissioner runs the pecking order. Who is better, by how much, and whether the number on the board respects it. Cool, decisive, never swayed by a hot week. Strongest when a line does not match who the teams really are.",
+   "origin": "Spent a career ranking teams for people who make decisions. Believes every team has a true level, and the scoreboard always finds it eventually.",
+   "best": [
+    {
+     "lane": "NFL favorites on the moneyline",
+     "w": 39,
+     "l": 14,
+     "u": 4.4
+    }
+   ],
+   "still": [
+    {
+     "lane": "NFL underdogs on the spread",
+     "w": 15,
+     "l": 19
+    }
+   ],
    "record": {
     "w": 47,
     "l": 10,
     "pu": 0,
     "u": 4.92
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [],
+   "recent": [
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "NYG ML",
+     "price": -135,
+     "gl": "#19 WSH@#17 NYG",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "CAR ML",
+     "price": -291,
+     "gl": "#1 CAR@#25 SEA",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "BOS ML",
+     "price": -120,
+     "gl": "#7 MTL@#5 BOS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "FLA ML",
+     "price": -166,
+     "gl": "#27 DET@#14 FLA",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "DAL ML",
+     "price": -167,
+     "gl": "#19 WPG@#15 DAL",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "PHI ML",
+     "price": -435,
+     "gl": "#22 TOR@#9 PHI",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "DET ML",
+     "price": -425,
+     "gl": "#6 DET@#25 WSH",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "MIN ML",
+     "price": -220,
+     "gl": "#14 DAL@#3 MIN",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "PHX ML",
+     "price": -245,
+     "gl": "#26 CHA@#18 PHX",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "BOS ML",
+     "price": -215,
+     "gl": "#5 BOS@#22 TOR",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "HOU ML",
+     "price": -260,
+     "gl": "#11 GS@#2 HOU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "ORL ML",
+     "price": -145,
+     "gl": "#19 ORL@#27 UTAH",
+     "r": "win"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nba",
+     "team": "BKN",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 4,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "PHI",
+     "for": {
+      "w": 4,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DET",
+     "for": {
+      "w": 3,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "BOS",
+     "for": {
+      "w": 0,
+      "l": 2
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "GS",
+     "for": {
+      "w": 2,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "WSH",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "CHI",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "MIN",
+     "for": {
+      "w": 2,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Dog",
    "name": "The Underdog Spotter",
    "chip": "🐕 DOG",
    "color": "#2dd4bf",
-   "bio": "knows the dogs — who wins and covers every time they get points, favorites that drop games to dogs, power, offense vs defense, rest and injuries; official at a gut of 70+",
+   "title": "The Underdog Spotter",
+   "bio": "Grew up rooting for the little guy and never stopped. The Spotter finds the dog with teeth: the team nobody believes in that keeps games close and steals a few. When the favorite is too comfortable, the Spotter smells blood.",
+   "origin": "Was the undersized kid who kept getting picked last and kept winning anyway. Knows an upset is coming before the favorite does.",
+   "best": [
+    {
+     "lane": "College football underdogs on the moneyline",
+     "w": 15,
+     "l": 23,
+     "u": 6.4
+    },
+    {
+     "lane": "NBA underdogs on the spread",
+     "w": 19,
+     "l": 15,
+     "u": 2.3
+    }
+   ],
+   "still": [
+    {
+     "lane": "NHL underdogs on the moneyline",
+     "w": 18,
+     "l": 38
+    }
+   ],
    "record": {
     "w": 8,
     "l": 5,
     "pu": 0,
     "u": 2.2
    },
+   "props": {
+    "w": 0,
+    "l": 0
+   },
    "picks": [
     {
+     "kind": "game",
      "sp": "nba",
      "game": "GS@SA",
      "gl": "#11 GS@#1 SA",
@@ -1146,6 +3203,7 @@
      "note": "+13 power says SA by 3.0, the line says 12.5 · +7.1 GS as a dog: 3-3 outright · -5.6 SA as a favorite: 10-1 · +4.9 GS as a dog: 4-2 against the spread · +2.5 SA covers as a favorite: 5-6"
     },
     {
+     "kind": "game",
      "sp": "nba",
      "game": "CLE@MIA",
      "gl": "#15 CLE@#17 MIA",
@@ -1157,49 +3215,984 @@
      "push": false,
      "note": "+8.8 MIA covers as a favorite: 1-6 · +7.6 power says MIA by -3.3, the line says 2.5 · +5.1 CLE's offense (116.4 a game) vs MIA's defense (allows 120.0) · +4.4 MIA as a favorite: 4-3 · -2.6 CLE as a dog: 2-4 against the spread"
     }
-   ]
+   ],
+   "recent": [
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "MEM +4",
+     "price": -110,
+     "gl": "#8 DEN@#16 MEM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "NSH +1.5",
+     "price": -197,
+     "gl": "#11 NSH@#10 ANA",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "SAC +5.5",
+     "price": -108,
+     "gl": "#19 ORL@#28 SAC",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "SAC ML",
+     "price": 190,
+     "gl": "#19 ORL@#28 SAC",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-09",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "LAL +1.5",
+     "price": -105,
+     "gl": "#4 LAL@#13 ATL",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "ARI +8",
+     "price": -105,
+     "gl": "#29 ARI@#12 SEA",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "SAC +8.5",
+     "price": -110,
+     "gl": "#17 MIA@#28 SAC",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "GB +3",
+     "price": -104,
+     "gl": "#8 GB@#16 NE",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "GB ML",
+     "price": 148,
+     "gl": "#8 GB@#16 NE",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "CGY +1.5",
+     "price": -275,
+     "gl": "#28 PHI@#29 CGY",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "CGY ML",
+     "price": 101,
+     "gl": "#28 PHI@#29 CGY",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "CLE +3",
+     "price": 102,
+     "gl": "#23 CLE@#24 NO",
+     "r": "win"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nba",
+     "team": "SAC",
+     "for": {
+      "w": 1,
+      "l": 2
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "GB",
+     "for": {
+      "w": 2,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "NE",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "CGY",
+     "for": {
+      "w": 2,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "PHI",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "CLE",
+     "for": {
+      "w": 1,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
+     "team": "NO",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "ORL",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 2
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Scout",
    "name": "The Scout",
    "chip": "🔭 SCOUT",
    "color": "#fb7185",
-   "bio": "talent: superstars vs busts — QB efficiency, pass rush, ball hawks, shooters, goalies — read as matchups",
+   "title": "The Talent Hunter",
+   "bio": "The Scout watches players, not teams. Stars who take over, matchups a defense cannot handle, the one guy who swings a game by himself. When tonight comes down to who has the better players on the floor or the ice, the Scout is the voice to hear.",
+   "origin": "Spent years on the road in empty gyms and cold rinks, finding players before anyone knew their names. Trusts his eyes on talent over any headline.",
+   "best": [
+    {
+     "lane": "NHL favorites on the spread",
+     "w": 17,
+     "l": 13,
+     "u": 13.3
+    },
+    {
+     "lane": "NBA favorites on the moneyline",
+     "w": 52,
+     "l": 15,
+     "u": 5.4
+    },
+    {
+     "lane": "NHL favorites on the moneyline",
+     "w": 32,
+     "l": 16,
+     "u": 4.2
+    }
+   ],
+   "still": [
+    {
+     "lane": "College football favorites on the spread",
+     "w": 21,
+     "l": 20
+    }
+   ],
    "record": {
     "w": 42,
     "l": 21,
     "pu": 0,
     "u": -2.16
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [],
+   "recent": [
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "MEM ML",
+     "price": -160,
+     "gl": "#37 MEM@#64 USF",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "UL ML",
+     "price": -390,
+     "gl": "#75 UL@#132 ULM",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "CAR ML",
+     "price": -291,
+     "gl": "#1 CAR@#25 SEA",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "BOS ML",
+     "price": -120,
+     "gl": "#7 MTL@#5 BOS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "MIN ML",
+     "price": -170,
+     "gl": "#2 MIN@#23 TOR",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "COL ML",
+     "price": -116,
+     "gl": "#8 COL@#13 OTT",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "TB ML",
+     "price": -115,
+     "gl": "#9 TB@#22 CBJ",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "FLA ML",
+     "price": -166,
+     "gl": "#27 DET@#14 FLA",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "BUF ML",
+     "price": -150,
+     "gl": "#24 BUF@#31 CHI",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "DAL ML",
+     "price": -167,
+     "gl": "#19 WPG@#15 DAL",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "DET ML",
+     "price": -425,
+     "gl": "#6 DET@#25 WSH",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "MIN ML",
+     "price": -220,
+     "gl": "#14 DAL@#3 MIN",
+     "r": "win"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nba",
+     "team": "BKN",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 2
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "MIN",
+     "for": {
+      "w": 3,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "GS",
+     "for": {
+      "w": 3,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DET",
+     "for": {
+      "w": 3,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "PHI",
+     "for": {
+      "w": 2,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "CHI",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DAL",
+     "for": {
+      "w": 1,
+      "l": 1
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "HOU",
+     "for": {
+      "w": 1,
+      "l": 2
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Banker",
    "name": "The Banker",
    "chip": "🏦 BANKER",
    "color": "#d4af37",
-   "bio": "the secretary — reads every character's books (sport × bet type × favorite/dog/over/under) and backs the side the strongest accounts are on; builds the Master Parlay Sheet",
+   "title": "The Money Man",
+   "bio": "The Banker keeps the books for the whole desk and only backs where the strongest accounts are. Calm, disciplined, never chasing. His parlays are built the way he runs money: carefully, and only with the pieces that have earned it.",
+   "origin": "Ran the money before he ever made a pick. Learned that discipline beats brilliance over a long season.",
+   "best": [
+    {
+     "lane": "College football overs",
+     "w": 18,
+     "l": 15,
+     "u": 1.4
+    },
+    {
+     "lane": "College hoops underdogs on the spread",
+     "w": 82,
+     "l": 70,
+     "u": 4
+    },
+    {
+     "lane": "NHL favorites on the moneyline",
+     "w": 18,
+     "l": 12,
+     "u": 0.6
+    }
+   ],
+   "still": [
+    {
+     "lane": "NBA favorites on the moneyline",
+     "w": 14,
+     "l": 16
+    }
+   ],
    "record": {
     "w": 8,
     "l": 12,
     "pu": 0,
     "u": -5.36
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [],
+   "recent": [
+    {
+     "d": "2026-11-12",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "CAR ML",
+     "price": -291,
+     "gl": "#1 CAR@#25 SEA",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-10",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "DUKE ML",
+     "price": -285,
+     "gl": "#106 MSU@#109 DUKE",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 166",
+     "price": -115,
+     "gl": "#75 LAM@#476 ACU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 151",
+     "price": -122,
+     "gl": "#248 LIU@#478 LAS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-05",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 173.5",
+     "price": -110,
+     "gl": "#119 PENN@#49 ILL",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-05",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "SHU ML",
+     "price": -250,
+     "gl": "#452 ME@#209 SHU",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-04",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "MEM ML",
+     "price": -243,
+     "gl": "#20 IND@#16 MEM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-04",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "EMU ML",
+     "price": -118,
+     "gl": "#103 CMU@#127 EMU",
+     "r": "loss"
+    },
+    {
+     "d": "2026-10-31",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "NAVY +30.5",
+     "price": -107,
+     "gl": "#5 ND@#89 NAVY",
+     "r": "win"
+    },
+    {
+     "d": "2026-10-31",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "CIN +6.5",
+     "price": -105,
+     "gl": "#2 UTAH@#58 CIN",
+     "r": "loss"
+    },
+    {
+     "d": "2026-10-31",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "ISU +9.5",
+     "price": -112,
+     "gl": "#25 OKST@#69 ISU",
+     "r": "win"
+    },
+    {
+     "d": "2026-10-27",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "BOS -12.5",
+     "price": -110,
+     "gl": "#24 BKN@#5 BOS",
+     "r": "loss"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nba",
+     "team": "IND",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaaf",
+     "team": "NAVY",
+     "for": {
+      "w": 1,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "BKN",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DET",
+     "for": {
+      "w": 1,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "MEM",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaaf",
+     "team": "MINN",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaaf",
+     "team": "IOWA",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 1,
+      "l": 0
+     }
+    },
+    {
+     "sp": "ncaaf",
+     "team": "UNT",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 1
+     }
+    }
+   ],
+   "players": []
   },
   {
    "v": "Brain",
    "name": "The Brain",
    "chip": "🧠 BRAIN",
    "color": "#60a5fa",
-   "bio": "the tough middle — only -350…+350, only when his chance beats the price: the exchanges and the outside consensus against the book, steam, the longshot bias, the crowd",
+   "title": "The Strategist",
+   "bio": "The Brain lives in the gray zone between favorite and underdog, where the prices are fair and most people guess. He only steps in when the number is wrong, and he is patient enough to wait for it.",
+   "origin": "Studied the game behind the game. Believes the edge is not in picking winners, it is in knowing when the price is off.",
+   "best": [
+    {
+     "lane": "NFL favorites on the moneyline",
+     "w": 38,
+     "l": 13,
+     "u": 4.7
+    },
+    {
+     "lane": "NFL overs",
+     "w": 24,
+     "l": 18,
+     "u": 3.7
+    },
+    {
+     "lane": "NHL favorites on the moneyline",
+     "w": 93,
+     "l": 53,
+     "u": 6.9
+    }
+   ],
+   "still": [
+    {
+     "lane": "NBA overs",
+     "w": 21,
+     "l": 30
+    }
+   ],
    "record": {
     "w": 74,
     "l": 39,
     "pu": 0,
     "u": -2.1
    },
-   "picks": []
+   "props": {
+    "w": 0,
+    "l": 0
+   },
+   "picks": [],
+   "recent": [
+    {
+     "d": "2026-11-11",
+     "kind": "game",
+     "sp": "nhl",
+     "pick": "ANA ML",
+     "price": -140,
+     "gl": "#11 NSH@#10 ANA",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "Over 39.5",
+     "price": -108,
+     "gl": "#29 ARI@#12 SEA",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "nba",
+     "pick": "DAL ML",
+     "price": -423,
+     "gl": "#24 BKN@#14 DAL",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-08",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 154.5",
+     "price": -112,
+     "gl": "#203 PRIN@#229 SIE",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "UAB ML",
+     "price": -335,
+     "gl": "#134 CLT@#99 UAB",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "UL ML",
+     "price": -290,
+     "gl": "#104 USA@#75 UL",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "JXST ML",
+     "price": -765,
+     "gl": "#135 SHSU@#60 JXST",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "MICH ML",
+     "price": -625,
+     "gl": "#81 MSU@#49 MICH",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaaf",
+     "pick": "TTU ML",
+     "price": -700,
+     "gl": "#66 WVU@#12 TTU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 166",
+     "price": -115,
+     "gl": "#75 LAM@#476 ACU",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Under 151",
+     "price": -122,
+     "gl": "#248 LIU@#478 LAS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-07",
+     "kind": "game",
+     "sp": "ncaab",
+     "pick": "Over 150.5",
+     "price": -110,
+     "gl": "#86 SDSU@#137 COLO",
+     "r": "loss"
+    }
+   ],
+   "teams": [
+    {
+     "sp": "nhl",
+     "team": "CGY",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 2
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "DAL",
+     "for": {
+      "w": 4,
+      "l": 0
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "DAL",
+     "for": {
+      "w": 1,
+      "l": 0
+     },
+     "vs": {
+      "w": 2,
+      "l": 1
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "VAN",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 3,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "CAR",
+     "for": {
+      "w": 2,
+      "l": 1
+     },
+     "vs": {
+      "w": 0,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "WPG",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 3,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nhl",
+     "team": "ANA",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 2,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
+     "team": "BKN",
+     "for": {
+      "w": 0,
+      "l": 0
+     },
+     "vs": {
+      "w": 3,
+      "l": 0
+     }
+    }
+   ],
+   "players": []
   }
  ],
  "bloodlines": {
@@ -1650,6 +4643,6 @@
    }
   ]
  },
- "betaSig": "[0,[[0,[]],[0,[]],[1,[null]],[2,[null,null]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[2,[null,null]],[0,[]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[0,[[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[0,[]],[2,[null,null]],[0,[]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
