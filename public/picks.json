@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794549703632,
+ "generated": 1794552461276,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$25/mo · $10/wk",
@@ -56,7 +56,7 @@
     {
      "sp": "nba",
      "game": "DAL@MIN",
-     "gl": "#13 DAL@#3 MIN",
+     "gl": "#14 DAL@#3 MIN",
      "pick": "MIN -6",
      "price": -105,
      "p": 0.567,
@@ -100,7 +100,7 @@
     {
      "sp": "ncaab",
      "game": "MILW@INST",
-     "gl": "#181 MILW@#414 INST",
+     "gl": "#182 MILW@#413 INST",
      "pick": "INST ML",
      "price": -185,
      "p": 0.711,
@@ -149,7 +149,7 @@
     {
      "sp": "ncaab",
      "game": "JKST@MSST",
-     "gl": "#418 JKST@#27 MSST",
+     "gl": "#417 JKST@#27 MSST",
      "pick": "JKST +23.5",
      "price": -110,
      "p": 0.549,
@@ -162,7 +162,7 @@
     {
      "sp": "nba",
      "game": "LAL@ATL",
-     "gl": "#4 LAL@#14 ATL",
+     "gl": "#4 LAL@#13 ATL",
      "pick": "LAL ML",
      "price": -128,
      "p": 0.728,
@@ -242,7 +242,7 @@
     {
      "sp": "ncaab",
      "game": "TOL@MSU",
-     "gl": "#416 TOL@#106 MSU",
+     "gl": "#415 TOL@#106 MSU",
      "pick": "Under 155.5",
      "price": -115,
      "p": 0.63,
@@ -286,7 +286,7 @@
     {
      "sp": "ncaab",
      "game": "CSUN@WICH",
-     "gl": "#410 CSUN@#233 WICH",
+     "gl": "#255 CSUN@#232 WICH",
      "pick": "Under 160.5",
      "price": -110,
      "p": 0.65,
@@ -299,7 +299,7 @@
     {
      "sp": "ncaab",
      "game": "QUC@LMU",
-     "gl": "#505 QUC@#156 LMU",
+     "gl": "#505 QUC@#160 LMU",
      "pick": "Over 160.5",
      "price": -115,
      "p": 0.646,
@@ -312,7 +312,7 @@
     {
      "sp": "ncaab",
      "game": "SELA@AUB",
-     "gl": "#496 SELA@#31 AUB",
+     "gl": "#495 SELA@#31 AUB",
      "pick": "Under 151.5",
      "price": -110,
      "p": 0.644,
@@ -330,7 +330,7 @@
     {
      "sp": "nba",
      "game": "TOR@LAC",
-     "gl": "#21 TOR@#22 LAC",
+     "gl": "#22 TOR@#21 LAC",
      "pick": "LAC +5.5",
      "price": -114,
      "p": 0.615,
@@ -915,5 +915,715 @@
   }
  ],
  "unlockMin": 30,
+ "plans": [
+  {
+   "id": "month",
+   "name": "Monthly",
+   "price": 50,
+   "per": "month",
+   "note": "Everything, every day"
+  },
+  {
+   "id": "year",
+   "name": "Yearly",
+   "price": 300,
+   "per": "year",
+   "note": "Everything, plus the VIP lounge on Telegram and in the app",
+   "best": true
+  },
+  {
+   "id": "league",
+   "name": "League pass",
+   "price": 100,
+   "per": "league, per season",
+   "note": "Everything for one league, all season"
+  },
+  {
+   "id": "pass",
+   "name": "2-day pass",
+   "price": 20,
+   "per": "2 days",
+   "note": "Everything for 48 hours"
+  },
+  {
+   "id": "single",
+   "name": "Single pick",
+   "price": 2,
+   "per": "pick",
+   "note": "One pick from a game the characters are on"
+  }
+ ],
+ "beta": true,
+ "vip": null,
+ "characters": [
+  {
+   "v": "Sim",
+   "name": "The Simulator",
+   "chip": "★ SIM",
+   "color": "#FFD75E",
+   "bio": "10,000 Monte Carlo runs of the game — the engine everyone reads; official on the heavy moneylines (-500 or shorter), anything else only at 80%+",
+   "record": {
+    "w": 151,
+    "l": 80,
+    "pu": 0,
+    "u": -2.93
+   },
+   "picks": []
+  },
+  {
+   "v": "Judge",
+   "name": "The Judge",
+   "chip": "JUDGE",
+   "color": "#f5a524",
+   "bio": "weighs every witness by its graded accuracy (forecast combination)",
+   "record": {
+    "w": 116,
+    "l": 68,
+    "pu": 0,
+    "u": -11.82
+   },
+   "picks": []
+  },
+  {
+   "v": "Coach",
+   "name": "The Coach",
+   "chip": "COACH",
+   "color": "#5FD3E8",
+   "bio": "keeps everyone honest — scales each character's confidence to its real hit rate; his own score from season scoring, rest, spots, revenge, weather and the news",
+   "record": {
+    "w": 23,
+    "l": 34,
+    "pu": 0,
+    "u": -14.5
+   },
+   "picks": []
+  },
+  {
+   "v": "Most common",
+   "name": "The Scorekeeper",
+   "chip": "SCORE",
+   "color": "#a78bfa",
+   "bio": "every final built from its parts — touchdowns × what they bring + field goals, possessions × threes / twos / free throws, shots × the goalie — off the season's box scores",
+   "record": {
+    "w": 136,
+    "l": 97,
+    "pu": 0,
+    "u": -13.1
+   },
+   "picks": []
+  },
+  {
+   "v": "Pred",
+   "name": "The Oracle",
+   "chip": "ORACLE",
+   "color": "#e8c15a",
+   "bio": "the outside world's consensus — prediction markets, 50+ computer rating systems, expert picks and your uploads, each weighed by its own record",
+   "record": {
+    "w": 11,
+    "l": 6,
+    "pu": 0,
+    "u": 1.48
+   },
+   "picks": []
+  },
+  {
+   "v": "Covers",
+   "name": "Covers",
+   "chip": "COVERS",
+   "color": "#ff7a1a",
+   "bio": "Covers / OddsShark computer predicted score",
+   "record": {
+    "w": 0,
+    "l": 0,
+    "pu": 0,
+    "u": 0
+   },
+   "picks": []
+  },
+  {
+   "v": "Trends",
+   "name": "The Historian",
+   "chip": "TRENDS",
+   "color": "#34d399",
+   "bio": "prestige, head-to-head, dynasties and pretenders, units exposed for years, the referee — ten finished seasons (plus your uploaded trends)",
+   "record": {
+    "w": 2,
+    "l": 1,
+    "pu": 0,
+    "u": 0.74
+   },
+   "picks": []
+  },
+  {
+   "v": "Consensus",
+   "name": "The Crowd",
+   "chip": "CROWD",
+   "color": "#f472b6",
+   "bio": "where the public tickets and money are",
+   "record": {
+    "w": 4,
+    "l": 1,
+    "pu": 0,
+    "u": 2.65
+   },
+   "picks": []
+  },
+  {
+   "v": "Power",
+   "name": "The Commissioner",
+   "chip": "⚡ POWER",
+   "color": "#818cf8",
+   "bio": "TheDesk Power Index — who's better and by how much, plus prestige and the all-time series",
+   "record": {
+    "w": 47,
+    "l": 10,
+    "pu": 0,
+    "u": 4.92
+   },
+   "picks": []
+  },
+  {
+   "v": "Dog",
+   "name": "The Underdog Spotter",
+   "chip": "🐕 DOG",
+   "color": "#2dd4bf",
+   "bio": "knows the dogs — who wins and covers every time they get points, favorites that drop games to dogs, power, offense vs defense, rest and injuries; official at a gut of 70+",
+   "record": {
+    "w": 8,
+    "l": 5,
+    "pu": 0,
+    "u": 2.2
+   },
+   "picks": []
+  },
+  {
+   "v": "Scout",
+   "name": "The Scout",
+   "chip": "🔭 SCOUT",
+   "color": "#fb7185",
+   "bio": "talent: superstars vs busts — QB efficiency, pass rush, ball hawks, shooters, goalies — read as matchups",
+   "record": {
+    "w": 42,
+    "l": 21,
+    "pu": 0,
+    "u": -2.16
+   },
+   "picks": [
+    {
+     "sp": "ncaaf",
+     "game": "ILL@UCLA",
+     "gl": "#40 ILL@#4 UCLA",
+     "pick": "UCLA ML",
+     "price": -385,
+     "p": 0.867,
+     "start": "2026-11-14T02:00Z",
+     "hit": null,
+     "push": false,
+     "note": "picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+    },
+    {
+     "sp": "ncaaf",
+     "game": "HOU@COLO",
+     "gl": "#14 HOU@#93 COLO",
+     "pick": "HOU ML",
+     "price": -380,
+     "p": 0.865,
+     "start": "2026-11-14T03:15Z",
+     "hit": null,
+     "push": false,
+     "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+    },
+    {
+     "sp": "ncaaf",
+     "game": "FSU@PITT",
+     "gl": "#54 FSU@#46 PITT",
+     "pick": "PITT ML",
+     "price": -162,
+     "p": 0.722,
+     "start": "2026-11-14T00:00Z",
+     "hit": null,
+     "push": false,
+     "note": "picked team off a bye (13+ days rest) · picked team has 3+ more days of rest · picked team has the clear talent edge (Scout)"
+    }
+   ]
+  },
+  {
+   "v": "Banker",
+   "name": "The Banker",
+   "chip": "🏦 BANKER",
+   "color": "#d4af37",
+   "bio": "the secretary — reads every character's books (sport × bet type × favorite/dog/over/under) and backs the side the strongest accounts are on; builds the Master Parlay Sheet",
+   "record": {
+    "w": 8,
+    "l": 13,
+    "pu": 0,
+    "u": -6.36
+   },
+   "picks": []
+  },
+  {
+   "v": "Brain",
+   "name": "The Brain",
+   "chip": "🧠 BRAIN",
+   "color": "#60a5fa",
+   "bio": "the tough middle — only -350…+350, only when his chance beats the price: the exchanges and the outside consensus against the book, steam, the longshot bias, the crowd",
+   "record": {
+    "w": 80,
+    "l": 45,
+    "pu": 0,
+    "u": -5.41
+   },
+   "picks": []
+  }
+ ],
+ "bloodlines": {
+  "need": {
+   "n": 100,
+   "days": 10
+  },
+  "cells": [
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 1,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 1,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Commissioner",
+    "v": "Power",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 1,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Blend",
+    "v": "Blend",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Blend",
+    "v": "Blend",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Blend",
+    "v": "Blend",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Underdog Spotter",
+    "v": "Dog",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Banker",
+    "v": "Banker",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Commissioner",
+    "v": "Power",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Underdog Spotter",
+    "v": "Dog",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Banker",
+    "v": "Banker",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Banker",
+    "v": "Banker",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Oracle",
+    "v": "Pred",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Oracle",
+    "v": "Pred",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Oracle",
+    "v": "Pred",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "Covers",
+    "v": "Covers",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "Covers",
+    "v": "Covers",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "Covers",
+    "v": "Covers",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scout",
+    "v": "Scout",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scout",
+    "v": "Scout",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Scout",
+    "v": "Scout",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Brain",
+    "v": "Brain",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Brain",
+    "v": "Brain",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Brain",
+    "v": "Brain",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Crowd",
+    "v": "Consensus",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Crowd",
+    "v": "Consensus",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Crowd",
+    "v": "Consensus",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "m": "total",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "m": "spread",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "m": "ml",
+    "gen": 1,
+    "champ": "the original confidence",
+    "heirs": 2,
+    "retired": 0,
+    "best": null,
+    "hist": []
+   }
+  ]
+ },
+ "betaSig": "[0,[[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[0,[]],[3,[null,null,null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
