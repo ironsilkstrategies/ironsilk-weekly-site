@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794568171438,
+ "generated": 1794572905846,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -3145,19 +3145,6 @@
     "l": 0
    },
    "picks": [
-    {
-     "kind": "game",
-     "sp": "nba",
-     "game": "UTAH@HOU",
-     "gl": "#27 UTAH@#2 HOU",
-     "pick": "HOU ML",
-     "price": -1500,
-     "p": 0.92,
-     "start": "2026-11-14T01:30Z",
-     "hit": null,
-     "push": false,
-     "note": "opponent on its 3rd game in 4 nights · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
-    },
     {
      "kind": "game",
      "sp": "nba",
@@ -7497,7 +7484,7 @@
       "sd": "home",
       "pick": "MIA ML",
       "price": null,
-      "p": 0.997,
+      "p": 0.996,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -7785,7 +7772,7 @@
       "sd": "under",
       "pick": "Under 149",
       "price": -110,
-      "p": 0.521,
+      "p": 0.497,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -7796,62 +7783,6 @@
      }
     ],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "FSU ML",
-       "price": -5000,
-       "p": 0.558,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "FSU ML",
-       "price": -5000,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "FSU ML",
-       "price": -5000,
-       "p": 0.551,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -8011,62 +7942,6 @@
     "st": "pre",
     "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "RUTG ML",
-       "price": -6500,
-       "p": 0.558,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "RUTG ML",
-       "price": -6500,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "RUTG ML",
-       "price": -6500,
-       "p": 0.551,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -8230,7 +8105,7 @@
       "sd": "home",
       "pick": "CLEM ML",
       "price": -180,
-      "p": 0.85,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -8245,7 +8120,7 @@
       "sd": "over",
       "pick": "Over 145.5",
       "price": -115,
-      "p": 0.671,
+      "p": 0.498,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -8467,7 +8342,7 @@
       "sd": "home",
       "pick": "BTLR ML",
       "price": -160,
-      "p": 0.841,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -8482,7 +8357,7 @@
       "sd": "home",
       "pick": "BTLR -3.5",
       "price": -110,
-      "p": 0.515,
+      "p": 0.49,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -8756,14 +8631,14 @@
       "sd": "away",
       "pick": "NY ML",
       "price": -275,
-      "p": 0.851,
+      "p": 0.865,
       "tier": "strong",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
        "Judge",
-       "Power"
+       "Power",
+       "Scout"
       ]
      }
     ],
@@ -9023,14 +8898,15 @@
       "sd": "home",
       "pick": "ORL ML",
       "price": -380,
-      "p": 0.892,
+      "p": 0.922,
       "tier": "supreme",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power"
+       "Power",
+       "Scout"
       ]
      },
      {
@@ -9038,7 +8914,7 @@
       "sd": "over",
       "pick": "Over 224",
       "price": -110,
-      "p": 0.485,
+      "p": 0.497,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -9286,7 +9162,7 @@
       "sd": "home",
       "pick": "FLA ML",
       "price": null,
-      "p": 0.995,
+      "p": 0.996,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -9574,7 +9450,7 @@
       "sd": "home",
       "pick": "ILL ML",
       "price": null,
-      "p": 0.996,
+      "p": 0.995,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -9892,93 +9768,8 @@
     "start": "2026-11-14T00:00:00.000Z",
     "day": "2026-11-13",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "MSU ML",
-      "price": -100000,
-      "p": 0.999,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "MSU ML",
-       "price": -100000,
-       "p": 0.598,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "MSU ML",
-       "price": -100000,
-       "p": 0.605,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "MSU ML",
-       "price": -100000,
-       "p": 0.59,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "MSU ML",
-       "price": -100000,
-       "p": 0.567,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "of": 7
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -10200,62 +9991,6 @@
     "st": "pre",
     "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "TENN ML",
-       "price": -50000,
-       "p": 0.558,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "TENN ML",
-       "price": -50000,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "TENN ML",
-       "price": -50000,
-       "p": 0.551,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -10437,7 +10172,7 @@
       "sd": "home",
       "pick": "VAN ML",
       "price": null,
-      "p": 0.999,
+      "p": 0.996,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -10712,7 +10447,7 @@
       "sd": "home",
       "pick": "UK ML",
       "price": null,
-      "p": 0.992,
+      "p": 0.994,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -10727,7 +10462,7 @@
       "sd": "under",
       "pick": "Under 155",
       "price": -110,
-      "p": 0.501,
+      "p": 0.497,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -10958,80 +10693,8 @@
     "start": "2026-11-14T00:00:00.000Z",
     "day": "2026-11-13",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "PUR ML",
-      "price": -4500,
-      "p": 0.992,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "PUR ML",
-       "price": -4500,
-       "p": 0.558,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "PUR ML",
-       "price": -4500,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "PUR ML",
-       "price": -4500,
-       "p": 0.551,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -12128,7 +11791,7 @@
       "sd": "home",
       "pick": "HOF ML",
       "price": -280,
-      "p": 0.905,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -12143,7 +11806,7 @@
       "sd": "home",
       "pick": "HOF -7",
       "price": -110,
-      "p": 0.5,
+      "p": 0.49,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -12761,26 +12424,11 @@
     "st": "pre",
     "picks": [
      {
-      "m": "ml",
-      "sd": "home",
-      "pick": "VT ML",
-      "price": -50000,
-      "p": 0.999,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     },
-     {
       "m": "total",
       "sd": "under",
       "pick": "Under 150.5",
       "price": -115,
-      "p": 0.536,
+      "p": 0.497,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -12791,62 +12439,6 @@
      }
     ],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "VT ML",
-       "price": -50000,
-       "p": 0.558,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "VT ML",
-       "price": -50000,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "VT ML",
-       "price": -50000,
-       "p": 0.551,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -13028,7 +12620,7 @@
       "sd": "under",
       "pick": "Under 149",
       "price": -115,
-      "p": 0.531,
+      "p": 0.497,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -13039,75 +12631,6 @@
      }
     ],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "NCSU ML",
-       "price": -8000,
-       "p": 0.598,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "NCSU ML",
-       "price": -8000,
-       "p": 0.605,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "NCSU ML",
-       "price": -8000,
-       "p": 0.59,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "NCSU ML",
-       "price": -8000,
-       "p": 0.567,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "of": 7
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -13284,7 +12807,7 @@
       "sd": "home",
       "pick": "GW ML",
       "price": -950,
-      "p": 0.968,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -14028,14 +13551,12 @@
       "sd": "home",
       "pick": "PITT ML",
       "price": -168,
-      "p": 0.784,
+      "p": 0.713,
       "tier": "supreme",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
-       "Power"
+       "Scout"
       ]
      },
      {
@@ -14043,7 +13564,7 @@
       "sd": "home",
       "pick": "PITT -3.5",
       "price": -109,
-      "p": 0.472,
+      "p": 0.49,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -14058,7 +13579,7 @@
       "sd": "over",
       "pick": "Over 52.5",
       "price": -107,
-      "p": 0.512,
+      "p": 0.498,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -14270,7 +13791,7 @@
       "sd": "home",
       "pick": "CONN ML",
       "price": -700,
-      "p": 0.961,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -14285,7 +13806,7 @@
       "sd": "under",
       "pick": "Under 148",
       "price": -105,
-      "p": 0.472,
+      "p": 0.497,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -14501,62 +14022,6 @@
     "st": "pre",
     "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "DRKE ML",
-       "price": -1200,
-       "p": 0.558,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "DRKE ML",
-       "price": -1200,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "DRKE ML",
-       "price": -1200,
-       "p": 0.551,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -14714,99 +14179,8 @@
     "start": "2026-11-14T00:30:00.000Z",
     "day": "2026-11-13",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "LIB ML",
-      "price": -2100,
-      "p": 0.992,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Most common",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "LIB ML",
-       "price": -2100,
-       "p": 0.552,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "LIB ML",
-       "price": -2100,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Most common",
-       "s": "home",
-       "pick": "LIB ML",
-       "price": -2100,
-       "p": 0.575,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 4,
-        "of": 7,
-        "w": 94,
-        "l": 31,
-        "u": -10.1,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "LIB ML",
-       "price": -2100,
-       "p": 0.539,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -15524,14 +14898,14 @@
       "sd": "away",
       "pick": "ATL ML",
       "price": -280,
-      "p": 0.862,
+      "p": 0.864,
       "tier": "supreme",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
        "Judge",
-       "Power"
+       "Power",
+       "Scout"
       ]
      },
      {
@@ -15539,7 +14913,7 @@
       "sd": "away",
       "pick": "ATL -7",
       "price": -110,
-      "p": 0.511,
+      "p": 0.545,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -15763,14 +15137,14 @@
       "sd": "away",
       "pick": "MEM ML",
       "price": -162,
-      "p": 0.769,
+      "p": 0.713,
       "tier": "supreme",
       "unan": false,
       "off": false,
       "by": [
-       "Sim",
        "Judge",
-       "Power"
+       "Power",
+       "Scout"
       ]
      },
      {
@@ -15778,7 +15152,7 @@
       "sd": "away",
       "pick": "MEM -3",
       "price": -120,
-      "p": 0.609,
+      "p": 0.545,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -16027,7 +15401,7 @@
       "sd": "home",
       "pick": "DUKE ML",
       "price": null,
-      "p": 0.995,
+      "p": 0.994,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -16042,7 +15416,7 @@
       "sd": "under",
       "pick": "Under 148.5",
       "price": -110,
-      "p": 0.517,
+      "p": 0.497,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -16548,42 +15922,6 @@
        "hit": null
       },
       {
-       "v": "Judge",
-       "s": "home",
-       "pick": "ARK ML",
-       "price": -9000,
-       "p": 0.496,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "ARK ML",
-       "price": -9000,
-       "p": 0.557,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
        "v": "Scout",
        "s": "away",
        "pick": "CARK ML",
@@ -16796,7 +16134,7 @@
       "sd": "home",
       "pick": "TXST ML",
       "price": -700,
-      "p": 0.963,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -16811,7 +16149,7 @@
       "sd": "home",
       "pick": "TXST -11",
       "price": -110,
-      "p": 0.495,
+      "p": 0.49,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -17036,93 +16374,8 @@
     "start": "2026-11-14T01:00:00.000Z",
     "day": "2026-11-13",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "MUR ML",
-      "price": -20000,
-      "p": 0.998,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "MUR ML",
-       "price": -20000,
-       "p": 0.598,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "MUR ML",
-       "price": -20000,
-       "p": 0.605,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "MUR ML",
-       "price": -20000,
-       "p": 0.59,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "MUR ML",
-       "price": -20000,
-       "p": 0.567,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "of": 7
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -17759,26 +17012,11 @@
     "st": "pre",
     "picks": [
      {
-      "m": "ml",
-      "sd": "home",
-      "pick": "TAR ML",
-      "price": -1800,
-      "p": 0.985,
-      "tier": "supreme",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     },
-     {
       "m": "total",
       "sd": "over",
       "pick": "Over 151",
       "price": -110,
-      "p": 0.6,
+      "p": 0.497,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -17791,75 +17029,6 @@
      }
     ],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "TAR ML",
-       "price": -1800,
-       "p": 0.598,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "TAR ML",
-       "price": -1800,
-       "p": 0.605,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "TAR ML",
-       "price": -1800,
-       "p": 0.59,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "TAR ML",
-       "price": -1800,
-       "p": 0.567,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "of": 7
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -18050,75 +17219,6 @@
     "st": "pre",
     "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "UCF ML",
-       "price": -7000,
-       "p": 0.598,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "UCF ML",
-       "price": -7000,
-       "p": 0.605,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "UCF ML",
-       "price": -7000,
-       "p": 0.59,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "UCF ML",
-       "price": -7000,
-       "p": 0.567,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "of": 7
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -18572,7 +17672,7 @@
       "sd": "away",
       "pick": "MILW +23.5",
       "price": -115,
-      "p": 0.691,
+      "p": 0.49,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -18585,26 +17685,11 @@
       ]
      },
      {
-      "m": "ml",
-      "sd": "home",
-      "pick": "TCU ML",
-      "price": -8000,
-      "p": 0.996,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     },
-     {
       "m": "total",
       "sd": "over",
       "pick": "Over 158",
       "price": -120,
-      "p": 0.549,
+      "p": 0.498,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -18616,75 +17701,6 @@
      }
     ],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "TCU ML",
-       "price": -8000,
-       "p": 0.598,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "TCU ML",
-       "price": -8000,
-       "p": 0.605,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "TCU ML",
-       "price": -8000,
-       "p": 0.59,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "TCU ML",
-       "price": -8000,
-       "p": 0.567,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "of": 7
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -18892,7 +17908,7 @@
       "sd": "home",
       "pick": "OU ML",
       "price": null,
-      "p": 0.984,
+      "p": 0.993,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -19181,26 +18197,11 @@
     "st": "pre",
     "picks": [
      {
-      "m": "ml",
-      "sd": "home",
-      "pick": "HOU ML",
-      "price": -1500,
-      "p": 0.972,
-      "tier": "supreme",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     },
-     {
       "m": "total",
       "sd": "over",
       "pick": "Over 219.5",
       "price": -115,
-      "p": 0.528,
+      "p": 0.523,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -19210,80 +18211,6 @@
      }
     ],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "HOU ML",
-       "price": -1500,
-       "p": 0.92,
-       "o": 1,
-       "r": {
-        "lab": "NBA ML favorites",
-        "rk": 2,
-        "of": 10,
-        "w": 92,
-        "l": 31,
-        "u": 5.2,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "HOU ML",
-       "price": -1500,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "NBA ML favorites",
-        "rk": 3,
-        "of": 10,
-        "w": 97,
-        "l": 34,
-        "u": 4.4,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "HOU ML",
-       "price": -1500,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "NBA ML favorites",
-        "rk": 5,
-        "of": 10,
-        "w": 95,
-        "l": 37,
-        "u": 1,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "HOU ML",
-       "price": -1500,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "NBA ML favorites",
-        "rk": 1,
-        "of": 10,
-        "w": 52,
-        "l": 15,
-        "u": 5.4,
-        "say": "top"
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -19988,7 +18915,7 @@
       "sd": "under",
       "pick": "Under 156.5",
       "price": -110,
-      "p": 0.625,
+      "p": 0.498,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -20001,75 +18928,6 @@
      }
     ],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "ALA ML",
-       "price": -2600,
-       "p": 0.598,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "ALA ML",
-       "price": -2600,
-       "p": 0.605,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "ALA ML",
-       "price": -2600,
-       "p": 0.59,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "ALA ML",
-       "price": -2600,
-       "p": 0.567,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "of": 7
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -20448,7 +19306,7 @@
       "sd": "home",
       "pick": "ASU ML",
       "price": null,
-      "p": 0.973,
+      "p": 0.926,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -20766,93 +19624,8 @@
     "start": "2026-11-14T02:00:00.000Z",
     "day": "2026-11-13",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "SMU ML",
-      "price": -10000,
-      "p": 0.996,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "SMU ML",
-       "price": -10000,
-       "p": 0.598,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "SMU ML",
-       "price": -10000,
-       "p": 0.605,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "SMU ML",
-       "price": -10000,
-       "p": 0.59,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "SMU ML",
-       "price": -10000,
-       "p": 0.567,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "of": 7
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -21539,14 +20312,12 @@
       "sd": "home",
       "pick": "UCLA ML",
       "price": -385,
-      "p": 0.893,
+      "p": 0.866,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
-       "Sim",
-       "Judge",
-       "Power"
+       "Scout"
       ]
      },
      {
@@ -21554,7 +20325,7 @@
       "sd": "home",
       "pick": "UCLA -10",
       "price": -105,
-      "p": 0.458,
+      "p": 0.49,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -21766,14 +20537,14 @@
       "sd": "away",
       "pick": "NYR ML",
       "price": -217,
-      "p": 0.746,
+      "p": 0.865,
       "tier": "strong",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
        "Judge",
-       "Power"
+       "Power",
+       "Scout"
       ]
      }
     ],
@@ -22271,7 +21042,7 @@
       "sd": "home",
       "pick": "ORST ML",
       "price": null,
-      "p": 0.999,
+      "p": 0.998,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -22286,7 +21057,7 @@
       "sd": "under",
       "pick": "Under 154.5",
       "price": -110,
-      "p": 0.556,
+      "p": 0.497,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -22535,7 +21306,7 @@
       "sd": "home",
       "pick": "USD ML",
       "price": -900,
-      "p": 0.968,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -22841,14 +21612,12 @@
       "sd": "away",
       "pick": "POR ML",
       "price": -535,
-      "p": 0.924,
+      "p": 0.926,
       "tier": "supreme",
       "unan": false,
       "off": false,
       "by": [
-       "Sim",
-       "Judge",
-       "Power"
+       "Sim"
       ]
      },
      {
@@ -22856,7 +21625,7 @@
       "sd": "over",
       "pick": "Over 229.5",
       "price": -105,
-      "p": 0.505,
+      "p": 0.498,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -23097,80 +21866,8 @@
     "start": "2026-11-14T03:00:00.000Z",
     "day": "2026-11-13",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "USU ML",
-      "price": -1200,
-      "p": 0.977,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "USU ML",
-       "price": -1200,
-       "p": 0.558,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "USU ML",
-       "price": -1200,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "USU ML",
-       "price": -1200,
-       "p": 0.551,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -23316,7 +22013,7 @@
       "sd": "home",
       "pick": "PORT ML",
       "price": null,
-      "p": 0.962,
+      "p": 0.921,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -23331,7 +22028,7 @@
       "sd": "over",
       "pick": "Over 150",
       "price": -110,
-      "p": 0.649,
+      "p": 0.498,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -23602,7 +22299,7 @@
       "sd": "home",
       "pick": "SMC ML",
       "price": -265,
-      "p": 0.892,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -23886,7 +22583,7 @@
       "sd": "away",
       "pick": "NSH +1.5",
       "price": -165,
-      "p": 0.845,
+      "p": 0.653,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -23903,14 +22600,14 @@
       "sd": "home",
       "pick": "VGK ML",
       "price": -180,
-      "p": 0.709,
+      "p": 0.714,
       "tier": "strong",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
        "Judge",
-       "Power"
+       "Power",
+       "Scout"
       ]
      }
     ],
@@ -24162,14 +22859,12 @@
       "sd": "away",
       "pick": "HOU ML",
       "price": -365,
-      "p": 0.887,
+      "p": 0.866,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
-       "Sim",
-       "Judge",
-       "Power"
+       "Scout"
       ]
      },
      {
@@ -24177,7 +22872,7 @@
       "sd": "away",
       "pick": "HOU -9.5",
       "price": -110,
-      "p": 0.467,
+      "p": 0.49,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -24191,7 +22886,7 @@
       "sd": "over",
       "pick": "Over 51.5",
       "price": -110,
-      "p": 0.482,
+      "p": 0.497,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -24397,14 +23092,15 @@
       "sd": "away",
       "pick": "OKC ML",
       "price": -280,
-      "p": 0.861,
+      "p": 0.865,
       "tier": "supreme",
       "unan": false,
       "off": true,
       "by": [
        "Sim",
        "Judge",
-       "Power"
+       "Power",
+       "Scout"
       ]
      },
      {
@@ -24412,7 +23108,7 @@
       "sd": "away",
       "pick": "OKC -6.5",
       "price": -117,
-      "p": 0.452,
+      "p": 0.546,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -24648,80 +23344,8 @@
     "start": "2026-11-14T03:30:00.000Z",
     "day": "2026-11-13",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "CBU ML",
-      "price": -1800,
-      "p": 0.968,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "CBU ML",
-       "price": -1800,
-       "p": 0.558,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 5,
-        "of": 7,
-        "w": 158,
-        "l": 45,
-        "u": -16,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "CBU ML",
-       "price": -1800,
-       "p": 0.565,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 6,
-        "of": 7,
-        "w": 180,
-        "l": 55,
-        "u": -20.7,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "CBU ML",
-       "price": -1800,
-       "p": 0.551,
-       "o": 0,
-       "r": {
-        "lab": "CBB ML favorites",
-        "rk": 2,
-        "of": 7,
-        "w": 176,
-        "l": 41,
-        "u": -6.7,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -29762,98 +28386,8 @@
     "start": "2026-11-14T20:30:00.000Z",
     "day": "2026-11-14",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "ND ML",
-      "price": -5000,
-      "p": 0.989,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "ND ML",
-       "price": -5000,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "CFB ML favorites",
-        "rk": 4,
-        "of": 8,
-        "w": 149,
-        "l": 62,
-        "u": -8.9,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "ND ML",
-       "price": -5000,
-       "p": 0.602,
-       "o": 0,
-       "r": {
-        "lab": "CFB ML favorites",
-        "rk": 8,
-        "of": 8,
-        "w": 155,
-        "l": 71,
-        "u": -14.6,
-        "say": "worst"
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "ND ML",
-       "price": -5000,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "CFB ML favorites",
-        "rk": 2,
-        "of": 8,
-        "w": 40,
-        "l": 11,
-        "u": 0.3,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "ND ML",
-       "price": -5000,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "CFB ML favorites",
-        "rk": 5,
-        "of": 8,
-        "w": 162,
-        "l": 72,
-        "u": -12.6,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -32219,98 +30753,8 @@
     "start": "2026-11-14T20:30:00.000Z",
     "day": "2026-11-14",
     "st": "pre",
-    "picks": [
-     {
-      "m": "ml",
-      "sd": "home",
-      "pick": "LIB ML",
-      "price": -1800,
-      "p": 0.978,
-      "tier": "supreme",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Power"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "home",
-       "pick": "LIB ML",
-       "price": -1800,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "CFB ML favorites",
-        "rk": 4,
-        "of": 8,
-        "w": 149,
-        "l": 62,
-        "u": -8.9,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "LIB ML",
-       "price": -1800,
-       "p": 0.602,
-       "o": 0,
-       "r": {
-        "lab": "CFB ML favorites",
-        "rk": 8,
-        "of": 8,
-        "w": 155,
-        "l": 71,
-        "u": -14.6,
-        "say": "worst"
-       },
-       "hit": null
-      },
-      {
-       "v": "Scout",
-       "s": "home",
-       "pick": "LIB ML",
-       "price": -1800,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "CFB ML favorites",
-        "rk": 2,
-        "of": 8,
-        "w": 40,
-        "l": 11,
-        "u": 0.3,
-        "say": ""
-       },
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "LIB ML",
-       "price": -1800,
-       "p": 0.92,
-       "o": 0,
-       "r": {
-        "lab": "CFB ML favorites",
-        "rk": 5,
-        "of": 8,
-        "w": 162,
-        "l": 72,
-        "u": -12.6,
-        "say": ""
-       },
-       "hit": null
-      }
-     ],
      "spread": [
       {
        "v": "Sim",
@@ -41235,6 +39679,6 @@
   },
   "heavy": -500
  },
- "betaSig": "[[[0,[],17],[1,[\"strong\"],15],[1,[\"value\"],11],[0,[],11],[2,[\"supreme\",\"strong\"],11],[2,[\"supreme\",\"strong\"],14],[1,[\"strong!\"],13],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],15],[1,[\"strong\"],17],[1,[\"strong\"],16],[0,[],12],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],10],[0,[],14],[0,[],13],[0,[],13],[0,[],11],[2,[\"supreme\",\"value\"],13],[0,[],8],[0,[],11],[2,[\"strong\",\"value\"],12],[1,[\"value\"],13],[1,[\"supreme\"],15],[0,[],13],[0,[],11],[3,[\"supreme!\",\"strong\",\"value\"],10],[2,[\"supreme\",\"value\"],11],[0,[],11],[1,[\"strong\"],13],[0,[],14],[0,[],15],[2,[\"supreme!\",\"value\"],11],[2,[\"supreme\",\"strong\"],12],[2,[\"strong\",\"strong\"],15],[0,[],10],[0,[],14],[2,[\"supreme\",\"strong\"],11],[1,[\"strong\"],15],[0,[],14],[0,[],9],[2,[\"supreme\",\"strong\"],14],[0,[],14],[0,[],14],[3,[\"supreme*\",\"strong\",\"strong\"],15],[1,[\"strong\"],15],[2,[\"supreme\",\"value\"],15],[0,[],14],[0,[],12],[1,[\"strong\"],14],[0,[],9],[1,[\"strong\"],17],[1,[\"strong\"],13],[0,[],14],[0,[],13],[2,[\"strong\",\"value\"],10],[1,[\"strong!\"],13],[0,[],13],[2,[\"strong\",\"strong\"],12],[1,[\"supreme\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],10],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],13],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"supreme!\",\"value\"],12],[1,[\"strong\"],9],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"strong\"],13],[1,[\"value\"],10],[1,[\"strong\"],10],[0,[],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],10],[2,[\"strong\",\"value\"],13],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"value\",\"value\"],14],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],9],[0,[],9],[0,[],11],[2,[\"strong\",\"value\"],11],[0,[],11],[2,[\"strong\",\"value\"],12],[3,[\"strong\",\"value\",\"value\"],10],[1,[\"value\"],10],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"value\"],13],[0,[],14],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],12],[1,[\"supreme\"],10],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],12],[1,[\"supreme\"],12],[1,[\"strong\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[3,[\"strong\",\"strong\",\"value\"],10],[0,[],10],[0,[],12],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],13],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"value\"],7],[0,[],9],[0,[],10],[3,[\"strong\",\"strong\",\"value\"],12],[1,[\"supreme\"],11],[1,[\"supreme\"],12],[1,[\"strong\"],11],[1,[\"value\"],11],[0,[],9],[1,[\"strong\"],12],[2,[\"supreme\",\"strong\"],13],[0,[],15],[1,[\"supreme\"],12],[1,[\"value\"],11],[0,[],13],[0,[],15],[3,[\"strong\",\"strong\",\"strong\"],11],[1,[\"value\"],12],[1,[\"strong\"],11],[1,[\"strong\"],10],[1,[\"value\"],14],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],12]],[4,10,[null,null,null,null]],[[11,[null,null,null,null,null,null,null,null,null,null,null]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[7,[null,null,null,null,null,null,null]],[2,[null,null]],[11,[null,null,null,null,null,null,null,null,null,null,null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[[0,[],17],[1,[\"strong\"],15],[1,[\"value\"],8],[0,[],8],[2,[\"supreme\",\"strong\"],11],[2,[\"supreme\",\"strong\"],14],[1,[\"strong!\"],13],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],15],[1,[\"strong\"],17],[0,[],12],[0,[],9],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],12],[0,[],7],[0,[],14],[0,[],13],[0,[],13],[0,[],11],[2,[\"supreme\",\"value\"],13],[0,[],8],[0,[],11],[1,[\"value\"],9],[1,[\"value\"],9],[1,[\"supreme\"],15],[0,[],13],[0,[],11],[3,[\"supreme!\",\"strong\",\"value\"],10],[2,[\"supreme\",\"value\"],11],[0,[],8],[0,[],9],[0,[],14],[0,[],15],[2,[\"supreme!\",\"value\"],11],[2,[\"supreme\",\"strong\"],12],[2,[\"strong\",\"strong\"],15],[0,[],10],[0,[],12],[2,[\"supreme\",\"strong\"],11],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],10],[0,[],10],[0,[],14],[2,[\"supreme*\",\"strong\"],11],[1,[\"strong\"],15],[1,[\"value\"],11],[0,[],14],[0,[],12],[1,[\"strong\"],10],[0,[],9],[1,[\"strong\"],17],[0,[],9],[0,[],14],[0,[],13],[2,[\"strong\",\"value\"],10],[1,[\"strong!\"],13],[0,[],13],[2,[\"strong\",\"strong\"],12],[1,[\"supreme\"],16],[2,[\"supreme\",\"value\"],12],[0,[],7],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],13],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"supreme!\",\"value\"],12],[0,[],6],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"strong\"],13],[1,[\"value\"],10],[1,[\"strong\"],10],[0,[],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],10],[2,[\"strong\",\"value\"],13],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"value\",\"value\"],14],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],9],[0,[],9],[0,[],11],[2,[\"strong\",\"value\"],11],[0,[],11],[2,[\"strong\",\"value\"],12],[3,[\"strong\",\"value\",\"value\"],10],[1,[\"value\"],10],[2,[\"strong\",\"value\"],12],[0,[],8],[1,[\"strong\"],13],[1,[\"value\"],13],[0,[],14],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],12],[1,[\"supreme\"],10],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],12],[0,[],8],[1,[\"strong\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[3,[\"strong\",\"strong\",\"value\"],10],[0,[],10],[0,[],12],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],13],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"value\"],7],[0,[],9],[0,[],10],[3,[\"strong\",\"strong\",\"value\"],12],[1,[\"supreme\"],11],[1,[\"supreme\"],12],[1,[\"strong\"],11],[1,[\"value\"],11],[0,[],9],[1,[\"strong\"],12],[2,[\"supreme\",\"strong\"],13],[0,[],15],[1,[\"supreme\"],12],[1,[\"value\"],11],[0,[],13],[0,[],15],[3,[\"strong\",\"strong\",\"strong\"],11],[1,[\"value\"],12],[1,[\"strong\"],11],[1,[\"strong\"],10],[1,[\"value\"],14],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],12]],[4,10,[null,null,null,null]],[[10,[null,null,null,null,null,null,null,null,null,null]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[7,[null,null,null,null,null,null,null]],[2,[null,null]],[11,[null,null,null,null,null,null,null,null,null,null,null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
