@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794699395143,
+ "generated": 1794699512881,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -89,7 +89,7 @@
      "read": {
       "who": "The Judge",
       "take": "The evidence points to Detroit.",
-      "text": "The evidence points to Detroit. Cade Cunningham averages 24 points a game, and 30 over his recent games — he's hot. Miami is without Klay Thompson (G, out) and Pelle Larsson (G, out). I'm 103-37 on NBA favorites on the moneyline. The worry: Detroit is missing Isaiah Joe (G) and Jalen Duren (C) — that's the hole. At -190 the book needs this to hit 66% of the time. I have it at 73% — the price pays more than the risk."
+      "text": "The evidence points to Detroit. Cade Cunningham averages 24 points a game, and 30 over his recent games — he's hot. Miami is without Pelle Larsson (G, out). I'm 103-37 on NBA favorites on the moneyline. The worry: Detroit is missing Isaiah Joe (G) and Jalen Duren (C) — that's the hole. At -190 the book needs this to hit 66% of the time. I have it at 73% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794702600000
@@ -166,7 +166,7 @@
      "read": {
       "who": "The Scout",
       "take": "I watch the talent — and the talent says over.",
-      "text": "I watch the talent — and the talent says over. Trace Johnson averages 164 passing yards a game — only 5 games, so it's a footnote, not the reason. The matchup to watch: run game: top 7% offense vs TULN bottom 19% defense. I'm 15-4 on CFB overs. The worry: One garbage-time score can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 77% — the price pays more than the risk."
+      "text": "I watch the talent — and the talent says over. Trace Johnson averages 164 passing yards a game — only 5 games, so it's a footnote, not the reason. The matchup to watch: run game: top 7% offense vs TULN bottom 18% defense. I'm 15-4 on CFB overs. The worry: One garbage-time score can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 77% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794690000000
@@ -2874,6 +2874,15 @@
         "p": 0.283,
         "official": false,
         "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": false,
+        "pick": "BKN ML",
+        "p": 0.375,
+        "official": false,
+        "note": "edge +6.1% — his 43% vs the price's 41% · the exchanges 45% vs the book's 40%"
        }
       ]
      },
@@ -3788,6 +3797,15 @@
         "p": 0.283,
         "official": false,
         "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": false,
+        "pick": "BKN ML",
+        "p": 0.375,
+        "official": false,
+        "note": "edge +6.1% — his 43% vs the price's 41% · the exchanges 45% vs the book's 40%"
        }
       ]
      },
@@ -4079,14 +4097,14 @@
     {
      "lane": "College hoops underdogs on the spread",
      "w": 119,
-     "l": 91,
-     "u": 16.7
+     "l": 92,
+     "u": 15.7
     },
     {
      "lane": "College hoops unders",
      "w": 100,
-     "l": 83,
-     "u": 8.3
+     "l": 84,
+     "u": 7.3
     }
    ],
    "still": [
@@ -4103,8 +4121,8 @@
     "u": -3.55
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -4136,10 +4154,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Caleb Hawkins 75+ rush yds",
+     "team": "OKST",
+     "side": "over",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -4147,10 +4165,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Carson Clark 4+ rec",
+     "team": "SJSU",
+     "side": "over",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -4158,10 +4176,32 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
+     "pick": "Miles Coleman under 79.5 rec yds",
+     "team": "OKST",
      "side": "under",
-     "p": 0.999,
+     "p": 0.741,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Elijah Duval under 4.5 AST",
+     "team": "UAB",
+     "side": "under",
+     "p": 0.741,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Josiah Sanders under 11.5 PTS+AST",
+     "team": "MONT",
+     "side": "under",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -4169,32 +4209,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
+     "pick": "Zechariah Sample under 79.5 rec yds",
+     "team": "TXST",
      "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 49.5 rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -4202,112 +4220,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ORL ML",
-     "price": -380,
-     "gl": "#30 MIL@#18 ORL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "HOU ML",
-     "price": -1500,
-     "gl": "#28 UTAH@#3 HOU",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "SA ML",
-     "price": -740,
-     "gl": "#14 GS@#1 SA",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "POR ML",
-     "price": -535,
-     "gl": "#6 POR@#27 SAC",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "OKC ML",
-     "price": -280,
-     "gl": "#10 OKC@#23 LAC",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "PHI ML",
-     "price": -435,
-     "gl": "#22 TOR@#11 PHI",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "DET ML",
-     "price": -425,
-     "gl": "#7 DET@#24 WSH",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "SA ML",
-     "price": -1200,
-     "gl": "#1 SA@#26 CHI",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "LAL ML",
-     "price": -750,
-     "gl": "#4 LAL@#30 MIL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "UCD ML",
-     "price": -800,
-     "gl": "#478 UIW@#159 UCD",
+     "pick": "Bennett Basich under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SDSU ML",
-     "price": -3600,
-     "gl": "#468 BCU@#80 SDSU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "ND ML",
-     "price": -20000,
-     "gl": "#275 SCST@#5 ND",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -4408,7 +4402,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Judge",
@@ -4422,8 +4521,8 @@
     {
      "lane": "College hoops underdogs on the spread",
      "w": 117,
-     "l": 89,
-     "u": 17
+     "l": 90,
+     "u": 16
     },
     {
      "lane": "NFL favorites on the moneyline",
@@ -4434,8 +4533,8 @@
     {
      "lane": "College hoops unders",
      "w": 99,
-     "l": 83,
-     "u": 7.4
+     "l": 84,
+     "u": 6.4
     }
    ],
    "still": [
@@ -4452,8 +4551,8 @@
     "u": -9.46
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -4562,11 +4661,11 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
+     "sp": "nhl",
+     "pick": "Pontus Holmberg under 2.5 SOG",
+     "team": "TB",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
@@ -4574,10 +4673,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "pick": "Evan Dickens under 99.5 rush+rec yds",
+     "team": "BC",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
@@ -4585,43 +4684,43 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
+     "pick": "Cameron Flowers under 39.5 rec yds",
+     "team": "WKU",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "sp": "ncaab",
+     "pick": "Barrington Hargress 3+ AST",
+     "team": "COLO",
+     "side": "over",
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
+     "sp": "nhl",
+     "pick": "Matthew Kessel under 1.5 SOG",
+     "team": "NYI",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 219.5 pass+rush yds",
-     "team": "UTSA",
+     "sp": "ncaab",
+     "pick": "Alex Cotton under 5.5 REB+AST",
+     "team": "HOW",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
@@ -4629,112 +4728,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "NYR ML",
-     "price": -217,
-     "gl": "#10 NYR@#32 VAN",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "VGK ML",
-     "price": -180,
-     "gl": "#11 NSH@#3 VGK",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "NY ML",
-     "price": -275,
-     "gl": "#8 NY@#21 IND",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ORL ML",
-     "price": -380,
-     "gl": "#30 MIL@#18 ORL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ATL ML",
-     "price": -280,
-     "gl": "#15 ATL@#26 CHI",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "MEM ML",
-     "price": -162,
-     "gl": "#12 MEM@#29 NO",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "OKC ML",
-     "price": -280,
-     "gl": "#10 OKC@#23 LAC",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "NYG ML",
-     "price": -135,
-     "gl": "#19 WSH@#17 NYG",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "CAR ML",
-     "price": -291,
-     "gl": "#1 CAR@#25 SEA",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "BOS ML",
-     "price": -120,
-     "gl": "#8 MTL@#6 BOS",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "MIN ML",
-     "price": -170,
-     "gl": "#2 MIN@#22 TOR",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "FLA ML",
-     "price": -166,
-     "gl": "#24 DET@#13 FLA",
-     "r": "win"
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -4835,7 +4910,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Coach",
@@ -4859,10 +5039,10 @@
      "u": 6.5
     },
     {
-     "lane": "College hoops underdogs on the spread",
-     "w": 117,
-     "l": 94,
-     "u": 12.4
+     "lane": "NFL overs",
+     "w": 25,
+     "l": 19,
+     "u": 3.8
     }
    ],
    "still": [
@@ -4924,9 +5104,9 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Cam Christy under 9.5 PTS",
-     "team": "WIN",
+     "sp": "nba",
+     "pick": "Thomas Bryant under 3.5 AST",
+     "team": "CLE",
      "side": "under",
      "p": 0.999,
      "hit": null,
@@ -4935,9 +5115,9 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Cam Christy under 4.5 REB",
-     "team": "WIN",
+     "sp": "nba",
+     "pick": "Craig Porter Jr. under 14.5 PTS",
+     "team": "CLE",
      "side": "under",
      "p": 0.999,
      "hit": null,
@@ -4946,9 +5126,9 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Cam Christy under 14.5 PTS+REB+AST",
-     "team": "WIN",
+     "sp": "nba",
+     "pick": "Tobi Lawal under 14.5 PTS",
+     "team": "DAL",
      "side": "under",
      "p": 0.999,
      "hit": null,
@@ -4957,9 +5137,9 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Cam Christy under 11.5 PTS+REB",
-     "team": "WIN",
+     "sp": "nba",
+     "pick": "Tobi Lawal under 3.5 AST",
+     "team": "DAL",
      "side": "under",
      "p": 0.999,
      "hit": null,
@@ -4968,9 +5148,9 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Cam Christy under 11.5 PTS+AST",
-     "team": "WIN",
+     "sp": "nba",
+     "pick": "Tobi Lawal under 19.5 PTS+REB+AST",
+     "team": "DAL",
      "side": "under",
      "p": 0.999,
      "hit": null,
@@ -4979,9 +5159,9 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Cam Christy under 5.5 REB+AST",
-     "team": "WIN",
+     "sp": "nba",
+     "pick": "Tobi Lawal under 14.5 PTS+REB",
+     "team": "DAL",
      "side": "under",
      "p": 0.999,
      "hit": null,
@@ -5217,8 +5397,8 @@
     {
      "lane": "College hoops underdogs on the spread",
      "w": 125,
-     "l": 100,
-     "u": 13.4
+     "l": 101,
+     "u": 12.4
     },
     {
      "lane": "NFL overs",
@@ -5241,8 +5421,8 @@
     "u": -13.41
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -5286,11 +5466,55 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
+     "sp": "nba",
+     "pick": "Bam Adebayo under 29.5 PTS",
+     "team": "MIA",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Nick DeSimone under 1.5 SOG",
+     "team": "UTAH",
+     "side": "under",
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Maxim Tsyplakov under 1.5 SOG",
+     "team": "CGY",
+     "side": "under",
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Jarrett Allen 15+ PTS+REB",
+     "team": "CLE",
+     "side": "over",
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Matas Buzelis under 2.5 3PM",
+     "team": "CHI",
+     "side": "under",
+     "p": 0.722,
      "hit": null,
      "push": false,
      "note": ""
@@ -5298,54 +5522,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Brandon High Jr. under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Que'Sean Brown 4+ rec",
+     "team": "VT",
+     "side": "over",
+     "p": 0.722,
      "hit": null,
      "push": false,
      "note": ""
@@ -5353,112 +5533,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "UWF ML",
-     "price": 140,
-     "gl": "#114 UWF@#237 CLE",
+     "pick": "Bennett Basich under 14.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "COLU ML",
-     "price": -192,
-     "gl": "#93 COLU@#522 BUCK",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "SHU ML",
-     "price": -225,
-     "gl": "#199 CCSU@#209 SHU",
+     "pick": "Bennett Basich under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "Under 179",
-     "price": -110,
-     "gl": "#108 OKST@#78 TA&M",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "COFC -1.5",
-     "price": -113,
-     "gl": "#69 COFC@#450 TEM",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "SFA -6.5",
-     "price": -115,
-     "gl": "#85 SFA@#479 ACU",
+     "pick": "Bennett Basich under 2.5 AST",
      "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SFA ML",
-     "price": -250,
-     "gl": "#85 SFA@#479 ACU",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "BOIS -16.5",
-     "price": -108,
-     "gl": "#493 OAK@#86 BOIS",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "Under 181.5",
-     "price": -110,
-     "gl": "#171 CP@#17 GCU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "ETSU ML",
-     "price": -210,
-     "gl": "#277 CAM@#253 ETSU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SBU ML",
-     "price": -415,
-     "gl": "#203 COR@#73 SBU",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "USM ML",
-     "price": -455,
-     "gl": "#426 JKST@#235 USM",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -5559,7 +5715,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Pred",
@@ -5585,9 +5846,9 @@
    ],
    "still": [
     {
-     "lane": "NHL underdogs on the spread",
-     "w": 32,
-     "l": 18
+     "lane": "College hoops underdogs on the spread",
+     "w": 47,
+     "l": 47
     }
    ],
    "record": {
@@ -5853,8 +6114,8 @@
     "u": 0.74
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -5873,10 +6134,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Caleb Hawkins 75+ rush yds",
+     "team": "OKST",
+     "side": "over",
+     "p": 0.702,
      "hit": null,
      "push": false,
      "note": ""
@@ -5884,10 +6145,21 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "pick": "Carson Clark 4+ rec",
+     "team": "SJSU",
+     "side": "over",
+     "p": 0.702,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Dejounte Murray under 24.5 PTS+REB",
+     "team": "NO",
      "side": "under",
-     "p": 0.999,
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
@@ -5895,43 +6167,32 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
+     "pick": "Miles Coleman under 79.5 rec yds",
+     "team": "OKST",
      "side": "under",
-     "p": 0.999,
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "sp": "nba",
+     "pick": "Cade Cunningham 30+ PTS+REB+AST",
+     "team": "DET",
+     "side": "over",
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
+     "sp": "ncaab",
+     "pick": "Elijah Duval under 4.5 AST",
+     "team": "UAB",
      "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 49.5 rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
@@ -5939,31 +6200,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaaf",
-     "pick": "TOL -14",
-     "price": -115,
-     "gl": "#111 MASS@#60 TOL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-08",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "PHI +3",
-     "price": -112,
-     "gl": "#17 NYG@#32 PHI",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-08",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "SEA -8",
-     "price": -115,
-     "gl": "#29 ARI@#12 SEA",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -6040,7 +6358,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Consensus",
@@ -6220,16 +6643,16 @@
    "origin": "Spent a career ranking teams for people who make decisions. Believes every team has a true level, and the scoreboard always finds it eventually.",
    "best": [
     {
-     "lane": "College hoops underdogs on the spread",
-     "w": 113,
-     "l": 90,
-     "u": 12.6
-    },
-    {
      "lane": "NFL favorites on the moneyline",
      "w": 39,
      "l": 14,
      "u": 4.4
+    },
+    {
+     "lane": "College hoops underdogs on the spread",
+     "w": 113,
+     "l": 91,
+     "u": 11.6
     }
    ],
    "still": [
@@ -7378,8 +7801,8 @@
     {
      "lane": "College hoops underdogs on the spread",
      "w": 111,
-     "l": 85,
-     "u": 15.5
+     "l": 86,
+     "u": 14.5
     }
    ],
    "still": [
@@ -8369,9 +8792,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": true
@@ -8387,9 +8810,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": true
@@ -8405,9 +8828,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": true
@@ -8462,8 +8885,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -11030,9 +11453,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": true
@@ -11069,8 +11492,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -11087,8 +11510,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -11105,8 +11528,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -11123,8 +11546,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -11141,8 +11564,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": true
@@ -11161,8 +11584,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": true
@@ -11179,8 +11602,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -11194,7 +11617,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -11212,11 +11635,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": false
@@ -11233,8 +11656,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": true
@@ -11263,9 +11686,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": true
@@ -11281,9 +11704,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": true
@@ -11299,9 +11722,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": true
@@ -11338,8 +11761,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -11356,8 +11779,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -11374,8 +11797,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": false
@@ -11494,8 +11917,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -11512,8 +11935,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -11530,8 +11953,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -11548,8 +11971,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -11566,8 +11989,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -11622,8 +12045,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -11637,11 +12060,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -11658,8 +12081,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -11706,9 +12129,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": false
@@ -11724,9 +12147,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": false
@@ -11740,11 +12163,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": true
@@ -11763,8 +12186,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -11781,8 +12204,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -11799,8 +12222,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -11814,11 +12237,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": true
@@ -11835,8 +12258,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -11853,8 +12276,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": true
@@ -11873,8 +12296,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": false
@@ -11891,8 +12314,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": false
@@ -11906,11 +12329,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": true
@@ -12886,9 +13309,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": false
@@ -12904,9 +13327,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": false
@@ -12922,9 +13345,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": false
@@ -12943,8 +13366,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -12979,8 +13402,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -12997,8 +13420,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -13156,8 +13579,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": false
@@ -13174,8 +13597,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": false
@@ -13192,8 +13615,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": false
@@ -13207,11 +13630,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": false
@@ -13228,8 +13651,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": false
@@ -13246,8 +13669,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": false
@@ -13284,8 +13707,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": true
@@ -13302,8 +13725,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -13317,11 +13740,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": false
@@ -13338,8 +13761,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": true
@@ -13384,9 +13807,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": true
@@ -13402,9 +13825,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": true
@@ -13420,9 +13843,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": true
@@ -13441,8 +13864,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -13477,8 +13900,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -13495,8 +13918,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -13687,9 +14110,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": false
@@ -13703,11 +14126,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": true
@@ -13726,8 +14149,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -13744,8 +14167,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -13762,8 +14185,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -13780,8 +14203,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -13798,8 +14221,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": true
@@ -13816,8 +14239,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": true
@@ -13836,8 +14259,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": true
@@ -13854,8 +14277,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -13918,9 +14341,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": false
@@ -13936,9 +14359,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": false
@@ -13954,9 +14377,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": false
@@ -14029,8 +14452,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -14067,8 +14490,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": false
@@ -14085,8 +14508,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": false
@@ -14100,11 +14523,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": true
@@ -14224,8 +14647,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": false
@@ -14242,8 +14665,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": false
@@ -14260,8 +14683,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -14278,8 +14701,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": false
@@ -14296,8 +14719,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": true
@@ -14349,7 +14772,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -14385,11 +14808,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": false
@@ -14437,8 +14860,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -14455,8 +14878,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -14473,8 +14896,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -14491,8 +14914,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -14509,8 +14932,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": true
@@ -14547,8 +14970,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -14611,8 +15034,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -14629,8 +15052,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -14647,8 +15070,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -14665,8 +15088,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -14683,8 +15106,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": true
@@ -14721,8 +15144,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": true
@@ -14739,8 +15162,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -14754,11 +15177,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": false
@@ -14775,8 +15198,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": true
@@ -14834,9 +15257,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": true
@@ -14852,9 +15275,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": true
@@ -14870,9 +15293,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": true
@@ -14909,8 +15332,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -14927,8 +15350,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -14945,8 +15368,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -14963,8 +15386,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": true
@@ -15640,8 +16063,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -15794,9 +16217,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": true
@@ -15812,9 +16235,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": true
@@ -15833,8 +16256,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": false
@@ -15851,8 +16274,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": false
@@ -15869,8 +16292,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": false
@@ -15887,8 +16310,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": false
@@ -15925,8 +16348,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -16701,9 +17124,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": false
@@ -16719,9 +17142,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": false
@@ -16750,9 +17173,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": false
@@ -16771,8 +17194,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -16789,8 +17212,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -16807,8 +17230,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -16825,8 +17248,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -16983,9 +17406,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": false
@@ -16999,11 +17422,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": true
@@ -17022,8 +17445,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -17040,8 +17463,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -17058,8 +17481,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -17076,8 +17499,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -17094,8 +17517,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": true
@@ -17112,8 +17535,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": true
@@ -17165,7 +17588,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -19799,9 +20222,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": true
@@ -19817,9 +20240,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": true
@@ -19835,9 +20258,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": true
@@ -19856,8 +20279,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": false
@@ -19892,8 +20315,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": false
@@ -19910,8 +20333,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": false
@@ -19928,8 +20351,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": false
@@ -19948,8 +20371,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": false
@@ -19966,8 +20389,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": false
@@ -20044,9 +20467,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": true
@@ -20062,9 +20485,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": true
@@ -20080,9 +20503,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": true
@@ -20096,11 +20519,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": false
@@ -20119,8 +20542,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": false
@@ -20155,8 +20578,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": false
@@ -20173,8 +20596,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": false
@@ -20191,8 +20614,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": false
@@ -20211,8 +20634,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": true
@@ -20229,8 +20652,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -20350,8 +20773,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -20386,8 +20809,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -20404,8 +20827,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -20457,7 +20880,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -20475,11 +20898,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": true
@@ -20496,8 +20919,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": false
@@ -20739,8 +21162,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": true
@@ -20757,8 +21180,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -20772,11 +21195,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": false
@@ -20793,8 +21216,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": true
@@ -20930,8 +21353,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": true
@@ -20948,8 +21371,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": true
@@ -20966,8 +21389,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": true
@@ -20981,11 +21404,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": true
@@ -21002,8 +21425,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": true
@@ -21020,8 +21443,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": true
@@ -21058,8 +21481,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": true
@@ -21076,8 +21499,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -21161,8 +21584,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": false
@@ -21179,8 +21602,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": false
@@ -21197,8 +21620,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": false
@@ -21215,8 +21638,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": false
@@ -21233,8 +21656,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": false
@@ -21253,8 +21676,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": true
@@ -21307,8 +21730,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": true
@@ -21390,8 +21813,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": false
@@ -21408,8 +21831,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": false
@@ -21426,8 +21849,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": false
@@ -21459,11 +21882,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": false
@@ -21500,8 +21923,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": true
@@ -21515,7 +21938,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -21533,11 +21956,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": false
@@ -21554,8 +21977,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": true
@@ -21585,8 +22008,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": false
@@ -21603,8 +22026,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": false
@@ -21621,8 +22044,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": false
@@ -21636,11 +22059,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": false
@@ -21657,8 +22080,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": false
@@ -21675,8 +22098,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": false
@@ -21693,8 +22116,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": false
@@ -21767,8 +22190,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": true
@@ -21784,11 +22207,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": false
@@ -22292,7 +22715,7 @@
     "gl": "#241 UPST@#277 CAM",
     "start": "2026-11-14T21:30:00.000Z",
     "day": "2026-11-14",
-    "st": "in",
+    "st": "post",
     "picks": [],
     "calls": {
      "ml": [
@@ -22307,12 +22730,12 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Judge",
@@ -22325,12 +22748,12 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Power",
@@ -22343,12 +22766,12 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Scout",
@@ -22359,14 +22782,14 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
-       "hit": null
+       "hit": false
       }
      ],
      "spread": [
@@ -22382,11 +22805,11 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Judge",
@@ -22400,11 +22823,11 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Most common",
@@ -22418,11 +22841,11 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Coach",
@@ -22436,11 +22859,11 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Power",
@@ -22454,11 +22877,11 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Scout",
@@ -22472,11 +22895,11 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Pred",
@@ -22487,14 +22910,14 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
-       "hit": null
+       "hit": false
       }
      ],
      "total": [
@@ -22510,11 +22933,11 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Judge",
@@ -22528,11 +22951,11 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Coach",
@@ -22543,14 +22966,14 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Scout",
@@ -22564,11 +22987,11 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
-       "hit": null
+       "hit": false
       }
      ]
     }
@@ -22890,9 +23313,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -22906,11 +23329,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": null
@@ -22929,8 +23352,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -22947,8 +23370,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -22965,8 +23388,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -22983,8 +23406,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": null
@@ -23036,7 +23459,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -23087,9 +23510,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -23105,9 +23528,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -23141,9 +23564,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -23180,8 +23603,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -23198,8 +23621,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -23216,8 +23639,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -23234,8 +23657,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -23252,8 +23675,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -23270,8 +23693,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": null
@@ -23290,8 +23713,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -23308,8 +23731,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -23326,8 +23749,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -23373,8 +23796,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -23391,8 +23814,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -23409,8 +23832,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -23424,11 +23847,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": null
@@ -23445,8 +23868,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -23463,8 +23886,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -23516,7 +23939,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -24373,9 +24796,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -24389,11 +24812,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": null
@@ -24412,8 +24835,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -24430,8 +24853,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -24448,8 +24871,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -24466,8 +24889,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -24484,8 +24907,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": null
@@ -24504,8 +24927,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -24522,8 +24945,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -24537,7 +24960,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -24555,11 +24978,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -24622,9 +25045,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -24640,9 +25063,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -24658,9 +25081,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -24771,8 +25194,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -24789,8 +25212,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -24804,7 +25227,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -24822,11 +25245,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -25068,8 +25491,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -25086,8 +25509,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -25104,8 +25527,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -25134,9 +25557,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -25152,9 +25575,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -25170,9 +25593,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -25191,8 +25614,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -25209,8 +25632,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -25227,8 +25650,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -25242,11 +25665,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": null
@@ -25263,8 +25686,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -25283,8 +25706,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -25301,8 +25724,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -25355,8 +25778,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -26107,9 +26530,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -26125,9 +26548,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -26161,9 +26584,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -26292,8 +26715,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -26310,8 +26733,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -26812,8 +27235,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -26850,8 +27273,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -26868,8 +27291,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -26883,11 +27306,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -26904,8 +27327,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -26952,9 +27375,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -26988,9 +27411,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -27027,8 +27450,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -27045,8 +27468,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -27119,8 +27542,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -27137,8 +27560,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -27152,7 +27575,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -27170,11 +27593,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -27191,8 +27614,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -27312,8 +27735,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -27330,8 +27753,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -27348,8 +27771,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -27366,8 +27789,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -27384,8 +27807,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -27422,8 +27845,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -27440,8 +27863,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -27455,11 +27878,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -27476,8 +27899,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -27537,9 +27960,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -27555,9 +27978,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -27573,9 +27996,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -27612,8 +28035,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -27648,8 +28071,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -27666,8 +28089,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -27686,8 +28109,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -27704,8 +28127,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -27719,11 +28142,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -27740,8 +28163,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -27817,9 +28240,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -27835,9 +28258,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -27853,9 +28276,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -27928,8 +28351,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -27948,8 +28371,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -27966,8 +28389,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -27981,11 +28404,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -28002,8 +28425,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -28383,9 +28806,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -28422,8 +28845,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -28458,8 +28881,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -28476,8 +28899,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -28494,8 +28917,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -28547,7 +28970,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -28565,11 +28988,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -28616,9 +29039,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -28634,9 +29057,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -28652,9 +29075,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -28668,11 +29091,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": null
@@ -28691,8 +29114,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -28709,8 +29132,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -28727,8 +29150,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -28745,8 +29168,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -28763,8 +29186,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -28801,8 +29224,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -28816,7 +29239,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -28913,9 +29336,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -28931,9 +29354,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -28967,9 +29390,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -29080,8 +29503,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -29098,8 +29521,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -29134,8 +29557,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -29181,9 +29604,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -29199,9 +29622,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -29217,9 +29640,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -29256,8 +29679,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -29292,8 +29715,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -29307,11 +29730,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": null
@@ -29328,8 +29751,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -29348,8 +29771,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -29366,8 +29789,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -29420,8 +29843,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -33111,7 +33534,7 @@
        "s": "away",
        "pick": "DAL +1.5",
        "price": -115,
-       "p": 0.474,
+       "p": 0.434,
        "o": 0,
        "r": {
         "lab": "NBA spread dogs",
@@ -33129,7 +33552,7 @@
        "s": "away",
        "pick": "DAL +1.5",
        "price": -115,
-       "p": 0.496,
+       "p": 0.457,
        "o": 0,
        "r": {
         "lab": "NBA spread dogs",
@@ -33156,6 +33579,24 @@
         "w": 19,
         "l": 17,
         "u": 0.3,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "DAL +1.5",
+       "price": -115,
+       "p": 0.589,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "rk": 9,
+        "of": 11,
+        "w": 9,
+        "l": 9,
+        "u": -0.9,
         "say": ""
        },
        "hit": null
@@ -33240,9 +33681,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -33258,9 +33699,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -33276,9 +33717,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -33315,8 +33756,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -33348,11 +33789,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": null
@@ -33369,8 +33810,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -33387,8 +33828,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -33613,8 +34054,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -33631,8 +34072,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -33649,8 +34090,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -33667,8 +34108,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -33687,8 +34128,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -33705,8 +34146,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -33723,8 +34164,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -33768,8 +34209,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -33786,8 +34227,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -33804,8 +34245,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -33819,11 +34260,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": null
@@ -33840,8 +34281,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -33858,8 +34299,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -33878,8 +34319,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -33896,8 +34337,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -33911,11 +34352,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -33932,8 +34373,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -33978,9 +34419,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -33996,9 +34437,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -34014,9 +34455,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -34053,8 +34494,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -34089,8 +34530,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -34107,8 +34548,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -34125,8 +34566,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -34163,8 +34604,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -34181,8 +34622,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -34196,11 +34637,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -36200,9 +36641,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -36218,9 +36659,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -36236,9 +36677,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -36257,8 +36698,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -36275,8 +36716,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -36293,8 +36734,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -36311,8 +36752,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -36364,7 +36805,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -36382,11 +36823,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -36472,8 +36913,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -36490,8 +36931,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -36526,8 +36967,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -36544,8 +36985,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -36564,8 +37005,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -36582,8 +37023,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -36597,11 +37038,11 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 50,
+        "w": 51,
         "l": 59,
-        "u": -13.8,
+        "u": -12.9,
         "say": ""
        },
        "hit": null
@@ -36618,8 +37059,8 @@
         "rk": 1,
         "of": 9,
         "w": 17,
-        "l": 5,
-        "u": 10.3,
+        "l": 6,
+        "u": 9.3,
         "say": "top"
        },
        "hit": null
@@ -36633,7 +37074,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -36647,7 +37088,7 @@
        "s": "over",
        "pick": "Over 134.5",
        "price": -115,
-       "p": 0.604,
+       "p": 0.601,
        "o": 0,
        "r": {
         "lab": "CBB overs",
@@ -36684,9 +37125,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -36702,9 +37143,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -36720,9 +37161,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -36779,8 +37220,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -36797,8 +37238,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -36954,8 +37395,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -36972,8 +37413,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -36990,8 +37431,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -37008,8 +37449,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -37026,8 +37467,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -37097,7 +37538,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -37464,9 +37905,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -37500,9 +37941,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -37516,11 +37957,11 @@
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
-        "rk": 2,
+        "rk": 3,
         "of": 7,
         "w": 5,
-        "l": 11,
-        "u": -1,
+        "l": 12,
+        "u": -2,
         "say": ""
        },
        "hit": null
@@ -37539,8 +37980,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -37557,8 +37998,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -37575,8 +38016,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -37593,8 +38034,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -37611,8 +38052,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": null
@@ -37631,8 +38072,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -37694,9 +38135,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -37712,9 +38153,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -37730,9 +38171,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -37769,8 +38210,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -37787,8 +38228,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -37805,8 +38246,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -37820,11 +38261,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
-        "rk": 8,
+        "rk": 10,
         "of": 11,
         "w": 47,
-        "l": 46,
-        "u": -3.3,
+        "l": 47,
+        "u": -4.3,
         "say": ""
        },
        "hit": null
@@ -37841,8 +38282,8 @@
         "rk": 11,
         "of": 11,
         "w": 6,
-        "l": 8,
-        "u": -2.6,
+        "l": 9,
+        "u": -3.6,
         "say": "worst"
        },
        "hit": null
@@ -37861,8 +38302,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -37879,8 +38320,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -38883,9 +39324,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -38901,9 +39342,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -38919,9 +39360,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -38994,8 +39435,8 @@
         "rk": 5,
         "of": 11,
         "w": 113,
-        "l": 90,
-        "u": 12.6,
+        "l": 91,
+        "u": 11.6,
         "say": ""
        },
        "hit": null
@@ -39032,8 +39473,8 @@
         "rk": 4,
         "of": 9,
         "w": 100,
-        "l": 83,
-        "u": 8.3,
+        "l": 84,
+        "u": 7.3,
         "say": ""
        },
        "hit": null
@@ -39050,8 +39491,8 @@
         "rk": 5,
         "of": 9,
         "w": 99,
-        "l": 83,
-        "u": 7.4,
+        "l": 84,
+        "u": 6.4,
         "say": ""
        },
        "hit": null
@@ -39151,9 +39592,9 @@
         "lab": "CBB ML favorites",
         "rk": 5,
         "of": 8,
-        "w": 170,
+        "w": 171,
         "l": 49,
-        "u": -17.1,
+        "u": -16.9,
         "say": ""
        },
        "hit": null
@@ -39169,9 +39610,9 @@
         "lab": "CBB ML favorites",
         "rk": 6,
         "of": 8,
-        "w": 196,
+        "w": 197,
         "l": 60,
-        "u": -20.7,
+        "u": -20.5,
         "say": ""
        },
        "hit": null
@@ -39187,9 +39628,9 @@
         "lab": "CBB ML favorites",
         "rk": 2,
         "of": 8,
-        "w": 189,
+        "w": 190,
         "l": 47,
-        "u": -10.1,
+        "u": -9.9,
         "say": ""
        },
        "hit": null
@@ -39208,8 +39649,8 @@
         "rk": 2,
         "of": 11,
         "w": 119,
-        "l": 91,
-        "u": 16.7,
+        "l": 92,
+        "u": 15.7,
         "say": ""
        },
        "hit": null
@@ -39226,8 +39667,8 @@
         "rk": 1,
         "of": 11,
         "w": 117,
-        "l": 89,
-        "u": 17,
+        "l": 90,
+        "u": 16,
         "say": "top"
        },
        "hit": null
@@ -39244,8 +39685,8 @@
         "rk": 6,
         "of": 11,
         "w": 125,
-        "l": 100,
-        "u": 13.4,
+        "l": 101,
+        "u": 12.4,
         "say": ""
        },
        "hit": null
@@ -39262,8 +39703,8 @@
         "rk": 7,
         "of": 11,
         "w": 117,
-        "l": 94,
-        "u": 12.4,
+        "l": 95,
+        "u": 11.4,
         "say": ""
        },
        "hit": null
@@ -39315,7 +39756,7 @@
        "o": 0,
        "r": {
         "lab": "CBB overs",
-        "rk": 4,
+        "rk": 5,
         "of": 9,
         "w": 52,
         "l": 61,
@@ -41011,7 +41452,7 @@
        "s": "home",
        "pick": "DET -3",
        "price": 100,
-       "p": 0.588,
+       "p": 0.589,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -41386,7 +41827,7 @@
        "s": "away",
        "pick": "KC -3",
        "price": -115,
-       "p": 0.604,
+       "p": 0.603,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -41440,7 +41881,7 @@
        "s": "away",
        "pick": "KC -3",
        "price": -115,
-       "p": 0.641,
+       "p": 0.639,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -41716,7 +42157,7 @@
        "s": "away",
        "pick": "HOU -4.5",
        "price": -105,
-       "p": 0.681,
+       "p": 0.682,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -41785,7 +42226,7 @@
        "s": "over",
        "pick": "Over 40.5",
        "price": -110,
-       "p": 0.61,
+       "p": 0.605,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -41943,7 +42384,7 @@
        "s": "away",
        "pick": "MIN +3",
        "price": -112,
-       "p": 0.562,
+       "p": 0.561,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -42187,7 +42628,7 @@
        "s": "home",
        "pick": "TEN +10.5",
        "price": -107,
-       "p": 0.639,
+       "p": 0.64,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -42287,7 +42728,7 @@
        "s": "under",
        "pick": "Under 46.5",
        "price": -110,
-       "p": 0.609,
+       "p": 0.606,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -42509,7 +42950,7 @@
        "s": "over",
        "pick": "Over 37.5",
        "price": -109,
-       "p": 0.562,
+       "p": 0.559,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -42716,7 +43157,7 @@
        "s": "over",
        "pick": "Over 47.5",
        "price": -110,
-       "p": 0.592,
+       "p": 0.597,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -42874,7 +43315,7 @@
        "s": "home",
        "pick": "NYJ +9",
        "price": -125,
-       "p": 0.646,
+       "p": 0.647,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -43251,7 +43692,7 @@
        "s": "over",
        "pick": "Over 40.5",
        "price": -107,
-       "p": 0.623,
+       "p": 0.619,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -43479,7 +43920,7 @@
        "s": "over",
        "pick": "Over 39",
        "price": -115,
-       "p": 0.644,
+       "p": 0.639,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -44177,7 +44618,7 @@
        "s": "home",
        "pick": "BAL -4.5",
        "price": -108,
-       "p": 0.62,
+       "p": 0.622,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -44228,7 +44669,7 @@
        "s": "over",
        "pick": "Over 38.5",
        "price": -113,
-       "p": 0.544,
+       "p": 0.543,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -44246,7 +44687,7 @@
        "s": "over",
        "pick": "Over 38.5",
        "price": -113,
-       "p": 0.644,
+       "p": 0.639,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -44317,6 +44758,6 @@
   },
   "heavy": -500
  },
- "betaSig": "[[[1,[\"supreme\"],8],[0,[],11],[1,[\"value\"],12],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],10],[0,[],14],[1,[\"strong\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],10],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],13],[3,[\"strong\",\"value\",\"value\"],10],[2,[\"strong\",\"strong\"],10],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],12],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],11],[2,[\"strong\",\"strong\"],12],[0,[],11],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],14],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[1,[\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],9],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],10],[2,[\"strong\",\"strong\"],12],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],11],[2,[\"supreme*!\",\"value\"],14],[0,[],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],13],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],9],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value!\",\"value\"],8],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[7,12,[null,null,true]],[[8,[null,true,null,null,null,null,null,null]],[14,[true,null,null,null,null,null,null,true,null,null,null,null,null,null]],[9,[null,null,null,null,null,null,null,null,null]],[9,[true,true,null,null,null,null,null,null,null]],[0,[]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[true,null,null]],[12,[true,true,null,null,null,true,null,null,null,null,null,null]],[16,[true,null,null,false,true,null,true,null,null,null,null,true,null,null,true,null]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[[1,[\"supreme\"],8],[0,[],11],[1,[\"value\"],12],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],10],[0,[],14],[1,[\"strong\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],10],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],13],[3,[\"strong\",\"value\",\"value\"],10],[2,[\"strong\",\"strong\"],10],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],12],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],11],[2,[\"strong\",\"strong\"],12],[0,[],11],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],14],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[1,[\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],10],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],10],[2,[\"strong\",\"strong\"],12],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],11],[2,[\"supreme*!\",\"value\"],14],[0,[],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],13],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],9],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value!\",\"value\"],8],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[7,12,[null,null,true]],[[8,[null,true,null,null,null,null,null,null]],[14,[true,null,null,null,null,null,null,true,null,null,null,null,null,null]],[9,[null,null,null,null,null,null,null,null,null]],[9,[true,true,null,null,null,null,null,null,null]],[0,[]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[true,null,null]],[12,[true,true,null,null,null,true,null,null,null,null,null,null]],[16,[true,null,null,false,true,null,true,null,null,null,null,true,null,null,true,null]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
