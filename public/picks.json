@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794664356245,
+ "generated": 1794664368588,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -21,7 +21,224 @@
   "be": 0.5825761068844579,
   "ap": -140
  },
- "today": null,
+ "today": {
+  "d": "2026-11-14",
+  "lockedAt": 1794664367174,
+  "unlockMin": 30,
+  "picks": [
+   {
+    "sp": "nba",
+    "game": "DET@MIA",
+    "gl": "#7 DET@#20 MIA",
+    "pick": "DET ML",
+    "price": -190,
+    "p": 0.726,
+    "ev": 10.8,
+    "start": "2026-11-15T01:00Z",
+    "tier": "SUPREME",
+    "calls": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "DET ML",
+      "p": 0.711,
+      "official": true,
+      "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "DET ML",
+      "p": 0.709,
+      "official": false,
+      "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "DET ML",
+      "p": 0.699,
+      "official": false,
+      "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "DET ML",
+      "p": 0.67,
+      "official": false,
+      "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "DET ML",
+      "p": 0.307,
+      "official": false,
+      "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+     }
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Judge",
+      "take": "The evidence points to Detroit.",
+      "text": "The evidence points to Detroit. Cade Cunningham averages 24 points a game, and 30 over his recent games — he's hot. Miami is without Klay Thompson (G, out) and Pelle Larsson (G, out). I'm 103-37 on NBA favorites on the moneyline. The worry: Detroit is missing Isaiah Joe (G) and Jalen Duren (C) — that's the hole. At -190 the book needs this to hit 66% of the time. I have it at 73% — the price pays more than the risk."
+     }
+    },
+    "unlockAt": 1794702600000
+   },
+   {
+    "sp": "ncaaf",
+    "game": "TULN@RICE",
+    "gl": "#119 TULN@#125 RICE",
+    "pick": "Over 48",
+    "price": -115,
+    "p": 0.775,
+    "ev": 44.9,
+    "start": "2026-11-14T21:30Z",
+    "tier": "STRONG",
+    "calls": [
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "Over 48",
+      "p": 0.815,
+      "official": true,
+      "note": "both offenses outclass the defenses (Scout)"
+     },
+     {
+      "who": "The Coach",
+      "v": "Coach",
+      "with": true,
+      "pick": "Over 48",
+      "p": 0.623,
+      "official": false,
+      "note": "his total 55.1 vs 48"
+     },
+     {
+      "who": "The Scorekeeper",
+      "v": "Most common",
+      "with": true,
+      "pick": "Over 48",
+      "p": 0.595,
+      "official": false,
+      "note": "his total 54.0 vs 48 · TULN: 3.4 TD × 7.0 + 1.0 FG · RICE: 3.6 TD × 6.9 + 0.8 FG"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "Over 48",
+      "p": 0.494,
+      "official": false,
+      "note": "both offenses outclass the defenses (Scout)"
+     },
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "Over 48",
+      "p": 0.488,
+      "official": false,
+      "note": "both offenses outclass the defenses (Scout)"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "Over 48",
+      "p": 0.462,
+      "official": false,
+      "note": "both offenses outclass the defenses (Scout)"
+     }
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Scout",
+      "take": "I watch the talent — and the talent says over.",
+      "text": "I watch the talent — and the talent says over. Trace Johnson averages 164 passing yards a game — only 5 games, so it's a footnote, not the reason. The matchup to watch: run game: top 7% offense vs TULN bottom 18% defense. I'm 13-3 on CFB overs. The worry: One garbage-time score can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 77% — the price pays more than the risk."
+     }
+    },
+    "unlockAt": 1794690000000
+   },
+   {
+    "sp": "nhl",
+    "game": "CGY@LA",
+    "gl": "#29 CGY@#23 LA",
+    "pick": "LA ML",
+    "price": -175,
+    "p": 0.705,
+    "ev": 10.8,
+    "start": "2026-11-15T03:00Z",
+    "tier": "STRONG",
+    "calls": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "LA ML",
+      "p": 0.715,
+      "official": true,
+      "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "LA ML",
+      "p": 0.676,
+      "official": false,
+      "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "LA ML",
+      "p": 0.656,
+      "official": false,
+      "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "LA ML",
+      "p": 0.573,
+      "official": false,
+      "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+     }
+    ],
+    "hit": null,
+    "push": false,
+    "why": {
+     "read": {
+      "who": "The Judge",
+      "take": "The evidence points to Los Angeles.",
+      "text": "The evidence points to Los Angeles. Calgary is without Jonathan Huberdeau (LW, injured reserve) and Kevin Bahl (D, injured reserve). Los Angeles has won fewer than its scoring has earned — a spot we're still testing (48 graded games). I'm 106-63 on NHL favorites on the moneyline. The worry: Los Angeles is missing Jakub Dvorak (D) — that's the hole. At -175 the book needs this to hit 64% of the time. I have it at 71% — the price pays more than the risk."
+     }
+    },
+    "unlockAt": 1794709800000
+   }
+  ],
+  "props": [],
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "b9d49fdf28b499941d94bb100f7c75728e92e4fa18da32358426a54c0a7696b0",
+   "salt": null
+  }
+ },
  "parlay": null,
  "parlayRecord": null,
  "updates": [],
@@ -870,50 +1087,6 @@
      "push": false
     }
    ]
-  },
-  {
-   "d": "2026-10-13",
-   "picks": [
-    {
-     "sp": "nhl",
-     "game": "EDM@LA",
-     "gl": "#5 EDM@#23 LA",
-     "pick": "EDM ML",
-     "price": -125,
-     "p": 0.581,
-     "ev": 4.5,
-     "start": "2026-10-14T02:30Z",
-     "tier": "STRONG",
-     "hit": true,
-     "push": false
-    },
-    {
-     "sp": "nhl",
-     "game": "MIN@WPG",
-     "gl": "#2 MIN@#15 WPG",
-     "pick": "Under 6.5",
-     "price": -130,
-     "p": 0.583,
-     "ev": 3.1,
-     "start": "2026-10-14T00:15Z",
-     "tier": "STRONG",
-     "hit": false,
-     "push": false
-    },
-    {
-     "sp": "nhl",
-     "game": "NJ@DET",
-     "gl": "#7 NJ@#24 DET",
-     "pick": "DET ML",
-     "price": -110,
-     "p": 0.539,
-     "ev": 2.9,
-     "start": "2026-10-13T22:00Z",
-     "tier": "STRONG",
-     "hit": false,
-     "push": false
-    }
-   ]
   }
  ],
  "unlockMin": 30,
@@ -956,7 +1129,2937 @@
   }
  ],
  "beta": true,
- "vip": null,
+ "vip": {
+  "top10": [
+   {
+    "sp": "nhl",
+    "game": "DET@TB",
+    "gl": "#24 DET@#4 TB",
+    "pick": "TB ML",
+    "price": -225,
+    "p": 0.776,
+    "start": "2026-11-15T00:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "TB ML",
+      "p": 0.804,
+      "official": true,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "TB ML",
+      "p": 0.745,
+      "official": true,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "TB ML",
+      "p": 0.744,
+      "official": true,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "TB ML",
+      "p": 0.725,
+      "official": true,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "TB ML",
+      "p": 0.767,
+      "official": false,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+     }
+    ],
+    "ev": 12.1,
+    "voicesBy": [
+     "The Judge",
+     "The Commissioner",
+     "The Scout"
+    ]
+   },
+   {
+    "sp": "ncaaf",
+    "game": "BAY@BYU",
+    "gl": "#26 BAY@#10 BYU",
+    "pick": "Under 51",
+    "price": -112,
+    "p": 0.761,
+    "start": "2026-11-15T00:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "Under 51",
+      "p": 0.761,
+      "official": true,
+      "note": "both defenses outclass the offenses (Scout) · game at altitude (thin air, tired legs)"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "Under 51",
+      "p": 0.52,
+      "official": false,
+      "note": "both defenses outclass the offenses (Scout) · game at altitude (thin air, tired legs)"
+     },
+     {
+      "who": "The Coach",
+      "v": "Coach",
+      "with": false,
+      "pick": "Over 48.5",
+      "p": 0.573,
+      "official": false,
+      "note": "his total 51.8 vs 48.5"
+     },
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": false,
+      "pick": "Over 50",
+      "p": 0.451,
+      "official": false,
+      "note": "both defenses outclass the offenses (Scout) · game at altitude (thin air, tired legs)"
+     }
+    ],
+    "ev": 44,
+    "voicesBy": [
+     "The Scout"
+    ]
+   },
+   {
+    "sp": "nhl",
+    "game": "SJ@UTAH",
+    "gl": "#30 SJ@#19 UTAH",
+    "pick": "UTAH ML",
+    "price": -205,
+    "p": 0.724,
+    "start": "2026-11-15T02:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "UTAH ML",
+      "p": 0.746,
+      "official": true,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "UTAH ML",
+      "p": 0.738,
+      "official": true,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "UTAH ML",
+      "p": 0.72,
+      "official": true,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "UTAH ML",
+      "p": 0.711,
+      "official": false,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Scorekeeper",
+      "v": "Most common",
+      "with": true,
+      "pick": "UTAH ML",
+      "p": 0.689,
+      "official": false,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "UTAH ML",
+      "p": 0.64,
+      "official": false,
+      "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+     }
+    ],
+    "ev": 7.7,
+    "voicesBy": [
+     "The Judge",
+     "The Commissioner",
+     "The Scout"
+    ]
+   },
+   {
+    "sp": "nhl",
+    "game": "CGY@LA",
+    "gl": "#29 CGY@#23 LA",
+    "pick": "CGY +1.5",
+    "price": -180,
+    "p": 0.644,
+    "start": "2026-11-15T03:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Underdog Spotter",
+      "v": "Dog",
+      "with": true,
+      "pick": "CGY +1.5",
+      "p": 0.781,
+      "official": true,
+      "note": "+7.5 LA as a favorite: 2-4 · +7.2 CGY as a dog: 8-7 outright · +6 the triangle: LA drops games to dogs, CGY beats favorites · +4.3 LA covers as a favorite: 1-5 · +2.2 power says LA by 0.0, the line says 0.3"
+     },
+     {
+      "who": "The Scorekeeper",
+      "v": "Most common",
+      "with": true,
+      "pick": "CGY +1.5",
+      "p": 0.624,
+      "official": false,
+      "note": "his final CGY 2 – 3 LA · CGY: 26.3 shots × 10.9% · LA: 29.6 shots × 9.7%"
+     },
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "CGY +1.5",
+      "p": 0.601,
+      "official": false,
+      "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "CGY +1.5",
+      "p": 0.572,
+      "official": false,
+      "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "CGY +1.5",
+      "p": 0.548,
+      "official": false,
+      "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
+     },
+     {
+      "who": "The Coach",
+      "v": "Coach",
+      "with": true,
+      "pick": "CGY +1.5",
+      "p": 0.53,
+      "official": false,
+      "note": "+0.09 LA revenge: lost the last meeting (2026) · his score CGY 3 – 3 LA vs the line -1.5"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "CGY +1.5",
+      "p": 0.458,
+      "official": false,
+      "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
+     }
+    ],
+    "ev": 0.2,
+    "voicesBy": [
+     "The Underdog Spotter"
+    ]
+   },
+   {
+    "sp": "ncaab",
+    "game": "NJIT@FAIR",
+    "gl": "#506 NJIT@#434 FAIR",
+    "pick": "Under 141.5",
+    "price": -115,
+    "p": 0.582,
+    "start": "2026-11-15T00:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "Under 141.5",
+      "p": 0.582,
+      "official": true,
+      "note": "both defenses outclass the offenses (Scout)"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "Under 141.5",
+      "p": 0.534,
+      "official": false,
+      "note": "both defenses outclass the offenses (Scout)"
+     },
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "Under 141.5",
+      "p": 0.519,
+      "official": false,
+      "note": "both defenses outclass the offenses (Scout)"
+     },
+     {
+      "who": "The Coach",
+      "v": "Coach",
+      "with": false,
+      "pick": "Over 141.5",
+      "p": 0.589,
+      "official": false,
+      "note": "his total 146.0 vs 141.5"
+     }
+    ],
+    "ev": 8.8,
+    "voicesBy": [
+     "The Scout"
+    ]
+   },
+   {
+    "sp": "ncaab",
+    "game": "UMBC@TOW",
+    "gl": "#202 UMBC@#145 TOW",
+    "pick": "Under 147.5",
+    "price": -110,
+    "p": 0.579,
+    "start": "2026-11-15T00:30Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "Under 147.5",
+      "p": 0.579,
+      "official": true,
+      "note": "both defenses outclass the offenses (Scout)"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "Under 147.5",
+      "p": 0.534,
+      "official": false,
+      "note": "both defenses outclass the offenses (Scout)"
+     },
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "Under 147.5",
+      "p": 0.519,
+      "official": false,
+      "note": "both defenses outclass the offenses (Scout)"
+     }
+    ],
+    "ev": 10.5,
+    "voicesBy": [
+     "The Scout"
+    ]
+   },
+   {
+    "sp": "ncaab",
+    "game": "WGA@CHSO",
+    "gl": "#266 WGA@#432 CHSO",
+    "pick": "Under 150.5",
+    "price": -105,
+    "p": 0.576,
+    "start": "2026-11-15T00:00Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "Under 150.5",
+      "p": 0.616,
+      "official": true,
+      "note": "both defenses outclass the offenses (Scout)"
+     },
+     {
+      "who": "The Scorekeeper",
+      "v": "Most common",
+      "with": true,
+      "pick": "Under 150.5",
+      "p": 0.696,
+      "official": false,
+      "note": "his total 144.1 vs 150.5 · 71 possessions · WGA: 7.0 threes, 18.3 twos, 11.8 FT · CHSO: 7.7 threes, 18.0 twos, 15.3 FT"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "Under 150.5",
+      "p": 0.534,
+      "official": false,
+      "note": "both defenses outclass the offenses (Scout)"
+     },
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "Under 150.5",
+      "p": 0.528,
+      "official": false,
+      "note": "both defenses outclass the offenses (Scout)"
+     }
+    ],
+    "ev": 12.4,
+    "voicesBy": [
+     "The Scout"
+    ]
+   }
+  ],
+  "banker": {
+   "price": "+248",
+   "p": 0.425,
+   "legs": [
+    {
+     "sp": "nhl",
+     "game": "DET@TB",
+     "gl": "#24 DET@#4 TB",
+     "pick": "TB ML",
+     "price": -225,
+     "p": 0.803,
+     "start": "2026-11-15T00:00Z",
+     "hit": null,
+     "push": false,
+     "by": [
+      "The Judge",
+      "The Commissioner",
+      "The Scout"
+     ],
+     "voices": [
+      {
+       "who": "The Judge",
+       "v": "Judge",
+       "with": true,
+       "pick": "TB ML",
+       "p": 0.804,
+       "official": true,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Commissioner",
+       "v": "Power",
+       "with": true,
+       "pick": "TB ML",
+       "p": 0.745,
+       "official": true,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Scout",
+       "v": "Scout",
+       "with": true,
+       "pick": "TB ML",
+       "p": 0.744,
+       "official": true,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Banker",
+       "v": "Banker",
+       "with": true,
+       "pick": "TB ML",
+       "p": 0.725,
+       "official": true,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Simulator",
+       "v": "Sim",
+       "with": true,
+       "pick": "TB ML",
+       "p": 0.767,
+       "official": false,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+      }
+     ]
+    },
+    {
+     "sp": "nhl",
+     "game": "SJ@UTAH",
+     "gl": "#30 SJ@#19 UTAH",
+     "pick": "UTAH ML",
+     "price": -205,
+     "p": 0.746,
+     "start": "2026-11-15T02:00Z",
+     "hit": null,
+     "push": false,
+     "by": [
+      "The Judge",
+      "The Commissioner",
+      "The Scout"
+     ],
+     "voices": [
+      {
+       "who": "The Judge",
+       "v": "Judge",
+       "with": true,
+       "pick": "UTAH ML",
+       "p": 0.746,
+       "official": true,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Scout",
+       "v": "Scout",
+       "with": true,
+       "pick": "UTAH ML",
+       "p": 0.738,
+       "official": true,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Commissioner",
+       "v": "Power",
+       "with": true,
+       "pick": "UTAH ML",
+       "p": 0.72,
+       "official": true,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Simulator",
+       "v": "Sim",
+       "with": true,
+       "pick": "UTAH ML",
+       "p": 0.711,
+       "official": false,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Scorekeeper",
+       "v": "Most common",
+       "with": true,
+       "pick": "UTAH ML",
+       "p": 0.689,
+       "official": false,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+      },
+      {
+       "who": "The Banker",
+       "v": "Banker",
+       "with": true,
+       "pick": "UTAH ML",
+       "p": 0.64,
+       "official": false,
+       "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+      }
+     ]
+    },
+    {
+     "sp": "nhl",
+     "game": "SEA@CAR",
+     "gl": "#25 SEA@#1 CAR",
+     "pick": "CAR -1.5",
+     "price": -162,
+     "p": 0.708,
+     "start": "2026-11-14T18:00Z",
+     "hit": null,
+     "push": false,
+     "by": [
+      "The Judge",
+      "The Scout"
+     ],
+     "voices": [
+      {
+       "who": "The Scout",
+       "v": "Scout",
+       "with": true,
+       "pick": "CAR -1.5",
+       "p": 0.708,
+       "official": true,
+       "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      },
+      {
+       "who": "The Judge",
+       "v": "Judge",
+       "with": true,
+       "pick": "CAR -1.5",
+       "p": 0.639,
+       "official": true,
+       "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      },
+      {
+       "who": "The Simulator",
+       "v": "Sim",
+       "with": true,
+       "pick": "CAR -1.5",
+       "p": 0.641,
+       "official": false,
+       "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      },
+      {
+       "who": "The Scorekeeper",
+       "v": "Most common",
+       "with": true,
+       "pick": "CAR -1.5",
+       "p": 0.588,
+       "official": false,
+       "note": "his final SEA 3 – 4 CAR · SEA: 21.5 shots × 11.1% · CAR: 33.4 shots × 14.1%"
+      },
+      {
+       "who": "The Oracle",
+       "v": "Pred",
+       "with": true,
+       "pick": "CAR -1.5",
+       "p": 0.53,
+       "official": false,
+       "note": "outside consensus CAR by 1.7 vs the line -1.5 · Kalshi CAR 78% · Polymarket CAR 79% · DRatings CAR 74% · OddsShark computer SEA 2.12–4.29 CAR · Covers contest consensus: 76% of Covers players on CAR — 70% on 23 · the outside world 59% vs th"
+      },
+      {
+       "who": "The Banker",
+       "v": "Banker",
+       "with": true,
+       "pick": "CAR -1.5",
+       "p": 0.445,
+       "official": false,
+       "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+      },
+      {
+       "who": "The Coach",
+       "v": "Coach",
+       "with": false,
+       "pick": "SEA +1.5",
+       "p": 0.611,
+       "official": false,
+       "note": "+0.09 SEA revenge: lost the last meeting (2026) · his score SEA 3 – 4 CAR vs the line -1.5"
+      },
+      {
+       "who": "The Brain",
+       "v": "Brain",
+       "with": false,
+       "pick": "SEA +1.5",
+       "p": 0.389,
+       "official": false,
+       "note": "edge +3.2% — his 44% vs the price's 42% · the outside consensus 46% · 24% of the crowd on this side"
+      }
+     ]
+    }
+   ]
+  },
+  "parlays": [
+   {
+    "who": "The Underdog Spotter",
+    "v": "Dog",
+    "skill": false,
+    "px": false,
+    "price": "+974",
+    "p": 0.493,
+    "legs": [
+     {
+      "sp": "ncaaf",
+      "game": "WAKE@SMU",
+      "gl": "#13 WAKE@#23 SMU",
+      "pick": "WAKE +1.5",
+      "price": -110,
+      "p": 0.92,
+      "start": "2026-11-14T17:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Underdog Spotter"
+      ],
+      "voices": [
+       {
+        "who": "The Underdog Spotter",
+        "v": "Dog",
+        "with": true,
+        "pick": "WAKE +1.5",
+        "p": 0.92,
+        "official": true,
+        "note": "+14.2 power says SMU by -10.3, the line says 1.5 · +6.2 WAKE's offense (43.3 a game) vs SMU's defense (allows 22.9) · +6 WAKE as a dog: 2-0 against the spread · +6 WAKE last 3: Wc Wc Wc · +4.4 WAKE as a dog: 1-1 outright"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "WAKE +1.5",
+        "p": 0.624,
+        "official": false,
+        "note": "his final WAKE 24 – 21 SMU · WAKE: 4.3 TD × 7.0 + 1.3 FG · SMU: 3.0 TD × 6.9 + 1.0 FG"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "WAKE +1.5",
+        "p": 0.509,
+        "official": false,
+        "note": "picked team over-performing its scoring (Pythagorean) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "WAKE +1",
+        "p": 0.496,
+        "official": false,
+        "note": "picked team over-performing its scoring (Pythagorean) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "WAKE +1.5",
+        "p": 0.478,
+        "official": false,
+        "note": "picked team over-performing its scoring (Pythagorean) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "WAKE +1",
+        "p": 0.463,
+        "official": false,
+        "note": "picked team over-performing its scoring (Pythagorean) · picked team owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "MINN@PSU",
+      "gl": "#63 MINN@#38 PSU",
+      "pick": "MINN +12",
+      "price": -107,
+      "p": 0.844,
+      "start": "2026-11-15T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Underdog Spotter"
+      ],
+      "voices": [
+       {
+        "who": "The Underdog Spotter",
+        "v": "Dog",
+        "with": true,
+        "pick": "MINN +12",
+        "p": 0.844,
+        "official": true,
+        "note": "+10.7 MINN as a dog: 3-2 outright · +6.8 MINN as a dog: 4-1 against the spread · +6 the triangle: PSU drops games to dogs, MINN beats favorites · -4.5 MINN's offense (24.7 a game) vs PSU's defense (allows 19.3) · +3.1 PSU as a favorite: 4-2"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "MINN +12",
+        "p": 0.575,
+        "official": false,
+        "note": "+0.8 MINN revenge: lost the last meeting (2024) · +0.6 MINN news: something to play for · his score MINN 24 – 27 PSU vs the line -12"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "MINN +12",
+        "p": 0.548,
+        "official": false,
+        "note": "his final MINN 20 – 17 PSU · MINN: 2.1 TD × 7.0 + 1.8 FG · PSU: 3.1 TD × 7.0 + 1.3 FG"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "MINN +12",
+        "p": 0.44,
+        "official": false,
+        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · picked team trails the head-to-head series"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "MINN +12",
+        "p": 0.43,
+        "official": false,
+        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · picked team trails the head-to-head series"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "PSU -12",
+        "p": 0.532,
+        "official": false,
+        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "PSU -12",
+        "p": 0.505,
+        "official": false,
+        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "LOU@UNC",
+      "gl": "#15 LOU@#41 UNC",
+      "pick": "UNC +3.5",
+      "price": -115,
+      "p": 0.813,
+      "start": "2026-11-15T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Underdog Spotter"
+      ],
+      "voices": [
+       {
+        "who": "The Underdog Spotter",
+        "v": "Dog",
+        "with": true,
+        "pick": "UNC +3.5",
+        "p": 0.813,
+        "official": true,
+        "note": "+8.7 UNC as a dog: 3-3 outright · +8.2 UNC as a dog: 5-1 against the spread · +4 home dog · +3.7 power says LOU by 0.4, the line says 3.5 · +3 conference game — they know each other"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "UNC +3.5",
+        "p": 0.498,
+        "official": false,
+        "note": "spread on the 3 (2.5–3.5) · home underdog · opponent has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "LOU -3.5",
+        "p": 0.55,
+        "official": false,
+        "note": "spread on the 3 (2.5–3.5) · road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "LOU -3.5",
+        "p": 0.54,
+        "official": false,
+        "note": "spread on the 3 (2.5–3.5) · road favorite · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "LOU -3.5",
+        "p": 0.531,
+        "official": false,
+        "note": "spread on the 3 (2.5–3.5) · road favorite · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "CGY@LA",
+      "gl": "#29 CGY@#23 LA",
+      "pick": "CGY +1.5",
+      "price": -180,
+      "p": 0.781,
+      "start": "2026-11-15T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Underdog Spotter"
+      ],
+      "voices": [
+       {
+        "who": "The Underdog Spotter",
+        "v": "Dog",
+        "with": true,
+        "pick": "CGY +1.5",
+        "p": 0.781,
+        "official": true,
+        "note": "+7.5 LA as a favorite: 2-4 · +7.2 CGY as a dog: 8-7 outright · +6 the triangle: LA drops games to dogs, CGY beats favorites · +4.3 LA covers as a favorite: 1-5 · +2.2 power says LA by 0.0, the line says 0.3"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "CGY +1.5",
+        "p": 0.624,
+        "official": false,
+        "note": "his final CGY 2 – 3 LA · CGY: 26.3 shots × 10.9% · LA: 29.6 shots × 9.7%"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CGY +1.5",
+        "p": 0.601,
+        "official": false,
+        "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "CGY +1.5",
+        "p": 0.572,
+        "official": false,
+        "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "CGY +1.5",
+        "p": 0.548,
+        "official": false,
+        "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "CGY +1.5",
+        "p": 0.53,
+        "official": false,
+        "note": "+0.09 LA revenge: lost the last meeting (2026) · his score CGY 3 – 3 LA vs the line -1.5"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "CGY +1.5",
+        "p": 0.458,
+        "official": false,
+        "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "skill": false,
+    "px": false,
+    "price": "+1088",
+    "p": 0.465,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "CIT@UNF",
+      "gl": "#142 CIT@#442 UNF",
+      "pick": "CIT ML",
+      "price": 150,
+      "p": 0.818,
+      "start": "2026-11-14T19:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "CIT ML",
+        "p": 0.818,
+        "official": true,
+        "note": "his final CIT 87 – 68 UNF · 74 possessions · CIT: 9.4 threes, 23.2 twos, 13.8 FT · UNF: 7.3 threes, 16.7 twos, 11.4 FT"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "CIT ML",
+        "p": 0.315,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CIT ML",
+        "p": 0.302,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "CIT ML",
+        "p": 0.282,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "UNF ML",
+        "p": 0.55,
+        "official": false,
+        "note": "opponent has the clear talent edge (Scout) · opponent owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "ncaab",
+      "game": "CMU@NKU",
+      "gl": "#105 CMU@#278 NKU",
+      "pick": "CMU ML",
+      "price": 149,
+      "p": 0.77,
+      "start": "2026-11-14T20:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "CMU ML",
+        "p": 0.77,
+        "official": true,
+        "note": "his final CMU 90 – 77 NKU · 74 possessions · CMU: 10.1 threes, 22.7 twos, 16.0 FT · NKU: 7.0 threes, 18.3 twos, 18.1 FT"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "CMU ML",
+        "p": 0.315,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CMU ML",
+        "p": 0.303,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "CMU ML",
+        "p": 0.282,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "NKU ML",
+        "p": 0.55,
+        "official": false,
+        "note": "opponent has the clear talent edge (Scout) · opponent owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "ncaab",
+      "game": "COLO@PROV",
+      "gl": "#208 COLO@#113 PROV",
+      "pick": "Under 156",
+      "price": -110,
+      "p": 0.739,
+      "start": "2026-11-14T23:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "Under 156",
+        "p": 0.739,
+        "official": true,
+        "note": "his total 144.7 vs 156 · 71 possessions · COLO: 8.5 threes, 15.6 twos, 15.3 FT · PROV: 7.7 threes, 18.1 twos, 13.5 FT"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "Under 156",
+        "p": 0.588,
+        "official": false,
+        "note": "his total 148.8 vs 156"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "Under 156",
+        "p": 0.56,
+        "official": false,
+        "note": "high total · both defenses outclass the offenses (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "Under 156",
+        "p": 0.494,
+        "official": false,
+        "note": "high total · both defenses outclass the offenses (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "Under 156",
+        "p": 0.488,
+        "official": false,
+        "note": "high total · both defenses outclass the offenses (Scout)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Scout",
+    "v": "Scout",
+    "skill": false,
+    "px": false,
+    "price": "+1201",
+    "p": 0.426,
+    "legs": [
+     {
+      "sp": "ncaaf",
+      "game": "TULN@RICE",
+      "gl": "#119 TULN@#125 RICE",
+      "pick": "Over 48",
+      "price": -115,
+      "p": 0.815,
+      "start": "2026-11-14T21:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "Over 48",
+        "p": 0.815,
+        "official": true,
+        "note": "both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "Over 48",
+        "p": 0.623,
+        "official": false,
+        "note": "his total 55.1 vs 48"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "Over 48",
+        "p": 0.595,
+        "official": false,
+        "note": "his total 54.0 vs 48 · TULN: 3.4 TD × 7.0 + 1.0 FG · RICE: 3.6 TD × 6.9 + 0.8 FG"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "Over 48",
+        "p": 0.494,
+        "official": false,
+        "note": "both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "Over 48",
+        "p": 0.488,
+        "official": false,
+        "note": "both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "Over 48",
+        "p": 0.462,
+        "official": false,
+        "note": "both offenses outclass the defenses (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "ORST@BOIS",
+      "gl": "#64 ORST@#24 BOIS",
+      "pick": "Over 63",
+      "price": -110,
+      "p": 0.812,
+      "start": "2026-11-14T23:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "Over 63",
+        "p": 0.812,
+        "official": true,
+        "note": "high total · both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "Over 63",
+        "p": 0.573,
+        "official": false,
+        "note": "his total 66.6 vs 63 · ORST: 4.1 TD × 6.9 + 1.1 FG · BOIS: 5.2 TD × 7.0 + 0.7 FG"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "Over 63",
+        "p": 0.523,
+        "official": false,
+        "note": "high total · both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "Over 65",
+        "p": 0.478,
+        "official": false,
+        "note": "high total · both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": false,
+        "pick": "Under 63",
+        "p": 0.634,
+        "official": false,
+        "note": "his total 58.5 vs 63"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "Under 63",
+        "p": 0.439,
+        "official": false,
+        "note": "high total · both offenses outclass the defenses (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "CIN@ISU",
+      "gl": "#62 CIN@#73 ISU",
+      "pick": "Over 57.5",
+      "price": -110,
+      "p": 0.807,
+      "start": "2026-11-14T17:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "Over 57.5",
+        "p": 0.807,
+        "official": true,
+        "note": "both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "Over 57.5",
+        "p": 0.621,
+        "official": false,
+        "note": "his total 62.4 vs 57.5 · CIN: 4.4 TD × 6.9 + 0.7 FG · ISU: 4.0 TD × 6.9 + 1.6 FG"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "Over 57.5",
+        "p": 0.534,
+        "official": false,
+        "note": "both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "Over 57.5",
+        "p": 0.528,
+        "official": false,
+        "note": "both offenses outclass the defenses (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "Over 59.5",
+        "p": 0.466,
+        "official": false,
+        "note": "high total · both offenses outclass the defenses (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "FIU@DEL",
+      "gl": "#99 FIU@#94 DEL",
+      "pick": "Under 54",
+      "price": -110,
+      "p": 0.798,
+      "start": "2026-11-14T20:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "Under 54",
+        "p": 0.798,
+        "official": true,
+        "note": "both defenses outclass the offenses (Scout)"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "Under 54",
+        "p": 0.642,
+        "official": false,
+        "note": "his total 49.2 vs 54 · FIU: 2.7 TD × 7.0 + 1.4 FG · DEL: 3.1 TD × 6.9 + 1.7 FG"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "Under 54",
+        "p": 0.534,
+        "official": false,
+        "note": "both defenses outclass the offenses (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "Under 54",
+        "p": 0.528,
+        "official": false,
+        "note": "both defenses outclass the offenses (Scout)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "skill": false,
+    "px": false,
+    "price": "+628",
+    "p": 0.368,
+    "legs": [
+     {
+      "sp": "ncaaf",
+      "game": "USM@LT",
+      "gl": "#124 USM@#49 LT",
+      "pick": "USM +17",
+      "price": -105,
+      "p": 0.722,
+      "start": "2026-11-14T22:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": [
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "USM +17",
+        "p": 0.722,
+        "official": true,
+        "note": "-1.5 LT letdown spot: beat TROY by 24, now a lesser team · -1.2 LT look-ahead: ARST next · +1 USM bounce-back after losing by 31 · +0.8 USM revenge: lost the last meeting (2025) · his score USM 25 – 30 LT vs the line -17"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "LT -17",
+        "p": 0.525,
+        "official": false,
+        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "LT -17",
+        "p": 0.51,
+        "official": false,
+        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "LT -17",
+        "p": 0.492,
+        "official": false,
+        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "BC@ND",
+      "gl": "#97 BC@#5 ND",
+      "pick": "BC +29",
+      "price": -105,
+      "p": 0.718,
+      "start": "2026-11-14T20:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": [
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "BC +29",
+        "p": 0.718,
+        "official": true,
+        "note": "-1.2 ND look-ahead: SMU next · +0.8 BC revenge: lost the last meeting (2025) · +0.6 BC news: something to play for · +0.6 ND news: something to play for · his score BC 21 – 32 ND vs the line -29"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "BC +29",
+        "p": 0.589,
+        "official": false,
+        "note": "his final BC 7 – 31 ND · BC: 2.1 TD × 6.9 + 0.7 FG · ND: 4.5 TD × 7.0 + 1.5 FG"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "BC +29",
+        "p": 0.485,
+        "official": false,
+        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · opponent owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "ND -29",
+        "p": 0.5,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "ND -29",
+        "p": 0.492,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "ND -29",
+        "p": 0.47,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "MTSU@LIB",
+      "gl": "#112 MTSU@#27 LIB",
+      "pick": "MTSU +21",
+      "price": -110,
+      "p": 0.709,
+      "start": "2026-11-14T20:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": [
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "MTSU +21",
+        "p": 0.709,
+        "official": true,
+        "note": "+0.8 MTSU revenge: lost the last meeting (2024) · his score MTSU 22 – 32 LIB vs the line -21"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "LIB -21",
+        "p": 0.533,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "LIB -21",
+        "p": 0.521,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "LIB -20.5",
+        "p": 0.518,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "LIB -21",
+        "p": 0.492,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "skill": false,
+    "px": false,
+    "price": "+427",
+    "p": 0.306,
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "DET@TB",
+      "gl": "#24 DET@#4 TB",
+      "pick": "TB ML",
+      "price": -225,
+      "p": 0.803,
+      "start": "2026-11-15T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "TB ML",
+        "p": 0.804,
+        "official": true,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "TB ML",
+        "p": 0.745,
+        "official": true,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "TB ML",
+        "p": 0.744,
+        "official": true,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "TB ML",
+        "p": 0.725,
+        "official": true,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "TB ML",
+        "p": 0.767,
+        "official": false,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "nba",
+      "game": "BKN@MEM",
+      "gl": "#19 BKN@#12 MEM",
+      "pick": "MEM ML",
+      "price": -165,
+      "p": 0.718,
+      "start": "2026-11-15T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.718,
+        "official": true,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.729,
+        "official": false,
+        "note": "his final BKN 111 – 119 MEM · 103 possessions · BKN: 13.2 threes, 25.7 twos, 21.2 FT · MEM: 15.0 threes, 25.1 twos, 23.0 FT"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.697,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.696,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.693,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.283,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "SJ@UTAH",
+      "gl": "#30 SJ@#19 UTAH",
+      "pick": "UTAH ML",
+      "price": -205,
+      "p": 0.746,
+      "start": "2026-11-15T02:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "UTAH ML",
+        "p": 0.746,
+        "official": true,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "UTAH ML",
+        "p": 0.738,
+        "official": true,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "UTAH ML",
+        "p": 0.72,
+        "official": true,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "UTAH ML",
+        "p": 0.711,
+        "official": false,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "UTAH ML",
+        "p": 0.689,
+        "official": false,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "UTAH ML",
+        "p": 0.64,
+        "official": false,
+        "note": "picked team playing its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "gl": "#7 DET@#20 MIA",
+      "pick": "DET ML",
+      "price": -190,
+      "p": 0.711,
+      "start": "2026-11-15T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.711,
+        "official": true,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.709,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.699,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.67,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.307,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Commissioner",
+    "v": "Power",
+    "skill": true,
+    "px": false,
+    "price": "+163",
+    "p": 0.428,
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "CGY@LA",
+      "gl": "#29 CGY@#23 LA",
+      "pick": "LA ML",
+      "price": -175,
+      "p": 0.654,
+      "start": "2026-11-15T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Commissioner"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "LA ML",
+        "p": 0.715,
+        "official": true,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "LA ML",
+        "p": 0.676,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "LA ML",
+        "p": 0.656,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "LA ML",
+        "p": 0.573,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "EDM@TOR",
+      "gl": "#5 EDM@#22 TOR",
+      "pick": "EDM ML",
+      "price": -148,
+      "p": 0.653,
+      "start": "2026-11-15T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Commissioner"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.735,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.697,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.674,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.669,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.668,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "skill": true,
+    "px": false,
+    "price": "+288",
+    "p": 0.33,
+    "legs": [
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "gl": "#7 DET@#20 MIA",
+      "pick": "DET ML",
+      "price": -190,
+      "p": 0.724,
+      "start": "2026-11-15T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.711,
+        "official": true,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.709,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.699,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.67,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.307,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "CGY@LA",
+      "gl": "#29 CGY@#23 LA",
+      "pick": "LA ML",
+      "price": -175,
+      "p": 0.706,
+      "start": "2026-11-15T03:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "LA ML",
+        "p": 0.715,
+        "official": true,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "LA ML",
+        "p": 0.676,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "LA ML",
+        "p": 0.656,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "LA ML",
+        "p": 0.573,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team trails the head-to-head series · division game"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "SEA@CAR",
+      "gl": "#25 SEA@#1 CAR",
+      "pick": "CAR -1.5",
+      "price": -162,
+      "p": 0.646,
+      "start": "2026-11-14T18:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": [
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "CAR -1.5",
+        "p": 0.708,
+        "official": true,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CAR -1.5",
+        "p": 0.639,
+        "official": true,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "CAR -1.5",
+        "p": 0.641,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "CAR -1.5",
+        "p": 0.588,
+        "official": false,
+        "note": "his final SEA 3 – 4 CAR · SEA: 21.5 shots × 11.1% · CAR: 33.4 shots × 14.1%"
+       },
+       {
+        "who": "The Oracle",
+        "v": "Pred",
+        "with": true,
+        "pick": "CAR -1.5",
+        "p": 0.53,
+        "official": false,
+        "note": "outside consensus CAR by 1.7 vs the line -1.5 · Kalshi CAR 78% · Polymarket CAR 79% · DRatings CAR 74% · OddsShark computer SEA 2.12–4.29 CAR · Covers contest consensus: 76% of Covers players on CAR — 70% on 23 · the outside world 59% vs th"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "CAR -1.5",
+        "p": 0.445,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": false,
+        "pick": "SEA +1.5",
+        "p": 0.611,
+        "official": false,
+        "note": "+0.09 SEA revenge: lost the last meeting (2026) · his score SEA 3 – 4 CAR vs the line -1.5"
+       },
+       {
+        "who": "The Brain",
+        "v": "Brain",
+        "with": false,
+        "pick": "SEA +1.5",
+        "p": 0.389,
+        "official": false,
+        "note": "edge +3.2% — his 44% vs the price's 42% · the outside consensus 46% · 24% of the crowd on this side"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "skill": false,
+    "px": true,
+    "price": "-1592",
+    "p": 0.998,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "JKST@WIN",
+      "gl": "#426 JKST@#416 WIN",
+      "pick": "Cam Christy 10+ PTS",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T19:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "CHEY@NCAT",
+      "gl": "#497 CHEY@#226 NCAT",
+      "pick": "Will Felton 3+ AST",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T19:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": []
+     }
+    ]
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "skill": false,
+    "px": true,
+    "price": "-101",
+    "p": 0.709,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "JKST@WIN",
+      "gl": "#426 JKST@#416 WIN",
+      "pick": "Cam Christy 10+ PTS",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T19:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Historian"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "MRSH@YSU",
+      "gl": "#141 MRSH@#443 YSU",
+      "pick": "Erich Harding 3+ AST",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T18:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Historian"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "gl": "#9 DEN@#29 NO",
+      "pick": "DEN -11.5",
+      "price": -115,
+      "p": 0.71,
+      "start": "2026-11-15T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Historian"
+      ],
+      "voices": [
+       {
+        "who": "The Historian",
+        "v": "Trends",
+        "with": true,
+        "pick": "DEN -11.5",
+        "p": 0.71,
+        "official": true,
+        "note": "-10.2 DEN hasn't lost to NO in 8 straight (since 2024) · -6.2 three seasons: NO offense 21th / defense 24th pct · DEN 97th / 52th · -4.2 prestige NO 32 (playoffs 3 of 10 yrs) vs DEN 74 (8 of 10, 1 title)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "DEN -11.5",
+        "p": 0.536,
+        "official": false,
+        "note": "big spread (10+) · opponent on back-to-back · picked team rested, opponent on back-to-back"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "DEN -11.5",
+        "p": 0.497,
+        "official": false,
+        "note": "big spread (10+) · opponent on back-to-back · picked team rested, opponent on back-to-back"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "DEN -11.5",
+        "p": 0.494,
+        "official": false,
+        "note": "big spread (10+) · opponent on back-to-back · picked team rested, opponent on back-to-back"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": false,
+        "pick": "NO +11.5",
+        "p": 0.605,
+        "official": false,
+        "note": "-3.46 NO on a back-to-back · -1.86 DEN look-ahead: PHX next · -1.82 NO look-ahead: GS next · +1.79 NO bounce-back after losing by 31 · +1.34 NO revenge: lost the last meeting (2026) · his score DEN 114 – 113 NO vs the line +11.5"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": false,
+        "pick": "NO +11.5",
+        "p": 0.502,
+        "official": false,
+        "note": "big spread (10+) · picked team on 2nd night of back-to-back · home underdog"
+       },
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": false,
+        "pick": "NO +11.5",
+        "p": 0.491,
+        "official": false,
+        "note": "big spread (10+) · picked team on 2nd night of back-to-back · home underdog"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "NO +11.5",
+        "p": 0.486,
+        "official": false,
+        "note": "big spread (10+) · picked team on 2nd night of back-to-back · home underdog"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": false,
+        "pick": "NO +11.5",
+        "p": 0.482,
+        "official": false,
+        "note": "his final DEN 122 – 114 NO · 103 possessions · DEN: 13.2 threes, 30.2 twos, 22.8 FT · NO: 11.3 threes, 29.3 twos, 20.5 FT"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "skill": false,
+    "px": true,
+    "price": "+562",
+    "p": 0.629,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "JKST@WIN",
+      "gl": "#426 JKST@#416 WIN",
+      "pick": "Cam Christy 5+ REB",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T19:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "CHEY@NCAT",
+      "gl": "#497 CHEY@#226 NCAT",
+      "pick": "Will Felton 3+ AST",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T19:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "CIT@UNF",
+      "gl": "#142 CIT@#442 UNF",
+      "pick": "CIT ML",
+      "price": 150,
+      "p": 0.818,
+      "start": "2026-11-14T19:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "CIT ML",
+        "p": 0.818,
+        "official": true,
+        "note": "his final CIT 87 – 68 UNF · 74 possessions · CIT: 9.4 threes, 23.2 twos, 13.8 FT · UNF: 7.3 threes, 16.7 twos, 11.4 FT"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "CIT ML",
+        "p": 0.315,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CIT ML",
+        "p": 0.302,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "CIT ML",
+        "p": 0.282,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "UNF ML",
+        "p": 0.55,
+        "official": false,
+        "note": "opponent has the clear talent edge (Scout) · opponent owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "ncaab",
+      "game": "CMU@NKU",
+      "gl": "#105 CMU@#278 NKU",
+      "pick": "CMU ML",
+      "price": 149,
+      "p": 0.77,
+      "start": "2026-11-14T20:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": [
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "CMU ML",
+        "p": 0.77,
+        "official": true,
+        "note": "his final CMU 90 – 77 NKU · 74 possessions · CMU: 10.1 threes, 22.7 twos, 16.0 FT · NKU: 7.0 threes, 18.3 twos, 18.1 FT"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "CMU ML",
+        "p": 0.315,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CMU ML",
+        "p": 0.303,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "CMU ML",
+        "p": 0.282,
+        "official": false,
+        "note": "picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "NKU ML",
+        "p": 0.55,
+        "official": false,
+        "note": "opponent has the clear talent edge (Scout) · opponent owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "skill": false,
+    "px": true,
+    "price": "+186",
+    "p": 0.526,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "JKST@WIN",
+      "gl": "#426 JKST@#416 WIN",
+      "pick": "Cam Christy 5+ REB",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T19:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "DREX@ME",
+      "gl": "#193 DREX@#486 ME",
+      "pick": "Ralph Akuta 10+ PTS",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T18:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "nba",
+      "game": "BKN@MEM",
+      "gl": "#19 BKN@#12 MEM",
+      "pick": "MEM ML",
+      "price": -165,
+      "p": 0.718,
+      "start": "2026-11-15T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.718,
+        "official": true,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.729,
+        "official": false,
+        "note": "his final BKN 111 – 119 MEM · 103 possessions · BKN: 13.2 threes, 25.7 twos, 21.2 FT · MEM: 15.0 threes, 25.1 twos, 23.0 FT"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.697,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.696,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.693,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.283,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team playing its 3rd game in 4 nights · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "EDM@TOR",
+      "gl": "#5 EDM@#22 TOR",
+      "pick": "EDM ML",
+      "price": -148,
+      "p": 0.735,
+      "start": "2026-11-15T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.735,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.697,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.674,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.669,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "EDM ML",
+        "p": 0.668,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "skill": false,
+    "px": true,
+    "price": "+305",
+    "p": 0.518,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "JKST@WIN",
+      "gl": "#426 JKST@#416 WIN",
+      "pick": "Cam Christy 5+ REB",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T19:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "MRSH@YSU",
+      "gl": "#141 MRSH@#443 YSU",
+      "pick": "Erich Harding 3+ AST",
+      "price": -3233,
+      "p": 0.999,
+      "start": "2026-11-14T18:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaaf",
+      "game": "USM@LT",
+      "gl": "#124 USM@#49 LT",
+      "pick": "USM +17",
+      "price": -105,
+      "p": 0.722,
+      "start": "2026-11-14T22:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": [
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "USM +17",
+        "p": 0.722,
+        "official": true,
+        "note": "-1.5 LT letdown spot: beat TROY by 24, now a lesser team · -1.2 LT look-ahead: ARST next · +1 USM bounce-back after losing by 31 · +0.8 USM revenge: lost the last meeting (2025) · his score USM 25 – 30 LT vs the line -17"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "LT -17",
+        "p": 0.525,
+        "official": false,
+        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "LT -17",
+        "p": 0.51,
+        "official": false,
+        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "LT -17",
+        "p": 0.492,
+        "official": false,
+        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
+       }
+      ]
+     },
+     {
+      "sp": "ncaaf",
+      "game": "BC@ND",
+      "gl": "#97 BC@#5 ND",
+      "pick": "BC +29",
+      "price": -105,
+      "p": 0.718,
+      "start": "2026-11-14T20:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": [
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "BC +29",
+        "p": 0.718,
+        "official": true,
+        "note": "-1.2 ND look-ahead: SMU next · +0.8 BC revenge: lost the last meeting (2025) · +0.6 BC news: something to play for · +0.6 ND news: something to play for · his score BC 21 – 32 ND vs the line -29"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "BC +29",
+        "p": 0.589,
+        "official": false,
+        "note": "his final BC 7 – 31 ND · BC: 2.1 TD × 6.9 + 0.7 FG · ND: 4.5 TD × 7.0 + 1.5 FG"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "BC +29",
+        "p": 0.485,
+        "official": false,
+        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · opponent owns a top-vs-bottom unit mismatch"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "ND -29",
+        "p": 0.5,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "ND -29",
+        "p": 0.492,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "ND -29",
+        "p": 0.47,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "props": [
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "sp": "ncaab",
+    "pick": "Cam Christy 10+ PTS (WIN · JKST@WIN · 1:30 PM CT)",
+    "p": 0.999,
+    "star": false
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "sp": "ncaab",
+    "pick": "Will Felton 3+ AST (NCAT · CHEY@NCAT · 1:00 PM CT)",
+    "p": 0.999,
+    "star": false
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "sp": "ncaab",
+    "pick": "Erich Harding 3+ AST (MRSH · MRSH@YSU · 12:00 PM CT)",
+    "p": 0.999,
+    "star": false
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "sp": "ncaab",
+    "pick": "Ralph Akuta 10+ PTS (DREX · DREX@ME · 12:00 PM CT)",
+    "p": 0.999,
+    "star": false
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "sp": "ncaab",
+    "pick": "Max Davis 5+ REB (DREX · DREX@ME · 12:00 PM CT)",
+    "p": 0.999,
+    "star": false
+   }
+  ]
+ },
  "characters": [
   {
    "v": "Sim",
@@ -5230,7 +8333,7 @@
       "sd": "home",
       "pick": "AKR ML",
       "price": -900,
-      "p": 0.969,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -5617,7 +8720,7 @@
       "sd": "under",
       "pick": "Under 60",
       "price": -110,
-      "p": 0.489,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -5859,7 +8962,7 @@
       "sd": "home",
       "pick": "OSU ML",
       "price": -575,
-      "p": 0.914,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -6121,14 +9224,12 @@
       "sd": "over",
       "pick": "Over 57.5",
       "price": -110,
-      "p": 0.548,
+      "p": 0.767,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
-       "Sim",
-       "Judge",
-       "Most common"
+       "Scout"
       ]
      },
      {
@@ -6136,7 +9237,7 @@
       "sd": "away",
       "pick": "CIN +3",
       "price": -107,
-      "p": 0.442,
+      "p": 0.491,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -6361,7 +9462,7 @@
       "sd": "home",
       "pick": "NCSU +3",
       "price": -115,
-      "p": 0.502,
+      "p": 0.498,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -6551,7 +9652,7 @@
       "sd": "over",
       "pick": "Over 42",
       "price": -110,
-      "p": 0.579,
+      "p": 0.499,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -6566,7 +9667,7 @@
       "sd": "home",
       "pick": "MD +8.5",
       "price": -110,
-      "p": 0.512,
+      "p": 0.491,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -6792,7 +9893,7 @@
       "sd": "away",
       "pick": "JMU ML",
       "price": -195,
-      "p": 0.8,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -6807,7 +9908,7 @@
       "sd": "away",
       "pick": "JMU -5",
       "price": -110,
-      "p": 0.457,
+      "p": 0.491,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -7283,7 +10384,7 @@
       "sd": "away",
       "pick": "NEB ML",
       "price": -660,
-      "p": 0.932,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -7545,7 +10646,7 @@
       "sd": "away",
       "pick": "ALA ML",
       "price": -700,
-      "p": 0.938,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -7560,7 +10661,7 @@
       "sd": "over",
       "pick": "Over 47.5",
       "price": -115,
-      "p": 0.627,
+      "p": 0.499,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -7576,7 +10677,7 @@
       "sd": "away",
       "pick": "ALA -14",
       "price": -110,
-      "p": 0.365,
+      "p": 0.491,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -7850,23 +10951,7 @@
     "start": "2026-11-14T18:00:00.000Z",
     "day": "2026-11-14",
     "st": "pre",
-    "picks": [
-     {
-      "m": "total",
-      "sd": "under",
-      "pick": "Under 130.5",
-      "price": -115,
-      "p": 0.396,
-      "tier": "strong",
-      "unan": false,
-      "off": true,
-      "by": [
-       "Sim",
-       "Judge",
-       "Scout"
-      ]
-     }
-    ],
+    "picks": [],
     "calls": {
      "ml": [
       {
@@ -8123,7 +11208,7 @@
       "sd": "under",
       "pick": "Under 150",
       "price": -110,
-      "p": 0.522,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -8552,7 +11637,22 @@
     "start": "2026-11-14T18:00:00.000Z",
     "day": "2026-11-14",
     "st": "pre",
-    "picks": [],
+    "picks": [
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 128.5",
+      "price": -110,
+      "p": 0.499,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Coach"
+      ]
+     }
+    ],
     "calls": {
      "spread": [
       {
@@ -8999,7 +12099,7 @@
       "sd": "away",
       "pick": "ECU ML",
       "price": -430,
-      "p": 0.908,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -9014,7 +12114,7 @@
       "sd": "over",
       "pick": "Over 45.5",
       "price": -110,
-      "p": 0.561,
+      "p": 0.512,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -9276,7 +12376,7 @@
       "sd": "over",
       "pick": "Over 47.5",
       "price": -110,
-      "p": 0.542,
+      "p": 0.499,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -9668,7 +12768,7 @@
       "sd": "home",
       "pick": "CAR ML",
       "price": -395,
-      "p": 0.888,
+      "p": 0.891,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -9684,7 +12784,7 @@
       "sd": "over",
       "pick": "Over 6.5",
       "price": 102,
-      "p": 0.525,
+      "p": 0.5,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -10090,15 +13190,14 @@
       "sd": "home",
       "pick": "TTU ML",
       "price": null,
-      "p": 0.998,
+      "p": 0.997,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -10389,7 +13488,7 @@
       "sd": "away",
       "pick": "WOF +6",
       "price": -112,
-      "p": 0.6,
+      "p": 0.492,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -10638,7 +13737,7 @@
       "sd": "under",
       "pick": "Under 155.5",
       "price": -110,
-      "p": 0.561,
+      "p": 0.5,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -10908,15 +14007,14 @@
       "sd": "home",
       "pick": "SFA ML",
       "price": -750,
-      "p": 0.976,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -11140,7 +14238,7 @@
       "sd": "home",
       "pick": "BELL ML",
       "price": null,
-      "p": 0.782,
+      "p": 0.655,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -11592,7 +14690,7 @@
       "sd": "under",
       "pick": "Under 145",
       "price": -105,
-      "p": 0.482,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -11766,7 +14864,7 @@
       "sd": "away",
       "pick": "M-OH ML",
       "price": -425,
-      "p": 0.756,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -11781,7 +14879,7 @@
       "sd": "away",
       "pick": "M-OH -9",
       "price": -115,
-      "p": 0.477,
+      "p": 0.492,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -11992,7 +15090,7 @@
       "sd": "over",
       "pick": "Over 44.5",
       "price": -105,
-      "p": 0.551,
+      "p": 0.499,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -12464,15 +15562,14 @@
       "sd": "home",
       "pick": "WIN ML",
       "price": null,
-      "p": 0.977,
+      "p": 0.885,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -12709,7 +15806,7 @@
       "sd": "over",
       "pick": "Over 149",
       "price": -110,
-      "p": 0.482,
+      "p": 0.498,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -12902,7 +15999,7 @@
       "sd": "away",
       "pick": "TENN ML",
       "price": -135,
-      "p": 0.74,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -13159,7 +16256,7 @@
       "sd": "home",
       "pick": "MOST ML",
       "price": -120,
-      "p": 0.71,
+      "p": 0.523,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -13170,11 +16267,11 @@
       ]
      },
      {
-      "m": "total",
-      "sd": "under",
-      "pick": "Under 49",
-      "price": -105,
-      "p": 0.505,
+      "m": "spread",
+      "sd": "home",
+      "pick": "MOST -1",
+      "price": -110,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -13184,11 +16281,11 @@
       ]
      },
      {
-      "m": "spread",
-      "sd": "home",
-      "pick": "MOST -1",
-      "price": -110,
-      "p": 0.46,
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 49",
+      "price": -105,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -13396,11 +16493,24 @@
     "st": "pre",
     "picks": [
      {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 54",
+      "price": -110,
+      "p": 0.758,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Scout"
+      ]
+     },
+     {
       "m": "ml",
       "sd": "home",
       "pick": "DEL ML",
       "price": -180,
-      "p": 0.768,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -13408,21 +16518,6 @@
        "Sim",
        "Judge",
        "Power"
-      ]
-     },
-     {
-      "m": "total",
-      "sd": "under",
-      "pick": "Under 54",
-      "price": -110,
-      "p": 0.554,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Most common"
       ]
      }
     ],
@@ -13628,7 +16723,7 @@
       "sd": "home",
       "pick": "GONZ ML",
       "price": -240,
-      "p": 0.932,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -14163,7 +17258,7 @@
       "sd": "home",
       "pick": "UGA ML",
       "price": -750,
-      "p": 0.942,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -14178,7 +17273,7 @@
       "sd": "home",
       "pick": "UGA -16",
       "price": -112,
-      "p": 0.375,
+      "p": 0.491,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -14575,7 +17670,7 @@
       "sd": "home",
       "pick": "IU ML",
       "price": -340,
-      "p": 0.864,
+      "p": 0.712,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -15311,7 +18406,7 @@
       "sd": "home",
       "pick": "UVA ML",
       "price": -480,
-      "p": 0.908,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -15326,7 +18421,7 @@
       "sd": "home",
       "pick": "UVA -11.5",
       "price": -110,
-      "p": 0.4,
+      "p": 0.498,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -15779,7 +18874,7 @@
       "sd": "home",
       "pick": "GAST +6",
       "price": -110,
-      "p": 0.526,
+      "p": 0.491,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -16007,7 +19102,7 @@
       "sd": "away",
       "pick": "JXST ML",
       "price": -295,
-      "p": 0.862,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -16022,7 +19117,7 @@
       "sd": "away",
       "pick": "JXST -7.5",
       "price": -110,
-      "p": 0.457,
+      "p": 0.491,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -16415,27 +19510,11 @@
     "st": "pre",
     "picks": [
      {
-      "m": "spread",
-      "sd": "home",
-      "pick": "CHI +1.5",
-      "price": -185,
-      "p": 0.769,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Coach",
-       "Power"
-      ]
-     },
-     {
       "m": "ml",
       "sd": "away",
       "pick": "WPG ML",
       "price": -162,
-      "p": 0.74,
+      "p": 0.725,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -16444,6 +19523,22 @@
        "Judge",
        "Power",
        "Scout"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "CHI +1.5",
+      "price": -185,
+      "p": 0.646,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Coach",
+       "Power"
       ]
      }
     ],
@@ -16659,7 +19754,7 @@
       "sd": "away",
       "pick": "TOL ML",
       "price": -650,
-      "p": 0.942,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -16890,7 +19985,7 @@
       "sd": "away",
       "pick": "SDST ML",
       "price": -170,
-      "p": 0.783,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -16905,7 +20000,7 @@
       "sd": "under",
       "pick": "Under 151.5",
       "price": -110,
-      "p": 0.522,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -17125,7 +20220,7 @@
       "sd": "home",
       "pick": "ODU ML",
       "price": null,
-      "p": 0.878,
+      "p": 0.731,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -17387,7 +20482,7 @@
       "sd": "home",
       "pick": "NAVY -1.5",
       "price": -110,
-      "p": 0.584,
+      "p": 0.55,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -17404,15 +20499,14 @@
       "sd": "home",
       "pick": "NAVY ML",
       "price": null,
-      "p": 0.865,
+      "p": 0.706,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -17662,15 +20756,14 @@
       "sd": "home",
       "pick": "GT ML",
       "price": null,
-      "p": 0.966,
+      "p": 0.887,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      },
      {
@@ -17678,7 +20771,7 @@
       "sd": "under",
       "pick": "Under 157.5",
       "price": -110,
-      "p": 0.538,
+      "p": 0.5,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -18166,7 +21259,23 @@
     "start": "2026-11-14T21:00:00.000Z",
     "day": "2026-11-14",
     "st": "pre",
-    "picks": [],
+    "picks": [
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 141.5",
+      "price": 105,
+      "p": 0.499,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Most common",
+       "Coach"
+      ]
+     }
+    ],
     "calls": {
      "spread": [
       {
@@ -18608,15 +21717,12 @@
       "sd": "away",
       "pick": "FRES +10",
       "price": -115,
-      "p": 0.634,
+      "p": 0.491,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
-       "Sim",
-       "Most common",
-       "Coach",
-       "Power"
+       "Dog"
       ]
      }
     ],
@@ -18889,7 +21995,7 @@
       "sd": "under",
       "pick": "Under 51.5",
       "price": -115,
-      "p": 0.528,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -19350,15 +22456,12 @@
       "sd": "over",
       "pick": "Over 48",
       "price": -115,
-      "p": 0.618,
+      "p": 0.775,
       "tier": "strong",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
-       "Most common",
-       "Coach"
+       "Scout"
       ]
      },
      {
@@ -19366,7 +22469,7 @@
       "sd": "away",
       "pick": "TULN +3",
       "price": 100,
-      "p": 0.52,
+      "p": 0.49,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -20095,15 +23198,14 @@
       "sd": "over",
       "pick": "Over 159",
       "price": -115,
-      "p": 0.621,
-      "tier": "strong",
+      "p": 0.516,
+      "tier": "value",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Most common",
-       "Scout"
+       "Most common"
       ]
      }
     ],
@@ -20325,7 +23427,7 @@
       "sd": "home",
       "pick": "LT ML",
       "price": -900,
-      "p": 0.949,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -20340,7 +23442,7 @@
       "sd": "home",
       "pick": "LT -17",
       "price": -115,
-      "p": 0.358,
+      "p": 0.492,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -20354,7 +23456,7 @@
       "sd": "under",
       "pick": "Under 55.5",
       "price": -110,
-      "p": 0.516,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -20561,7 +23663,7 @@
       "sd": "home",
       "pick": "UCF ML",
       "price": -170,
-      "p": 0.758,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -20576,7 +23678,7 @@
       "sd": "over",
       "pick": "Over 47",
       "price": -110,
-      "p": 0.616,
+      "p": 0.499,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -20808,7 +23910,7 @@
       "sd": "away",
       "pick": "WASH ML",
       "price": -130,
-      "p": 0.73,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -20823,7 +23925,7 @@
       "sd": "away",
       "pick": "WASH -2",
       "price": -110,
-      "p": 0.455,
+      "p": 0.491,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -21277,15 +24379,14 @@
       "sd": "home",
       "pick": "UNT ML",
       "price": -405,
-      "p": 0.956,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -21527,7 +24628,7 @@
       "sd": "home",
       "pick": "LEM ML",
       "price": null,
-      "p": 0.87,
+      "p": 0.728,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -21542,7 +24643,7 @@
       "sd": "home",
       "pick": "LEM -3.5",
       "price": -110,
-      "p": 0.527,
+      "p": 0.492,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -21558,7 +24659,7 @@
       "sd": "under",
       "pick": "Under 148",
       "price": -110,
-      "p": 0.521,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -22016,7 +25117,7 @@
       "sd": "away",
       "pick": "ORST +16.5",
       "price": -110,
-      "p": 0.693,
+      "p": 0.491,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -22279,7 +25380,7 @@
       "sd": "away",
       "pick": "APP ML",
       "price": -120,
-      "p": 0.696,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -22294,7 +25395,7 @@
       "sd": "away",
       "pick": "APP -1.5",
       "price": -112,
-      "p": 0.461,
+      "p": 0.491,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -22488,7 +25589,7 @@
       "sd": "home",
       "pick": "UK ML",
       "price": -150,
-      "p": 0.754,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -22503,7 +25604,7 @@
       "sd": "home",
       "pick": "UK -3",
       "price": 100,
-      "p": 0.437,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -22966,16 +26067,12 @@
       "sd": "away",
       "pick": "DEN ML",
       "price": -585,
-      "p": 0.953,
+      "p": 0.892,
       "tier": "supreme",
       "unan": true,
       "off": false,
       "by": [
-       "Sim",
-       "Judge",
-       "Covers",
-       "Power",
-       "Scout"
+       "Sim"
       ]
      }
     ],
@@ -23315,30 +26412,14 @@
       "sd": "home",
       "pick": "DAV ML",
       "price": null,
-      "p": 0.962,
+      "p": 0.862,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
-      ]
-     },
-     {
-      "m": "spread",
-      "sd": "home",
-      "pick": "DAV -9.5",
-      "price": -110,
-      "p": 0.467,
-      "tier": "value",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -23844,15 +26925,14 @@
       "sd": "home",
       "pick": "VILL ML",
       "price": null,
-      "p": 0.998,
+      "p": 0.996,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -24125,7 +27205,7 @@
       "sd": "home",
       "pick": "SF ML",
       "price": -550,
-      "p": 0.949,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -24140,7 +27220,7 @@
       "sd": "away",
       "pick": "PRST +10.5",
       "price": -107,
-      "p": 0.56,
+      "p": 0.492,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -24353,15 +27433,14 @@
       "sd": "home",
       "pick": "FAIR ML",
       "price": -800,
-      "p": 0.973,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      },
      {
@@ -24369,13 +27448,11 @@
       "sd": "under",
       "pick": "Under 141.5",
       "price": -115,
-      "p": 0.558,
-      "tier": "strong",
+      "p": 0.582,
+      "tier": "value",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
        "Scout"
       ]
      }
@@ -24600,15 +27677,14 @@
       "sd": "home",
       "pick": "WCU ML",
       "price": null,
-      "p": 0.944,
+      "p": 0.767,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -24894,16 +27970,15 @@
       "sd": "over",
       "pick": "Over 149.5",
       "price": -106,
-      "p": 0.649,
-      "tier": "supreme",
-      "unan": true,
+      "p": 0.515,
+      "tier": "strong",
+      "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
        "Most common",
-       "Coach",
-       "Scout"
+       "Coach"
       ]
      }
     ],
@@ -25378,16 +28453,15 @@
       "sd": "home",
       "pick": "CHSO ML",
       "price": -175,
-      "p": 0.932,
+      "p": 0.55,
       "tier": "supreme",
-      "unan": true,
+      "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
        "Most common",
-       "Power",
-       "Scout"
+       "Power"
       ]
      },
      {
@@ -25395,14 +28469,11 @@
       "sd": "under",
       "pick": "Under 150.5",
       "price": -105,
-      "p": 0.611,
+      "p": 0.576,
       "tier": "strong",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
-       "Most common",
        "Scout"
       ]
      },
@@ -25411,7 +28482,7 @@
       "sd": "home",
       "pick": "CHSO -3.5",
       "price": -110,
-      "p": 0.537,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -25679,7 +28750,7 @@
       "sd": "away",
       "pick": "BRWN +11.5",
       "price": -110,
-      "p": 0.599,
+      "p": 0.492,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -25965,16 +29036,12 @@
       "sd": "away",
       "pick": "BAY +9",
       "price": -110,
-      "p": 0.549,
+      "p": 0.491,
       "tier": "supreme",
       "unan": true,
       "off": false,
       "by": [
-       "Sim",
-       "Judge",
-       "Most common",
-       "Coach",
-       "Power"
+       "Dog"
       ]
      },
      {
@@ -25982,12 +29049,12 @@
       "sd": "under",
       "pick": "Under 51",
       "price": -112,
-      "p": 0.506,
+      "p": 0.761,
       "tier": "value",
       "unan": false,
       "off": true,
       "by": [
-       "Sim"
+       "Scout"
       ]
      }
     ],
@@ -26242,7 +29309,7 @@
       "sd": "away",
       "pick": "LOU ML",
       "price": -167,
-      "p": 0.766,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -26257,7 +29324,7 @@
       "sd": "over",
       "pick": "Over 57.5",
       "price": -110,
-      "p": 0.514,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -26271,7 +29338,7 @@
       "sd": "away",
       "pick": "LOU -3.5",
       "price": -105,
-      "p": 0.446,
+      "p": 0.491,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -26801,7 +29868,7 @@
       "sd": "home",
       "pick": "AFA ML",
       "price": -560,
-      "p": 0.913,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -27045,7 +30112,7 @@
       "sd": "home",
       "pick": "USA ML",
       "price": -152,
-      "p": 0.74,
+      "p": 0.521,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -27204,17 +30271,12 @@
       "sd": "home",
       "pick": "BOS +1.5",
       "price": -250,
-      "p": 0.921,
+      "p": 0.655,
       "tier": "supreme",
       "unan": true,
       "off": false,
       "by": [
-       "Sim",
-       "Judge",
-       "Most common",
-       "Pred",
-       "Coach",
-       "Power"
+       "Dog"
       ]
      }
     ],
@@ -27465,11 +30527,26 @@
     "st": "pre",
     "picks": [
      {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 6.5",
+      "price": -135,
+      "p": 0.578,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Scout"
+      ]
+     },
+     {
       "m": "spread",
       "sd": "home",
       "pick": "TOR +1.5",
       "price": -185,
-      "p": 0.772,
+      "p": 0.552,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -27478,21 +30555,6 @@
        "Judge",
        "Coach",
        "Power"
-      ]
-     },
-     {
-      "m": "total",
-      "sd": "over",
-      "pick": "Over 6.5",
-      "price": -135,
-      "p": 0.59,
-      "tier": "strong",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Scout"
       ]
      }
     ],
@@ -27726,7 +30788,7 @@
       "sd": "away",
       "pick": "COL +1.5",
       "price": -245,
-      "p": 0.91,
+      "p": 0.669,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -27744,7 +30806,7 @@
       "sd": "over",
       "pick": "Over 6.5",
       "price": -102,
-      "p": 0.554,
+      "p": 0.5,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -27993,12 +31055,11 @@
       "sd": "home",
       "pick": "TB ML",
       "price": -225,
-      "p": 0.803,
+      "p": 0.776,
       "tier": "strong",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
        "Judge",
        "Power",
        "Scout"
@@ -28220,7 +31281,7 @@
       "sd": "home",
       "pick": "PIT +1.5",
       "price": -238,
-      "p": 0.891,
+      "p": 0.655,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -28238,7 +31299,7 @@
       "sd": "over",
       "pick": "Over 6.5",
       "price": -108,
-      "p": 0.522,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -28495,7 +31556,7 @@
       "sd": "home",
       "pick": "WSH +1.5",
       "price": -250,
-      "p": 0.904,
+      "p": 0.658,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -28787,7 +31848,7 @@
       "sd": "away",
       "pick": "PHI +1.5",
       "price": -230,
-      "p": 0.88,
+      "p": 0.675,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -29020,7 +32081,7 @@
       "sd": "home",
       "pick": "STL +1.5",
       "price": -270,
-      "p": 0.919,
+      "p": 0.658,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -29272,7 +32333,7 @@
       "sd": "home",
       "pick": "TLSA ML",
       "price": -230,
-      "p": 0.807,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -29987,7 +33048,7 @@
       "sd": "home",
       "pick": "TOW ML",
       "price": null,
-      "p": 0.895,
+      "p": 0.767,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -30002,13 +33063,11 @@
       "sd": "under",
       "pick": "Under 147.5",
       "price": -110,
-      "p": 0.574,
-      "tier": "strong",
+      "p": 0.579,
+      "tier": "value",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
        "Scout"
       ]
      }
@@ -30215,13 +33274,11 @@
       "sd": "under",
       "pick": "Under 143.5",
       "price": -105,
-      "p": 0.567,
-      "tier": "strong",
+      "p": 0.575,
+      "tier": "value",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
        "Scout"
       ]
      }
@@ -30426,15 +33483,14 @@
       "sd": "away",
       "pick": "CIN ML",
       "price": -285,
-      "p": 0.896,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
-       "Power",
-       "Scout"
+       "Power"
       ]
      }
     ],
@@ -30891,7 +33947,7 @@
       "sd": "home",
       "pick": "IOWA ML",
       "price": -950,
-      "p": 0.952,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -30906,7 +33962,7 @@
       "sd": "over",
       "pick": "Over 47.5",
       "price": -110,
-      "p": 0.541,
+      "p": 0.499,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -31150,7 +34206,7 @@
       "sd": "home",
       "pick": "VT ML",
       "price": -750,
-      "p": 0.944,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -31165,7 +34221,7 @@
       "sd": "under",
       "pick": "Under 57.5",
       "price": -104,
-      "p": 0.474,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -31389,7 +34445,7 @@
       "sd": "home",
       "pick": "UNM ML",
       "price": -755,
-      "p": 0.941,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -31651,7 +34707,7 @@
       "sd": "away",
       "pick": "SC ML",
       "price": -330,
-      "p": 0.867,
+      "p": 0.722,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -31666,7 +34722,7 @@
       "sd": "away",
       "pick": "SC -7.5",
       "price": -112,
-      "p": 0.461,
+      "p": 0.498,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -31891,15 +34947,12 @@
       "sd": "away",
       "pick": "DET ML",
       "price": -190,
-      "p": 0.852,
+      "p": 0.726,
       "tier": "supreme",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
-       "Power",
-       "Scout"
+       "Judge"
       ]
      },
      {
@@ -31907,7 +34960,7 @@
       "sd": "away",
       "pick": "DET -4.5",
       "price": -115,
-      "p": 0.54,
+      "p": 0.492,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -32403,7 +35456,7 @@
       "sd": "home",
       "pick": "MIN ML",
       "price": -875,
-      "p": 0.969,
+      "p": 0.995,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -33493,7 +36546,7 @@
       "sd": "home",
       "pick": "DAL ML",
       "price": -142,
-      "p": 0.709,
+      "p": 0.655,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -33766,16 +36819,15 @@
       "sd": "away",
       "pick": "FUR +3",
       "price": -110,
-      "p": 0.585,
-      "tier": "supreme",
-      "unan": true,
+      "p": 0.492,
+      "tier": "strong",
+      "unan": false,
       "off": false,
       "by": [
        "Sim",
        "Judge",
        "Most common",
-       "Coach",
-       "Scout"
+       "Coach"
       ]
      }
     ],
@@ -33984,7 +37036,7 @@
       "sd": "home",
       "pick": "UTSA +2.5",
       "price": -105,
-      "p": 0.439,
+      "p": 0.498,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -34214,14 +37266,12 @@
       "sd": "home",
       "pick": "UTAH ML",
       "price": -205,
-      "p": 0.82,
+      "p": 0.724,
       "tier": "supreme",
       "unan": true,
       "off": true,
       "by": [
-       "Sim",
        "Judge",
-       "Most common",
        "Power",
        "Scout"
       ]
@@ -34231,7 +37281,7 @@
       "sd": "over",
       "pick": "Over 6.5",
       "price": 110,
-      "p": 0.504,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -34686,7 +37736,7 @@
       "sd": "home",
       "pick": "SDSU +2.5",
       "price": 105,
-      "p": 0.455,
+      "p": 0.491,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -34930,7 +37980,7 @@
       "sd": "under",
       "pick": "Under 166.5",
       "price": -110,
-      "p": 0.645,
+      "p": 0.5,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -34939,21 +37989,6 @@
        "Judge",
        "Most common",
        "Coach"
-      ]
-     },
-     {
-      "m": "ml",
-      "sd": "away",
-      "pick": "UNM ML",
-      "price": -118,
-      "p": 0.567,
-      "tier": "value",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Scout"
       ]
      }
     ],
@@ -35213,7 +38248,7 @@
       "sd": "away",
       "pick": "UVU +9.5",
       "price": -110,
-      "p": 0.583,
+      "p": 0.55,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -35427,7 +38462,7 @@
       "sd": "away",
       "pick": "WYO ML",
       "price": -270,
-      "p": 0.865,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -35443,7 +38478,7 @@
       "sd": "over",
       "pick": "Over 40.5",
       "price": -110,
-      "p": 0.563,
+      "p": 0.499,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -35700,7 +38735,7 @@
       "sd": "away",
       "pick": "NYI +1.5",
       "price": -258,
-      "p": 0.9,
+      "p": 0.673,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -35970,16 +39005,12 @@
       "sd": "away",
       "pick": "CGY +1.5",
       "price": -180,
-      "p": 0.851,
+      "p": 0.644,
       "tier": "supreme",
       "unan": true,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
-       "Most common",
-       "Coach",
-       "Power"
+       "Dog"
       ]
      },
      {
@@ -35987,14 +39018,12 @@
       "sd": "home",
       "pick": "LA ML",
       "price": -175,
-      "p": 0.696,
+      "p": 0.705,
       "tier": "strong",
       "unan": false,
       "off": true,
       "by": [
-       "Sim",
-       "Judge",
-       "Power"
+       "Judge"
       ]
      }
     ],
@@ -36687,7 +39716,7 @@
       "sd": "away",
       "pick": "NDSU ML",
       "price": -265,
-      "p": 0.859,
+      "p": 0.55,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -36702,7 +39731,7 @@
       "sd": "over",
       "pick": "Over 38.5",
       "price": -110,
-      "p": 0.548,
+      "p": 0.499,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -37170,30 +40199,29 @@
     "st": "pre",
     "picks": [
      {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 49",
+      "price": -105,
+      "p": 0.76,
+      "tier": "value",
+      "unan": false,
+      "off": true,
+      "by": [
+       "Scout"
+      ]
+     },
+     {
       "m": "spread",
       "sd": "away",
       "pick": "MISS +2.5",
       "price": -105,
-      "p": 0.527,
+      "p": 0.489,
       "tier": "value",
       "unan": false,
       "off": false,
       "by": [
        "Sim"
-      ]
-     },
-     {
-      "m": "total",
-      "sd": "under",
-      "pick": "Under 49",
-      "price": -105,
-      "p": 0.505,
-      "tier": "value",
-      "unan": false,
-      "off": true,
-      "by": [
-       "Sim",
-       "Judge"
       ]
      }
     ],
@@ -40401,6 +43429,6 @@
   },
   "heavy": -500
  },
- "betaSig": "[[[1,[\"supreme\"],8],[0,[],11],[1,[\"value\"],12],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],10],[0,[],14],[1,[\"strong\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[1,[\"strong!\"],13],[1,[\"value\"],11],[0,[],11],[0,[],10],[0,[],13],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],10],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],8],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],13],[3,[\"strong\",\"value\",\"value\"],10],[2,[\"strong\",\"strong\"],10],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],12],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],11],[2,[\"strong\",\"strong\"],12],[0,[],11],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],13],[2,[\"strong\",\"strong\"],16],[0,[],9],[0,[],11],[0,[],12],[1,[\"strong\"],14],[1,[\"value\"],10],[0,[],14],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"strong\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],11],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],10],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[2,[\"strong\",\"value\"],12],[0,[],14],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],10],[2,[\"supreme\",\"strong!\"],11],[1,[\"strong\"],15],[1,[\"supreme*\"],13],[0,[],11],[3,[\"supreme*\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[1,[\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],9],[0,[],14],[2,[\"strong\",\"strong!\"],10],[1,[\"strong!\"],10],[1,[\"strong\"],13],[0,[],10],[2,[\"strong\",\"strong\"],12],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],10],[0,[],9],[1,[\"strong\"],12],[1,[\"strong\"],14],[1,[\"supreme*\"],11],[1,[\"value\"],11],[2,[\"supreme*!\",\"value\"],14],[0,[],9],[1,[\"strong\"],12],[2,[\"strong\",\"value\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],13],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],9],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value\",\"value!\"],8],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],0,[[8,[null,null,null,null,null,null,null,null]],[14,[null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[9,[null,null,null,null,null,null,null,null,null]],[9,[null,null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[null,null,null]],[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[[1,[\"supreme\"],8],[0,[],11],[1,[\"value\"],12],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],10],[0,[],14],[1,[\"strong\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[1,[\"value\"],11],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],10],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],8],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],13],[3,[\"strong\",\"value\",\"value\"],10],[2,[\"strong\",\"strong\"],10],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],12],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],11],[2,[\"strong\",\"strong\"],12],[0,[],11],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],13],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],11],[0,[],12],[1,[\"strong\"],14],[1,[\"value\"],10],[0,[],14],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],11],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],10],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],14],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],10],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],15],[1,[\"strong\"],13],[0,[],11],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[1,[\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],9],[0,[],14],[2,[\"strong\",\"value!\"],10],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],10],[2,[\"strong\",\"strong\"],12],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],10],[0,[],9],[1,[\"strong\"],12],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[2,[\"supreme*!\",\"value\"],14],[0,[],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],13],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],9],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value!\",\"value\"],8],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[7,12,[null,null,null]],[[8,[null,null,null,null,null,null,null,null]],[14,[null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[9,[null,null,null,null,null,null,null,null,null]],[9,[null,null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[null,null,null]],[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
