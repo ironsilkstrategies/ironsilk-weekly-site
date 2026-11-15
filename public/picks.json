@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794730931145,
+ "generated": 1794731016776,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -1464,7 +1464,7 @@
      "gl": "#15 HOU@#22 CLE",
      "pick": "HOU ML",
      "price": -230,
-     "p": 0.909,
+     "p": 0.91,
      "start": "2026-11-15T18:00Z",
      "hit": null,
      "push": false,
@@ -1477,7 +1477,7 @@
      "gl": "#10 KC@#18 ATL",
      "pick": "KC ML",
      "price": -177,
-     "p": 0.871,
+     "p": 0.872,
      "start": "2026-11-15T18:00Z",
      "hit": null,
      "push": false,
@@ -2810,6 +2810,19 @@
     {
      "kind": "game",
      "sp": "nfl",
+     "game": "SEA@LV",
+     "gl": "#11 SEA@#26 LV",
+     "pick": "Over 40.5",
+     "price": -107,
+     "p": 0.461,
+     "start": "2026-11-15T21:05Z",
+     "hit": null,
+     "push": false,
+     "note": "indoors (dome) · out-of-conference game"
+    },
+    {
+     "kind": "game",
+     "sp": "nfl",
      "game": "LAR@ARI",
      "gl": "#13 LAR@#29 ARI",
      "pick": "Over 39",
@@ -2819,19 +2832,6 @@
      "hit": null,
      "push": false,
      "note": "low total · indoors (dome) · division game"
-    },
-    {
-     "kind": "game",
-     "sp": "nfl",
-     "game": "SEA@LV",
-     "gl": "#11 SEA@#26 LV",
-     "pick": "Over 40.5",
-     "price": -107,
-     "p": 0.46,
-     "start": "2026-11-15T21:05Z",
-     "hit": null,
-     "push": false,
-     "note": "indoors (dome) · out-of-conference game"
     }
    ],
    "recent": [],
@@ -3357,7 +3357,7 @@
      "gl": "#16 NE@#8 DET",
      "pick": "DET ML",
      "price": -150,
-     "p": 0.833,
+     "p": 0.832,
      "start": "2026-11-15T14:30Z",
      "hit": null,
      "push": false,
@@ -4015,7 +4015,7 @@
      "gl": "#15 HOU@#22 CLE",
      "pick": "HOU ML",
      "price": -230,
-     "p": 0.877,
+     "p": 0.878,
      "start": "2026-11-15T18:00Z",
      "hit": null,
      "push": false,
@@ -4442,24 +4442,11 @@
      "gl": "#14 NSH@#30 SJ",
      "pick": "NSH ML",
      "price": -170,
-     "p": 0.733,
+     "p": 0.732,
      "start": "2026-11-16T02:00Z",
      "hit": null,
      "push": false,
      "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · road favorite"
-    },
-    {
-     "kind": "game",
-     "sp": "nfl",
-     "game": "SF@DAL",
-     "gl": "#5 SF@#17 DAL",
-     "pick": "SF ML",
-     "price": -210,
-     "p": 0.72,
-     "start": "2026-11-15T21:25Z",
-     "hit": null,
-     "push": false,
-     "note": "picked team over-performing its scoring (Pythagorean) · road favorite · picked team has the clear talent edge (Scout)"
     },
     {
      "kind": "game",
@@ -4473,6 +4460,19 @@
      "hit": null,
      "push": false,
      "note": "picked team under-performing its scoring (Pythagorean) · road favorite · picked team owns a top-vs-bottom unit mismatch"
+    },
+    {
+     "kind": "game",
+     "sp": "nfl",
+     "game": "SF@DAL",
+     "gl": "#5 SF@#17 DAL",
+     "pick": "SF ML",
+     "price": -210,
+     "p": 0.719,
+     "start": "2026-11-15T21:25Z",
+     "hit": null,
+     "push": false,
+     "note": "picked team over-performing its scoring (Pythagorean) · road favorite · picked team has the clear talent edge (Scout)"
     },
     {
      "kind": "game",
@@ -5472,7 +5472,7 @@
        "s": "home",
        "pick": "DET ML",
        "price": -150,
-       "p": 0.833,
+       "p": 0.832,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -5559,7 +5559,7 @@
        "s": "home",
        "pick": "DET -3",
        "price": 100,
-       "p": 0.612,
+       "p": 0.611,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -5659,7 +5659,7 @@
        "s": "over",
        "pick": "Over 49.5",
        "price": -115,
-       "p": 0.46,
+       "p": 0.461,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -5857,7 +5857,7 @@
        "s": "home",
        "pick": "CCSU +4.5",
        "price": -108,
-       "p": 0.498,
+       "p": 0.497,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -6077,7 +6077,7 @@
        "s": "home",
        "pick": "PHI ML",
        "price": -288,
-       "p": 0.676,
+       "p": 0.677,
        "o": 0,
        "r": {
         "lab": "NBA ML favorites",
@@ -6095,7 +6095,7 @@
        "s": "home",
        "pick": "PHI ML",
        "price": -288,
-       "p": 0.672,
+       "p": 0.673,
        "o": 0,
        "r": {
         "lab": "NBA ML favorites",
@@ -7305,7 +7305,7 @@
        "s": "under",
        "pick": "Under 147.5",
        "price": -110,
-       "p": 0.55,
+       "p": 0.551,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -7636,10 +7636,10 @@
      "ml": [
       {
        "v": "Sim",
-       "s": "away",
-       "pick": "HARV ML",
-       "price": -108,
-       "p": 0.294,
+       "s": "home",
+       "pick": "AMER ML",
+       "price": -112,
+       "p": 0.46,
        "o": 0,
        "r": {
         "lab": "CBB ML favorites",
@@ -7657,7 +7657,7 @@
        "s": "home",
        "pick": "AMER ML",
        "price": -112,
-       "p": 0.485,
+       "p": 0.479,
        "o": 0,
        "r": {
         "lab": "CBB ML favorites",
@@ -7675,7 +7675,7 @@
        "s": "away",
        "pick": "HARV ML",
        "price": -108,
-       "p": 0.498,
+       "p": 0.499,
        "o": 0,
        "r": {
         "lab": "CBB ML favorites",
@@ -7688,7 +7688,7 @@
        "s": "home",
        "pick": "AMER ML",
        "price": -112,
-       "p": 0.529,
+       "p": 0.482,
        "o": 0,
        "r": {
         "lab": "CBB ML favorites",
@@ -7706,7 +7706,7 @@
        "s": "away",
        "pick": "HARV ML",
        "price": -108,
-       "p": 0.278,
+       "p": 0.446,
        "o": 0,
        "r": {
         "lab": "CBB ML favorites",
@@ -7813,7 +7813,7 @@
        "s": "under",
        "pick": "Under 132.5",
        "price": -108,
-       "p": 0.55,
+       "p": 0.551,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -7963,7 +7963,7 @@
        "s": "home",
        "pick": "ISU ML",
        "price": null,
-       "p": 0.777,
+       "p": 0.58,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -7981,7 +7981,7 @@
        "s": "home",
        "pick": "ISU ML",
        "price": null,
-       "p": 0.91,
+       "p": 0.574,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -7999,7 +7999,7 @@
        "s": "home",
        "pick": "ISU ML",
        "price": null,
-       "p": 0.854,
+       "p": 0.552,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -8017,7 +8017,7 @@
        "s": "home",
        "pick": "ISU ML",
        "price": null,
-       "p": 0.737,
+       "p": 0.541,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -8055,7 +8055,7 @@
        "s": "away",
        "pick": "NIA +39.5",
        "price": -108,
-       "p": 0.478,
+       "p": 0.477,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -8247,7 +8247,7 @@
        "s": "away",
        "pick": "MISS ML",
        "price": -105,
-       "p": 0.478,
+       "p": 0.491,
        "o": 0,
        "r": {
         "lab": "CFB ML favorites",
@@ -8265,7 +8265,7 @@
        "s": "home",
        "pick": "OU ML",
        "price": -115,
-       "p": 0.456,
+       "p": 0.453,
        "o": 0,
        "r": {
         "lab": "CFB ML favorites",
@@ -8283,7 +8283,7 @@
        "s": "home",
        "pick": "OU ML",
        "price": -115,
-       "p": 0.53,
+       "p": 0.449,
        "o": 0,
        "r": {
         "lab": "CFB ML favorites",
@@ -8321,7 +8321,7 @@
        "s": "away",
        "pick": "MISS +1",
        "price": -110,
-       "p": 0.487,
+       "p": 0.473,
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
@@ -8339,7 +8339,7 @@
        "s": "home",
        "pick": "OU -1",
        "price": -110,
-       "p": 0.461,
+       "p": 0.447,
        "o": 0,
        "r": {
         "lab": "CFB spread favorites",
@@ -8408,7 +8408,7 @@
        "s": "under",
        "pick": "Under 49",
        "price": -110,
-       "p": 0.542,
+       "p": 0.53,
        "o": 0,
        "r": {
         "lab": "CFB unders",
@@ -8426,7 +8426,7 @@
        "s": "under",
        "pick": "Under 49",
        "price": -110,
-       "p": 0.541,
+       "p": 0.529,
        "o": 0,
        "r": {
         "lab": "CFB unders",
@@ -8545,7 +8545,7 @@
        "s": "away",
        "pick": "KC ML",
        "price": -177,
-       "p": 0.871,
+       "p": 0.872,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -8846,7 +8846,7 @@
        "s": "away",
        "pick": "HOU ML",
        "price": -230,
-       "p": 0.909,
+       "p": 0.91,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -8882,7 +8882,7 @@
        "s": "away",
        "pick": "HOU ML",
        "price": -230,
-       "p": 0.877,
+       "p": 0.878,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -9354,7 +9354,7 @@
        "s": "under",
        "pick": "Under 42",
        "price": -110,
-       "p": 0.508,
+       "p": 0.509,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -9689,7 +9689,7 @@
       "sd": "home",
       "pick": "IND ML",
       "price": -210,
-      "p": 0.787,
+      "p": 0.777,
       "tier": "supreme",
       "unan": false,
       "off": true,
@@ -9698,21 +9698,6 @@
        "Judge",
        "Covers",
        "Power"
-      ]
-     },
-     {
-      "m": "spread",
-      "sd": "home",
-      "pick": "IND -4.5",
-      "price": -108,
-      "p": 0.464,
-      "tier": "value",
-      "unan": false,
-      "off": false,
-      "by": [
-       "Sim",
-       "Judge",
-       "Covers"
       ]
      }
     ],
@@ -9849,7 +9834,7 @@
        "s": "away",
        "pick": "MIA +4.5",
        "price": -112,
-       "p": 0.525,
+       "p": 0.524,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -10191,7 +10176,7 @@
       "sd": "under",
       "pick": "Under 51",
       "price": -110,
-      "p": 0.595,
+      "p": 0.568,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -10207,8 +10192,8 @@
       "sd": "home",
       "pick": "NYJ +9",
       "price": -125,
-      "p": 0.52,
-      "tier": "strong",
+      "p": 0.464,
+      "tier": "value",
       "unan": false,
       "off": false,
       "by": [
@@ -10511,7 +10496,7 @@
        "s": "under",
        "pick": "Under 51",
        "price": -110,
-       "p": 0.48,
+       "p": 0.481,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -10696,7 +10681,7 @@
        "s": "under",
        "pick": "Under 133.5",
        "price": -115,
-       "p": 0.52,
+       "p": 0.521,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -10758,7 +10743,7 @@
        "s": "away",
        "pick": "W&M +28.5",
        "price": -105,
-       "p": 0.497,
+       "p": 0.496,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -10776,7 +10761,7 @@
        "s": "away",
        "pick": "W&M +28.5",
        "price": -105,
-       "p": 0.516,
+       "p": 0.515,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -10830,7 +10815,7 @@
        "s": "away",
        "pick": "W&M +28.5",
        "price": -105,
-       "p": 0.498,
+       "p": 0.497,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -11038,7 +11023,7 @@
        "s": "away",
        "pick": "SCST +17.5",
        "price": -102,
-       "p": 0.497,
+       "p": 0.496,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -11776,7 +11761,7 @@
        "s": "away",
        "pick": "CSUB +4.5",
        "price": -112,
-       "p": 0.505,
+       "p": 0.504,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -11868,7 +11853,7 @@
        "s": "over",
        "pick": "Over 153.5",
        "price": -112,
-       "p": 0.488,
+       "p": 0.489,
        "o": 0,
        "r": {
         "lab": "CBB overs",
@@ -12109,7 +12094,7 @@
        "s": "under",
        "pick": "Under 138.5",
        "price": -115,
-       "p": 0.52,
+       "p": 0.521,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -12245,7 +12230,7 @@
        "s": "away",
        "pick": "MIZ +1.5",
        "price": -118,
-       "p": 0.545,
+       "p": 0.544,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -12263,7 +12248,7 @@
        "s": "away",
        "pick": "MIZ +1.5",
        "price": -118,
-       "p": 0.539,
+       "p": 0.538,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -12554,7 +12539,7 @@
        "s": "away",
        "pick": "BAY +5.5",
        "price": -115,
-       "p": 0.537,
+       "p": 0.536,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -12688,8 +12673,8 @@
        "v": "Sim",
        "s": "home",
        "pick": "EIU ML",
-       "price": 124,
-       "p": 0.351,
+       "price": 130,
+       "p": 0.226,
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
@@ -12706,8 +12691,8 @@
        "v": "Judge",
        "s": "home",
        "pick": "EIU ML",
-       "price": 124,
-       "p": 0.358,
+       "price": 130,
+       "p": 0.234,
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
@@ -12724,8 +12709,8 @@
        "v": "Power",
        "s": "home",
        "pick": "EIU ML",
-       "price": 124,
-       "p": 0.435,
+       "price": 130,
+       "p": 0.434,
        "o": 0,
        "r": {
         "lab": "CBB ML dogs",
@@ -12742,8 +12727,8 @@
        "v": "Scout",
        "s": "away",
        "pick": "PFW ML",
-       "price": -148,
-       "p": 0.532,
+       "price": -155,
+       "p": 0.533,
        "o": 0,
        "r": {
         "lab": "CBB ML favorites",
@@ -13112,7 +13097,7 @@
        "s": "home",
        "pick": "AAMU -2.5",
        "price": -118,
-       "p": 0.465,
+       "p": 0.464,
        "o": 0,
        "r": {
         "lab": "CBB spread favorites",
@@ -13669,7 +13654,7 @@
        "s": "away",
        "pick": "CREI +4.5",
        "price": -110,
-       "p": 0.497,
+       "p": 0.496,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -13927,7 +13912,7 @@
        "s": "away",
        "pick": "LAL -2.5",
        "price": -116,
-       "p": 0.49,
+       "p": 0.489,
        "o": 0,
        "r": {
         "lab": "NBA spread favorites",
@@ -14037,7 +14022,7 @@
        "s": "over",
        "pick": "Over 226.5",
        "price": -107,
-       "p": 0.528,
+       "p": 0.529,
        "o": 0,
        "r": {
         "lab": "NBA overs",
@@ -14260,7 +14245,7 @@
        "s": "away",
        "pick": "NMSU +12.5",
        "price": -102,
-       "p": 0.497,
+       "p": 0.496,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -14365,7 +14350,7 @@
        "s": "under",
        "pick": "Under 143.5",
        "price": -112,
-       "p": 0.52,
+       "p": 0.521,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -14425,7 +14410,7 @@
        "s": "home",
        "pick": "JMU ML",
        "price": null,
-       "p": 0.7,
+       "p": 0.55,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -14443,7 +14428,7 @@
        "s": "home",
        "pick": "JMU ML",
        "price": null,
-       "p": 0.735,
+       "p": 0.557,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -14461,7 +14446,7 @@
        "s": "home",
        "pick": "JMU ML",
        "price": null,
-       "p": 0.702,
+       "p": 0.545,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -14481,7 +14466,7 @@
        "s": "away",
        "pick": "MERC +15.5",
        "price": -112,
-       "p": 0.497,
+       "p": 0.496,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -14555,7 +14540,7 @@
        "s": "under",
        "pick": "Under 138.5",
        "price": -110,
-       "p": 0.55,
+       "p": 0.551,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -14675,7 +14660,7 @@
        "s": "away",
        "pick": "CHST +17.5",
        "price": -105,
-       "p": 0.478,
+       "p": 0.477,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -14693,7 +14678,7 @@
        "s": "away",
        "pick": "CHST +17.5",
        "price": -105,
-       "p": 0.477,
+       "p": 0.476,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -14747,7 +14732,7 @@
        "s": "away",
        "pick": "CHST +17.5",
        "price": -105,
-       "p": 0.477,
+       "p": 0.476,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -14888,7 +14873,7 @@
        "s": "away",
        "pick": "IDST +16.5",
        "price": -112,
-       "p": 0.478,
+       "p": 0.477,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -14906,7 +14891,7 @@
        "s": "away",
        "pick": "IDST +16.5",
        "price": -112,
-       "p": 0.478,
+       "p": 0.477,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -15176,7 +15161,7 @@
        "s": "away",
        "pick": "SEA ML",
        "price": -290,
-       "p": 0.769,
+       "p": 0.768,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -15363,7 +15348,7 @@
        "s": "over",
        "pick": "Over 40.5",
        "price": -107,
-       "p": 0.46,
+       "p": 0.461,
        "o": 1,
        "r": {
         "lab": "NFL overs",
@@ -15461,7 +15446,7 @@
        "s": "away",
        "pick": "LAR ML",
        "price": -450,
-       "p": 0.787,
+       "p": 0.788,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -15672,8 +15657,8 @@
       "sd": "home",
       "pick": "DAL +4",
       "price": -110,
-      "p": 0.516,
-      "tier": "strong",
+      "p": 0.442,
+      "tier": "value",
       "unan": false,
       "off": false,
       "by": [
@@ -16392,7 +16377,7 @@
        "s": "home",
        "pick": "USI +7.5",
        "price": -110,
-       "p": 0.492,
+       "p": 0.491,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -16412,7 +16397,7 @@
        "s": "under",
        "pick": "Under 139.5",
        "price": -108,
-       "p": 0.55,
+       "p": 0.551,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -16962,7 +16947,7 @@
        "s": "home",
        "pick": "ORE ML",
        "price": null,
-       "p": 0.746,
+       "p": 0.55,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -16980,7 +16965,7 @@
        "s": "home",
        "pick": "ORE ML",
        "price": null,
-       "p": 0.755,
+       "p": 0.557,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -16998,7 +16983,7 @@
        "s": "home",
        "pick": "ORE ML",
        "price": null,
-       "p": 0.819,
+       "p": 0.55,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -17011,7 +16996,7 @@
        "s": "home",
        "pick": "ORE ML",
        "price": null,
-       "p": 0.78,
+       "p": 0.545,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -17167,7 +17152,7 @@
        "s": "over",
        "pick": "Over 157.5",
        "price": -108,
-       "p": 0.451,
+       "p": 0.452,
        "o": 0,
        "r": {
         "lab": "CBB overs",
@@ -17704,7 +17689,7 @@
        "v": "Sim",
        "s": "away",
        "pick": "NY ML",
-       "price": -192,
+       "price": -185,
        "p": 0.593,
        "o": 0,
        "r": {
@@ -17722,8 +17707,8 @@
        "v": "Judge",
        "s": "away",
        "pick": "NY ML",
-       "price": -192,
-       "p": 0.667,
+       "price": -185,
+       "p": 0.666,
        "o": 0,
        "r": {
         "lab": "NBA ML favorites",
@@ -17740,8 +17725,8 @@
        "v": "Power",
        "s": "away",
        "pick": "NY ML",
-       "price": -192,
-       "p": 0.608,
+       "price": -185,
+       "p": 0.572,
        "o": 0,
        "r": {
         "lab": "NBA ML favorites",
@@ -18181,7 +18166,7 @@
        "s": "over",
        "pick": "Over 166.5",
        "price": -110,
-       "p": 0.46,
+       "p": 0.461,
        "o": 0,
        "r": {
         "lab": "CBB overs",
@@ -18475,7 +18460,7 @@
        "s": "under",
        "pick": "Under 222.5",
        "price": -110,
-       "p": 0.474,
+       "p": 0.475,
        "o": 0,
        "r": {
         "lab": "NBA unders",
@@ -18523,7 +18508,7 @@
        "s": "home",
        "pick": "SJU ML",
        "price": null,
-       "p": 0.729,
+       "p": 0.58,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -18541,7 +18526,7 @@
        "s": "home",
        "pick": "SJU ML",
        "price": null,
-       "p": 0.724,
+       "p": 0.574,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -18559,7 +18544,7 @@
        "s": "home",
        "pick": "SJU ML",
        "price": null,
-       "p": 0.729,
+       "p": 0.55,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -18572,7 +18557,7 @@
        "s": "home",
        "pick": "SJU ML",
        "price": null,
-       "p": 0.709,
+       "p": 0.552,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -18762,7 +18747,7 @@
        "s": "home",
        "pick": "USC ML",
        "price": null,
-       "p": 0.777,
+       "p": 0.58,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -18780,7 +18765,7 @@
        "s": "home",
        "pick": "USC ML",
        "price": null,
-       "p": 0.911,
+       "p": 0.574,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -18798,7 +18783,7 @@
        "s": "home",
        "pick": "USC ML",
        "price": null,
-       "p": 0.854,
+       "p": 0.552,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -18816,7 +18801,7 @@
        "s": "home",
        "pick": "USC ML",
        "price": null,
-       "p": 0.737,
+       "p": 0.541,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -18908,7 +18893,7 @@
        "s": "away",
        "pick": "UAPB +44.5",
        "price": -115,
-       "p": 0.478,
+       "p": 0.477,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -19666,7 +19651,7 @@
        "s": "away",
        "pick": "TXST ML",
        "price": null,
-       "p": 0.737,
+       "p": 0.559,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -19684,7 +19669,7 @@
        "s": "away",
        "pick": "TXST ML",
        "price": null,
-       "p": 0.746,
+       "p": 0.567,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -19702,7 +19687,7 @@
        "s": "away",
        "pick": "TXST ML",
        "price": null,
-       "p": 0.816,
+       "p": 0.55,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -19733,7 +19718,7 @@
        "s": "away",
        "pick": "TXST ML",
        "price": null,
-       "p": 0.719,
+       "p": 0.541,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -19936,7 +19921,7 @@
        "s": "away",
        "pick": "CCU +28.5",
        "price": -108,
-       "p": 0.478,
+       "p": 0.477,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -19954,7 +19939,7 @@
        "s": "away",
        "pick": "CCU +28.5",
        "price": -108,
-       "p": 0.478,
+       "p": 0.477,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -20008,7 +19993,7 @@
        "s": "away",
        "pick": "CCU +28.5",
        "price": -108,
-       "p": 0.478,
+       "p": 0.477,
        "o": 0,
        "r": {
         "lab": "CBB spread dogs",
@@ -20046,7 +20031,7 @@
        "s": "under",
        "pick": "Under 147.5",
        "price": -105,
-       "p": 0.55,
+       "p": 0.551,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -20710,7 +20695,7 @@
       "sd": "home",
       "pick": "CIN ML",
       "price": -185,
-      "p": 0.757,
+      "p": 0.753,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -20999,7 +20984,7 @@
        "s": "under",
        "pick": "Under 49.5",
        "price": -107,
-       "p": 0.48,
+       "p": 0.481,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -21318,7 +21303,7 @@
        "s": "home",
        "pick": "SJSU ML",
        "price": null,
-       "p": 0.658,
+       "p": 0.58,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -21336,7 +21321,7 @@
        "s": "home",
        "pick": "SJSU ML",
        "price": null,
-       "p": 0.653,
+       "p": 0.574,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -21354,7 +21339,7 @@
        "s": "home",
        "pick": "SJSU ML",
        "price": null,
-       "p": 0.728,
+       "p": 0.55,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -21367,7 +21352,7 @@
        "s": "home",
        "pick": "SJSU ML",
        "price": null,
-       "p": 0.683,
+       "p": 0.552,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -21385,7 +21370,7 @@
        "s": "home",
        "pick": "SJSU ML",
        "price": null,
-       "p": 0.619,
+       "p": 0.541,
        "o": 0,
        "r": {
         "lab": "CBB ML sides",
@@ -21546,7 +21531,7 @@
        "s": "under",
        "pick": "Under 157.5",
        "price": -110,
-       "p": 0.52,
+       "p": 0.521,
        "o": 0,
        "r": {
         "lab": "CBB unders",
@@ -21792,7 +21777,7 @@
        "s": "over",
        "pick": "Over 6.5",
        "price": -110,
-       "p": 0.5,
+       "p": 0.501,
        "o": 0,
        "r": {
         "lab": "NHL overs",
@@ -22146,8 +22131,8 @@
       "sd": "away",
       "pick": "LAC +4.5",
       "price": -112,
-      "p": 0.501,
-      "tier": "strong",
+      "p": 0.446,
+      "tier": "value",
       "unan": false,
       "off": false,
       "by": [
@@ -22164,7 +22149,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.762,
+       "p": 0.73,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -22182,8 +22167,8 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.755,
-       "o": 0,
+       "p": 0.848,
+       "o": 1,
        "r": {
         "lab": "NFL ML favorites",
         "rk": 1,
@@ -22200,8 +22185,8 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.739,
-       "o": 0,
+       "p": 0.832,
+       "o": 1,
        "r": {
         "lab": "NFL ML favorites",
         "rk": 5,
@@ -22218,8 +22203,8 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.723,
-       "o": 0,
+       "p": 0.782,
+       "o": 1,
        "r": {
         "lab": "NFL ML favorites",
         "rk": 7,
@@ -22236,7 +22221,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.693,
+       "p": 0.738,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -22251,7 +22236,7 @@
        "s": "away",
        "pick": "LAC +4.5",
        "price": -112,
-       "p": 0.406,
+       "p": 0.398,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -22269,7 +22254,7 @@
        "s": "away",
        "pick": "LAC +4.5",
        "price": -112,
-       "p": 0.416,
+       "p": 0.404,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -22305,7 +22290,7 @@
        "s": "home",
        "pick": "BAL -4.5",
        "price": -108,
-       "p": 0.588,
+       "p": 0.612,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -22336,7 +22321,7 @@
        "s": "away",
        "pick": "LAC +4.5",
        "price": -112,
-       "p": 0.448,
+       "p": 0.438,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -22351,7 +22336,7 @@
        "s": "over",
        "pick": "Over 38.5",
        "price": -113,
-       "p": 0.471,
+       "p": 0.421,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -22369,7 +22354,7 @@
        "s": "over",
        "pick": "Over 38.5",
        "price": -113,
-       "p": 0.483,
+       "p": 0.432,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -22423,7 +22408,7 @@
        "s": "over",
        "pick": "Over 38.5",
        "price": -113,
-       "p": 0.511,
+       "p": 0.461,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -26360,9 +26345,13 @@
      0,
      0,
      0,
+     0,
+     0,
      0
     ],
     "dates": [
+     "251221",
+     "251225",
      "260914",
      "260920",
      "260927",
@@ -26377,10 +26366,10 @@
      5
     ],
     "l10": [
-     8,
-     8
+     10,
+     10
     ],
-    "streak": 8,
+    "streak": 10,
     "avg10": 0,
     "by": [
      {
@@ -26422,6 +26411,8 @@
     "start": "2026-11-15T18:00Z",
     "last": [
      0,
+     1,
+     0,
      0,
      0,
      0,
@@ -26431,6 +26422,8 @@
      0
     ],
     "dates": [
+     "251221",
+     "251225",
      "260914",
      "260920",
      "260927",
@@ -26445,11 +26438,11 @@
      5
     ],
     "l10": [
-     8,
-     8
+     10,
+     10
     ],
-    "streak": 8,
-    "avg10": 0,
+    "streak": 10,
+    "avg10": 0.1,
     "by": [
      {
       "v": "Sim",
@@ -26490,6 +26483,8 @@
     "start": "2026-11-15T18:00Z",
     "last": [
      0,
+     1,
+     0,
      0,
      0,
      0,
@@ -26499,6 +26494,8 @@
      0
     ],
     "dates": [
+     "251221",
+     "251225",
      "260914",
      "260920",
      "260927",
@@ -26513,11 +26510,11 @@
      5
     ],
     "l10": [
-     8,
-     8
+     10,
+     10
     ],
-    "streak": 8,
-    "avg10": 0,
+    "streak": 10,
+    "avg10": 0.1,
     "by": [
      {
       "v": "Sim",
@@ -27622,222 +27619,6 @@
     ],
     "streak": 10,
     "avg10": 6.8,
-    "by": [
-     {
-      "v": "Sim",
-      "p": 0.999
-     },
-     {
-      "v": "Most common",
-      "p": 0.999
-     },
-     {
-      "v": "Trends",
-      "p": 0.999
-     },
-     {
-      "v": "Coach",
-      "p": 0.999
-     },
-     {
-      "v": "Judge",
-      "p": 0.999
-     }
-    ],
-    "votes": 5,
-    "p": 0.999,
-    "fair": -99900
-   },
-   {
-    "id": "nfl|tjhockenson|py|200|under",
-    "sp": "nfl",
-    "player": "T.J. Hockenson",
-    "team": "MIN",
-    "k": "py",
-    "lab": "pass yds",
-    "thr": 200,
-    "side": "under",
-    "opp": "GB",
-    "home": false,
-    "start": "2026-11-15T18:00Z",
-    "last": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "dates": [
-     "251214",
-     "251221",
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261109"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     10,
-     10
-    ],
-    "streak": 10,
-    "avg10": 0,
-    "by": [
-     {
-      "v": "Sim",
-      "p": 0.999
-     },
-     {
-      "v": "Most common",
-      "p": 0.999
-     },
-     {
-      "v": "Trends",
-      "p": 0.999
-     },
-     {
-      "v": "Coach",
-      "p": 0.999
-     },
-     {
-      "v": "Judge",
-      "p": 0.999
-     }
-    ],
-    "votes": 5,
-    "p": 0.999,
-    "fair": -99900
-   },
-   {
-    "id": "nfl|tjhockenson|ry|50|under",
-    "sp": "nfl",
-    "player": "T.J. Hockenson",
-    "team": "MIN",
-    "k": "ry",
-    "lab": "rush yds",
-    "thr": 50,
-    "side": "under",
-    "opp": "GB",
-    "home": false,
-    "start": "2026-11-15T18:00Z",
-    "last": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "dates": [
-     "251214",
-     "251221",
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261109"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     10,
-     10
-    ],
-    "streak": 10,
-    "avg10": 0,
-    "by": [
-     {
-      "v": "Sim",
-      "p": 0.999
-     },
-     {
-      "v": "Most common",
-      "p": 0.999
-     },
-     {
-      "v": "Trends",
-      "p": 0.999
-     },
-     {
-      "v": "Coach",
-      "p": 0.999
-     },
-     {
-      "v": "Judge",
-      "p": 0.999
-     }
-    ],
-    "votes": 5,
-    "p": 0.999,
-    "fair": -99900
-   },
-   {
-    "id": "nfl|tjhockenson|pry|220|under",
-    "sp": "nfl",
-    "player": "T.J. Hockenson",
-    "team": "MIN",
-    "k": "pry",
-    "lab": "pass+rush yds",
-    "thr": 220,
-    "side": "under",
-    "opp": "GB",
-    "home": false,
-    "start": "2026-11-15T18:00Z",
-    "last": [
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0,
-     0
-    ],
-    "dates": [
-     "251214",
-     "251221",
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261109"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     10,
-     10
-    ],
-    "streak": 10,
-    "avg10": 0,
     "by": [
      {
       "v": "Sim",
@@ -34317,9 +34098,201 @@
     "votes": 5,
     "p": 0.999,
     "fair": -99900
+   },
+   {
+    "id": "nfl|tutuatwell|ry|50|under",
+    "sp": "nfl",
+    "player": "Tutu Atwell",
+    "team": "LAR",
+    "k": "ry",
+    "lab": "rush yds",
+    "thr": 50,
+    "side": "under",
+    "opp": "ARI",
+    "home": false,
+    "start": "2026-11-15T21:05Z",
+    "last": [
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "dates": [
+     "260921",
+     "261004",
+     "261012",
+     "261101",
+     "261108"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     5,
+     5
+    ],
+    "streak": 5,
+    "avg10": 0,
+    "by": [
+     {
+      "v": "Sim",
+      "p": 0.999
+     },
+     {
+      "v": "Most common",
+      "p": 0.999
+     },
+     {
+      "v": "Trends",
+      "p": 0.999
+     },
+     {
+      "v": "Coach",
+      "p": 0.999
+     },
+     {
+      "v": "Judge",
+      "p": 0.999
+     }
+    ],
+    "votes": 5,
+    "p": 0.999,
+    "fair": -99900
+   },
+   {
+    "id": "nfl|tutuatwell|pry|220|under",
+    "sp": "nfl",
+    "player": "Tutu Atwell",
+    "team": "LAR",
+    "k": "pry",
+    "lab": "pass+rush yds",
+    "thr": 220,
+    "side": "under",
+    "opp": "ARI",
+    "home": false,
+    "start": "2026-11-15T21:05Z",
+    "last": [
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "dates": [
+     "260921",
+     "261004",
+     "261012",
+     "261101",
+     "261108"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     5,
+     5
+    ],
+    "streak": 5,
+    "avg10": 0,
+    "by": [
+     {
+      "v": "Sim",
+      "p": 0.999
+     },
+     {
+      "v": "Most common",
+      "p": 0.999
+     },
+     {
+      "v": "Trends",
+      "p": 0.999
+     },
+     {
+      "v": "Coach",
+      "p": 0.999
+     },
+     {
+      "v": "Judge",
+      "p": 0.999
+     }
+    ],
+    "votes": 5,
+    "p": 0.999,
+    "fair": -99900
+   },
+   {
+    "id": "nfl|tylerhigbee|py|200|under",
+    "sp": "nfl",
+    "player": "Tyler Higbee",
+    "team": "LAR",
+    "k": "py",
+    "lab": "pass yds",
+    "thr": 200,
+    "side": "under",
+    "opp": "ARI",
+    "home": false,
+    "start": "2026-11-15T21:05Z",
+    "last": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "dates": [
+     "260910",
+     "260927",
+     "261004",
+     "261012",
+     "261018",
+     "261025",
+     "261101",
+     "261108"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     8,
+     8
+    ],
+    "streak": 8,
+    "avg10": 0,
+    "by": [
+     {
+      "v": "Sim",
+      "p": 0.999
+     },
+     {
+      "v": "Most common",
+      "p": 0.999
+     },
+     {
+      "v": "Trends",
+      "p": 0.999
+     },
+     {
+      "v": "Coach",
+      "p": 0.999
+     },
+     {
+      "v": "Judge",
+      "p": 0.999
+     }
+    ],
+    "votes": 5,
+    "p": 0.999,
+    "fair": -99900
    }
   ]
  },
- "betaSig": "[[\"nfl|jadarianprice|py|200|under5\",\"nfl|jadarianprice|pry|220|under5\",\"nfl|zachcharbonnet|py|200|under5\",\"nfl|zachcharbonnet|pry|220|under5\",\"nfl|georgeholani|py|200|under5\",\"nfl|georgeholani|pry|220|under5\",\"nfl|jaxonsmithnjigba|py|200|under5\",\"nfl|jaxonsmithnjigba|ry|50|under5\",\"nfl|jaxonsmithnjigba|pry|220|under5\",\"nfl|toryhorton|py|200|under5\",\"nfl|toryhorton|ry|50|under5\",\"nfl|toryhorton|pry|220|under5\",\"nfl|ajbarner|py|200|under5\",\"nfl|ajbarner|ry|50|under5\",\"nfl|ajbarner|pry|220|under5\",\"nfl|cooperkupp|py|200|under5\",\"nfl|cooperkupp|ry|50|under5\",\"nfl|cooperkupp|pry|220|under5\",\"nfl|patrickmahomes|wy|40|under5\",\"nfl|patrickmahomes|rec|4|under5\",\"nfl|emmettjohnson|py|200|under5\",\"nfl|emmettjohnson|pry|220|under5\",\"nfl|traviskelce|py|200|under5\",\"nfl|traviskelce|ry|50|under5\",\"nfl|traviskelce|pry|220|under5\",\"nfl|rasheerice|py|200|under5\",\"nfl|rasheerice|ry|50|under5\",\"nfl|rasheerice|pry|220|under5\",\"nfl|cyrusallen|py|200|under5\",\"nfl|cyrusallen|ry|50|under5\",\"nfl|cyrusallen|rry|60|under5\",\"nfl|cyrusallen|pry|220|under5\",\"nfl|noahgray|py|200|under5\",\"nfl|noahgray|ry|50|under5\",\"nfl|noahgray|pry|220|under5\",\"nfl|xavierworthy|py|200|under5\",\"nfl|xavierworthy|ry|50|under5\",\"nfl|xavierworthy|pry|220|under5\",\"nfl|jalenroyals|py|200|under5\",\"nfl|jalenroyals|ry|50|under5\",\"nfl|jalenroyals|rry|60|under5\",\"nfl|jalenroyals|pry|220|under5\",\"nfl|aaronjonessr|py|200|under5\",\"nfl|aaronjonessr|pry|220|under5\",\"nfl|jordanmason|py|200|under5\",\"nfl|jordanmason|wy|40|under5\",\"nfl|jordanmason|pry|220|under5\",\"nfl|deejaydallas|py|200|under5\",\"nfl|deejaydallas|ry|50|under5\",\"nfl|deejaydallas|rry|60|under5\",\"nfl|deejaydallas|pry|220|under5\",\"nfl|jordanaddison|py|200|under5\",\"nfl|jordanaddison|ry|50|under5\",\"nfl|jordanaddison|pry|220|under5\",\"nfl|tjhockenson|py|200|under5\",\"nfl|tjhockenson|ry|50|under5\",\"nfl|tjhockenson|pry|220|under5\",\"nfl|justinjefferson|py|200|under5\",\"nfl|justinjefferson|ry|50|under5\",\"nfl|justinjefferson|pry|220|under5\",\"nfl|jaredgoff|ry|50|under5\",\"nfl|jaredgoff|wy|40|under5\",\"nfl|jaredgoff|rec|4|under5\",\"nfl|jaredgoff|rry|60|under5\",\"nfl|jahmyrgibbs|py|200|under5\",\"nfl|sionevaki|py|200|under5\",\"nfl|sionevaki|pry|220|under5\",\"nfl|amonrastbrown|py|200|under5\",\"nfl|amonrastbrown|ry|50|under5\",\"nfl|amonrastbrown|pry|220|under5\",\"nfl|samlaporta|py|200|under5\",\"nfl|samlaporta|ry|50|under5\",\"nfl|samlaporta|pry|220|under5\",\"nfl|jamesonwilliams|py|200|under5\",\"nfl|jamesonwilliams|ry|50|under5\",\"nfl|jamesonwilliams|pry|220|under5\",\"nfl|danieljones|wy|40|under5\",\"nfl|danieljones|rec|4|under5\",\"nfl|danieljones|rry|60|under5\",\"nfl|sethmcgowan|py|200|under5\",\"nfl|sethmcgowan|wy|40|under5\",\"nfl|sethmcgowan|pry|220|under5\",\"nfl|jonathantaylor|py|200|under5\",\"nfl|ashtondulin|py|200|under5\",\"nfl|ashtondulin|ry|50|under5\",\"nfl|ashtondulin|pry|220|under5\",\"nfl|keenanallen|py|200|under5\",\"nfl|keenanallen|ry|50|under5\",\"nfl|keenanallen|pry|220|under5\",\"nfl|joshdowns|py|200|under5\",\"nfl|joshdowns|ry|50|under5\",\"nfl|joshdowns|pry|220|under5\",\"nfl|laquontreadwell|py|200|under5\",\"nfl|laquontreadwell|ry|50|under5\",\"nfl|laquontreadwell|pry|220|under5\",\"nfl|tylerwarren|py|200|under5\",\"nfl|tylerwarren|ry|50|under5\",\"nfl|tylerwarren|pry|220|under5\",\"nfl|deionburks|py|200|under5\",\"nfl|deionburks|ry|50|under5\",\"nfl|deionburks|rry|60|under5\",\"nfl|deionburks|pry|220|under5\",\"nfl|trevorlawrence|wy|40|under5\",\"nfl|trevorlawrence|rec|4|under5\",\"nfl|trevorlawrence|rry|60|under5\",\"nfl|bhayshultuten|py|200|under5\",\"nfl|bhayshultuten|pry|220|under5\",\"nfl|chrisrodriguezjr|py|200|under5\",\"nfl|chrisrodriguezjr|wy|40|under5\",\"nfl|chrisrodriguezjr|pry|220|under5\",\"nfl|ameerabdullah|py|200|under5\",\"nfl|ameerabdullah|rry|60|under5\",\"nfl|ameerabdullah|pry|220|under5\",\"nfl|parkerwashington|py|200|under5\",\"nfl|parkerwashington|ry|50|under5\",\"nfl|parkerwashington|pry|220|under5\",\"nfl|travishunter|py|200|under5\",\"nfl|travishunter|ry|50|under5\",\"nfl|travishunter|pry|220|under5\",\"nfl|brentonstrange|py|200|under5\",\"nfl|brentonstrange|ry|50|under5\",\"nfl|brentonstrange|pry|220|under5\",\"nfl|nateboerkircher|py|200|under5\",\"nfl|nateboerkircher|ry|50|under5\",\"nfl|nateboerkircher|pry|220|under5\",\"nfl|jakobimeyers|py|200|under5\",\"nfl|jakobimeyers|ry|50|under5\",\"nfl|jakobimeyers|pry|220|under5\",\"nfl|brianthomasjr|py|200|under5\",\"nfl|brianthomasjr|ry|50|under5\",\"nfl|brianthomasjr|pry|220|under5\",\"nfl|joshcameron|py|200|under5\",\"nfl|joshcameron|ry|50|under5\",\"nfl|joshcameron|pry|220|under5\",\"nfl|lequintallenjr|py|200|under5\",\"nfl|lequintallenjr|ry|50|under5\",\"nfl|lequintallenjr|rry|60|under5\",\"nfl|lequintallenjr|pry|220|under5\",\"nfl|matthewstafford|ry|50|under5\",\"nfl|matthewstafford|wy|40|under5\",\"nfl|matthewstafford|rec|4|under5\",\"nfl|matthewstafford|rry|60|under5\",\"nfl|blakecorum|py|200|under5\",\"nfl|blakecorum|pry|220|under5\",\"nfl|kyrenwilliams|py|200|under5\",\"nfl|kyrenwilliams|pry|220|under5\",\"nfl|pukanacua|py|200|under5\",\"nfl|pukanacua|ry|50|under5\",\"nfl|pukanacua|pry|220|under5\",\"nfl|tutuatwell|py|200|under5\"],[\"lost:llhh24h9mh3m0h16h30h18hmh42h14h34h8h48h24h9h8h13h9h3h24h2h6llh93h18mhh7h45h13m0m14h5\",\"lost:mmmlhmmmhh\",\"lost:mhmhmmhmmm\",\"lost:hmhhhmmmh\",\"lost:hhmhmmmhhm\",\"lost:hhhmhmhmmh\",\"lost:mhhhhh\",\"lost:hmhhmphmmm\"],[[1,[\"strong\"],14],[0,[],18],[2,[\"strong!\",\"value\"],13],[0,[],13],[0,[],13],[0,[],16],[0,[],18],[0,[],14],[0,[],17],[1,[\"strong\"],14],[1,[\"value!\"],14],[1,[\"value\"],16],[1,[\"value\"],18],[0,[],15],[0,[],16],[2,[\"supreme!\",\"value\"],14],[0,[],13],[2,[\"strong\",\"strong\"],18],[0,[],12],[0,[],10],[0,[],11],[0,[],13],[0,[],12],[0,[],14],[0,[],15],[0,[],10],[2,[\"supreme\",\"value\"],15],[1,[\"strong\"],13],[0,[],16],[3,[\"supreme\",\"strong\",\"value\"],12],[0,[],16],[2,[\"supreme\",\"value\"],12],[2,[\"supreme\",\"value\"],17],[1,[\"strong\"],12],[1,[\"strong\"],11],[0,[],12],[0,[],16],[0,[],16],[1,[\"strong\"],16],[0,[],13],[1,[\"strong!\"],16],[0,[],9],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],13],[1,[\"supreme*\"],9],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],10],[3,[\"supreme*\",\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],15],[1,[\"supreme!\"],18],[1,[\"supreme\"],13],[1,[\"value\"],14],[1,[\"strong!\"],10],[1,[\"supreme*\"],17],[2,[\"supreme*\",\"supreme\"],12],[2,[\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],13],[1,[\"strong\"],16],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],14],[1,[\"strong\"],16]],0,[[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[3,[null,null,null]],[2,[null,null]],[6,[null,null,null,null,null,null]],[0,[]],[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[3,[null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[5,[null,null,null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"nfl|jadarianprice|py|200|under5\",\"nfl|jadarianprice|pry|220|under5\",\"nfl|zachcharbonnet|py|200|under5\",\"nfl|zachcharbonnet|pry|220|under5\",\"nfl|georgeholani|py|200|under5\",\"nfl|georgeholani|pry|220|under5\",\"nfl|jaxonsmithnjigba|py|200|under5\",\"nfl|jaxonsmithnjigba|ry|50|under5\",\"nfl|jaxonsmithnjigba|pry|220|under5\",\"nfl|toryhorton|py|200|under5\",\"nfl|toryhorton|ry|50|under5\",\"nfl|toryhorton|pry|220|under5\",\"nfl|ajbarner|py|200|under5\",\"nfl|ajbarner|ry|50|under5\",\"nfl|ajbarner|pry|220|under5\",\"nfl|cooperkupp|py|200|under5\",\"nfl|cooperkupp|ry|50|under5\",\"nfl|cooperkupp|pry|220|under5\",\"nfl|patrickmahomes|wy|40|under5\",\"nfl|patrickmahomes|rec|4|under5\",\"nfl|emmettjohnson|py|200|under5\",\"nfl|emmettjohnson|pry|220|under5\",\"nfl|traviskelce|py|200|under5\",\"nfl|traviskelce|ry|50|under5\",\"nfl|traviskelce|pry|220|under5\",\"nfl|rasheerice|py|200|under5\",\"nfl|rasheerice|ry|50|under5\",\"nfl|rasheerice|pry|220|under5\",\"nfl|cyrusallen|py|200|under5\",\"nfl|cyrusallen|ry|50|under5\",\"nfl|cyrusallen|rry|60|under5\",\"nfl|cyrusallen|pry|220|under5\",\"nfl|noahgray|py|200|under5\",\"nfl|noahgray|ry|50|under5\",\"nfl|noahgray|pry|220|under5\",\"nfl|xavierworthy|py|200|under5\",\"nfl|xavierworthy|ry|50|under5\",\"nfl|xavierworthy|pry|220|under5\",\"nfl|jalenroyals|py|200|under5\",\"nfl|jalenroyals|ry|50|under5\",\"nfl|jalenroyals|rry|60|under5\",\"nfl|jalenroyals|pry|220|under5\",\"nfl|aaronjonessr|py|200|under5\",\"nfl|aaronjonessr|pry|220|under5\",\"nfl|jordanmason|py|200|under5\",\"nfl|jordanmason|wy|40|under5\",\"nfl|jordanmason|pry|220|under5\",\"nfl|deejaydallas|py|200|under5\",\"nfl|deejaydallas|ry|50|under5\",\"nfl|deejaydallas|rry|60|under5\",\"nfl|deejaydallas|pry|220|under5\",\"nfl|jordanaddison|py|200|under5\",\"nfl|jordanaddison|ry|50|under5\",\"nfl|jordanaddison|pry|220|under5\",\"nfl|justinjefferson|py|200|under5\",\"nfl|justinjefferson|ry|50|under5\",\"nfl|justinjefferson|pry|220|under5\",\"nfl|jaredgoff|ry|50|under5\",\"nfl|jaredgoff|wy|40|under5\",\"nfl|jaredgoff|rec|4|under5\",\"nfl|jaredgoff|rry|60|under5\",\"nfl|jahmyrgibbs|py|200|under5\",\"nfl|sionevaki|py|200|under5\",\"nfl|sionevaki|pry|220|under5\",\"nfl|amonrastbrown|py|200|under5\",\"nfl|amonrastbrown|ry|50|under5\",\"nfl|amonrastbrown|pry|220|under5\",\"nfl|samlaporta|py|200|under5\",\"nfl|samlaporta|ry|50|under5\",\"nfl|samlaporta|pry|220|under5\",\"nfl|jamesonwilliams|py|200|under5\",\"nfl|jamesonwilliams|ry|50|under5\",\"nfl|jamesonwilliams|pry|220|under5\",\"nfl|danieljones|wy|40|under5\",\"nfl|danieljones|rec|4|under5\",\"nfl|danieljones|rry|60|under5\",\"nfl|sethmcgowan|py|200|under5\",\"nfl|sethmcgowan|wy|40|under5\",\"nfl|sethmcgowan|pry|220|under5\",\"nfl|jonathantaylor|py|200|under5\",\"nfl|ashtondulin|py|200|under5\",\"nfl|ashtondulin|ry|50|under5\",\"nfl|ashtondulin|pry|220|under5\",\"nfl|keenanallen|py|200|under5\",\"nfl|keenanallen|ry|50|under5\",\"nfl|keenanallen|pry|220|under5\",\"nfl|joshdowns|py|200|under5\",\"nfl|joshdowns|ry|50|under5\",\"nfl|joshdowns|pry|220|under5\",\"nfl|laquontreadwell|py|200|under5\",\"nfl|laquontreadwell|ry|50|under5\",\"nfl|laquontreadwell|pry|220|under5\",\"nfl|tylerwarren|py|200|under5\",\"nfl|tylerwarren|ry|50|under5\",\"nfl|tylerwarren|pry|220|under5\",\"nfl|deionburks|py|200|under5\",\"nfl|deionburks|ry|50|under5\",\"nfl|deionburks|rry|60|under5\",\"nfl|deionburks|pry|220|under5\",\"nfl|trevorlawrence|wy|40|under5\",\"nfl|trevorlawrence|rec|4|under5\",\"nfl|trevorlawrence|rry|60|under5\",\"nfl|bhayshultuten|py|200|under5\",\"nfl|bhayshultuten|pry|220|under5\",\"nfl|chrisrodriguezjr|py|200|under5\",\"nfl|chrisrodriguezjr|wy|40|under5\",\"nfl|chrisrodriguezjr|pry|220|under5\",\"nfl|ameerabdullah|py|200|under5\",\"nfl|ameerabdullah|rry|60|under5\",\"nfl|ameerabdullah|pry|220|under5\",\"nfl|parkerwashington|py|200|under5\",\"nfl|parkerwashington|ry|50|under5\",\"nfl|parkerwashington|pry|220|under5\",\"nfl|travishunter|py|200|under5\",\"nfl|travishunter|ry|50|under5\",\"nfl|travishunter|pry|220|under5\",\"nfl|brentonstrange|py|200|under5\",\"nfl|brentonstrange|ry|50|under5\",\"nfl|brentonstrange|pry|220|under5\",\"nfl|nateboerkircher|py|200|under5\",\"nfl|nateboerkircher|ry|50|under5\",\"nfl|nateboerkircher|pry|220|under5\",\"nfl|jakobimeyers|py|200|under5\",\"nfl|jakobimeyers|ry|50|under5\",\"nfl|jakobimeyers|pry|220|under5\",\"nfl|brianthomasjr|py|200|under5\",\"nfl|brianthomasjr|ry|50|under5\",\"nfl|brianthomasjr|pry|220|under5\",\"nfl|joshcameron|py|200|under5\",\"nfl|joshcameron|ry|50|under5\",\"nfl|joshcameron|pry|220|under5\",\"nfl|lequintallenjr|py|200|under5\",\"nfl|lequintallenjr|ry|50|under5\",\"nfl|lequintallenjr|rry|60|under5\",\"nfl|lequintallenjr|pry|220|under5\",\"nfl|matthewstafford|ry|50|under5\",\"nfl|matthewstafford|wy|40|under5\",\"nfl|matthewstafford|rec|4|under5\",\"nfl|matthewstafford|rry|60|under5\",\"nfl|blakecorum|py|200|under5\",\"nfl|blakecorum|pry|220|under5\",\"nfl|kyrenwilliams|py|200|under5\",\"nfl|kyrenwilliams|pry|220|under5\",\"nfl|pukanacua|py|200|under5\",\"nfl|pukanacua|ry|50|under5\",\"nfl|pukanacua|pry|220|under5\",\"nfl|tutuatwell|py|200|under5\",\"nfl|tutuatwell|ry|50|under5\",\"nfl|tutuatwell|pry|220|under5\",\"nfl|tylerhigbee|py|200|under5\"],[\"lost:llhh24h9mh3m0h16h30h18hmh42h14h34h8h48h24h9h8h13h9h3h24h2h6llh93h18mhh7h45h13m0m14h5\",\"lost:mmmlhmmmhh\",\"lost:mhmhmmhmmm\",\"lost:hmhhhmmmh\",\"lost:hhmhmmmhhm\",\"lost:hhhmhmhmmh\",\"lost:mhhhhh\",\"lost:hmhhmphmmm\"],[[1,[\"strong\"],14],[0,[],18],[2,[\"strong!\",\"value\"],13],[0,[],13],[0,[],13],[0,[],16],[0,[],18],[0,[],14],[0,[],17],[1,[\"strong\"],14],[1,[\"value!\"],14],[1,[\"value\"],16],[1,[\"value\"],18],[0,[],15],[0,[],16],[1,[\"supreme!\"],14],[0,[],13],[2,[\"strong\",\"value\"],18],[0,[],12],[0,[],10],[0,[],11],[0,[],13],[0,[],12],[0,[],14],[0,[],15],[0,[],10],[2,[\"supreme\",\"value\"],15],[1,[\"strong\"],13],[0,[],16],[3,[\"supreme\",\"strong\",\"value\"],12],[0,[],16],[2,[\"supreme\",\"value\"],12],[2,[\"supreme\",\"value\"],17],[1,[\"strong\"],12],[1,[\"strong\"],11],[0,[],12],[0,[],16],[0,[],16],[1,[\"value\"],16],[0,[],13],[1,[\"strong!\"],16],[0,[],9],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],13],[1,[\"supreme*\"],9],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],10],[3,[\"supreme*\",\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],15],[1,[\"supreme!\"],18],[1,[\"supreme\"],13],[1,[\"value\"],14],[1,[\"strong!\"],10],[1,[\"supreme*\"],17],[2,[\"supreme*\",\"supreme\"],12],[2,[\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],13],[1,[\"strong\"],16],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],14],[1,[\"value\"],16]],0,[[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[3,[null,null,null]],[2,[null,null]],[6,[null,null,null,null,null,null]],[0,[]],[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[3,[null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[5,[null,null,null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
