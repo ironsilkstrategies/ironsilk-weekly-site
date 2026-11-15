@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794763756524,
+ "generated": 1794765469941,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -1248,79 +1248,6 @@
     ]
    },
    {
-    "sp": "nhl",
-    "game": "EDM@PHI",
-    "gl": "#3 EDM@#27 PHI",
-    "pick": "EDM ML",
-    "price": -155,
-    "p": 0.745,
-    "start": "2026-11-16T00:30Z",
-    "hit": null,
-    "push": false,
-    "by": [],
-    "voices": [
-     {
-      "who": "The Judge",
-      "v": "Judge",
-      "with": true,
-      "pick": "EDM ML",
-      "p": 0.746,
-      "official": true,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
-     },
-     {
-      "who": "The Scout",
-      "v": "Scout",
-      "with": true,
-      "pick": "EDM ML",
-      "p": 0.731,
-      "official": true,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "EDM ML",
-      "p": 0.672,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
-     },
-     {
-      "who": "Covers",
-      "v": "Covers",
-      "with": true,
-      "pick": "EDM ML",
-      "p": 0.623,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
-     },
-     {
-      "who": "The Banker",
-      "v": "Banker",
-      "with": true,
-      "pick": "EDM ML",
-      "p": 0.614,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
-     },
-     {
-      "who": "The Commissioner",
-      "v": "Power",
-      "with": true,
-      "pick": "EDM ML",
-      "p": 0.6,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
-     }
-    ],
-    "ev": 22.5,
-    "voicesBy": [
-     "The Judge",
-     "The Scout"
-    ]
-   },
-   {
     "sp": "nfl",
     "game": "MIA@IND",
     "gl": "#28 MIA@#23 IND",
@@ -1391,6 +1318,79 @@
     "voicesBy": [
      "The Judge",
      "The Commissioner"
+    ]
+   },
+   {
+    "sp": "nhl",
+    "game": "EDM@PHI",
+    "gl": "#3 EDM@#27 PHI",
+    "pick": "EDM ML",
+    "price": -155,
+    "p": 0.745,
+    "start": "2026-11-16T00:30Z",
+    "hit": null,
+    "push": false,
+    "by": [],
+    "voices": [
+     {
+      "who": "The Judge",
+      "v": "Judge",
+      "with": true,
+      "pick": "EDM ML",
+      "p": 0.746,
+      "official": true,
+      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "The Scout",
+      "v": "Scout",
+      "with": true,
+      "pick": "EDM ML",
+      "p": 0.731,
+      "official": true,
+      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "EDM ML",
+      "p": 0.672,
+      "official": false,
+      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "Covers",
+      "v": "Covers",
+      "with": true,
+      "pick": "EDM ML",
+      "p": 0.623,
+      "official": false,
+      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "EDM ML",
+      "p": 0.614,
+      "official": false,
+      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
+     },
+     {
+      "who": "The Commissioner",
+      "v": "Power",
+      "with": true,
+      "pick": "EDM ML",
+      "p": 0.6,
+      "official": false,
+      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite"
+     }
+    ],
+    "ev": 22.5,
+    "voicesBy": [
+     "The Judge",
+     "The Scout"
     ]
    },
    {
@@ -3892,8 +3892,8 @@
     {
      "lane": "NFL overs",
      "w": 26,
-     "l": 18,
-     "u": 5.7
+     "l": 19,
+     "u": 4.7
     },
     {
      "lane": "College hoops unders",
@@ -4292,9 +4292,9 @@
    "best": [
     {
      "lane": "NFL favorites on the moneyline",
-     "w": 40,
+     "w": 41,
      "l": 14,
-     "u": 5.1
+     "u": 5.8
     },
     {
      "lane": "College hoops underdogs on the spread",
@@ -4440,7 +4440,7 @@
      "price": -150,
      "p": 0.812,
      "start": "2026-11-15T14:30Z",
-     "hit": null,
+     "hit": true,
      "push": false,
      "note": "picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
     },
@@ -6165,9 +6165,9 @@
    "best": [
     {
      "lane": "NFL favorites on the moneyline",
-     "w": 39,
+     "w": 40,
      "l": 14,
-     "u": 4.4
+     "u": 5
     },
     {
      "lane": "College hoops underdogs on the spread",
@@ -6281,7 +6281,7 @@
      "price": -150,
      "p": 0.832,
      "start": "2026-11-15T14:30Z",
-     "hit": null,
+     "hit": true,
      "push": false,
      "note": "picked team over-performing its scoring (Pythagorean) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch"
     },
@@ -8334,7 +8334,7 @@
     "gl": "#16 NE@#8 DET",
     "start": "2026-11-15T14:30:00.000Z",
     "day": "2026-11-15",
-    "st": "in",
+    "st": "post",
     "picks": [
      {
       "m": "total",
@@ -8362,14 +8362,14 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Judge",
@@ -8380,14 +8380,14 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Power",
@@ -8398,14 +8398,14 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Scout",
@@ -8416,14 +8416,14 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Covers",
@@ -8436,7 +8436,7 @@
         "lab": "NFL ML favorites",
         "of": 9
        },
-       "hit": null
+       "hit": true
       }
      ],
      "spread": [
@@ -8449,14 +8449,14 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Judge",
@@ -8469,12 +8469,12 @@
         "lab": "NFL spread favorites",
         "rk": 6,
         "of": 6,
-        "w": 9,
+        "w": 10,
         "l": 11,
-        "u": -2.9,
+        "u": -1.9,
         "say": "worst"
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Scout",
@@ -8487,12 +8487,12 @@
         "lab": "NFL spread favorites",
         "rk": 1,
         "of": 6,
-        "w": 15,
+        "w": 16,
         "l": 9,
-        "u": 4.6,
+        "u": 5.6,
         "say": "top"
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Pred",
@@ -8505,7 +8505,7 @@
         "lab": "NFL spread favorites",
         "of": 6
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Covers",
@@ -8518,7 +8518,7 @@
         "lab": "NFL spread favorites",
         "of": 6
        },
-       "hit": null
+       "hit": true
       }
      ],
      "total": [
@@ -8532,13 +8532,13 @@
        "r": {
         "lab": "NFL overs",
         "rk": 1,
-        "of": 8,
+        "of": 9,
         "w": 26,
-        "l": 18,
-        "u": 5.7,
+        "l": 19,
+        "u": 4.7,
         "say": "top"
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Judge",
@@ -8551,12 +8551,12 @@
         "lab": "NFL unders",
         "rk": 6,
         "of": 6,
-        "w": 5,
+        "w": 6,
         "l": 11,
-        "u": -6.6,
+        "u": -5.6,
         "say": "worst"
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Pred",
@@ -8567,14 +8567,14 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "rk": 6,
-        "of": 8,
+        "rk": 8,
+        "of": 9,
         "w": 7,
-        "l": 7,
-        "u": -0.7,
+        "l": 8,
+        "u": -1.7,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Covers",
@@ -8585,9 +8585,9 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
-       "hit": null
+       "hit": false
       }
      ]
     }
@@ -11449,11 +11449,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -11467,12 +11467,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -11485,11 +11485,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -11503,11 +11503,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -11536,11 +11536,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -11556,9 +11556,9 @@
         "lab": "NFL spread favorites",
         "rk": 6,
         "of": 6,
-        "w": 9,
+        "w": 10,
         "l": 11,
-        "u": -2.9,
+        "u": -1.9,
         "say": "worst"
        },
        "hit": null
@@ -11610,9 +11610,9 @@
         "lab": "NFL spread favorites",
         "rk": 1,
         "of": 6,
-        "w": 15,
+        "w": 16,
         "l": 9,
-        "u": 4.6,
+        "u": 5.6,
         "say": "top"
        },
        "hit": null
@@ -11674,9 +11674,9 @@
         "lab": "NFL unders",
         "rk": 6,
         "of": 6,
-        "w": 5,
+        "w": 6,
         "l": 11,
-        "u": -6.6,
+        "u": -5.6,
         "say": "worst"
        },
        "hit": null
@@ -11708,7 +11708,7 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
        "hit": null
       }
@@ -11750,11 +11750,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -11768,12 +11768,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -11786,11 +11786,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -11804,11 +11804,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -11855,11 +11855,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -11969,10 +11969,10 @@
        "r": {
         "lab": "NFL overs",
         "rk": 1,
-        "of": 8,
+        "of": 9,
         "w": 26,
-        "l": 18,
-        "u": 5.7,
+        "l": 19,
+        "u": 4.7,
         "say": "top"
        },
        "hit": null
@@ -11987,7 +11987,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 7,
-        "of": 8,
+        "of": 9,
         "w": 20,
         "l": 20,
         "u": -1.8,
@@ -12005,7 +12005,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 5,
-        "of": 8,
+        "of": 9,
         "w": 22,
         "l": 17,
         "u": 3,
@@ -12023,7 +12023,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 4,
-        "of": 8,
+        "of": 9,
         "w": 25,
         "l": 19,
         "u": 3.8,
@@ -12066,11 +12066,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -12084,12 +12084,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -12102,11 +12102,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -12120,11 +12120,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -12153,11 +12153,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -12173,9 +12173,9 @@
         "lab": "NFL spread favorites",
         "rk": 6,
         "of": 6,
-        "w": 9,
+        "w": 10,
         "l": 11,
-        "u": -2.9,
+        "u": -1.9,
         "say": "worst"
        },
        "hit": null
@@ -12189,7 +12189,7 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 6,
+        "rk": 5,
         "of": 9,
         "w": 5,
         "l": 9,
@@ -12242,9 +12242,9 @@
         "lab": "NFL unders",
         "rk": 6,
         "of": 6,
-        "w": 5,
+        "w": 6,
         "l": 11,
-        "u": -6.6,
+        "u": -5.6,
         "say": "worst"
        },
        "hit": null
@@ -12289,11 +12289,11 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "rk": 6,
-        "of": 8,
+        "rk": 8,
+        "of": 9,
         "w": 7,
-        "l": 7,
-        "u": -0.7,
+        "l": 8,
+        "u": -1.7,
         "say": ""
        },
        "hit": null
@@ -12307,7 +12307,7 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
        "hit": null
       }
@@ -12333,11 +12333,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -12351,12 +12351,12 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -12369,11 +12369,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -12387,11 +12387,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -12420,11 +12420,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -12489,9 +12489,9 @@
         "lab": "NFL spread favorites",
         "rk": 1,
         "of": 6,
-        "w": 15,
+        "w": 16,
         "l": 9,
-        "u": 4.6,
+        "u": 5.6,
         "say": "top"
        },
        "hit": null
@@ -12553,9 +12553,9 @@
         "lab": "NFL unders",
         "rk": 6,
         "of": 6,
-        "w": 5,
+        "w": 6,
         "l": 11,
-        "u": -6.6,
+        "u": -5.6,
         "say": "worst"
        },
        "hit": null
@@ -12643,11 +12643,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -12661,12 +12661,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -12679,11 +12679,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -12740,9 +12740,9 @@
         "lab": "NFL spread favorites",
         "rk": 6,
         "of": 6,
-        "w": 9,
+        "w": 10,
         "l": 11,
-        "u": -2.9,
+        "u": -1.9,
         "say": "worst"
        },
        "hit": null
@@ -12803,10 +12803,10 @@
        "r": {
         "lab": "NFL overs",
         "rk": 1,
-        "of": 8,
+        "of": 9,
         "w": 26,
-        "l": 18,
-        "u": 5.7,
+        "l": 19,
+        "u": 4.7,
         "say": "top"
        },
        "hit": null
@@ -12821,7 +12821,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 7,
-        "of": 8,
+        "of": 9,
         "w": 20,
         "l": 20,
         "u": -1.8,
@@ -12839,7 +12839,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 4,
-        "of": 8,
+        "of": 9,
         "w": 25,
         "l": 19,
         "u": 3.8,
@@ -12856,7 +12856,7 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
        "hit": null
       }
@@ -12882,11 +12882,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -12900,12 +12900,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -12918,11 +12918,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -12966,9 +12966,9 @@
         "lab": "NFL spread favorites",
         "rk": 6,
         "of": 6,
-        "w": 9,
+        "w": 10,
         "l": 11,
-        "u": -2.9,
+        "u": -1.9,
         "say": "worst"
        },
        "hit": null
@@ -13000,7 +13000,7 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 6,
+        "rk": 5,
         "of": 9,
         "w": 5,
         "l": 9,
@@ -13053,9 +13053,9 @@
         "lab": "NFL unders",
         "rk": 6,
         "of": 6,
-        "w": 5,
+        "w": 6,
         "l": 11,
-        "u": -6.6,
+        "u": -5.6,
         "say": "worst"
        },
        "hit": null
@@ -13070,7 +13070,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 4,
-        "of": 8,
+        "of": 9,
         "w": 25,
         "l": 19,
         "u": 3.8,
@@ -13087,7 +13087,7 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
        "hit": null
       }
@@ -13146,11 +13146,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -13164,12 +13164,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -13182,11 +13182,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -13200,11 +13200,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -13233,11 +13233,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -13302,9 +13302,9 @@
         "lab": "NFL spread favorites",
         "rk": 1,
         "of": 6,
-        "w": 15,
+        "w": 16,
         "l": 9,
-        "u": 4.6,
+        "u": 5.6,
         "say": "top"
        },
        "hit": null
@@ -13366,9 +13366,9 @@
         "lab": "NFL unders",
         "rk": 6,
         "of": 6,
-        "w": 5,
+        "w": 6,
         "l": 11,
-        "u": -6.6,
+        "u": -5.6,
         "say": "worst"
        },
        "hit": null
@@ -13382,8 +13382,8 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "rk": 8,
-        "of": 8,
+        "rk": 9,
+        "of": 9,
         "w": 5,
         "l": 7,
         "u": -2.5,
@@ -18042,12 +18042,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -18060,11 +18060,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -18078,11 +18078,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -18111,11 +18111,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -18167,9 +18167,9 @@
         "lab": "NFL spread favorites",
         "rk": 1,
         "of": 6,
-        "w": 15,
+        "w": 16,
         "l": 9,
-        "u": 4.6,
+        "u": 5.6,
         "say": "top"
        },
        "hit": null
@@ -18212,10 +18212,10 @@
        "r": {
         "lab": "NFL overs",
         "rk": 1,
-        "of": 8,
+        "of": 9,
         "w": 26,
-        "l": 18,
-        "u": 5.7,
+        "l": 19,
+        "u": 4.7,
         "say": "top"
        },
        "hit": null
@@ -18230,7 +18230,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 7,
-        "of": 8,
+        "of": 9,
         "w": 20,
         "l": 20,
         "u": -1.8,
@@ -18248,7 +18248,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 5,
-        "of": 8,
+        "of": 9,
         "w": 22,
         "l": 17,
         "u": 3,
@@ -18266,7 +18266,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 4,
-        "of": 8,
+        "of": 9,
         "w": 25,
         "l": 19,
         "u": 3.8,
@@ -18283,7 +18283,7 @@
        "o": 1,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
        "hit": null
       }
@@ -18309,11 +18309,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -18327,12 +18327,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -18345,11 +18345,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -18363,11 +18363,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -18396,11 +18396,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -18447,9 +18447,9 @@
         "lab": "NFL spread favorites",
         "rk": 1,
         "of": 6,
-        "w": 15,
+        "w": 16,
         "l": 9,
-        "u": 4.6,
+        "u": 5.6,
         "say": "top"
        },
        "hit": null
@@ -18497,10 +18497,10 @@
        "r": {
         "lab": "NFL overs",
         "rk": 1,
-        "of": 8,
+        "of": 9,
         "w": 26,
-        "l": 18,
-        "u": 5.7,
+        "l": 19,
+        "u": 4.7,
         "say": "top"
        },
        "hit": null
@@ -18515,7 +18515,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 7,
-        "of": 8,
+        "of": 9,
         "w": 20,
         "l": 20,
         "u": -1.8,
@@ -18533,7 +18533,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 4,
-        "of": 8,
+        "of": 9,
         "w": 25,
         "l": 19,
         "u": 3.8,
@@ -18551,7 +18551,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 5,
-        "of": 8,
+        "of": 9,
         "w": 22,
         "l": 17,
         "u": 3,
@@ -18568,7 +18568,7 @@
        "o": 1,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
        "hit": null
       }
@@ -18611,11 +18611,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -18629,12 +18629,12 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -18647,11 +18647,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -18665,11 +18665,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -18698,11 +18698,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -18767,9 +18767,9 @@
         "lab": "NFL spread favorites",
         "rk": 1,
         "of": 6,
-        "w": 15,
+        "w": 16,
         "l": 9,
-        "u": 4.6,
+        "u": 5.6,
         "say": "top"
        },
        "hit": null
@@ -18818,9 +18818,9 @@
         "lab": "NFL unders",
         "rk": 6,
         "of": 6,
-        "w": 5,
+        "w": 6,
         "l": 11,
-        "u": -6.6,
+        "u": -5.6,
         "say": "worst"
        },
        "hit": null
@@ -18852,8 +18852,8 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "rk": 8,
-        "of": 8,
+        "rk": 9,
+        "of": 9,
         "w": 5,
         "l": 7,
         "u": -2.5,
@@ -18870,7 +18870,7 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
        "hit": null
       }
@@ -23657,11 +23657,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -23675,12 +23675,12 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -23693,11 +23693,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -23739,11 +23739,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -23759,9 +23759,9 @@
         "lab": "NFL spread favorites",
         "rk": 6,
         "of": 6,
-        "w": 9,
+        "w": 10,
         "l": 11,
-        "u": -2.9,
+        "u": -1.9,
         "say": "worst"
        },
        "hit": null
@@ -23793,7 +23793,7 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 6,
+        "rk": 5,
         "of": 9,
         "w": 5,
         "l": 9,
@@ -23846,9 +23846,9 @@
         "lab": "NFL unders",
         "rk": 6,
         "of": 6,
-        "w": 5,
+        "w": 6,
         "l": 11,
-        "u": -6.6,
+        "u": -5.6,
         "say": "worst"
        },
        "hit": null
@@ -25072,11 +25072,11 @@
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 33,
+        "w": 34,
         "l": 14,
-        "u": 1.3,
+        "u": 2,
         "say": ""
        },
        "hit": null
@@ -25086,16 +25086,16 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.848,
+       "p": 0.849,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 1,
+        "rk": 2,
         "of": 9,
-        "w": 40,
+        "w": 41,
         "l": 14,
-        "u": 5.1,
-        "say": "top"
+        "u": 5.8,
+        "say": ""
        },
        "hit": null
       },
@@ -25104,15 +25104,15 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.832,
+       "p": 0.833,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 5,
+        "rk": 4,
         "of": 9,
-        "w": 39,
+        "w": 40,
         "l": 14,
-        "u": 4.4,
+        "u": 5,
         "say": ""
        },
        "hit": null
@@ -25126,11 +25126,11 @@
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
-        "w": 22,
+        "w": 23,
         "l": 8,
-        "u": 1.5,
+        "u": 2.1,
         "say": ""
        },
        "hit": null
@@ -25159,11 +25159,11 @@
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
-        "rk": 5,
+        "rk": 7,
         "of": 9,
         "w": 20,
-        "l": 27,
-        "u": -8.5,
+        "l": 28,
+        "u": -9.5,
         "say": ""
        },
        "hit": null
@@ -25209,15 +25209,15 @@
        "s": "home",
        "pick": "BAL -4.5",
        "price": -108,
-       "p": 0.612,
+       "p": 0.611,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
         "rk": 1,
         "of": 6,
-        "w": 15,
+        "w": 16,
         "l": 9,
-        "u": 4.6,
+        "u": 5.6,
         "say": "top"
        },
        "hit": null
@@ -25260,10 +25260,10 @@
        "r": {
         "lab": "NFL overs",
         "rk": 1,
-        "of": 8,
+        "of": 9,
         "w": 26,
-        "l": 18,
-        "u": 5.7,
+        "l": 19,
+        "u": 4.7,
         "say": "top"
        },
        "hit": null
@@ -25278,7 +25278,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 7,
-        "of": 8,
+        "of": 9,
         "w": 20,
         "l": 20,
         "u": -1.8,
@@ -25296,7 +25296,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 5,
-        "of": 8,
+        "of": 9,
         "w": 22,
         "l": 17,
         "u": 3,
@@ -25314,7 +25314,7 @@
        "r": {
         "lab": "NFL overs",
         "rk": 4,
-        "of": 8,
+        "of": 9,
         "w": 25,
         "l": 19,
         "u": 3.8,
@@ -25331,7 +25331,7 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "of": 8
+        "of": 9
        },
        "hit": null
       },
@@ -25344,11 +25344,11 @@
        "o": 0,
        "r": {
         "lab": "NFL overs",
-        "rk": 6,
-        "of": 8,
+        "rk": 8,
+        "of": 9,
         "w": 7,
-        "l": 7,
-        "u": -0.7,
+        "l": 8,
+        "u": -1.7,
         "say": ""
        },
        "hit": null
@@ -38026,6 +38026,6 @@
    }
   ]
  },
- "betaSig": "[[\"nfl|bhayshultuten|ry|100|under5\",\"nfl|christianmccaffrey|ry|100|under5\",\"nfl|ashtonjeanty|ry|75|under5\",\"nfl|breecehall|ry|100|under5\",\"nfl|matthewstafford|ptd|1|over5\",\"nfl|olliegordonii|ry|100|under5\",\"nfl|trevorlawrence|ptd|1|over5\",\"nfl|ricodowdle|ry|75|under5\",\"nfl|ricodowdle|rry|100|under5\",\"nfl|garrettwilson|rry|100|under5\",\"nfl|jamescookiii|ry|50|over5\",\"nfl|tyjaespears|rry|60|under5\",\"nfl|mackhollins|wy|80|under5\",\"nfl|blakecorum|rry|100|under5\",\"nfl|kirkcousins|ptd|1|over5\",\"nfl|justinjefferson|wy|80|under5\",\"nfl|samlaporta|wy|80|under5\",\"nfl|brockpurdy|ptd|1|over5\",\"ncaaf|rockybeers|wy|80|under5\",\"ncaaf|rockybeers|rry|80|under5\",\"nfl|deebosamuelsr|rry|80|under5\",\"ncaaf|calebodom|wy|60|under5\",\"nfl|rasheerice|rry|100|under5\",\"nfl|xavierworthy|wy|60|under5\",\"nfl|aaronjonessr|rry|100|under5\",\"nfl|tuckerkraft|wy|80|under5\",\"nfl|travisetiennejr|car|10|over5\",\"ncaaf|calebodom|rry|60|under5\",\"nfl|joshdowns|rry|60|under5\",\"nfl|justinjefferson|rry|80|under5\",\"nfl|genosmith|pry|300|under5\",\"nfl|braelonallen|ry|100|under5\",\"nfl|drakemaye|ptd|1|over5\",\"nfl|aaronrodgers|pry|300|under5\",\"nfl|mackhollins|rry|80|under5\",\"nfl|samlaporta|rry|80|under5\",\"nfl|rhamondrestevenson|ry|75|under5\",\"nfl|jordanlove|ptd|1|over5\",\"nfl|ajbrown|rry|100|under5\",\"nfl|xavierworthy|rry|60|under5\",\"nfl|joshdowns|wy|60|under5\",\"nfl|brianthomasjr|rry|60|under5\",\"nfl|christianmccaffrey|wy|60|under5\",\"nfl|cjstroud|ptd|1|over5\",\"nfl|bradycook|cmp|25|under5\",\"nfl|ricodowdle|lry|20|under5\",\"nfl|brianthomasjr|wy|60|under5\",\"nfl|wandalerobinson|wy|80|under5\",\"nfl|khalilshakir|wy|80|under5\",\"nfl|dkmetcalf|wy|80|under5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|camward|py|250|under5\",\"ncaaf|rockybeers|rec|6|under5\",\"nfl|traviskelce|wy|80|under5\",\"nfl|aaronjonessr|ry|75|under5\",\"nfl|tuckerkraft|rry|80|under5\",\"ncaaf|trinidadchambliss|ptd|1|over5\",\"nfl|quinshonjudkins|rry|100|under5\",\"nfl|bryceyoung|ptd|1|over5\",\"nfl|jakobimeyers|rec|6|under5\",\"nfl|jalencoker|wy|80|under5\",\"nfl|dakprescott|py|200|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|kcconcepcion|wy|80|under5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|kyrenwilliams|rry|60|over5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|travisetiennejr|ry|75|under5\",\"nfl|travisetiennejr|lry|10|over5\",\"nfl|treymcbride|wy|40|over5\",\"nfl|michaelpenixjr|py|250|under5\",\"nfl|haroldfanninjr|wy|80|under5\",\"nfl|tylershough|ptd|1|over5\",\"ncaaf|trellharris|rry|100|under5\",\"nfl|danieljones|pry|300|under5\",\"nfl|khalilshakir|rry|80|under5\",\"ncaaf|johnmateer|py|275|under5\",\"nfl|daltonkincaid|wy|80|under5\",\"nfl|wandalerobinson|rry|80|under5\",\"nfl|brockbowers|wy|40|over5\",\"nfl|dkmetcalf|rec|6|under5\",\"nfl|chrisrodriguezjr|rry|60|under5\",\"nfl|joeburrow|py|200|over5\",\"nfl|jalencoker|rec|6|under5\",\"nfl|brockbowers|rec|4|over5\",\"nfl|masontaylor|rec|5|under5\",\"nfl|davismills|py|200|under5\",\"ncaaf|makhifrazier|ry|75|under5\",\"nfl|patrickmahomes|py|200|over5\",\"nfl|woodymarks|rry|80|under5\",\"nfl|parkerwashington|rry|100|under5\",\"nfl|quinshonjudkins|ry|75|under5\",\"nfl|bijanrobinson|ry|50|over5\",\"nfl|jalencoker|rry|80|under5\",\"nfl|nicocollins|rry|100|under5\",\"ncaaf|calebcunningham|rry|60|under5\",\"nfl|calebdouglas|rec|6|under5\",\"nfl|djmoore|rec|5|under5\",\"ncaaf|trellharris|rec|6|under5\",\"nfl|amonrastbrown|rec|5|over5\",\"nfl|carsonwentz|pry|260|under5\",\"nfl|brockbowers|rry|60|over5\",\"nfl|dkmetcalf|rry|80|under5\",\"nfl|traviskelce|rry|80|under5\",\"nfl|jonathantaylor|rry|60|over5\",\"nfl|calebdouglas|wy|80|under5\",\"nfl|davismills|pry|220|under5\",\"nfl|bradycook|py|200|under5\",\"nfl|olliegordonii|rry|100|under5\",\"nfl|denzelboston|wy|80|under5\",\"nfl|bijanrobinson|rec|6|under5\",\"nfl|amonrastbrown|wy|40|over5\",\"nfl|kaelonblack|rry|60|under5\",\"nfl|jordanlove|py|200|over5\",\"nfl|alvinkamara|rry|80|under5\",\"ncaaf|calebcunningham|rec|5|under5\",\"nfl|treymcbride|rry|100|under5\",\"nfl|blakecorum|ry|75|under5\",\"nfl|cjstroud|py|200|over5\",\"nfl|bradycook|pry|220|under5\",\"nfl|jaylenwarren|rry|60|over5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|daltonkincaid|rry|80|under5\",\"nfl|chubahubbard|rry|100|under5\",\"nfl|ceedeelamb|wy|40|over5\",\"nfl|haroldfanninjr|rry|80|under5\",\"nfl|brianthomasjr|rec|4|under5\",\"nfl|justinfields|pry|220|under5\",\"ncaaf|shekaimillsknight|rry|60|under5\",\"nfl|georgekittle|wy|80|under5\",\"nfl|darrenwaller|rry|60|under5\",\"nfl|christianwatson|wy|40|over5\",\"nfl|tyjaespears|rec|5|under5\",\"nfl|ricodowdle|rec|4|under5\",\"nfl|jacobybrissett|ptd|1|over5\",\"nfl|ryanflournoy|rec|5|under5\",\"nfl|jamesonwilliams|rry|100|under5\",\"nfl|matthewstafford|py|200|over5\",\"nfl|ashtonjeanty|rec|6|under5\",\"nfl|kylepittssr|rec|6|under5\",\"nfl|georgepickens|wy|40|over5\",\"nfl|jahmyrgibbs|wy|60|under5\",\"nfl|camward|pry|260|under5\",\"nfl|colbyparkinson|rec|5|under5\",\"ncaaf|calebcunningham|wy|60|under5\",\"nfl|trevorlawrence|py|200|over5\",\"nfl|tetairoamcmillan|rry|100|under5\",\"ncaaf|makhifrazier|rry|80|under5\",\"nfl|joshallen|ptd|1|over5\",\"nfl|jahmyrgibbs|rry|80|over5\"],[\"open:oooooooooo\",\"open:oooooooooooooooooooooooooooooooo\",\"open:ooooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:ooooooo\",\"lost:hhhh24h9mh3m0h16h30h18hmh42h14h34h8h48h24h9h8h13h9h3h24h2h6mhh93h18mhh7h45h13m0m14h5\"],[[1,[\"strong\"],14],[0,[],18],[2,[\"strong!\",\"value\"],13],[0,[],13],[0,[],13],[0,[],16],[0,[],18],[0,[],14],[0,[],17],[1,[\"strong\"],14],[1,[\"value!\"],14],[1,[\"value\"],16],[1,[\"value\"],18],[0,[],15],[0,[],16],[2,[\"supreme!\",\"value\"],14],[0,[],13],[2,[\"strong\",\"value\"],18],[0,[],12],[0,[],10],[0,[],11],[0,[],13],[0,[],12],[0,[],14],[0,[],15],[0,[],10],[2,[\"supreme\",\"value\"],15],[1,[\"strong\"],13],[0,[],16],[3,[\"supreme\",\"strong\",\"value\"],12],[0,[],16],[2,[\"supreme\",\"value\"],12],[2,[\"supreme\",\"value\"],17],[1,[\"strong\"],12],[1,[\"strong\"],11],[0,[],12],[0,[],16],[0,[],16],[1,[\"value\"],16],[0,[],13],[1,[\"strong!\"],16],[0,[],9],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],13],[1,[\"supreme*\"],9],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],10],[3,[\"supreme*\",\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],15],[1,[\"supreme!\"],18],[1,[\"supreme\"],13],[1,[\"value\"],14],[1,[\"strong!\"],10],[1,[\"supreme*\"],17],[2,[\"supreme*\",\"supreme\"],12],[2,[\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],13],[1,[\"strong\"],16],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],14],[1,[\"value\"],17]],[4,12,[null,null,null,null]],[[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[3,[null,null,null]],[2,[null,null]],[6,[null,null,null,null,null,null]],[0,[]],[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[3,[null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[5,[null,null,null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"nfl|bhayshultuten|ry|100|under5\",\"nfl|christianmccaffrey|ry|100|under5\",\"nfl|ashtonjeanty|ry|75|under5\",\"nfl|breecehall|ry|100|under5\",\"nfl|matthewstafford|ptd|1|over5\",\"nfl|olliegordonii|ry|100|under5\",\"nfl|trevorlawrence|ptd|1|over5\",\"nfl|ricodowdle|ry|75|under5\",\"nfl|ricodowdle|rry|100|under5\",\"nfl|garrettwilson|rry|100|under5\",\"nfl|jamescookiii|ry|50|over5\",\"nfl|tyjaespears|rry|60|under5\",\"nfl|mackhollins|wy|80|under5\",\"nfl|blakecorum|rry|100|under5\",\"nfl|kirkcousins|ptd|1|over5\",\"nfl|justinjefferson|wy|80|under5\",\"nfl|samlaporta|wy|80|under5\",\"nfl|brockpurdy|ptd|1|over5\",\"ncaaf|rockybeers|wy|80|under5\",\"ncaaf|rockybeers|rry|80|under5\",\"nfl|deebosamuelsr|rry|80|under5\",\"ncaaf|calebodom|wy|60|under5\",\"nfl|rasheerice|rry|100|under5\",\"nfl|xavierworthy|wy|60|under5\",\"nfl|aaronjonessr|rry|100|under5\",\"nfl|tuckerkraft|wy|80|under5\",\"nfl|travisetiennejr|car|10|over5\",\"ncaaf|calebodom|rry|60|under5\",\"nfl|joshdowns|rry|60|under5\",\"nfl|justinjefferson|rry|80|under5\",\"nfl|genosmith|pry|300|under5\",\"nfl|braelonallen|ry|100|under5\",\"nfl|drakemaye|ptd|1|over5\",\"nfl|aaronrodgers|pry|300|under5\",\"nfl|mackhollins|rry|80|under5\",\"nfl|samlaporta|rry|80|under5\",\"nfl|rhamondrestevenson|ry|75|under5\",\"nfl|jordanlove|ptd|1|over5\",\"nfl|ajbrown|rry|100|under5\",\"nfl|xavierworthy|rry|60|under5\",\"nfl|joshdowns|wy|60|under5\",\"nfl|brianthomasjr|rry|60|under5\",\"nfl|christianmccaffrey|wy|60|under5\",\"nfl|cjstroud|ptd|1|over5\",\"nfl|bradycook|cmp|25|under5\",\"nfl|ricodowdle|lry|20|under5\",\"nfl|brianthomasjr|wy|60|under5\",\"nfl|wandalerobinson|wy|80|under5\",\"nfl|khalilshakir|wy|80|under5\",\"nfl|dkmetcalf|wy|80|under5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|camward|py|250|under5\",\"ncaaf|rockybeers|rec|6|under5\",\"nfl|traviskelce|wy|80|under5\",\"nfl|aaronjonessr|ry|75|under5\",\"nfl|tuckerkraft|rry|80|under5\",\"ncaaf|trinidadchambliss|ptd|1|over5\",\"nfl|quinshonjudkins|rry|100|under5\",\"nfl|bryceyoung|ptd|1|over5\",\"nfl|jakobimeyers|rec|6|under5\",\"nfl|jalencoker|wy|80|under5\",\"nfl|dakprescott|py|200|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|kcconcepcion|wy|80|under5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|kyrenwilliams|rry|60|over5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|travisetiennejr|ry|75|under5\",\"nfl|travisetiennejr|lry|10|over5\",\"nfl|treymcbride|wy|40|over5\",\"nfl|michaelpenixjr|py|250|under5\",\"nfl|haroldfanninjr|wy|80|under5\",\"nfl|tylershough|ptd|1|over5\",\"ncaaf|trellharris|rry|100|under5\",\"nfl|danieljones|pry|300|under5\",\"nfl|khalilshakir|rry|80|under5\",\"ncaaf|johnmateer|py|275|under5\",\"nfl|daltonkincaid|wy|80|under5\",\"nfl|wandalerobinson|rry|80|under5\",\"nfl|brockbowers|wy|40|over5\",\"nfl|dkmetcalf|rec|6|under5\",\"nfl|chrisrodriguezjr|rry|60|under5\",\"nfl|joeburrow|py|200|over5\",\"nfl|jalencoker|rec|6|under5\",\"nfl|brockbowers|rec|4|over5\",\"nfl|masontaylor|rec|5|under5\",\"nfl|davismills|py|200|under5\",\"ncaaf|makhifrazier|ry|75|under5\",\"nfl|patrickmahomes|py|200|over5\",\"nfl|woodymarks|rry|80|under5\",\"nfl|parkerwashington|rry|100|under5\",\"nfl|quinshonjudkins|ry|75|under5\",\"nfl|bijanrobinson|ry|50|over5\",\"nfl|jalencoker|rry|80|under5\",\"nfl|nicocollins|rry|100|under5\",\"ncaaf|calebcunningham|rry|60|under5\",\"nfl|calebdouglas|rec|6|under5\",\"nfl|djmoore|rec|5|under5\",\"ncaaf|trellharris|rec|6|under5\",\"nfl|amonrastbrown|rec|5|over5\",\"nfl|carsonwentz|pry|260|under5\",\"nfl|brockbowers|rry|60|over5\",\"nfl|dkmetcalf|rry|80|under5\",\"nfl|traviskelce|rry|80|under5\",\"nfl|jonathantaylor|rry|60|over5\",\"nfl|calebdouglas|wy|80|under5\",\"nfl|davismills|pry|220|under5\",\"nfl|bradycook|py|200|under5\",\"nfl|olliegordonii|rry|100|under5\",\"nfl|denzelboston|wy|80|under5\",\"nfl|bijanrobinson|rec|6|under5\",\"nfl|amonrastbrown|wy|40|over5\",\"nfl|kaelonblack|rry|60|under5\",\"nfl|jordanlove|py|200|over5\",\"nfl|alvinkamara|rry|80|under5\",\"ncaaf|calebcunningham|rec|5|under5\",\"nfl|treymcbride|rry|100|under5\",\"nfl|blakecorum|ry|75|under5\",\"nfl|cjstroud|py|200|over5\",\"nfl|bradycook|pry|220|under5\",\"nfl|jaylenwarren|rry|60|over5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|daltonkincaid|rry|80|under5\",\"nfl|chubahubbard|rry|100|under5\",\"nfl|ceedeelamb|wy|40|over5\",\"nfl|haroldfanninjr|rry|80|under5\",\"nfl|brianthomasjr|rec|4|under5\",\"nfl|justinfields|pry|220|under5\",\"ncaaf|shekaimillsknight|rry|60|under5\",\"nfl|georgekittle|wy|80|under5\",\"nfl|darrenwaller|rry|60|under5\",\"nfl|christianwatson|wy|40|over5\",\"nfl|tyjaespears|rec|5|under5\",\"nfl|ricodowdle|rec|4|under5\",\"nfl|jacobybrissett|ptd|1|over5\",\"nfl|ryanflournoy|rec|5|under5\",\"nfl|jamesonwilliams|rry|100|under5\",\"nfl|matthewstafford|py|200|over5\",\"nfl|ashtonjeanty|rec|6|under5\",\"nfl|kylepittssr|rec|6|under5\",\"nfl|georgepickens|wy|40|over5\",\"nfl|jahmyrgibbs|wy|60|under5\",\"nfl|camward|pry|260|under5\",\"nfl|colbyparkinson|rec|5|under5\",\"ncaaf|calebcunningham|wy|60|under5\",\"nfl|trevorlawrence|py|200|over5\",\"nfl|tetairoamcmillan|rry|100|under5\",\"ncaaf|makhifrazier|rry|80|under5\",\"nfl|joshallen|ptd|1|over5\",\"nfl|jahmyrgibbs|rry|80|over5\"],[\"open:oooooooooo\",\"open:oooooooooooooooooooooooooooooooo\",\"open:ooooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:ooooooo\",\"lost:hhhh24h9mh3m0h16h30h18hmh42h14h34h8h48h24h9h8h13h9h3h24h2h6mhh93h18mhh7h45h13m0m14h5\"],[[1,[\"strong\"],14],[0,[],18],[2,[\"strong!\",\"value\"],13],[0,[],13],[0,[],13],[0,[],16],[0,[],18],[0,[],14],[0,[],17],[1,[\"strong\"],14],[1,[\"value!\"],14],[1,[\"value\"],16],[1,[\"value\"],18],[0,[],15],[0,[],16],[2,[\"supreme!\",\"value\"],14],[0,[],13],[2,[\"strong\",\"value\"],18],[0,[],12],[0,[],10],[0,[],11],[0,[],13],[0,[],12],[0,[],14],[0,[],15],[0,[],10],[2,[\"supreme\",\"value\"],15],[1,[\"strong\"],13],[0,[],16],[3,[\"supreme\",\"strong\",\"value\"],12],[0,[],16],[2,[\"supreme\",\"value\"],12],[2,[\"supreme\",\"value\"],17],[1,[\"strong\"],12],[1,[\"strong\"],11],[0,[],12],[0,[],16],[0,[],16],[1,[\"value\"],16],[0,[],13],[1,[\"strong!\"],16],[0,[],9],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],13],[1,[\"supreme*\"],9],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],10],[3,[\"supreme*\",\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],15],[1,[\"supreme!\"],18],[1,[\"supreme\"],13],[1,[\"value\"],14],[1,[\"strong!\"],10],[1,[\"supreme*\"],17],[2,[\"supreme*\",\"supreme\"],12],[2,[\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],13],[1,[\"strong\"],16],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],14],[1,[\"value\"],17]],[4,12,[null,null,null,null]],[[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,true,null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[3,[null,null,null]],[2,[null,null]],[6,[null,null,null,null,null,null]],[0,[]],[12,[null,null,null,null,null,null,true,null,null,null,null,null]],[3,[null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[5,[null,null,null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
