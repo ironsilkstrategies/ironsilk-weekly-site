@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794703590217,
+ "generated": 1794703733851,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -14,12 +14,12 @@
  "subscribe": "https://whop.com/ironsilkweekly/thedesk-vip",
  "record": {
   "w": 41,
-  "l": 29,
+  "l": 30,
   "pu": 0,
-  "u": 1.6851004247492396,
+  "u": 0.6851004247492396,
   "first": "2026-10-06",
-  "be": 0.5825761068844579,
-  "ap": -140
+  "be": 0.5819043831386237,
+  "ap": -139
  },
  "today": {
   "d": "2026-11-14",
@@ -160,13 +160,13 @@
       "note": "both offenses outclass the defenses (Scout)"
      }
     ],
-    "hit": null,
+    "hit": false,
     "push": false,
     "why": {
      "read": {
       "who": "The Scout",
       "take": "I watch the talent — and the talent says over.",
-      "text": "I watch the talent — and the talent says over. Trace Johnson averages 164 passing yards a game — only 5 games, so it's a footnote, not the reason. The matchup to watch: run game: top 7% offense vs TULN bottom 18% defense. I'm 17-6 on CFB overs. The worry: One garbage-time score can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 77% — the price pays more than the risk."
+      "text": "I watch the talent — and the talent says over. Trace Johnson averages 164 passing yards a game — only 5 games, so it's a footnote, not the reason. The matchup to watch: run game: top 7% offense vs TULN bottom 18% defense. I'm 17-7 on CFB overs. The worry: One garbage-time score can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 77% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794690000000
@@ -3920,6 +3920,17 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
+     "pick": "Owen McCown under 3.5 rec",
+     "team": "UTSA",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
      "pick": "Owen McCown under 59.5 rush+rec yds",
      "team": "UTSA",
      "side": "under",
@@ -3953,18 +3964,7 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 49.5 rush yds",
+     "pick": "A'Marion Peterson under 14.5 longest rec yds",
      "team": "UTSA",
      "side": "under",
      "p": 0.999,
@@ -4347,6 +4347,17 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
+     "pick": "Owen McCown under 3.5 rec",
+     "team": "UTSA",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
      "pick": "Owen McCown under 59.5 rush+rec yds",
      "team": "UTSA",
      "side": "under",
@@ -4380,18 +4391,7 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 219.5 pass+rush yds",
+     "pick": "A'Marion Peterson under 14.5 longest rec yds",
      "team": "UTSA",
      "side": "under",
      "p": 0.999,
@@ -4642,7 +4642,7 @@
     {
      "lane": "College football overs",
      "w": 58,
-     "l": 71
+     "l": 72
     }
    ],
    "record": {
@@ -4709,6 +4709,28 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
+     "pick": "Owen McCown under 3.5 rec",
+     "team": "UTSA",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Owen McCown under 59.5 rush+rec yds",
+     "team": "UTSA",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
      "pick": "A'Marion Peterson under 199.5 pass yds",
      "team": "UTSA",
      "side": "under",
@@ -4731,29 +4753,7 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 49.5 rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 219.5 pass+rush yds",
+     "pick": "A'Marion Peterson under 14.5 longest rec yds",
      "team": "UTSA",
      "side": "under",
      "p": 0.999,
@@ -5071,6 +5071,28 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
+     "pick": "Owen McCown under 3.5 rec",
+     "team": "UTSA",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
+     "pick": "Owen McCown under 59.5 rush+rec yds",
+     "team": "UTSA",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
      "pick": "A'Marion Peterson under 199.5 pass yds",
      "team": "UTSA",
      "side": "under",
@@ -5093,29 +5115,7 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Brandon High Jr. under 199.5 pass yds",
+     "pick": "A'Marion Peterson under 14.5 longest rec yds",
      "team": "UTSA",
      "side": "under",
      "p": 0.999,
@@ -5671,6 +5671,17 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
+     "pick": "Owen McCown under 3.5 rec",
+     "team": "UTSA",
+     "side": "under",
+     "p": 0.999,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaaf",
      "pick": "Owen McCown under 59.5 rush+rec yds",
      "team": "UTSA",
      "side": "under",
@@ -5704,18 +5715,7 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Mekhi Anderson under 49.5 rush yds",
+     "pick": "A'Marion Peterson under 14.5 longest rec yds",
      "team": "UTSA",
      "side": "under",
      "p": 0.999,
@@ -6769,7 +6769,7 @@
      "price": -115,
      "p": 0.815,
      "start": "2026-11-14T21:30Z",
-     "hit": null,
+     "hit": false,
      "push": false,
      "note": "both offenses outclass the defenses (Scout)"
     },
@@ -8348,9 +8348,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -8367,8 +8367,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -8384,9 +8384,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -8420,11 +8420,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": true
@@ -8438,7 +8438,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -8456,12 +8456,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -8497,8 +8497,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": true
@@ -8514,9 +8514,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": false
@@ -8533,8 +8533,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": true
@@ -8595,9 +8595,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -8680,12 +8680,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": true
       },
@@ -8698,11 +8698,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": true
@@ -8716,7 +8716,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -8770,12 +8770,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -8805,9 +8805,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": true
@@ -8824,8 +8824,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -8888,9 +8888,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -8925,8 +8925,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -8960,11 +8960,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": true
@@ -8978,7 +8978,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -8996,12 +8996,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -9037,8 +9037,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": true
@@ -9055,8 +9055,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -9073,8 +9073,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": true
@@ -9091,8 +9091,8 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
        "hit": true
@@ -9149,9 +9149,9 @@
         "lab": "CFB ML dogs",
         "rk": 5,
         "of": 5,
-        "w": 6,
-        "l": 15,
-        "u": -6.9,
+        "w": 7,
+        "l": 16,
+        "u": -6.5,
         "say": "worst"
        },
        "hit": false
@@ -9167,9 +9167,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -9204,8 +9204,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -9221,12 +9221,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": false
       },
@@ -9239,11 +9239,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": false
@@ -9275,8 +9275,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -9293,8 +9293,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -9311,8 +9311,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": false
@@ -9329,8 +9329,8 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
        "hit": false
@@ -9375,9 +9375,9 @@
         "lab": "CFB ML dogs",
         "rk": 5,
         "of": 5,
-        "w": 6,
-        "l": 15,
-        "u": -6.9,
+        "w": 7,
+        "l": 16,
+        "u": -6.5,
         "say": "worst"
        },
        "hit": false
@@ -9393,9 +9393,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -9412,8 +9412,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -9429,12 +9429,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -9447,11 +9447,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": null
@@ -9465,12 +9465,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -9506,8 +9506,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": true
@@ -9523,9 +9523,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": false
@@ -9603,9 +9603,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -9621,9 +9621,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": false
@@ -9640,8 +9640,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": false
@@ -9657,12 +9657,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": true
       },
@@ -9675,11 +9675,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": true
@@ -9693,12 +9693,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -9734,8 +9734,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": true
@@ -9752,8 +9752,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -9770,8 +9770,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": true
@@ -9848,9 +9848,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -9866,9 +9866,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": false
@@ -9885,8 +9885,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": false
@@ -9923,8 +9923,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -9956,12 +9956,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       }
@@ -9978,9 +9978,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": false
@@ -9996,9 +9996,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": false
@@ -10015,8 +10015,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": true
@@ -10063,9 +10063,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -10081,9 +10081,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": false
@@ -10100,8 +10100,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": false
@@ -10117,12 +10117,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": true
       },
@@ -10138,8 +10138,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -10153,12 +10153,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -10207,7 +10207,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -10229,9 +10229,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": true
@@ -10247,9 +10247,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -10266,8 +10266,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -10362,9 +10362,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -10380,9 +10380,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -10399,8 +10399,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -10437,8 +10437,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -10452,7 +10452,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -10470,12 +10470,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -10529,8 +10529,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -10546,9 +10546,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -10660,9 +10660,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -10678,9 +10678,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -10697,8 +10697,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -10735,8 +10735,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -10750,7 +10750,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -10768,12 +10768,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -10827,8 +10827,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -10845,8 +10845,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -10863,8 +10863,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -10881,8 +10881,8 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
        "hit": false
@@ -11887,9 +11887,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -11905,9 +11905,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -11924,8 +11924,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -11959,12 +11959,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -11998,8 +11998,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -12013,7 +12013,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -12036,8 +12036,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -12054,8 +12054,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -12072,8 +12072,8 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
        "hit": false
@@ -12090,8 +12090,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -12172,9 +12172,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -12191,8 +12191,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": false
@@ -12247,8 +12247,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -12298,7 +12298,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -12321,8 +12321,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -12339,8 +12339,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -12357,8 +12357,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -12405,9 +12405,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -12423,9 +12423,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": false
@@ -12442,8 +12442,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -12498,8 +12498,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -12518,8 +12518,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -12535,9 +12535,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -15018,9 +15018,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -15036,9 +15036,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -15055,8 +15055,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -15072,12 +15072,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": true
       },
@@ -15093,8 +15093,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -15108,12 +15108,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -15144,7 +15144,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -15185,8 +15185,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -15203,8 +15203,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -15221,8 +15221,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -15269,9 +15269,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -15288,8 +15288,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -15305,12 +15305,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": false
       },
@@ -15326,8 +15326,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -15341,12 +15341,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -15382,8 +15382,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -15400,8 +15400,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -15418,8 +15418,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -15942,9 +15942,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -15960,9 +15960,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -15979,8 +15979,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -15996,12 +15996,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": true
       },
@@ -16014,11 +16014,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": true
@@ -16063,12 +16063,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -16081,7 +16081,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -16104,8 +16104,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -16121,9 +16121,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -16140,8 +16140,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -16268,9 +16268,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -16287,8 +16287,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -16343,8 +16343,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -16380,9 +16380,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": true
@@ -16398,9 +16398,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -16417,8 +16417,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -16512,9 +16512,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -16531,8 +16531,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -16548,9 +16548,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -16587,8 +16587,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -16606,9 +16606,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": true
@@ -16624,9 +16624,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -17307,9 +17307,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -17325,9 +17325,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -17344,8 +17344,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -17382,8 +17382,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -17397,7 +17397,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -17415,12 +17415,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -17455,9 +17455,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": false
@@ -17474,8 +17474,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": true
@@ -17491,9 +17491,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": false
@@ -17510,8 +17510,8 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
        "hit": true
@@ -17559,8 +17559,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -17574,7 +17574,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -17592,12 +17592,12 @@
        "o": 1,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -17651,8 +17651,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -17668,9 +17668,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -17733,9 +17733,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -17751,9 +17751,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -17770,8 +17770,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -17800,12 +17800,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": false
       },
@@ -17839,8 +17839,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -17872,12 +17872,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       }
@@ -17894,9 +17894,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": true
@@ -17930,9 +17930,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -17979,9 +17979,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -17997,9 +17997,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -18016,8 +18016,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -18033,12 +18033,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": false
       },
@@ -18054,8 +18054,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -18069,7 +18069,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -18087,12 +18087,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -18146,8 +18146,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -18164,8 +18164,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -18182,8 +18182,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -18248,9 +18248,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -18266,9 +18266,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": false
@@ -18285,8 +18285,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": false
@@ -18323,8 +18323,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -18360,9 +18360,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": true
@@ -18379,8 +18379,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -18415,8 +18415,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": false
@@ -18511,9 +18511,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -18529,9 +18529,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -18548,8 +18548,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -18583,12 +18583,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -18640,8 +18640,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -18660,8 +18660,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -18678,8 +18678,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -18696,8 +18696,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -18744,9 +18744,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -18763,8 +18763,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -18780,9 +18780,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -18819,8 +18819,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": true
@@ -18834,12 +18834,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -18892,9 +18892,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": true
@@ -18910,9 +18910,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": true
@@ -18929,8 +18929,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": false
@@ -18995,9 +18995,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -19014,8 +19014,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -19031,9 +19031,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -19052,8 +19052,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -19070,8 +19070,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -19105,12 +19105,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": false
       },
@@ -19123,11 +19123,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": false
@@ -19141,7 +19141,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -19159,12 +19159,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": false
       },
@@ -19258,9 +19258,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -19276,9 +19276,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": false
@@ -19295,8 +19295,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": false
@@ -19333,8 +19333,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -19348,12 +19348,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -19406,9 +19406,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": false
@@ -19425,8 +19425,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -19443,8 +19443,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": true
@@ -19492,8 +19492,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -19507,12 +19507,12 @@
        "o": 1,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -19566,8 +19566,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": false
@@ -19584,8 +19584,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": false
@@ -19602,8 +19602,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": false
@@ -21946,9 +21946,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": true
@@ -21965,8 +21965,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": true
@@ -21982,9 +21982,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": true
@@ -22000,12 +22000,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": true
       },
@@ -22021,8 +22021,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": false
@@ -22036,7 +22036,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -22054,12 +22054,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": true
       },
@@ -22112,9 +22112,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": false
@@ -22130,9 +22130,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": false
@@ -22185,8 +22185,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": true
@@ -22200,7 +22200,7 @@
     "gl": "#54 AUB@#79 MSST",
     "start": "2026-11-14T21:15:00.000Z",
     "day": "2026-11-14",
-    "st": "in",
+    "st": "post",
     "picks": [
      {
       "m": "total",
@@ -22230,12 +22230,12 @@
         "lab": "CFB ML dogs",
         "rk": 5,
         "of": 5,
-        "w": 6,
-        "l": 15,
-        "u": -6.9,
+        "w": 7,
+        "l": 16,
+        "u": -6.5,
         "say": "worst"
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Power",
@@ -22248,12 +22248,12 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Scout",
@@ -22266,12 +22266,12 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Judge",
@@ -22284,7 +22284,7 @@
         "lab": "CFB ML dogs",
         "of": 5
        },
-       "hit": null
+       "hit": false
       }
      ],
      "spread": [
@@ -22297,14 +22297,14 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Judge",
@@ -22315,14 +22315,14 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Coach",
@@ -22333,14 +22333,14 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
-       "hit": null
+       "hit": false
       }
      ],
      "total": [
@@ -22355,12 +22355,12 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Judge",
@@ -22373,12 +22373,12 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Coach",
@@ -22392,8 +22392,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -22694,7 +22694,7 @@
     "gl": "#119 TULN@#125 RICE",
     "start": "2026-11-14T21:30:00.000Z",
     "day": "2026-11-14",
-    "st": "in",
+    "st": "post",
     "picks": [
      {
       "m": "total",
@@ -22736,12 +22736,12 @@
         "lab": "CFB ML dogs",
         "rk": 5,
         "of": 5,
-        "w": 6,
-        "l": 15,
-        "u": -6.9,
+        "w": 7,
+        "l": 16,
+        "u": -6.5,
         "say": "worst"
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Power",
@@ -22754,12 +22754,12 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Scout",
@@ -22772,12 +22772,12 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Judge",
@@ -22791,11 +22791,11 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
-       "hit": null
+       "hit": false
       }
      ],
      "spread": [
@@ -22808,14 +22808,14 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Judge",
@@ -22829,11 +22829,11 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
-       "hit": null
+       "hit": false
       }
      ],
      "total": [
@@ -22849,11 +22849,11 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Judge",
@@ -22867,11 +22867,11 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Most common",
@@ -22885,11 +22885,11 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Coach",
@@ -22903,11 +22903,11 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
-       "hit": null
+       "hit": false
       },
       {
        "v": "Scout",
@@ -22921,11 +22921,11 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
-       "hit": null
+       "hit": false
       }
      ]
     }
@@ -23762,9 +23762,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -23780,9 +23780,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -23799,8 +23799,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -23837,8 +23837,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -23852,12 +23852,12 @@
        "o": 1,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -23892,9 +23892,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -23910,9 +23910,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -23991,9 +23991,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -24010,8 +24010,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -24048,8 +24048,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -24086,8 +24086,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -24104,8 +24104,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -24122,8 +24122,8 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
        "hit": null
@@ -24140,8 +24140,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -24237,9 +24237,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -24255,9 +24255,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -24274,8 +24274,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -24312,8 +24312,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -24363,12 +24363,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       }
@@ -24385,9 +24385,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -24403,9 +24403,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -24422,8 +24422,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -25535,9 +25535,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -25554,8 +25554,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -25571,12 +25571,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -25592,8 +25592,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -25607,12 +25607,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -25625,7 +25625,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -25665,9 +25665,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -25684,8 +25684,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -25720,8 +25720,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": null
@@ -25738,8 +25738,8 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
        "hit": null
@@ -25816,9 +25816,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -25834,9 +25834,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -25853,8 +25853,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -25891,8 +25891,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -25928,9 +25928,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -25947,8 +25947,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -26025,9 +26025,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -26043,9 +26043,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -26062,8 +26062,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -26100,8 +26100,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -26155,9 +26155,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -26173,9 +26173,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -26192,8 +26192,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -29610,9 +29610,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -29629,8 +29629,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -29646,12 +29646,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -29664,11 +29664,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": null
@@ -29682,7 +29682,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -29700,12 +29700,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -29758,9 +29758,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -29777,8 +29777,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -29813,8 +29813,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -29905,9 +29905,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -29923,9 +29923,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -29942,8 +29942,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -29998,8 +29998,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -30072,8 +30072,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -30090,8 +30090,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -30138,9 +30138,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -30156,9 +30156,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -30175,8 +30175,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -30192,12 +30192,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -30213,8 +30213,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -30228,12 +30228,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -30282,7 +30282,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -30322,9 +30322,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -30341,8 +30341,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -30359,8 +30359,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -30456,9 +30456,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -30493,8 +30493,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -30531,8 +30531,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -30546,7 +30546,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -30564,12 +30564,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -30604,9 +30604,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -30622,9 +30622,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -30705,9 +30705,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -30724,8 +30724,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -30762,8 +30762,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -30781,9 +30781,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -30799,9 +30799,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -32958,9 +32958,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -32976,9 +32976,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -32995,8 +32995,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -33033,8 +33033,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -33088,9 +33088,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -33106,9 +33106,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -33143,8 +33143,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": null
@@ -34395,9 +34395,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -34414,8 +34414,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -34431,12 +34431,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -34449,11 +34449,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": null
@@ -34503,8 +34503,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -34521,8 +34521,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -34539,8 +34539,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -34636,9 +34636,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -34654,9 +34654,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -34673,8 +34673,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -34711,8 +34711,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -34726,7 +34726,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -34744,12 +34744,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -34803,8 +34803,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -34821,8 +34821,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -34839,8 +34839,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -34916,9 +34916,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -34934,9 +34934,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -34953,8 +34953,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -34991,8 +34991,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -35006,12 +35006,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -35064,9 +35064,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -35083,8 +35083,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -35101,8 +35101,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": null
@@ -35165,9 +35165,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -35183,9 +35183,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -35202,8 +35202,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -35240,8 +35240,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -35255,12 +35255,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -35309,7 +35309,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -35345,8 +35345,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -35363,8 +35363,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -35381,8 +35381,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -35477,9 +35477,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -35495,9 +35495,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -35514,8 +35514,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -35565,8 +35565,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -35633,9 +35633,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -35651,9 +35651,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -38165,9 +38165,9 @@
         "lab": "CFB ML dogs",
         "rk": 5,
         "of": 5,
-        "w": 6,
-        "l": 15,
-        "u": -6.9,
+        "w": 7,
+        "l": 16,
+        "u": -6.5,
         "say": "worst"
        },
        "hit": null
@@ -38183,9 +38183,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -38201,9 +38201,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -38220,8 +38220,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -38237,12 +38237,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -38255,11 +38255,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": null
@@ -38295,9 +38295,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -38313,9 +38313,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -38350,8 +38350,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": null
@@ -38711,9 +38711,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -38730,8 +38730,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -38765,12 +38765,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -38786,8 +38786,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -38805,9 +38805,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -38824,8 +38824,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -38888,9 +38888,9 @@
         "lab": "CFB ML dogs",
         "rk": 5,
         "of": 5,
-        "w": 6,
-        "l": 15,
-        "u": -6.9,
+        "w": 7,
+        "l": 16,
+        "u": -6.5,
         "say": "worst"
        },
        "hit": null
@@ -38906,9 +38906,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -38924,9 +38924,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -38943,8 +38943,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -38960,12 +38960,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -38978,11 +38978,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": null
@@ -38996,12 +38996,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       }
@@ -39019,8 +39019,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -39036,9 +39036,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -39055,8 +39055,8 @@
         "rk": 3,
         "of": 8,
         "w": 13,
-        "l": 14,
-        "u": -2.1,
+        "l": 15,
+        "u": -3.1,
         "say": ""
        },
        "hit": null
@@ -39073,8 +39073,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -39653,9 +39653,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -39671,9 +39671,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -39690,8 +39690,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -39741,8 +39741,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -39756,12 +39756,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -39828,8 +39828,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -39846,8 +39846,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -39864,8 +39864,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -40437,9 +40437,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -40455,9 +40455,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -40474,8 +40474,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -40512,8 +40512,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -40563,8 +40563,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -40581,8 +40581,8 @@
         "rk": 6,
         "of": 8,
         "w": 62,
-        "l": 71,
-        "u": -14.7,
+        "l": 72,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -40629,9 +40629,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -40666,8 +40666,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -40683,12 +40683,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -40701,11 +40701,11 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 6,
+        "rk": 7,
         "of": 9,
         "w": 39,
-        "l": 45,
-        "u": -9.5,
+        "l": 46,
+        "u": -10.5,
         "say": ""
        },
        "hit": null
@@ -40719,7 +40719,7 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 7,
+        "rk": 6,
         "of": 9,
         "w": 35,
         "l": 41,
@@ -40737,12 +40737,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 8,
+        "rk": 9,
         "of": 9,
         "w": 12,
-        "l": 16,
-        "u": -5,
-        "say": ""
+        "l": 17,
+        "u": -6,
+        "say": "worst"
        },
        "hit": null
       },
@@ -40790,9 +40790,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -40808,9 +40808,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -40863,8 +40863,8 @@
         "rk": 1,
         "of": 8,
         "w": 17,
-        "l": 6,
-        "u": 9.2,
+        "l": 7,
+        "u": 8.2,
         "say": "top"
        },
        "hit": null
@@ -40941,9 +40941,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -40959,9 +40959,9 @@
         "lab": "CFB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 57,
-        "l": 19,
-        "u": -3.2,
+        "w": 58,
+        "l": 20,
+        "u": -3.4,
         "say": ""
        },
        "hit": null
@@ -40978,8 +40978,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -41016,8 +41016,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -41072,8 +41072,8 @@
         "rk": 7,
         "of": 8,
         "w": 61,
-        "l": 74,
-        "u": -18.4,
+        "l": 75,
+        "u": -19.4,
         "say": ""
        },
        "hit": null
@@ -41089,9 +41089,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -41108,8 +41108,8 @@
         "rk": 8,
         "of": 8,
         "w": 60,
-        "l": 74,
-        "u": -19.3,
+        "l": 75,
+        "u": -20.3,
         "say": "worst"
        },
        "hit": null
@@ -41218,7 +41218,7 @@
        "s": "home",
        "pick": "DET ML",
        "price": -150,
-       "p": 0.693,
+       "p": 0.688,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -41407,9 +41407,9 @@
         "lab": "CFB ML dogs",
         "rk": 5,
         "of": 5,
-        "w": 6,
-        "l": 15,
-        "u": -6.9,
+        "w": 7,
+        "l": 16,
+        "u": -6.5,
         "say": "worst"
        },
        "hit": null
@@ -41426,8 +41426,8 @@
         "rk": 5,
         "of": 8,
         "w": 185,
-        "l": 80,
-        "u": -12.4,
+        "l": 81,
+        "u": -13.4,
         "say": ""
        },
        "hit": null
@@ -41443,9 +41443,9 @@
         "lab": "CFB ML favorites",
         "rk": 7,
         "of": 8,
-        "w": 178,
-        "l": 80,
-        "u": -15.4,
+        "w": 179,
+        "l": 81,
+        "u": -15.7,
         "say": ""
        },
        "hit": null
@@ -41461,12 +41461,12 @@
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
-        "rk": 9,
+        "rk": 8,
         "of": 9,
-        "w": 54,
-        "l": 64,
+        "w": 55,
+        "l": 65,
         "u": -15,
-        "say": "worst"
+        "say": ""
        },
        "hit": null
       },
@@ -41482,8 +41482,8 @@
         "rk": 5,
         "of": 8,
         "w": 83,
-        "l": 95,
-        "u": -20.2,
+        "l": 96,
+        "u": -21.2,
         "say": ""
        },
        "hit": null
@@ -41514,9 +41514,9 @@
         "lab": "CFB unders",
         "rk": 5,
         "of": 7,
-        "w": 68,
+        "w": 69,
         "l": 69,
-        "u": -7.1,
+        "u": -6.2,
         "say": ""
        },
        "hit": null
@@ -41532,9 +41532,9 @@
         "lab": "CFB unders",
         "rk": 4,
         "of": 7,
-        "w": 70,
+        "w": 71,
         "l": 68,
-        "u": -4.6,
+        "u": -3.8,
         "say": ""
        },
        "hit": null
@@ -41544,7 +41544,7 @@
        "s": "under",
        "pick": "Under 48.5",
        "price": -110,
-       "p": 0.512,
+       "p": 0.507,
        "o": 0,
        "r": {
         "lab": "CFB unders",
@@ -41629,7 +41629,7 @@
        "s": "away",
        "pick": "KC ML",
        "price": -177,
-       "p": 0.785,
+       "p": 0.78,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -41680,7 +41680,7 @@
        "s": "away",
        "pick": "KC -3",
        "price": -115,
-       "p": 0.598,
+       "p": 0.599,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -41716,7 +41716,7 @@
        "s": "away",
        "pick": "KC -3",
        "price": -115,
-       "p": 0.59,
+       "p": 0.582,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -41887,7 +41887,7 @@
        "s": "away",
        "pick": "HOU ML",
        "price": -230,
-       "p": 0.872,
+       "p": 0.867,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -42079,7 +42079,7 @@
        "s": "over",
        "pick": "Over 40.5",
        "price": -110,
-       "p": 0.604,
+       "p": 0.603,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -42181,7 +42181,7 @@
        "s": "home",
        "pick": "GB ML",
        "price": -150,
-       "p": 0.692,
+       "p": 0.687,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -42311,7 +42311,7 @@
        "s": "under",
        "pick": "Under 42",
        "price": -110,
-       "p": 0.537,
+       "p": 0.529,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -42425,7 +42425,7 @@
        "s": "away",
        "pick": "JAX ML",
        "price": -575,
-       "p": 0.897,
+       "p": 0.892,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -42581,7 +42581,7 @@
        "s": "under",
        "pick": "Under 46.5",
        "price": -110,
-       "p": 0.602,
+       "p": 0.601,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -42734,7 +42734,7 @@
        "s": "away",
        "pick": "MIA +4.5",
        "price": -112,
-       "p": 0.55,
+       "p": 0.545,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -42803,7 +42803,7 @@
        "s": "over",
        "pick": "Over 37.5",
        "price": -109,
-       "p": 0.555,
+       "p": 0.554,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -43010,7 +43010,7 @@
        "s": "over",
        "pick": "Over 47.5",
        "price": -110,
-       "p": 0.602,
+       "p": 0.605,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -43168,7 +43168,7 @@
        "s": "home",
        "pick": "NYJ +9",
        "price": -125,
-       "p": 0.638,
+       "p": 0.637,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -43384,7 +43384,7 @@
        "s": "away",
        "pick": "SEA ML",
        "price": -290,
-       "p": 0.836,
+       "p": 0.831,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -43476,7 +43476,7 @@
        "s": "home",
        "pick": "LV +6.5",
        "price": -105,
-       "p": 0.564,
+       "p": 0.563,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -43527,7 +43527,7 @@
        "s": "over",
        "pick": "Over 40.5",
        "price": -107,
-       "p": 0.58,
+       "p": 0.579,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -43545,7 +43545,7 @@
        "s": "over",
        "pick": "Over 40.5",
        "price": -107,
-       "p": 0.617,
+       "p": 0.616,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -43773,7 +43773,7 @@
        "s": "over",
        "pick": "Over 39",
        "price": -115,
-       "p": 0.638,
+       "p": 0.637,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -43876,7 +43876,7 @@
        "s": "away",
        "pick": "SF ML",
        "price": -210,
-       "p": 0.832,
+       "p": 0.827,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -44019,7 +44019,7 @@
        "s": "under",
        "pick": "Under 55.5",
        "price": -110,
-       "p": 0.645,
+       "p": 0.644,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -44379,7 +44379,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.785,
+       "p": 0.78,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -44540,7 +44540,7 @@
        "s": "over",
        "pick": "Over 38.5",
        "price": -113,
-       "p": 0.638,
+       "p": 0.637,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -44611,6 +44611,6 @@
   },
   "heavy": -500
  },
- "betaSig": "[[[1,[\"supreme\"],8],[0,[],12],[1,[\"value\"],15],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],11],[0,[],14],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],14],[1,[\"strong\"],12],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],15],[3,[\"strong\",\"value\",\"value\"],11],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],13],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],12],[2,[\"strong\",\"strong\"],12],[0,[],12],[1,[\"supreme*\"],12],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],15],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],10],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],11],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],12],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],11],[2,[\"supreme*!\",\"value\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],14],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],10],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value!\",\"value\"],9],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[2,12,[null,null,true]],[[8,[null,true,null,null,null,null,null,null]],[14,[true,null,null,null,null,null,null,true,null,null,null,null,null,null]],[9,[null,false,true,null,null,null,null,null,null]],[9,[true,true,null,null,null,null,null,null,null]],[1,[null]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[true,null,null]],[13,[true,true,true,null,null,true,null,null,true,null,null,null,null]],[16,[true,null,null,true,false,true,null,true,true,false,null,null,true,null,true,true]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[[1,[\"supreme\"],8],[0,[],12],[1,[\"value\"],15],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],11],[0,[],14],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],14],[1,[\"strong\"],12],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],15],[3,[\"strong\",\"value\",\"value\"],11],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],13],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],12],[2,[\"strong\",\"strong\"],12],[0,[],12],[1,[\"supreme*\"],12],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],15],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],10],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],11],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],12],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],11],[2,[\"supreme*!\",\"value\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],14],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],10],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value!\",\"value\"],9],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[2,12,[null,null,true]],[[8,[null,true,null,null,null,null,null,null]],[14,[true,null,null,null,null,null,null,true,null,null,null,null,null,null]],[9,[null,false,true,null,null,null,null,null,null]],[9,[true,true,null,null,null,null,null,null,null]],[1,[null]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[true,null,null]],[13,[true,true,true,null,null,true,null,null,true,null,null,null,null]],[16,[true,false,null,true,false,true,null,true,true,false,null,null,true,null,true,true]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
