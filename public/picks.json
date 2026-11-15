@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794703733851,
+ "generated": 1794704447736,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -16,7 +16,7 @@
   "w": 41,
   "l": 30,
   "pu": 0,
-  "u": 0.6851004247492396,
+  "u": 0.69,
   "first": "2026-10-06",
   "be": 0.5819043831386237,
   "ap": -139
@@ -166,7 +166,7 @@
      "read": {
       "who": "The Scout",
       "take": "I watch the talent — and the talent says over.",
-      "text": "I watch the talent — and the talent says over. Trace Johnson averages 164 passing yards a game — only 5 games, so it's a footnote, not the reason. The matchup to watch: run game: top 7% offense vs TULN bottom 18% defense. I'm 17-7 on CFB overs. The worry: One garbage-time score can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 77% — the price pays more than the risk."
+      "text": "I watch the talent — and the talent says over. Trace Johnson averages 168 passing yards a game — only 6 games, so it's a footnote, not the reason. I'm 17-7 on CFB overs. The worry: One garbage-time score can swing a total like this — nothing here is a lock. At -115 the book needs this to hit 53% of the time. I have it at 77% — the price pays more than the risk."
      }
     },
     "unlockAt": 1794690000000
@@ -232,12 +232,7 @@
    }
   ],
   "props": [],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "b9d49fdf28b499941d94bb100f7c75728e92e4fa18da32358426a54c0a7696b0",
-   "salt": null
-  }
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
@@ -3857,9 +3852,9 @@
     },
     {
      "lane": "College hoops unders",
-     "w": 101,
+     "w": 102,
      "l": 84,
-     "u": 8.2
+     "u": 9.1
     }
    ],
    "still": [
@@ -3876,8 +3871,8 @@
     "u": -3.55
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -3909,10 +3904,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Caleb Hawkins 75+ rush yds",
+     "team": "OKST",
+     "side": "over",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3920,10 +3915,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 3.5 rec",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Carson Clark 4+ rec",
+     "team": "SJSU",
+     "side": "over",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3931,10 +3926,32 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "pick": "Miles Coleman under 79.5 rec yds",
+     "team": "OKST",
      "side": "under",
-     "p": 0.999,
+     "p": 0.741,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Elijah Duval under 4.5 AST",
+     "team": "UAB",
+     "side": "under",
+     "p": 0.741,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Josiah Sanders under 11.5 PTS+AST",
+     "team": "MONT",
+     "side": "under",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3942,32 +3959,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
+     "pick": "TK Keyes under 3.5 rec",
+     "team": "TROY",
      "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 14.5 longest rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3975,112 +3970,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ORL ML",
-     "price": -380,
-     "gl": "#30 MIL@#18 ORL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "HOU ML",
-     "price": -1500,
-     "gl": "#28 UTAH@#3 HOU",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "SA ML",
-     "price": -740,
-     "gl": "#14 GS@#1 SA",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "POR ML",
-     "price": -535,
-     "gl": "#6 POR@#27 SAC",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "OKC ML",
-     "price": -280,
-     "gl": "#10 OKC@#23 LAC",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "PHI ML",
-     "price": -435,
-     "gl": "#22 TOR@#11 PHI",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "DET ML",
-     "price": -425,
-     "gl": "#7 DET@#24 WSH",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "SA ML",
-     "price": -1200,
-     "gl": "#1 SA@#26 CHI",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "LAL ML",
-     "price": -750,
-     "gl": "#4 LAL@#30 MIL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "UCD ML",
-     "price": -800,
-     "gl": "#478 UIW@#159 UCD",
+     "pick": "Bennett Basich under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SDSU ML",
-     "price": -3600,
-     "gl": "#468 BCU@#80 SDSU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "ND ML",
-     "price": -20000,
-     "gl": "#275 SCST@#5 ND",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -4181,7 +4152,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Judge",
@@ -4206,9 +4282,9 @@
     },
     {
      "lane": "College hoops unders",
-     "w": 100,
+     "w": 101,
      "l": 84,
-     "u": 7.4
+     "u": 8.3
     }
    ],
    "still": [
@@ -4225,8 +4301,8 @@
     "u": -9.46
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -4335,66 +4411,66 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
+     "sp": "nhl",
+     "pick": "Pontus Holmberg under 2.5 SOG",
+     "team": "TB",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 3.5 rec",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "sp": "ncaab",
+     "pick": "Barrington Hargress 3+ AST",
+     "team": "COLO",
+     "side": "over",
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "sp": "nhl",
+     "pick": "Matthew Kessel under 1.5 SOG",
+     "team": "NYI",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
+     "sp": "ncaab",
+     "pick": "Alex Cotton under 5.5 REB+AST",
+     "team": "HOW",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "sp": "ncaab",
+     "pick": "Cam Gillus 15+ PTS+REB+AST",
+     "team": "HOW",
+     "side": "over",
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 14.5 longest rec yds",
-     "team": "UTSA",
+     "sp": "ncaab",
+     "pick": "Elijah Duval under 4.5 AST",
+     "team": "UAB",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
@@ -4402,112 +4478,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "NYR ML",
-     "price": -217,
-     "gl": "#10 NYR@#32 VAN",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "VGK ML",
-     "price": -180,
-     "gl": "#11 NSH@#3 VGK",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "NY ML",
-     "price": -275,
-     "gl": "#8 NY@#21 IND",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ORL ML",
-     "price": -380,
-     "gl": "#30 MIL@#18 ORL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ATL ML",
-     "price": -280,
-     "gl": "#15 ATL@#26 CHI",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "MEM ML",
-     "price": -162,
-     "gl": "#12 MEM@#29 NO",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "OKC ML",
-     "price": -280,
-     "gl": "#10 OKC@#23 LAC",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "NYG ML",
-     "price": -135,
-     "gl": "#19 WSH@#17 NYG",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "CAR ML",
-     "price": -291,
-     "gl": "#1 CAR@#25 SEA",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "BOS ML",
-     "price": -120,
-     "gl": "#8 MTL@#6 BOS",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "MIN ML",
-     "price": -170,
-     "gl": "#2 MIN@#22 TOR",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "FLA ML",
-     "price": -166,
-     "gl": "#24 DET@#13 FLA",
-     "r": "win"
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -4608,7 +4660,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Coach",
@@ -5003,7 +5160,7 @@
    "still": [
     {
      "lane": "College hoops favorites on the spread",
-     "w": 22,
+     "w": 23,
      "l": 30
     }
    ],
@@ -5014,8 +5171,8 @@
     "u": -13.41
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -5059,11 +5216,44 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
+     "sp": "nba",
+     "pick": "Bam Adebayo under 29.5 PTS",
+     "team": "MIA",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Nick DeSimone under 1.5 SOG",
+     "team": "UTAH",
+     "side": "under",
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Maxim Tsyplakov under 1.5 SOG",
+     "team": "CGY",
+     "side": "under",
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Matas Buzelis under 2.5 3PM",
+     "team": "CHI",
+     "side": "under",
+     "p": 0.722,
      "hit": null,
      "push": false,
      "note": ""
@@ -5071,54 +5261,21 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 3.5 rec",
+     "pick": "David Amador II under 59.5 rec yds",
      "team": "UTSA",
      "side": "under",
-     "p": 0.999,
+     "p": 0.722,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "sp": "nba",
+     "pick": "Trevon Brazile under 1.5 3PM",
+     "team": "DEN",
      "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 14.5 longest rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "p": 0.722,
      "hit": null,
      "push": false,
      "note": ""
@@ -5126,112 +5283,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "UWF ML",
-     "price": 140,
-     "gl": "#114 UWF@#237 CLE",
+     "pick": "Bennett Basich under 14.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "COLU ML",
-     "price": -192,
-     "gl": "#93 COLU@#522 BUCK",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "SHU ML",
-     "price": -225,
-     "gl": "#199 CCSU@#209 SHU",
+     "pick": "Bennett Basich under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "Under 179",
-     "price": -110,
-     "gl": "#108 OKST@#78 TA&M",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "COFC -1.5",
-     "price": -113,
-     "gl": "#69 COFC@#450 TEM",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "SFA -6.5",
-     "price": -115,
-     "gl": "#85 SFA@#479 ACU",
+     "pick": "Bennett Basich under 2.5 AST",
      "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SFA ML",
-     "price": -250,
-     "gl": "#85 SFA@#479 ACU",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "BOIS -16.5",
-     "price": -108,
-     "gl": "#493 OAK@#86 BOIS",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "Under 181.5",
-     "price": -110,
-     "gl": "#171 CP@#17 GCU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "ETSU ML",
-     "price": -210,
-     "gl": "#277 CAM@#253 ETSU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SBU ML",
-     "price": -415,
-     "gl": "#203 COR@#73 SBU",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "USM ML",
-     "price": -455,
-     "gl": "#426 JKST@#235 USM",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -5332,7 +5465,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Pred",
@@ -5640,8 +5878,8 @@
     "u": 0.74
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -5660,10 +5898,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Caleb Hawkins 75+ rush yds",
+     "team": "OKST",
+     "side": "over",
+     "p": 0.702,
      "hit": null,
      "push": false,
      "note": ""
@@ -5671,10 +5909,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 3.5 rec",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Carson Clark 4+ rec",
+     "team": "SJSU",
+     "side": "over",
+     "p": 0.702,
      "hit": null,
      "push": false,
      "note": ""
@@ -5682,10 +5920,21 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "pick": "Miles Coleman under 79.5 rec yds",
+     "team": "OKST",
      "side": "under",
-     "p": 0.999,
+     "p": 0.701,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Cade Cunningham 30+ PTS+REB+AST",
+     "team": "DET",
+     "side": "over",
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
@@ -5693,32 +5942,21 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
+     "pick": "Noah Bennee under 24.5 longest rec yds",
+     "team": "UTAH",
      "side": "under",
-     "p": 0.999,
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
+     "sp": "ncaab",
+     "pick": "Elijah Duval under 4.5 AST",
+     "team": "UAB",
      "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 14.5 longest rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
@@ -5726,31 +5964,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaaf",
-     "pick": "TOL -14",
-     "price": -115,
-     "gl": "#111 MASS@#60 TOL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-08",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "PHI +3",
-     "price": -112,
-     "gl": "#17 NYG@#32 PHI",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-08",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "SEA -8",
-     "price": -115,
-     "gl": "#29 ARI@#12 SEA",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -5827,7 +6122,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Consensus",
@@ -8225,9 +8625,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": false
@@ -8243,9 +8643,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": false
@@ -11059,9 +11459,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -11077,9 +11477,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -11131,9 +11531,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": true
@@ -11520,9 +11920,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -11556,9 +11956,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -11771,9 +12171,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": false
@@ -11789,9 +12189,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": false
@@ -12913,9 +13313,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": false
@@ -13034,7 +13434,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -13052,7 +13452,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -13070,7 +13470,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -13088,7 +13488,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -13236,9 +13636,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -13254,9 +13654,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -13290,9 +13690,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": true
@@ -13411,9 +13811,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": false
@@ -13788,9 +14188,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -13806,9 +14206,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -13945,9 +14345,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": false
@@ -13963,9 +14363,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": false
@@ -14019,9 +14419,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": false
@@ -14037,9 +14437,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": false
@@ -14102,7 +14502,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -14120,7 +14520,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -14138,7 +14538,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -14156,7 +14556,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -14499,9 +14899,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -14673,9 +15073,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -14691,9 +15091,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -14727,9 +15127,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": true
@@ -14843,9 +15243,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": false
@@ -15482,7 +15882,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -15500,7 +15900,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -15518,7 +15918,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -15536,7 +15936,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -15556,9 +15956,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": false
@@ -15574,9 +15974,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": false
@@ -15877,9 +16277,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -19970,9 +20370,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": true
@@ -20044,9 +20444,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": false
@@ -20062,9 +20462,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": false
@@ -20233,9 +20633,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": true
@@ -20307,9 +20707,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -20325,9 +20725,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -20372,7 +20772,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -20390,7 +20790,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -20408,7 +20808,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -20426,7 +20826,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -20464,9 +20864,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": false
@@ -20592,9 +20992,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": false
@@ -20656,7 +21056,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -20674,7 +21074,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -20692,7 +21092,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -20710,7 +21110,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -20728,9 +21128,9 @@
         "lab": "CBB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 71,
+        "w": 72,
         "l": 25,
-        "u": -4.9,
+        "u": -4.2,
         "say": ""
        },
        "hit": true
@@ -20748,9 +21148,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": true
@@ -20766,9 +21166,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": true
@@ -20784,9 +21184,9 @@
         "lab": "CBB spread favorites",
         "rk": 7,
         "of": 8,
-        "w": 22,
+        "w": 23,
         "l": 30,
-        "u": -10.1,
+        "u": -9.2,
         "say": ""
        },
        "hit": true
@@ -20813,11 +21213,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread favorites",
-        "rk": 3,
+        "rk": 2,
         "of": 8,
-        "w": 17,
+        "w": 18,
         "l": 19,
-        "u": -3.5,
+        "u": -2.6,
         "say": ""
        },
        "hit": true
@@ -20835,9 +21235,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -20853,9 +21253,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -20889,9 +21289,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": true
@@ -20952,7 +21352,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -20970,7 +21370,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -20988,7 +21388,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -21006,7 +21406,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -21154,9 +21554,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -21172,9 +21572,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -21349,9 +21749,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -21403,9 +21803,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": true
@@ -21450,9 +21850,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": true
@@ -21468,9 +21868,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": true
@@ -21596,9 +21996,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -21650,9 +22050,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": true
@@ -21863,9 +22263,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": true
@@ -22624,9 +23024,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": false
@@ -22642,9 +23042,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": false
@@ -22678,9 +23078,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": false
@@ -23238,9 +23638,9 @@
         "lab": "CBB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 71,
+        "w": 72,
         "l": 25,
-        "u": -4.9,
+        "u": -4.2,
         "say": ""
        },
        "hit": true
@@ -23404,9 +23804,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": true
@@ -23422,9 +23822,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": true
@@ -23440,9 +23840,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": true
@@ -24618,9 +25018,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -24636,9 +25036,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -24811,9 +25211,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": null
@@ -24829,9 +25229,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -24847,9 +25247,9 @@
         "lab": "CBB spread favorites",
         "rk": 7,
         "of": 8,
-        "w": 22,
+        "w": 23,
         "l": 30,
-        "u": -10.1,
+        "u": -9.2,
         "say": ""
        },
        "hit": null
@@ -24885,9 +25285,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -24903,9 +25303,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -24955,7 +25355,7 @@
     "gl": "#240 MAN@#425 LEM",
     "start": "2026-11-14T23:00:00.000Z",
     "day": "2026-11-14",
-    "st": "in",
+    "st": "post",
     "picks": [
      {
       "m": "ml",
@@ -25016,12 +25416,12 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Judge",
@@ -25034,12 +25434,12 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Power",
@@ -25052,12 +25452,12 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Scout",
@@ -25070,12 +25470,12 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Most common",
@@ -25088,12 +25488,12 @@
         "lab": "CBB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 71,
+        "w": 72,
         "l": 25,
-        "u": -4.9,
+        "u": -4.2,
         "say": ""
        },
-       "hit": null
+       "hit": true
       }
      ],
      "spread": [
@@ -25108,12 +25508,12 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Judge",
@@ -25126,12 +25526,12 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Most common",
@@ -25144,12 +25544,12 @@
         "lab": "CBB spread favorites",
         "rk": 7,
         "of": 8,
-        "w": 22,
+        "w": 23,
         "l": 30,
-        "u": -10.1,
+        "u": -9.2,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Power",
@@ -25160,14 +25560,14 @@
        "o": 0,
        "r": {
         "lab": "CBB spread favorites",
-        "rk": 3,
+        "rk": 2,
         "of": 8,
-        "w": 17,
+        "w": 18,
         "l": 19,
-        "u": -3.5,
+        "u": -2.6,
         "say": ""
        },
-       "hit": null
+       "hit": true
       }
      ],
      "total": [
@@ -25182,12 +25582,12 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Judge",
@@ -25200,12 +25600,12 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
-       "hit": null
+       "hit": true
       },
       {
        "v": "Scout",
@@ -25218,12 +25618,12 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
-       "hit": null
+       "hit": true
       }
      ]
     }
@@ -25397,9 +25797,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -25415,9 +25815,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -25469,9 +25869,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -26258,9 +26658,9 @@
         "lab": "CBB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 71,
+        "w": 72,
         "l": 25,
-        "u": -4.9,
+        "u": -4.2,
         "say": ""
        },
        "hit": null
@@ -26314,9 +26714,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": null
@@ -26332,9 +26732,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -26350,9 +26750,9 @@
         "lab": "CBB spread favorites",
         "rk": 7,
         "of": 8,
-        "w": 22,
+        "w": 23,
         "l": 30,
-        "u": -10.1,
+        "u": -9.2,
         "say": ""
        },
        "hit": null
@@ -26366,11 +26766,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread favorites",
-        "rk": 3,
+        "rk": 2,
         "of": 8,
-        "w": 17,
+        "w": 18,
         "l": 19,
-        "u": -3.5,
+        "u": -2.6,
         "say": ""
        },
        "hit": null
@@ -26406,9 +26806,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -26424,9 +26824,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -26816,7 +27216,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -26834,7 +27234,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -26852,7 +27252,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -26870,7 +27270,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -26890,9 +27290,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": null
@@ -26908,9 +27308,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -26964,9 +27364,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -26982,9 +27382,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -27018,9 +27418,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -27085,9 +27485,9 @@
         "lab": "CBB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 71,
+        "w": 72,
         "l": 25,
-        "u": -4.9,
+        "u": -4.2,
         "say": ""
        },
        "hit": null
@@ -27177,9 +27577,9 @@
         "lab": "CBB spread favorites",
         "rk": 7,
         "of": 8,
-        "w": 22,
+        "w": 23,
         "l": 30,
-        "u": -10.1,
+        "u": -9.2,
         "say": ""
        },
        "hit": null
@@ -27193,11 +27593,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread favorites",
-        "rk": 3,
+        "rk": 2,
         "of": 8,
-        "w": 17,
+        "w": 18,
         "l": 19,
-        "u": -3.5,
+        "u": -2.6,
         "say": ""
        },
        "hit": null
@@ -27233,9 +27633,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -27251,9 +27651,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -27305,9 +27705,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -27352,7 +27752,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -27370,7 +27770,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -27388,7 +27788,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -27406,7 +27806,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -27536,9 +27936,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -27554,9 +27954,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -27590,9 +27990,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -27744,9 +28144,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -27800,9 +28200,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -27818,9 +28218,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -27854,9 +28254,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -28006,9 +28406,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": null
@@ -28024,9 +28424,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -28062,9 +28462,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -28080,9 +28480,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -28116,9 +28516,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -28163,7 +28563,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -28181,7 +28581,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -28199,7 +28599,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -28217,7 +28617,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -28235,9 +28635,9 @@
         "lab": "CBB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 71,
+        "w": 72,
         "l": 25,
-        "u": -4.9,
+        "u": -4.2,
         "say": ""
        },
        "hit": null
@@ -28255,9 +28655,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": null
@@ -28273,9 +28673,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -28291,9 +28691,9 @@
         "lab": "CBB spread favorites",
         "rk": 7,
         "of": 8,
-        "w": 22,
+        "w": 23,
         "l": 30,
-        "u": -10.1,
+        "u": -9.2,
         "say": ""
        },
        "hit": null
@@ -28320,11 +28720,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread favorites",
-        "rk": 3,
+        "rk": 2,
         "of": 8,
-        "w": 17,
+        "w": 18,
         "l": 19,
-        "u": -3.5,
+        "u": -2.6,
         "say": ""
        },
        "hit": null
@@ -28554,9 +28954,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -28915,9 +29315,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -29064,9 +29464,9 @@
         "lab": "CBB ML favorites",
         "rk": 3,
         "of": 8,
-        "w": 71,
+        "w": 72,
         "l": 25,
-        "u": -4.9,
+        "u": -4.2,
         "say": ""
        },
        "hit": null
@@ -29120,9 +29520,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": null
@@ -29138,9 +29538,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -29156,9 +29556,9 @@
         "lab": "CBB spread favorites",
         "rk": 7,
         "of": 8,
-        "w": 22,
+        "w": 23,
         "l": 30,
-        "u": -10.1,
+        "u": -9.2,
         "say": ""
        },
        "hit": null
@@ -29172,11 +29572,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread favorites",
-        "rk": 3,
+        "rk": 2,
         "of": 8,
-        "w": 17,
+        "w": 18,
         "l": 19,
-        "u": -3.5,
+        "u": -2.6,
         "say": ""
        },
        "hit": null
@@ -29194,9 +29594,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -29212,9 +29612,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -29248,9 +29648,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -29388,9 +29788,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -29462,9 +29862,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -29480,9 +29880,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -29534,9 +29934,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -33480,9 +33880,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -33642,7 +34042,7 @@
     "gl": "#202 UMBC@#145 TOW",
     "start": "2026-11-15T00:30:00.000Z",
     "day": "2026-11-14",
-    "st": "pre",
+    "st": "in",
     "picks": [
      {
       "m": "ml",
@@ -33686,7 +34086,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -33704,7 +34104,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -33722,7 +34122,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -33740,7 +34140,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -33834,9 +34234,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -33852,9 +34252,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -33870,9 +34270,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -34025,9 +34425,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -34043,9 +34443,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -34079,9 +34479,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -34218,9 +34618,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -34310,9 +34710,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -34328,9 +34728,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -34362,7 +34762,7 @@
     "gl": "#6 TEX@#21 LSU",
     "start": "2026-11-15T00:30:00.000Z",
     "day": "2026-11-14",
-    "st": "pre",
+    "st": "in",
     "picks": [],
     "calls": {
      "ml": [
@@ -35414,7 +35814,7 @@
     "gl": "#17 SC@#87 ARK",
     "start": "2026-11-15T00:45:00.000Z",
     "day": "2026-11-14",
-    "st": "pre",
+    "st": "in",
     "picks": [
      {
       "m": "ml",
@@ -36656,7 +37056,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -36674,7 +37074,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -36692,7 +37092,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -36746,11 +37146,11 @@
        "o": 0,
        "r": {
         "lab": "CBB spread favorites",
-        "rk": 3,
+        "rk": 2,
         "of": 8,
-        "w": 17,
+        "w": 18,
         "l": 19,
-        "u": -3.5,
+        "u": -2.6,
         "say": ""
        },
        "hit": null
@@ -36804,9 +37204,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -36822,9 +37222,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -36858,9 +37258,9 @@
         "lab": "CBB unders",
         "rk": 1,
         "of": 9,
-        "w": 18,
+        "w": 19,
         "l": 6,
-        "u": 10.2,
+        "u": 11.1,
         "say": "top"
        },
        "hit": null
@@ -36981,9 +37381,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": null
@@ -36999,9 +37399,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -37019,9 +37419,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -37037,9 +37437,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -37120,7 +37520,7 @@
         "lab": "CBB ML sides",
         "rk": 4,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -37138,7 +37538,7 @@
         "lab": "CBB ML sides",
         "rk": 5,
         "of": 6,
-        "w": 31,
+        "w": 32,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -37156,7 +37556,7 @@
         "lab": "CBB ML sides",
         "rk": 2,
         "of": 6,
-        "w": 32,
+        "w": 33,
         "l": 3,
         "u": -1.7,
         "say": ""
@@ -37174,7 +37574,7 @@
         "lab": "CBB ML sides",
         "rk": 6,
         "of": 6,
-        "w": 12,
+        "w": 13,
         "l": 3,
         "u": -1.2,
         "say": "worst"
@@ -37871,9 +38271,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -38101,9 +38501,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -38119,9 +38519,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -39212,9 +39612,9 @@
         "lab": "CBB spread favorites",
         "rk": 5,
         "of": 8,
-        "w": 42,
+        "w": 43,
         "l": 49,
-        "u": -11,
+        "u": -10.1,
         "say": ""
        },
        "hit": null
@@ -39230,9 +39630,9 @@
         "lab": "CBB spread favorites",
         "rk": 4,
         "of": 8,
-        "w": 44,
+        "w": 45,
         "l": 49,
-        "u": -9.2,
+        "u": -8.3,
         "say": ""
        },
        "hit": null
@@ -39286,9 +39686,9 @@
         "lab": "CBB unders",
         "rk": 4,
         "of": 9,
-        "w": 101,
+        "w": 102,
         "l": 84,
-        "u": 8.2,
+        "u": 9.1,
         "say": ""
        },
        "hit": null
@@ -39304,9 +39704,9 @@
         "lab": "CBB unders",
         "rk": 5,
         "of": 9,
-        "w": 100,
+        "w": 101,
         "l": 84,
-        "u": 7.4,
+        "u": 8.3,
         "say": ""
        },
        "hit": null
@@ -41164,7 +41564,7 @@
        "s": "home",
        "pick": "DET ML",
        "price": -150,
-       "p": 0.636,
+       "p": 0.637,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -41200,7 +41600,7 @@
        "s": "home",
        "pick": "DET ML",
        "price": -150,
-       "p": 0.803,
+       "p": 0.804,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -41218,7 +41618,7 @@
        "s": "home",
        "pick": "DET ML",
        "price": -150,
-       "p": 0.688,
+       "p": 0.693,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -41401,7 +41801,7 @@
        "s": "away",
        "pick": "MISS ML",
        "price": 125,
-       "p": 0.409,
+       "p": 0.408,
        "o": 0,
        "r": {
         "lab": "CFB ML dogs",
@@ -41457,7 +41857,7 @@
        "s": "away",
        "pick": "MISS +2.5",
        "price": -105,
-       "p": 0.451,
+       "p": 0.45,
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
@@ -41475,7 +41875,7 @@
        "s": "home",
        "pick": "OU -2.5",
        "price": -115,
-       "p": 0.51,
+       "p": 0.509,
        "o": 0,
        "r": {
         "lab": "CFB spread favorites",
@@ -41508,7 +41908,7 @@
        "s": "under",
        "pick": "Under 48.5",
        "price": -110,
-       "p": 0.547,
+       "p": 0.548,
        "o": 0,
        "r": {
         "lab": "CFB unders",
@@ -41526,7 +41926,7 @@
        "s": "under",
        "pick": "Under 48.5",
        "price": -110,
-       "p": 0.531,
+       "p": 0.532,
        "o": 0,
        "r": {
         "lab": "CFB unders",
@@ -41544,7 +41944,7 @@
        "s": "under",
        "pick": "Under 48.5",
        "price": -110,
-       "p": 0.507,
+       "p": 0.512,
        "o": 0,
        "r": {
         "lab": "CFB unders",
@@ -41575,7 +41975,7 @@
        "s": "away",
        "pick": "KC ML",
        "price": -177,
-       "p": 0.8,
+       "p": 0.801,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -41593,7 +41993,7 @@
        "s": "away",
        "pick": "KC ML",
        "price": -177,
-       "p": 0.862,
+       "p": 0.863,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -41629,7 +42029,7 @@
        "s": "away",
        "pick": "KC ML",
        "price": -177,
-       "p": 0.78,
+       "p": 0.785,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -41649,7 +42049,7 @@
        "s": "away",
        "pick": "KC -3",
        "price": -115,
-       "p": 0.493,
+       "p": 0.494,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -41716,7 +42116,7 @@
        "s": "away",
        "pick": "KC -3",
        "price": -115,
-       "p": 0.582,
+       "p": 0.588,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -41887,7 +42287,7 @@
        "s": "away",
        "pick": "HOU ML",
        "price": -230,
-       "p": 0.867,
+       "p": 0.873,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -41925,7 +42325,7 @@
        "s": "home",
        "pick": "CLE +4.5",
        "price": -115,
-       "p": 0.443,
+       "p": 0.442,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -42127,7 +42527,7 @@
        "s": "home",
        "pick": "GB ML",
        "price": -150,
-       "p": 0.633,
+       "p": 0.634,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -42145,7 +42545,7 @@
        "s": "home",
        "pick": "GB ML",
        "price": -150,
-       "p": 0.72,
+       "p": 0.721,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -42163,7 +42563,7 @@
        "s": "home",
        "pick": "GB ML",
        "price": -150,
-       "p": 0.711,
+       "p": 0.712,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -42181,7 +42581,7 @@
        "s": "home",
        "pick": "GB ML",
        "price": -150,
-       "p": 0.687,
+       "p": 0.692,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -42257,7 +42657,7 @@
        "s": "under",
        "pick": "Under 42",
        "price": -110,
-       "p": 0.535,
+       "p": 0.536,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -42275,7 +42675,7 @@
        "s": "under",
        "pick": "Under 42",
        "price": -110,
-       "p": 0.528,
+       "p": 0.529,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -42311,7 +42711,7 @@
        "s": "under",
        "pick": "Under 42",
        "price": -110,
-       "p": 0.529,
+       "p": 0.535,
        "o": 0,
        "r": {
         "lab": "NFL unders",
@@ -42407,7 +42807,7 @@
        "s": "away",
        "pick": "JAX ML",
        "price": -575,
-       "p": 0.914,
+       "p": 0.915,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -42425,7 +42825,7 @@
        "s": "away",
        "pick": "JAX ML",
        "price": -575,
-       "p": 0.892,
+       "p": 0.897,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -42698,7 +43098,7 @@
        "s": "away",
        "pick": "MIA +4.5",
        "price": -112,
-       "p": 0.536,
+       "p": 0.537,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -42716,7 +43116,7 @@
        "s": "away",
        "pick": "MIA +4.5",
        "price": -112,
-       "p": 0.518,
+       "p": 0.519,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -42734,7 +43134,7 @@
        "s": "away",
        "pick": "MIA +4.5",
        "price": -112,
-       "p": 0.545,
+       "p": 0.55,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -42747,7 +43147,7 @@
        "s": "away",
        "pick": "MIA +4.5",
        "price": -112,
-       "p": 0.566,
+       "p": 0.568,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -42936,7 +43336,7 @@
        "s": "away",
        "pick": "CAR +1",
        "price": 105,
-       "p": 0.501,
+       "p": 0.5,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -43181,7 +43581,7 @@
        "s": "away",
        "pick": "BUF -9",
        "price": 105,
-       "p": 0.512,
+       "p": 0.513,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -43330,7 +43730,7 @@
        "s": "away",
        "pick": "SEA ML",
        "price": -290,
-       "p": 0.878,
+       "p": 0.879,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -43384,7 +43784,7 @@
        "s": "away",
        "pick": "SEA ML",
        "price": -290,
-       "p": 0.831,
+       "p": 0.836,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -43440,7 +43840,7 @@
        "s": "away",
        "pick": "SEA -3.5",
        "price": -105,
-       "p": 0.605,
+       "p": 0.606,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -43527,7 +43927,7 @@
        "s": "over",
        "pick": "Over 40.5",
        "price": -107,
-       "p": 0.579,
+       "p": 0.58,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -43822,7 +44222,7 @@
        "s": "away",
        "pick": "SF ML",
        "price": -210,
-       "p": 0.828,
+       "p": 0.829,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -43876,7 +44276,7 @@
        "s": "away",
        "pick": "SF ML",
        "price": -210,
-       "p": 0.827,
+       "p": 0.832,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -43945,7 +44345,7 @@
        "s": "home",
        "pick": "DAL +4",
        "price": -112,
-       "p": 0.457,
+       "p": 0.458,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -44171,7 +44571,7 @@
        "s": "home",
        "pick": "CIN -3.5",
        "price": -107,
-       "p": 0.483,
+       "p": 0.482,
        "o": 0,
        "r": {
         "lab": "NFL spread favorites",
@@ -44325,7 +44725,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.735,
+       "p": 0.736,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -44343,7 +44743,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.814,
+       "p": 0.815,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -44361,7 +44761,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.804,
+       "p": 0.805,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -44379,7 +44779,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.78,
+       "p": 0.785,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -44612,5 +45012,6 @@
   "heavy": -500
  },
  "betaSig": "[[[1,[\"supreme\"],8],[0,[],12],[1,[\"value\"],15],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],11],[0,[],14],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],14],[1,[\"strong\"],12],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],15],[3,[\"strong\",\"value\",\"value\"],11],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],13],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],12],[2,[\"strong\",\"strong\"],12],[0,[],12],[1,[\"supreme*\"],12],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],15],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],10],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],11],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],12],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],11],[2,[\"supreme*!\",\"value\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],14],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],10],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value!\",\"value\"],9],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[2,12,[null,null,true]],[[8,[null,true,null,null,null,null,null,null]],[14,[true,null,null,null,null,null,null,true,null,null,null,null,null,null]],[9,[null,false,true,null,null,null,null,null,null]],[9,[true,true,null,null,null,null,null,null,null]],[1,[null]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[true,null,null]],[13,[true,true,true,null,null,true,null,null,true,null,null,null,null]],[16,[true,false,null,true,false,true,null,true,true,false,null,null,true,null,true,true]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
- "simple": 1
+ "simple": 1,
+ "by": "worker"
 }
