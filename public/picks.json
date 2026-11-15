@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794763318243,
+ "generated": 1794763756524,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -16,7 +16,7 @@
   "w": 41,
   "l": 32,
   "pu": 0,
-  "u": -1.31,
+  "u": -1.3148995752507604,
   "first": "2026-10-06",
   "be": 0.5836540719588907,
   "ap": -140
@@ -241,7 +241,12 @@
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "68a6218f892d201a0c44b2d718e6232304d1c32a1ba484a582a73805720b3ed2",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -25409,6 +25414,136 @@
  "founder": {
   "tix": [
    {
+    "id": "frzj9gy",
+    "name": null,
+    "date": "2026-11-15",
+    "legs": [
+     {
+      "sp": "nba",
+      "game": "LAL@PHX",
+      "pick": "LAL ML",
+      "price": -150,
+      "start": "2026-11-15T21:10:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "IND@PHI",
+      "pick": "IND +11",
+      "price": -169,
+      "start": "2026-11-15T18:10:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "SA@UTAH",
+      "pick": "Over 224",
+      "price": -134,
+      "start": "2026-11-15T22:10:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@BOS",
+      "pick": "DAL +16",
+      "price": -167,
+      "start": "2026-11-15T23:10:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "NY@TOR",
+      "pick": "NY ML",
+      "price": -185,
+      "start": "2026-11-15T23:10:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "HOU@WSH",
+      "pick": "HOU ML",
+      "price": -340,
+      "start": "2026-11-16T00:10:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "OKC@SAC",
+      "pick": "OKC -8",
+      "price": -174,
+      "start": "2026-11-16T02:10:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "BUF@NYJ",
+      "pick": "BUF -5.5",
+      "price": -165,
+      "start": "2026-11-15T18:00:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "JAX@TEN",
+      "pick": "JAX -8.5",
+      "price": -155,
+      "start": "2026-11-15T18:00:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "HOU@CLE",
+      "pick": "HOU ML",
+      "price": -195,
+      "start": "2026-11-15T18:00:00Z",
+      "day": "2026-11-15",
+      "st": "open",
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 92.94,
+    "res": "open",
+    "hit": 0
+   },
+   {
     "id": "frzig52",
     "name": null,
     "date": "2026-11-15",
@@ -25418,7 +25553,7 @@
       "game": "MIA@IND",
       "pick": "Jonathan Taylor 50+ Rushing yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25430,7 +25565,7 @@
       "game": "MIA@IND",
       "pick": "Malik Washington 25+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25442,7 +25577,7 @@
       "game": "MIA@IND",
       "pick": "Caleb Douglas 30+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25454,7 +25589,7 @@
       "game": "MIA@IND",
       "pick": "Tyler Warren 4+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25466,7 +25601,7 @@
       "game": "MIA@IND",
       "pick": "IND +5.5",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25478,7 +25613,7 @@
       "game": "MIA@IND",
       "pick": "Caleb Douglas 2+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25490,7 +25625,7 @@
       "game": "MIA@IND",
       "pick": "Over 27.5",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25502,7 +25637,7 @@
       "game": "MIA@IND",
       "pick": "Malik Washington 2+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25514,7 +25649,7 @@
       "game": "MIA@IND",
       "pick": "Greg Dulcich 2+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25526,7 +25661,7 @@
       "game": "JAX@TEN",
       "pick": "JAX ML",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25538,7 +25673,7 @@
       "game": "JAX@TEN",
       "pick": "T. Lawrence 200+ Passing yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25550,7 +25685,7 @@
       "game": "JAX@TEN",
       "pick": "Brenton Strange 25+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25562,7 +25697,7 @@
       "game": "JAX@TEN",
       "pick": "Brenton Strange 2+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25574,7 +25709,7 @@
       "game": "JAX@TEN",
       "pick": "J. Meyers 30+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25586,7 +25721,7 @@
       "game": "JAX@TEN",
       "pick": "Under 55.5",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25598,7 +25733,7 @@
       "game": "HOU@CLE",
       "pick": "Harold Fannin 30+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25610,7 +25745,7 @@
       "game": "HOU@CLE",
       "pick": "Xavier Hutchinson 2+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25622,7 +25757,7 @@
       "game": "HOU@CLE",
       "pick": "N. Collins 3+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25634,7 +25769,7 @@
       "game": "HOU@CLE",
       "pick": "Over 30.5",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25646,7 +25781,7 @@
       "game": "HOU@CLE",
       "pick": "KC Concepcion 40+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25658,7 +25793,7 @@
       "game": "HOU@CLE",
       "pick": "Denzel Boston 2+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25670,7 +25805,7 @@
       "game": "HOU@CLE",
       "pick": "D. Schultz 20+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25682,7 +25817,7 @@
       "game": "HOU@CLE",
       "pick": "D. Schultz 2+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25694,7 +25829,7 @@
       "game": "HOU@CLE",
       "pick": "HOU +6.5",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25706,7 +25841,7 @@
       "game": "KC@ATL",
       "pick": "Drake London 50+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25718,7 +25853,7 @@
       "game": "KC@ATL",
       "pick": "T. Kelce 3+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25730,7 +25865,7 @@
       "game": "KC@ATL",
       "pick": "Drake London 4+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25742,7 +25877,7 @@
       "game": "KC@ATL",
       "pick": "KC +6.5",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25754,7 +25889,7 @@
       "game": "KC@ATL",
       "pick": "T. Kelce 40+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25766,7 +25901,7 @@
       "game": "KC@ATL",
       "pick": "Josh Downs 2+ Receptions",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25778,7 +25913,7 @@
       "game": "KC@ATL",
       "pick": "Josh Downs 15+ Receiving yds",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -25790,7 +25925,7 @@
       "game": "KC@ATL",
       "pick": "Under 57.5",
       "price": null,
-      "start": null,
+      "start": "2026-11-15T18:00Z",
       "day": "2026-11-15",
       "st": "open",
       "detail": null,
@@ -26675,6 +26810,600 @@
     "dec": 16.65,
     "res": "open",
     "hit": 0
+   },
+   {
+    "id": "fq57h5u",
+    "name": null,
+    "date": "2026-11-15",
+    "legs": [
+     {
+      "sp": "ncaaf",
+      "game": "FAU@TLSA",
+      "pick": "Under 81.5",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "hit",
+      "detail": "FAU 21–38 TLSA · total 59",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaaf",
+      "game": "FAU@TLSA",
+      "pick": "TLSA +1.5",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "hit",
+      "detail": "FAU 21–38 TLSA · margin +17",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "DEN ML",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "hit",
+      "detail": "DEN 116–108 NO",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "Z. Williamson 15+ points",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Z. Williamson 24",
+      "prog": {
+       "v": 24,
+       "t": 15,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "Jamal Murray 5+ assists",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Jamal Murray 9",
+      "prog": {
+       "v": 9,
+       "t": 5,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "Over 225.5",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "miss",
+      "detail": "DEN 116–108 NO · total 224",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "Nikola Jokic 1+ steals",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Nikola Jokic 3",
+      "prog": {
+       "v": 3,
+       "t": 1,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "Jamal Murray 3+ three pointers",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "miss",
+      "detail": "Jamal Murray 0",
+      "prog": {
+       "v": 0,
+       "t": 3,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "Jamal Murray 8+ assists + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Jamal Murray 16",
+      "prog": {
+       "v": 16,
+       "t": 8,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "Z. Williamson 20+ points + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Z. Williamson 30",
+      "prog": {
+       "v": 30,
+       "t": 20,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@NO",
+      "pick": "Nikola Jokic 10+ assists + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Nikola Jokic 18",
+      "prog": {
+       "v": 18,
+       "t": 10,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Over 218.5",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "hit",
+      "detail": "DET 117–137 MIA · total 254",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "DET +3.5",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "miss",
+      "detail": "DET 117–137 MIA · margin -20",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Giannis Antetokounmpo 25+ points + assists",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Giannis Antetokounmpo 42",
+      "prog": {
+       "v": 42,
+       "t": 25,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Giannis Antetokounmpo 7+ rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Giannis Antetokounmpo 14",
+      "prog": {
+       "v": 14,
+       "t": 7,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Giannis Antetokounmpo 20+ points",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Giannis Antetokounmpo 34",
+      "prog": {
+       "v": 34,
+       "t": 20,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Ausar Thompson 5+ rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Ausar Thompson 8",
+      "prog": {
+       "v": 8,
+       "t": 5,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Giannis Antetokounmpo 30+ points + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Giannis Antetokounmpo 48",
+      "prog": {
+       "v": 48,
+       "t": 30,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Bam Adebayo 15+ points + assists",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Bam Adebayo 24",
+      "prog": {
+       "v": 24,
+       "t": 15,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Bam Adebayo 8+ assists + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Bam Adebayo 9",
+      "prog": {
+       "v": 9,
+       "t": 8,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Cade Cunningham 5+ assists",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Cade Cunningham 8",
+      "prog": {
+       "v": 8,
+       "t": 5,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Cade Cunningham 10+ assists + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Cade Cunningham 13",
+      "prog": {
+       "v": 13,
+       "t": 10,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Davion Mitchell 5+ assists",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Davion Mitchell 9",
+      "prog": {
+       "v": 9,
+       "t": 5,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Bam Adebayo 1+ steals",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Bam Adebayo 3",
+      "prog": {
+       "v": 3,
+       "t": 1,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Davion Mitchell 15+ points + assists",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Davion Mitchell 24",
+      "prog": {
+       "v": 24,
+       "t": 15,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "Ausar Thompson 1+ steals",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Ausar Thompson 2",
+      "prog": {
+       "v": 2,
+       "t": 1,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DET@MIA",
+      "pick": "K. Thompson 3+ three pointers",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "K. Thompson 6",
+      "prog": {
+       "v": 6,
+       "t": 3,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "ncaaf",
+      "game": "PUR@IOWA",
+      "pick": "Over 39.5",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "miss",
+      "detail": "PUR 7–28 IOWA · total 35",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaaf",
+      "game": "PUR@IOWA",
+      "pick": "IOWA -8.5",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "hit",
+      "detail": "PUR 7–28 IOWA · margin +21",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaaf",
+      "game": "PUR@IOWA",
+      "pick": "Asaad Waseem 35+ Receiving yds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Asaad Waseem 93 receiving yds",
+      "prog": {
+       "v": 93,
+       "t": 35,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "Cooper Flagg 18+ points",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Cooper Flagg 18",
+      "prog": {
+       "v": 18,
+       "t": 18,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "DAL ML",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "miss",
+      "detail": "DAL 117–127 CLE",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "Over 217.5",
+      "price": null,
+      "start": null,
+      "day": "2026-11-14",
+      "st": "hit",
+      "detail": "DAL 117–127 CLE · total 244",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "K. Irving 3+ three pointers",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "K. Irving 7",
+      "prog": {
+       "v": 7,
+       "t": 3,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "K. Irving 20+ points + assists + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "K. Irving 45",
+      "prog": {
+       "v": 45,
+       "t": 20,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "Cooper Flagg 10+ assists + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Cooper Flagg 13",
+      "prog": {
+       "v": 13,
+       "t": 10,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "Cooper Flagg 1+ steals",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "miss",
+      "detail": "Cooper Flagg 0",
+      "prog": {
+       "v": 0,
+       "t": 1,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "P.J. Washington 16+ points + rebounds",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "miss",
+      "detail": "P.J. Washington 14",
+      "prog": {
+       "v": 14,
+       "t": 16,
+       "d": "atleast"
+      },
+      "prop": true
+     },
+     {
+      "sp": "nba",
+      "game": "DAL@CLE",
+      "pick": "Cooper Flagg 5+ assists",
+      "price": null,
+      "start": null,
+      "day": "2026-11-15",
+      "st": "hit",
+      "detail": "Cooper Flagg 5",
+      "prog": {
+       "v": 5,
+       "t": 5,
+       "d": "atleast"
+      },
+      "prop": true
+     }
+    ],
+    "dec": 509.44,
+    "res": "lost",
+    "hit": 32
    }
   ],
   "rec": {
@@ -37297,7 +38026,6 @@
    }
   ]
  },
- "betaSig": "[[\"nfl|bhayshultuten|ry|100|under5\",\"nfl|christianmccaffrey|ry|100|under5\",\"nfl|ashtonjeanty|ry|75|under5\",\"nfl|breecehall|ry|100|under5\",\"nfl|matthewstafford|ptd|1|over5\",\"nfl|olliegordonii|ry|100|under5\",\"nfl|trevorlawrence|ptd|1|over5\",\"nfl|ricodowdle|ry|75|under5\",\"nfl|ricodowdle|rry|100|under5\",\"nfl|garrettwilson|rry|100|under5\",\"nfl|jamescookiii|ry|50|over5\",\"nfl|tyjaespears|rry|60|under5\",\"nfl|mackhollins|wy|80|under5\",\"nfl|blakecorum|rry|100|under5\",\"nfl|kirkcousins|ptd|1|over5\",\"nfl|justinjefferson|wy|80|under5\",\"nfl|samlaporta|wy|80|under5\",\"nfl|brockpurdy|ptd|1|over5\",\"ncaaf|rockybeers|wy|80|under5\",\"ncaaf|rockybeers|rry|80|under5\",\"nfl|deebosamuelsr|rry|80|under5\",\"ncaaf|calebodom|wy|60|under5\",\"nfl|rasheerice|rry|100|under5\",\"nfl|xavierworthy|wy|60|under5\",\"nfl|aaronjonessr|rry|100|under5\",\"nfl|tuckerkraft|wy|80|under5\",\"nfl|travisetiennejr|car|10|over5\",\"ncaaf|calebodom|rry|60|under5\",\"nfl|joshdowns|rry|60|under5\",\"nfl|justinjefferson|rry|80|under5\",\"nfl|genosmith|pry|300|under5\",\"nfl|braelonallen|ry|100|under5\",\"nfl|drakemaye|ptd|1|over5\",\"nfl|aaronrodgers|pry|300|under5\",\"nfl|mackhollins|rry|80|under5\",\"nfl|samlaporta|rry|80|under5\",\"nfl|rhamondrestevenson|ry|75|under5\",\"nfl|jordanlove|ptd|1|over5\",\"nfl|ajbrown|rry|100|under5\",\"nfl|xavierworthy|rry|60|under5\",\"nfl|joshdowns|wy|60|under5\",\"nfl|brianthomasjr|rry|60|under5\",\"nfl|christianmccaffrey|wy|60|under5\",\"nfl|cjstroud|ptd|1|over5\",\"nfl|bradycook|cmp|25|under5\",\"nfl|ricodowdle|lry|20|under5\",\"nfl|brianthomasjr|wy|60|under5\",\"nfl|wandalerobinson|wy|80|under5\",\"nfl|khalilshakir|wy|80|under5\",\"nfl|dkmetcalf|wy|80|under5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|camward|py|250|under5\",\"ncaaf|rockybeers|rec|6|under5\",\"nfl|traviskelce|wy|80|under5\",\"nfl|aaronjonessr|ry|75|under5\",\"nfl|tuckerkraft|rry|80|under5\",\"ncaaf|trinidadchambliss|ptd|1|over5\",\"nfl|quinshonjudkins|rry|100|under5\",\"nfl|bryceyoung|ptd|1|over5\",\"nfl|jakobimeyers|rec|6|under5\",\"nfl|jalencoker|wy|80|under5\",\"nfl|dakprescott|py|200|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|kcconcepcion|wy|80|under5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|kyrenwilliams|rry|60|over5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|travisetiennejr|ry|75|under5\",\"nfl|travisetiennejr|lry|10|over5\",\"nfl|treymcbride|wy|40|over5\",\"nfl|michaelpenixjr|py|250|under5\",\"nfl|haroldfanninjr|wy|80|under5\",\"nfl|tylershough|ptd|1|over5\",\"ncaaf|trellharris|rry|100|under5\",\"nfl|danieljones|pry|300|under5\",\"nfl|khalilshakir|rry|80|under5\",\"ncaaf|johnmateer|py|275|under5\",\"nfl|daltonkincaid|wy|80|under5\",\"nfl|wandalerobinson|rry|80|under5\",\"nfl|brockbowers|wy|40|over5\",\"nfl|dkmetcalf|rec|6|under5\",\"nfl|chrisrodriguezjr|rry|60|under5\",\"nfl|joeburrow|py|200|over5\",\"nfl|jalencoker|rec|6|under5\",\"nfl|brockbowers|rec|4|over5\",\"nfl|masontaylor|rec|5|under5\",\"nfl|davismills|py|200|under5\",\"ncaaf|makhifrazier|ry|75|under5\",\"nfl|patrickmahomes|py|200|over5\",\"nfl|woodymarks|rry|80|under5\",\"nfl|parkerwashington|rry|100|under5\",\"nfl|quinshonjudkins|ry|75|under5\",\"nfl|bijanrobinson|ry|50|over5\",\"nfl|jalencoker|rry|80|under5\",\"nfl|nicocollins|rry|100|under5\",\"ncaaf|calebcunningham|rry|60|under5\",\"nfl|calebdouglas|rec|6|under5\",\"nfl|djmoore|rec|5|under5\",\"ncaaf|trellharris|rec|6|under5\",\"nfl|amonrastbrown|rec|5|over5\",\"nfl|carsonwentz|pry|260|under5\",\"nfl|brockbowers|rry|60|over5\",\"nfl|dkmetcalf|rry|80|under5\",\"nfl|traviskelce|rry|80|under5\",\"nfl|jonathantaylor|rry|60|over5\",\"nfl|calebdouglas|wy|80|under5\",\"nfl|davismills|pry|220|under5\",\"nfl|bradycook|py|200|under5\",\"nfl|olliegordonii|rry|100|under5\",\"nfl|denzelboston|wy|80|under5\",\"nfl|bijanrobinson|rec|6|under5\",\"nfl|amonrastbrown|wy|40|over5\",\"nfl|kaelonblack|rry|60|under5\",\"nfl|jordanlove|py|200|over5\",\"nfl|alvinkamara|rry|80|under5\",\"ncaaf|calebcunningham|rec|5|under5\",\"nfl|treymcbride|rry|100|under5\",\"nfl|blakecorum|ry|75|under5\",\"nfl|cjstroud|py|200|over5\",\"nfl|bradycook|pry|220|under5\",\"nfl|jaylenwarren|rry|60|over5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|daltonkincaid|rry|80|under5\",\"nfl|chubahubbard|rry|100|under5\",\"nfl|ceedeelamb|wy|40|over5\",\"nfl|haroldfanninjr|rry|80|under5\",\"nfl|brianthomasjr|rec|4|under5\",\"nfl|justinfields|pry|220|under5\",\"ncaaf|shekaimillsknight|rry|60|under5\",\"nfl|georgekittle|wy|80|under5\",\"nfl|darrenwaller|rry|60|under5\",\"nfl|christianwatson|wy|40|over5\",\"nfl|tyjaespears|rec|5|under5\",\"nfl|ricodowdle|rec|4|under5\",\"nfl|jacobybrissett|ptd|1|over5\",\"nfl|ryanflournoy|rec|5|under5\",\"nfl|jamesonwilliams|rry|100|under5\",\"nfl|matthewstafford|py|200|over5\",\"nfl|ashtonjeanty|rec|6|under5\",\"nfl|kylepittssr|rec|6|under5\",\"nfl|georgepickens|wy|40|over5\",\"nfl|jahmyrgibbs|wy|60|under5\",\"nfl|camward|pry|260|under5\",\"nfl|colbyparkinson|rec|5|under5\",\"ncaaf|calebcunningham|wy|60|under5\",\"nfl|trevorlawrence|py|200|over5\",\"nfl|tetairoamcmillan|rry|100|under5\",\"ncaaf|makhifrazier|rry|80|under5\",\"nfl|joshallen|ptd|1|over5\",\"nfl|jahmyrgibbs|rry|80|over5\"],[\"open:oooooooooooooooooooooooooooooooo\",\"open:ooooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:ooooooo\"],[[1,[\"strong\"],14],[0,[],18],[2,[\"strong!\",\"value\"],13],[0,[],13],[0,[],13],[0,[],16],[0,[],18],[0,[],14],[0,[],17],[1,[\"strong\"],14],[1,[\"value!\"],14],[1,[\"value\"],16],[1,[\"value\"],18],[0,[],15],[0,[],16],[2,[\"supreme!\",\"value\"],14],[0,[],13],[2,[\"strong\",\"value\"],18],[0,[],12],[0,[],10],[0,[],11],[0,[],13],[0,[],12],[0,[],14],[0,[],15],[0,[],10],[2,[\"supreme\",\"value\"],15],[1,[\"strong\"],13],[0,[],16],[3,[\"supreme\",\"strong\",\"value\"],12],[0,[],16],[2,[\"supreme\",\"value\"],12],[2,[\"supreme\",\"value\"],17],[1,[\"strong\"],12],[1,[\"strong\"],11],[0,[],12],[0,[],16],[0,[],16],[1,[\"value\"],16],[0,[],13],[1,[\"strong!\"],16],[0,[],9],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],13],[1,[\"supreme*\"],9],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],10],[3,[\"supreme*\",\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],15],[1,[\"supreme!\"],18],[1,[\"supreme\"],13],[1,[\"value\"],14],[1,[\"strong!\"],10],[1,[\"supreme*\"],17],[2,[\"supreme*\",\"supreme\"],12],[2,[\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],13],[1,[\"strong\"],16],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],14],[1,[\"value\"],17]],[4,12,[null,null,null,null]],[[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[3,[null,null,null]],[2,[null,null]],[6,[null,null,null,null,null,null]],[0,[]],[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[3,[null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[5,[null,null,null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
- "simple": 1,
- "by": "worker"
+ "betaSig": "[[\"nfl|bhayshultuten|ry|100|under5\",\"nfl|christianmccaffrey|ry|100|under5\",\"nfl|ashtonjeanty|ry|75|under5\",\"nfl|breecehall|ry|100|under5\",\"nfl|matthewstafford|ptd|1|over5\",\"nfl|olliegordonii|ry|100|under5\",\"nfl|trevorlawrence|ptd|1|over5\",\"nfl|ricodowdle|ry|75|under5\",\"nfl|ricodowdle|rry|100|under5\",\"nfl|garrettwilson|rry|100|under5\",\"nfl|jamescookiii|ry|50|over5\",\"nfl|tyjaespears|rry|60|under5\",\"nfl|mackhollins|wy|80|under5\",\"nfl|blakecorum|rry|100|under5\",\"nfl|kirkcousins|ptd|1|over5\",\"nfl|justinjefferson|wy|80|under5\",\"nfl|samlaporta|wy|80|under5\",\"nfl|brockpurdy|ptd|1|over5\",\"ncaaf|rockybeers|wy|80|under5\",\"ncaaf|rockybeers|rry|80|under5\",\"nfl|deebosamuelsr|rry|80|under5\",\"ncaaf|calebodom|wy|60|under5\",\"nfl|rasheerice|rry|100|under5\",\"nfl|xavierworthy|wy|60|under5\",\"nfl|aaronjonessr|rry|100|under5\",\"nfl|tuckerkraft|wy|80|under5\",\"nfl|travisetiennejr|car|10|over5\",\"ncaaf|calebodom|rry|60|under5\",\"nfl|joshdowns|rry|60|under5\",\"nfl|justinjefferson|rry|80|under5\",\"nfl|genosmith|pry|300|under5\",\"nfl|braelonallen|ry|100|under5\",\"nfl|drakemaye|ptd|1|over5\",\"nfl|aaronrodgers|pry|300|under5\",\"nfl|mackhollins|rry|80|under5\",\"nfl|samlaporta|rry|80|under5\",\"nfl|rhamondrestevenson|ry|75|under5\",\"nfl|jordanlove|ptd|1|over5\",\"nfl|ajbrown|rry|100|under5\",\"nfl|xavierworthy|rry|60|under5\",\"nfl|joshdowns|wy|60|under5\",\"nfl|brianthomasjr|rry|60|under5\",\"nfl|christianmccaffrey|wy|60|under5\",\"nfl|cjstroud|ptd|1|over5\",\"nfl|bradycook|cmp|25|under5\",\"nfl|ricodowdle|lry|20|under5\",\"nfl|brianthomasjr|wy|60|under5\",\"nfl|wandalerobinson|wy|80|under5\",\"nfl|khalilshakir|wy|80|under5\",\"nfl|dkmetcalf|wy|80|under5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|camward|py|250|under5\",\"ncaaf|rockybeers|rec|6|under5\",\"nfl|traviskelce|wy|80|under5\",\"nfl|aaronjonessr|ry|75|under5\",\"nfl|tuckerkraft|rry|80|under5\",\"ncaaf|trinidadchambliss|ptd|1|over5\",\"nfl|quinshonjudkins|rry|100|under5\",\"nfl|bryceyoung|ptd|1|over5\",\"nfl|jakobimeyers|rec|6|under5\",\"nfl|jalencoker|wy|80|under5\",\"nfl|dakprescott|py|200|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|kcconcepcion|wy|80|under5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|kyrenwilliams|rry|60|over5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|travisetiennejr|ry|75|under5\",\"nfl|travisetiennejr|lry|10|over5\",\"nfl|treymcbride|wy|40|over5\",\"nfl|michaelpenixjr|py|250|under5\",\"nfl|haroldfanninjr|wy|80|under5\",\"nfl|tylershough|ptd|1|over5\",\"ncaaf|trellharris|rry|100|under5\",\"nfl|danieljones|pry|300|under5\",\"nfl|khalilshakir|rry|80|under5\",\"ncaaf|johnmateer|py|275|under5\",\"nfl|daltonkincaid|wy|80|under5\",\"nfl|wandalerobinson|rry|80|under5\",\"nfl|brockbowers|wy|40|over5\",\"nfl|dkmetcalf|rec|6|under5\",\"nfl|chrisrodriguezjr|rry|60|under5\",\"nfl|joeburrow|py|200|over5\",\"nfl|jalencoker|rec|6|under5\",\"nfl|brockbowers|rec|4|over5\",\"nfl|masontaylor|rec|5|under5\",\"nfl|davismills|py|200|under5\",\"ncaaf|makhifrazier|ry|75|under5\",\"nfl|patrickmahomes|py|200|over5\",\"nfl|woodymarks|rry|80|under5\",\"nfl|parkerwashington|rry|100|under5\",\"nfl|quinshonjudkins|ry|75|under5\",\"nfl|bijanrobinson|ry|50|over5\",\"nfl|jalencoker|rry|80|under5\",\"nfl|nicocollins|rry|100|under5\",\"ncaaf|calebcunningham|rry|60|under5\",\"nfl|calebdouglas|rec|6|under5\",\"nfl|djmoore|rec|5|under5\",\"ncaaf|trellharris|rec|6|under5\",\"nfl|amonrastbrown|rec|5|over5\",\"nfl|carsonwentz|pry|260|under5\",\"nfl|brockbowers|rry|60|over5\",\"nfl|dkmetcalf|rry|80|under5\",\"nfl|traviskelce|rry|80|under5\",\"nfl|jonathantaylor|rry|60|over5\",\"nfl|calebdouglas|wy|80|under5\",\"nfl|davismills|pry|220|under5\",\"nfl|bradycook|py|200|under5\",\"nfl|olliegordonii|rry|100|under5\",\"nfl|denzelboston|wy|80|under5\",\"nfl|bijanrobinson|rec|6|under5\",\"nfl|amonrastbrown|wy|40|over5\",\"nfl|kaelonblack|rry|60|under5\",\"nfl|jordanlove|py|200|over5\",\"nfl|alvinkamara|rry|80|under5\",\"ncaaf|calebcunningham|rec|5|under5\",\"nfl|treymcbride|rry|100|under5\",\"nfl|blakecorum|ry|75|under5\",\"nfl|cjstroud|py|200|over5\",\"nfl|bradycook|pry|220|under5\",\"nfl|jaylenwarren|rry|60|over5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|daltonkincaid|rry|80|under5\",\"nfl|chubahubbard|rry|100|under5\",\"nfl|ceedeelamb|wy|40|over5\",\"nfl|haroldfanninjr|rry|80|under5\",\"nfl|brianthomasjr|rec|4|under5\",\"nfl|justinfields|pry|220|under5\",\"ncaaf|shekaimillsknight|rry|60|under5\",\"nfl|georgekittle|wy|80|under5\",\"nfl|darrenwaller|rry|60|under5\",\"nfl|christianwatson|wy|40|over5\",\"nfl|tyjaespears|rec|5|under5\",\"nfl|ricodowdle|rec|4|under5\",\"nfl|jacobybrissett|ptd|1|over5\",\"nfl|ryanflournoy|rec|5|under5\",\"nfl|jamesonwilliams|rry|100|under5\",\"nfl|matthewstafford|py|200|over5\",\"nfl|ashtonjeanty|rec|6|under5\",\"nfl|kylepittssr|rec|6|under5\",\"nfl|georgepickens|wy|40|over5\",\"nfl|jahmyrgibbs|wy|60|under5\",\"nfl|camward|pry|260|under5\",\"nfl|colbyparkinson|rec|5|under5\",\"ncaaf|calebcunningham|wy|60|under5\",\"nfl|trevorlawrence|py|200|over5\",\"nfl|tetairoamcmillan|rry|100|under5\",\"ncaaf|makhifrazier|rry|80|under5\",\"nfl|joshallen|ptd|1|over5\",\"nfl|jahmyrgibbs|rry|80|over5\"],[\"open:oooooooooo\",\"open:oooooooooooooooooooooooooooooooo\",\"open:ooooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:ooooooo\",\"lost:hhhh24h9mh3m0h16h30h18hmh42h14h34h8h48h24h9h8h13h9h3h24h2h6mhh93h18mhh7h45h13m0m14h5\"],[[1,[\"strong\"],14],[0,[],18],[2,[\"strong!\",\"value\"],13],[0,[],13],[0,[],13],[0,[],16],[0,[],18],[0,[],14],[0,[],17],[1,[\"strong\"],14],[1,[\"value!\"],14],[1,[\"value\"],16],[1,[\"value\"],18],[0,[],15],[0,[],16],[2,[\"supreme!\",\"value\"],14],[0,[],13],[2,[\"strong\",\"value\"],18],[0,[],12],[0,[],10],[0,[],11],[0,[],13],[0,[],12],[0,[],14],[0,[],15],[0,[],10],[2,[\"supreme\",\"value\"],15],[1,[\"strong\"],13],[0,[],16],[3,[\"supreme\",\"strong\",\"value\"],12],[0,[],16],[2,[\"supreme\",\"value\"],12],[2,[\"supreme\",\"value\"],17],[1,[\"strong\"],12],[1,[\"strong\"],11],[0,[],12],[0,[],16],[0,[],16],[1,[\"value\"],16],[0,[],13],[1,[\"strong!\"],16],[0,[],9],[1,[\"strong\"],11],[2,[\"strong\",\"strong\"],13],[1,[\"supreme*\"],9],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],10],[3,[\"supreme*\",\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],12],[1,[\"strong\"],12],[1,[\"strong\"],15],[1,[\"supreme!\"],18],[1,[\"supreme\"],13],[1,[\"value\"],14],[1,[\"strong!\"],10],[1,[\"supreme*\"],17],[2,[\"supreme*\",\"supreme\"],12],[2,[\"strong\",\"strong\"],16],[2,[\"supreme\",\"value\"],13],[1,[\"strong\"],16],[1,[\"strong\"],15],[2,[\"supreme*\",\"strong!\"],14],[1,[\"value\"],17]],[4,12,[null,null,null,null]],[[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[3,[null,null,null]],[2,[null,null]],[6,[null,null,null,null,null,null]],[0,[]],[12,[null,null,null,null,null,null,null,null,null,null,null,null]],[3,[null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[5,[null,null,null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "simple": 1
 }
