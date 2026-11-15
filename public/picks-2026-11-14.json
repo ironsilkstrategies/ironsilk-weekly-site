@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794706412116,
+ "generated": 1794706773045,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -3876,8 +3876,8 @@
     "u": -3.55
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -3909,10 +3909,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Caleb Hawkins 75+ rush yds",
+     "team": "OKST",
+     "side": "over",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3920,10 +3920,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 3.5 rec",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Carson Clark 4+ rec",
+     "team": "SJSU",
+     "side": "over",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3931,10 +3931,21 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "pick": "Miles Coleman under 79.5 rec yds",
+     "team": "OKST",
      "side": "under",
-     "p": 0.999,
+     "p": 0.741,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Elijah Duval under 4.5 AST",
+     "team": "UAB",
+     "side": "under",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3942,10 +3953,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
+     "pick": "TK Keyes under 3.5 rec",
+     "team": "TROY",
      "side": "under",
-     "p": 0.999,
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3953,21 +3964,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 14.5 longest rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Noah Fifita 220+ pass+rush yds",
+     "team": "ARIZ",
+     "side": "over",
+     "p": 0.741,
      "hit": null,
      "push": false,
      "note": ""
@@ -3975,112 +3975,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ORL ML",
-     "price": -380,
-     "gl": "#30 MIL@#18 ORL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "HOU ML",
-     "price": -1500,
-     "gl": "#28 UTAH@#3 HOU",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "SA ML",
-     "price": -740,
-     "gl": "#14 GS@#1 SA",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "POR ML",
-     "price": -535,
-     "gl": "#6 POR@#27 SAC",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "OKC ML",
-     "price": -280,
-     "gl": "#10 OKC@#23 LAC",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "PHI ML",
-     "price": -435,
-     "gl": "#22 TOR@#11 PHI",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "DET ML",
-     "price": -425,
-     "gl": "#7 DET@#24 WSH",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "SA ML",
-     "price": -1200,
-     "gl": "#1 SA@#26 CHI",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "LAL ML",
-     "price": -750,
-     "gl": "#4 LAL@#30 MIL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "UCD ML",
-     "price": -800,
-     "gl": "#478 UIW@#159 UCD",
+     "pick": "Bennett Basich under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SDSU ML",
-     "price": -3600,
-     "gl": "#468 BCU@#80 SDSU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "ND ML",
-     "price": -20000,
-     "gl": "#275 SCST@#5 ND",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -4181,7 +4157,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Judge",
@@ -4225,8 +4306,8 @@
     "u": -9.46
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -4335,66 +4416,66 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
+     "sp": "nhl",
+     "pick": "Pontus Holmberg under 2.5 SOG",
+     "team": "TB",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 3.5 rec",
-     "team": "UTSA",
+     "sp": "nhl",
+     "pick": "Matthew Kessel under 1.5 SOG",
+     "team": "NYI",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "sp": "ncaab",
+     "pick": "Alex Cotton under 5.5 REB+AST",
+     "team": "HOW",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "sp": "ncaab",
+     "pick": "Cam Gillus 15+ PTS+REB+AST",
+     "team": "HOW",
+     "side": "over",
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
+     "sp": "ncaab",
+     "pick": "Elijah Duval under 4.5 AST",
+     "team": "UAB",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 14.5 longest rec yds",
-     "team": "UTSA",
+     "sp": "nhl",
+     "pick": "Gage Goncalves under 1.5 SOG",
+     "team": "TB",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
      "hit": null,
      "push": false,
      "note": ""
@@ -4402,112 +4483,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "NYR ML",
-     "price": -217,
-     "gl": "#10 NYR@#32 VAN",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "VGK ML",
-     "price": -180,
-     "gl": "#11 NSH@#3 VGK",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "NY ML",
-     "price": -275,
-     "gl": "#8 NY@#21 IND",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ORL ML",
-     "price": -380,
-     "gl": "#30 MIL@#18 ORL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "ATL ML",
-     "price": -280,
-     "gl": "#15 ATL@#26 CHI",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "MEM ML",
-     "price": -162,
-     "gl": "#12 MEM@#29 NO",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-13",
-     "kind": "game",
-     "sp": "nba",
-     "pick": "OKC ML",
-     "price": -280,
-     "gl": "#10 OKC@#23 LAC",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "NYG ML",
-     "price": -135,
-     "gl": "#19 WSH@#17 NYG",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "CAR ML",
-     "price": -291,
-     "gl": "#1 CAR@#25 SEA",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "BOS ML",
-     "price": -120,
-     "gl": "#8 MTL@#6 BOS",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "MIN ML",
-     "price": -170,
-     "gl": "#2 MIN@#22 TOR",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "nhl",
-     "pick": "FLA ML",
-     "price": -166,
-     "gl": "#24 DET@#13 FLA",
-     "r": "win"
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -4608,7 +4665,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Coach",
@@ -5014,8 +5176,8 @@
     "u": -13.41
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -5059,11 +5221,44 @@
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
+     "sp": "nba",
+     "pick": "Bam Adebayo under 29.5 PTS",
+     "team": "MIA",
      "side": "under",
-     "p": 0.999,
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Nick DeSimone under 1.5 SOG",
+     "team": "UTAH",
+     "side": "under",
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nhl",
+     "pick": "Maxim Tsyplakov under 1.5 SOG",
+     "team": "CGY",
+     "side": "under",
+     "p": 0.723,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Matas Buzelis under 2.5 3PM",
+     "team": "CHI",
+     "side": "under",
+     "p": 0.722,
      "hit": null,
      "push": false,
      "note": ""
@@ -5071,54 +5266,21 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 3.5 rec",
+     "pick": "David Amador II under 59.5 rec yds",
      "team": "UTSA",
      "side": "under",
-     "p": 0.999,
+     "p": 0.722,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "sp": "nba",
+     "pick": "Trevon Brazile under 1.5 3PM",
+     "team": "DEN",
      "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 14.5 longest rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "p": 0.722,
      "hit": null,
      "push": false,
      "note": ""
@@ -5126,112 +5288,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-13",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "UWF ML",
-     "price": 140,
-     "gl": "#114 UWF@#237 CLE",
+     "pick": "Bennett Basich under 14.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-13",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "COLU ML",
-     "price": -192,
-     "gl": "#93 COLU@#522 BUCK",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-12",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "SHU ML",
-     "price": -225,
-     "gl": "#199 CCSU@#209 SHU",
+     "pick": "Bennett Basich under 4.5 REB",
      "r": "loss"
     },
     {
-     "d": "2026-11-12",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "Under 179",
-     "price": -110,
-     "gl": "#108 OKST@#78 TA&M",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "COFC -1.5",
-     "price": -113,
-     "gl": "#69 COFC@#450 TEM",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "SFA -6.5",
-     "price": -115,
-     "gl": "#85 SFA@#479 ACU",
+     "pick": "Bennett Basich under 2.5 AST",
      "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SFA ML",
-     "price": -250,
-     "gl": "#85 SFA@#479 ACU",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "BOIS -16.5",
-     "price": -108,
-     "gl": "#493 OAK@#86 BOIS",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "Under 181.5",
-     "price": -110,
-     "gl": "#171 CP@#17 GCU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "ETSU ML",
-     "price": -210,
-     "gl": "#277 CAM@#253 ETSU",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
     },
     {
-     "d": "2026-11-11",
-     "kind": "game",
+     "d": "2026-11-14",
+     "kind": "prop",
      "sp": "ncaab",
-     "pick": "SBU ML",
-     "price": -415,
-     "gl": "#203 COR@#73 SBU",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaab",
-     "pick": "USM ML",
-     "price": -455,
-     "gl": "#426 JKST@#235 USM",
-     "r": "win"
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -5332,7 +5470,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Pred",
@@ -5640,8 +5883,8 @@
     "u": 0.74
    },
    "props": {
-    "w": 0,
-    "l": 0
+    "w": 4,
+    "l": 32
    },
    "picks": [
     {
@@ -5660,10 +5903,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 39.5 rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Caleb Hawkins 75+ rush yds",
+     "team": "OKST",
+     "side": "over",
+     "p": 0.702,
      "hit": null,
      "push": false,
      "note": ""
@@ -5671,10 +5914,10 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 3.5 rec",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "pick": "Carson Clark 4+ rec",
+     "team": "SJSU",
+     "side": "over",
+     "p": 0.702,
      "hit": null,
      "push": false,
      "note": ""
@@ -5682,10 +5925,21 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "Owen McCown under 59.5 rush+rec yds",
-     "team": "UTSA",
+     "pick": "Miles Coleman under 79.5 rec yds",
+     "team": "OKST",
      "side": "under",
-     "p": 0.999,
+     "p": 0.701,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Cade Cunningham 30+ PTS+REB+AST",
+     "team": "DET",
+     "side": "over",
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
@@ -5693,32 +5947,21 @@
     {
      "kind": "prop",
      "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 199.5 pass yds",
-     "team": "UTSA",
+     "pick": "Noah Bennee under 24.5 longest rec yds",
+     "team": "UTAH",
      "side": "under",
-     "p": 0.999,
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
     },
     {
      "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 219.5 pass+rush yds",
-     "team": "UTSA",
+     "sp": "ncaab",
+     "pick": "Elijah Duval under 4.5 AST",
+     "team": "UAB",
      "side": "under",
-     "p": 0.999,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "A'Marion Peterson under 14.5 longest rec yds",
-     "team": "UTSA",
-     "side": "under",
-     "p": 0.999,
+     "p": 0.701,
      "hit": null,
      "push": false,
      "note": ""
@@ -5726,31 +5969,88 @@
    ],
    "recent": [
     {
-     "d": "2026-11-11",
-     "kind": "game",
-     "sp": "ncaaf",
-     "pick": "TOL -14",
-     "price": -115,
-     "gl": "#111 MASS@#60 TOL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-08",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "PHI +3",
-     "price": -112,
-     "gl": "#17 NYG@#32 PHI",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 9.5 PTS",
      "r": "loss"
     },
     {
-     "d": "2026-11-08",
-     "kind": "game",
-     "sp": "nfl",
-     "pick": "SEA -8",
-     "price": -115,
-     "gl": "#29 ARI@#12 SEA",
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 2.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bennett Basich under 1.5 3PM",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 19.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Uzziah Buntyn under 1.5 3PM",
      "r": "win"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 14.5 PTS",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 4.5 AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-14",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Nino Carter-Smith under 2.5 3PM",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -5827,7 +6127,112 @@
      }
     }
    ],
-   "players": []
+   "players": [
+    {
+     "sp": "ncaab",
+     "player": "Bennett Basich",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Uzziah Buntyn",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Nino Carter-Smith",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jack Daugherty",
+     "team": "NIU",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Douglas Jr.",
+     "team": "NIU",
+     "over": {
+      "w": 1,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 2
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Jerry Ashley Jr.",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 1,
+      "l": 3
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "David Burnett",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    },
+    {
+     "sp": "ncaab",
+     "player": "Cam Cole",
+     "team": "NAVY",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 0,
+      "l": 4
+     }
+    }
+   ]
   },
   {
    "v": "Consensus",
@@ -37673,7 +38078,7 @@
     "gl": "#65 FUR@#176 BEL",
     "start": "2026-11-15T01:30:00.000Z",
     "day": "2026-11-14",
-    "st": "pre",
+    "st": "in",
     "picks": [
      {
       "m": "spread",
@@ -38353,6 +38758,19 @@
         "l": 7,
         "u": 8.2,
         "say": "top"
+       },
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "Over 76",
+       "price": -110,
+       "p": 0.634,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "of": 8
        },
        "hit": null
       }
@@ -39806,7 +40224,7 @@
        "s": "away",
        "pick": "WYO -7",
        "price": -105,
-       "p": 0.636,
+       "p": 0.629,
        "o": 0,
        "r": {
         "lab": "CFB spread favorites",
@@ -44611,6 +45029,6 @@
   },
   "heavy": -500
  },
- "betaSig": "[[[1,[\"supreme\"],8],[0,[],12],[1,[\"value\"],15],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],11],[0,[],14],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],14],[1,[\"strong\"],12],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],15],[3,[\"strong\",\"value\",\"value\"],11],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],13],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],12],[2,[\"strong\",\"strong\"],12],[0,[],12],[1,[\"supreme*\"],12],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],15],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],10],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],11],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],12],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],11],[2,[\"supreme*!\",\"value\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],14],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],10],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value!\",\"value\"],9],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[2,12,[null,null,true]],[[8,[null,true,null,null,null,null,null,null]],[14,[true,null,null,null,null,null,null,true,null,null,null,null,null,null]],[9,[false,false,true,null,null,null,null,null,null]],[9,[true,true,true,null,null,null,null,null,null]],[1,[null]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[true,null,null]],[13,[true,true,true,null,null,true,null,null,true,null,null,null,null]],[16,[true,false,null,true,false,true,null,true,true,false,null,null,true,null,true,true]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[[1,[\"supreme\"],8],[0,[],12],[1,[\"value\"],15],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],11],[0,[],14],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],14],[1,[\"strong\"],12],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],15],[3,[\"strong\",\"value\",\"value\"],11],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],13],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],12],[2,[\"strong\",\"strong\"],12],[0,[],12],[1,[\"supreme*\"],12],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],15],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],10],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],11],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],12],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],12],[2,[\"supreme*!\",\"value\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],14],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],10],[0,[],15],[2,[\"supreme\",\"value\"],12],[1,[\"value\"],11],[2,[\"value!\",\"value\"],9],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[2,12,[null,null,true]],[[8,[null,true,null,null,null,null,null,null]],[14,[true,null,null,null,null,null,null,true,null,null,null,null,null,null]],[9,[false,false,true,null,null,null,null,null,null]],[9,[true,true,true,null,null,null,null,null,null]],[1,[null]],[0,[]],[7,[null,null,null,null,null,null,null]],[0,[]],[3,[true,null,null]],[13,[true,true,true,null,null,true,null,null,true,null,null,null,null]],[16,[true,false,null,true,false,true,null,true,true,false,null,null,true,null,true,true]],[1,[null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
