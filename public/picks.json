@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794711293278,
+ "generated": 1794712562869,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -1130,89 +1130,7 @@
  ],
  "beta": true,
  "vip": {
-  "top10": [
-   {
-    "sp": "nhl",
-    "game": "CGY@LA",
-    "gl": "#29 CGY@#23 LA",
-    "pick": "CGY +1.5",
-    "price": -180,
-    "p": 0.644,
-    "start": "2026-11-15T03:00Z",
-    "hit": null,
-    "push": false,
-    "by": [],
-    "voices": [
-     {
-      "who": "The Underdog Spotter",
-      "v": "Dog",
-      "with": true,
-      "pick": "CGY +1.5",
-      "p": 0.781,
-      "official": true,
-      "note": "+7.5 LA as a favorite: 2-4 · +7.2 CGY as a dog: 8-7 outright · +6 the triangle: LA drops games to dogs, CGY beats favorites · +4.3 LA covers as a favorite: 1-5 · +2.2 power says LA by 0.0, the line says 0.3"
-     },
-     {
-      "who": "The Scorekeeper",
-      "v": "Most common",
-      "with": true,
-      "pick": "CGY +1.5",
-      "p": 0.625,
-      "official": false,
-      "note": "his final CGY 2 – 3 LA · CGY: 26.3 shots × 10.9% · LA: 29.6 shots × 9.7%"
-     },
-     {
-      "who": "The Judge",
-      "v": "Judge",
-      "with": true,
-      "pick": "CGY +1.5",
-      "p": 0.602,
-      "official": false,
-      "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "CGY +1.5",
-      "p": 0.571,
-      "official": false,
-      "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
-     },
-     {
-      "who": "The Commissioner",
-      "v": "Power",
-      "with": true,
-      "pick": "CGY +1.5",
-      "p": 0.553,
-      "official": false,
-      "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
-     },
-     {
-      "who": "The Coach",
-      "v": "Coach",
-      "with": true,
-      "pick": "CGY +1.5",
-      "p": 0.53,
-      "official": false,
-      "note": "+0.09 LA revenge: lost the last meeting (2026) · his score CGY 3 – 3 LA vs the line -1.5"
-     },
-     {
-      "who": "The Banker",
-      "v": "Banker",
-      "with": true,
-      "pick": "CGY +1.5",
-      "p": 0.458,
-      "official": false,
-      "note": "picked team over-performing its scoring (Pythagorean) · picked team leads the head-to-head series · division game"
-     }
-    ],
-    "ev": 0.2,
-    "voicesBy": [
-     "The Underdog Spotter"
-    ]
-   }
-  ],
+  "top10": [],
   "banker": {
    "price": "+248",
    "p": 0.425,
@@ -4346,7 +4264,7 @@
      "pick": "Xayvion Noland under 79.5 rec yds",
      "team": "ORST",
      "side": "under",
-     "p": 0.757,
+     "p": 0.808,
      "hit": null,
      "push": false,
      "note": ""
@@ -4357,7 +4275,7 @@
      "pick": "Brendan Jenkins under 79.5 rec yds",
      "team": "USA",
      "side": "under",
-     "p": 0.757,
+     "p": 0.808,
      "hit": null,
      "push": false,
      "note": ""
@@ -4368,7 +4286,7 @@
      "pick": "Raymond Moore III under 79.5 rush+rec yds",
      "team": "UTEP",
      "side": "under",
-     "p": 0.757,
+     "p": 0.808,
      "hit": null,
      "push": false,
      "note": ""
@@ -4379,7 +4297,18 @@
      "pick": "Devon Dampier under 249.5 pass yds",
      "team": "UTAH",
      "side": "under",
-     "p": 0.757,
+     "p": 0.808,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Khayri Dunn under 2.5 turnovers",
+     "team": "UNCA",
+     "side": "under",
+     "p": 0.808,
      "hit": null,
      "push": false,
      "note": ""
@@ -4390,18 +4319,7 @@
      "pick": "Matthew Kessel under 1.5 SOG",
      "team": "NYI",
      "side": "under",
-     "p": 0.757,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "Easton Messer 60+ rec yds",
-     "team": "FAU",
-     "side": "over",
-     "p": 0.757,
+     "p": 0.808,
      "hit": null,
      "push": false,
      "note": ""
@@ -5850,6 +5768,17 @@
     },
     {
      "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Aleksas Bieliauskas under 14.5 PTS+AST",
+     "team": "SC",
+     "side": "under",
+     "p": 0.675,
+     "hit": null,
+     "push": false,
+     "note": ""
+    },
+    {
+     "kind": "prop",
      "sp": "ncaaf",
      "pick": "Miles Coleman under 79.5 rec yds",
      "team": "OKST",
@@ -5875,17 +5804,6 @@
      "sp": "ncaaf",
      "pick": "Noah Bennee under 24.5 longest rec yds",
      "team": "UTAH",
-     "side": "under",
-     "p": 0.674,
-     "hit": null,
-     "push": false,
-     "note": ""
-    },
-    {
-     "kind": "prop",
-     "sp": "ncaaf",
-     "pick": "TK Keyes under 3.5 rec",
-     "team": "TROY",
      "side": "under",
      "p": 0.674,
      "hit": null,
@@ -45279,7 +45197,7 @@
       "start": null,
       "day": "2026-11-14",
       "st": "live",
-      "detail": "DET 76–84 MIA (live) · total 160 so far",
+      "detail": "DET 76–86 MIA (live) · total 162 so far",
       "prog": null,
       "prop": false
      },
@@ -45291,7 +45209,7 @@
       "start": null,
       "day": "2026-11-14",
       "st": "live",
-      "detail": "DET 76–84 MIA (live) · margin -8",
+      "detail": "DET 76–86 MIA (live) · margin -10",
       "prog": null,
       "prop": false
      },
@@ -45303,9 +45221,9 @@
       "start": null,
       "day": "2026-11-15",
       "st": "hit",
-      "detail": "Giannis Antetokounmpo 31 so far",
+      "detail": "Giannis Antetokounmpo 33 so far",
       "prog": {
-       "v": 31,
+       "v": 33,
        "t": 25,
        "d": "atleast"
       },
@@ -45335,9 +45253,9 @@
       "start": null,
       "day": "2026-11-15",
       "st": "hit",
-      "detail": "Giannis Antetokounmpo 25 so far",
+      "detail": "Giannis Antetokounmpo 27 so far",
       "prog": {
-       "v": 25,
+       "v": 27,
        "t": 20,
        "d": "atleast"
       },
@@ -45367,9 +45285,9 @@
       "start": null,
       "day": "2026-11-15",
       "st": "hit",
-      "detail": "Giannis Antetokounmpo 34 so far",
+      "detail": "Giannis Antetokounmpo 36 so far",
       "prog": {
-       "v": 34,
+       "v": 36,
        "t": 30,
        "d": "atleast"
       },
@@ -45583,7 +45501,7 @@
       "start": null,
       "day": "2026-11-14",
       "st": "live",
-      "detail": "DAL 112–122 CLE (live)",
+      "detail": "DAL 112–124 CLE (live)",
       "prog": null,
       "prop": false
      },
@@ -45595,7 +45513,7 @@
       "start": null,
       "day": "2026-11-14",
       "st": "hit",
-      "detail": "DAL 112–122 CLE (live) · total 234 — already clinched",
+      "detail": "DAL 112–124 CLE (live) · total 236 — already clinched",
       "prog": null,
       "prop": false
      },
@@ -45623,9 +45541,9 @@
       "start": null,
       "day": "2026-11-15",
       "st": "hit",
-      "detail": "K. Irving 42 so far",
+      "detail": "K. Irving 45 so far",
       "prog": {
-       "v": 42,
+       "v": 45,
        "t": 20,
        "d": "atleast"
       },
@@ -45639,9 +45557,9 @@
       "start": null,
       "day": "2026-11-15",
       "st": "hit",
-      "detail": "Cooper Flagg 13 so far",
+      "detail": "Cooper Flagg 14 so far",
       "prog": {
-       "v": 13,
+       "v": 14,
        "t": 10,
        "d": "atleast"
       },
@@ -45687,9 +45605,9 @@
       "start": null,
       "day": "2026-11-15",
       "st": "hit",
-      "detail": "Cooper Flagg 5 so far",
+      "detail": "Cooper Flagg 6 so far",
       "prog": {
-       "v": 5,
+       "v": 6,
        "t": 5,
        "d": "atleast"
       },
@@ -45843,7 +45761,7 @@
       "start": "2026-11-15T00:40:00Z",
       "day": "2026-11-14",
       "st": "hit",
-      "detail": "DAL 112–122 CLE (live) · total 234 — already clinched",
+      "detail": "DAL 112–124 CLE (live) · total 236 — already clinched",
       "prog": null,
       "prop": false
      },
@@ -45855,7 +45773,7 @@
       "start": "2026-11-15T01:10:00Z",
       "day": "2026-11-14",
       "st": "live",
-      "detail": "DET 76–84 MIA (live)",
+      "detail": "DET 76–86 MIA (live)",
       "prog": null,
       "prop": false
      },
@@ -45867,7 +45785,7 @@
       "start": "2026-11-15T01:10:00Z",
       "day": "2026-11-14",
       "st": "live",
-      "detail": "DET 76–84 MIA (live) · total 160 so far",
+      "detail": "DET 76–86 MIA (live) · total 162 so far",
       "prog": null,
       "prop": false
      },
@@ -45879,7 +45797,7 @@
       "start": "2026-11-15T01:10:00Z",
       "day": "2026-11-14",
       "st": "live",
-      "detail": "BKN 78–99 MEM (live)",
+      "detail": "BKN 78–101 MEM (live)",
       "prog": null,
       "prop": false
      },
@@ -45891,7 +45809,7 @@
       "start": "2026-11-15T01:10:00Z",
       "day": "2026-11-14",
       "st": "live",
-      "detail": "BKN 78–99 MEM (live) · total 177 so far",
+      "detail": "BKN 78–101 MEM (live) · total 179 so far",
       "prog": null,
       "prop": false
      },
@@ -45903,7 +45821,7 @@
       "start": "2026-11-15T01:10:00Z",
       "day": "2026-11-14",
       "st": "live",
-      "detail": "CHI 89–80 MIN (live) · margin -9",
+      "detail": "CHI 90–81 MIN (live) · margin -9",
       "prog": null,
       "prop": false
      },
@@ -45915,7 +45833,7 @@
       "start": "2026-11-15T01:10:00Z",
       "day": "2026-11-14",
       "st": "live",
-      "detail": "CHI 89–80 MIN (live) · total 169 so far",
+      "detail": "CHI 90–81 MIN (live) · total 171 so far",
       "prog": null,
       "prop": false
      },
@@ -45939,7 +45857,7 @@
       "start": "2026-11-15T00:40:00Z",
       "day": "2026-11-14",
       "st": "live",
-      "detail": "DAL 112–122 CLE (live) · margin +10",
+      "detail": "DAL 112–124 CLE (live) · margin +12",
       "prog": null,
       "prop": false
      }
@@ -46426,6 +46344,6 @@
    "lost": 18
   }
  },
- "betaSig": "[[\"live:oolloooooo\",\"lost:llhh24h9mh3m0h16h30h18llh31h9h25l4h34h15l5h6l9h7h2l14h1h3llh59l15lhh7h42h13l0l14h5\",\"lost:mhmhmmhmml\",\"lost:hllllllml\",\"lost:hhmhmmmhhm\",\"lost:hhhmhmhmmh\",\"lost:mhhhhh\",\"lost:hmhhmphmmm\"],[[1,[\"supreme\"],8],[0,[],12],[1,[\"value\"],15],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],11],[0,[],14],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],14],[1,[\"strong\"],12],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],15],[3,[\"strong\",\"value\",\"value\"],11],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],13],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],12],[2,[\"strong\",\"strong\"],12],[0,[],12],[1,[\"supreme*\"],12],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],15],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],10],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],11],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],12],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],12],[2,[\"supreme*!\",\"value\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],14],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],10],[0,[],15],[2,[\"supreme\",\"value\"],13],[1,[\"value\"],11],[2,[\"value!\",\"value\"],9],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[1,12,[false,null,true]],[[8,[true,true,null,null,null,null,null,null]],[14,[true,false,null,true,null,null,null,true,null,null,null,null,null,null]],[9,[false,false,true,null,null,null,null,null,null]],[9,[true,true,true,null,null,null,null,null,null]],[1,[null]],[0,[]],[7,[false,null,null,null,null,null,null]],[0,[]],[3,[true,false,null]],[13,[true,true,true,null,null,true,null,null,true,null,null,false,false]],[16,[true,false,true,true,false,true,null,true,true,false,null,null,true,null,true,true]],[1,[false]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"live:oolloooooo\",\"lost:llhh24h9mh3m0h16h30h18llh33h9h27l4h36h15l5h6l9h7h2l14h1h3llh59l15lhh7h45h14l0l14h6\",\"lost:mhmhmmhmml\",\"lost:hllllllml\",\"lost:hhmhmmmhhm\",\"lost:hhhmhmhmmh\",\"lost:mhhhhh\",\"lost:hmhhmphmmm\"],[[1,[\"supreme\"],8],[0,[],12],[1,[\"value\"],15],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"strong\"],11],[2,[\"supreme\",\"value\"],11],[0,[],14],[2,[\"strong\",\"value\"],13],[3,[\"strong\",\"strong\",\"strong\"],14],[0,[],13],[0,[],11],[1,[\"value\"],10],[0,[],13],[2,[\"supreme\",\"strong\"],14],[1,[\"strong\"],12],[0,[],9],[2,[\"strong\",\"strong\"],13],[0,[],9],[1,[\"strong\"],15],[1,[\"value\"],12],[1,[\"strong\"],14],[1,[\"supreme\"],11],[1,[\"strong\"],15],[0,[],8],[1,[\"value\"],10],[2,[\"strong\",\"value\"],10],[1,[\"strong\"],13],[0,[],11],[1,[\"strong\"],12],[1,[\"value\"],9],[1,[\"strong\"],15],[3,[\"strong\",\"value\",\"value\"],11],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],12],[0,[],16],[2,[\"strong\",\"value\"],13],[0,[],8],[1,[\"strong\"],13],[0,[],14],[0,[],12],[2,[\"strong\",\"strong\"],12],[0,[],12],[1,[\"supreme*\"],12],[2,[\"strong\",\"value\"],12],[0,[],8],[2,[\"strong\",\"strong\"],11],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],13],[2,[\"supreme*\",\"strong\"],14],[2,[\"strong\",\"strong\"],16],[0,[],9],[1,[\"strong\"],12],[0,[],12],[1,[\"strong\"],15],[1,[\"value\"],10],[0,[],15],[2,[\"strong!\",\"value\"],11],[0,[],13],[0,[],14],[1,[\"value\"],11],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],12],[0,[],14],[1,[\"supreme\"],12],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],13],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],9],[2,[\"strong\",\"value\"],11],[0,[],12],[1,[\"supreme*\"],18],[1,[\"strong\"],12],[0,[],15],[1,[\"strong\"],14],[2,[\"strong\",\"value\"],13],[2,[\"supreme\",\"value!\"],11],[1,[\"strong\"],16],[1,[\"strong\"],13],[0,[],13],[3,[\"supreme\",\"strong!\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme*\",\"value!\"],13],[3,[\"strong\",\"value\",\"value\"],12],[0,[],15],[2,[\"strong\",\"strong\"],12],[1,[\"strong\"],7],[1,[\"supreme*\"],13],[2,[\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],12],[2,[\"strong!\",\"value\"],11],[2,[\"strong\",\"value\"],13],[1,[\"supreme*\"],15],[1,[\"supreme*\"],11],[1,[\"supreme*\"],12],[1,[\"strong\"],13],[0,[],10],[0,[],14],[2,[\"strong\",\"value!\"],11],[1,[\"value!\"],10],[1,[\"strong\"],13],[0,[],11],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"value\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],12],[2,[\"supreme!\",\"value\"],12],[1,[\"value\"],12],[1,[\"supreme\"],12],[0,[],11],[0,[],14],[0,[],9],[1,[\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],11],[1,[\"value\"],12],[2,[\"supreme*!\",\"value\"],14],[1,[\"value\"],9],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],10],[2,[\"supreme\",\"strong\"],14],[1,[\"supreme*\"],13],[2,[\"supreme*!\",\"strong!\"],12],[0,[],10],[0,[],15],[2,[\"supreme\",\"value\"],13],[1,[\"value\"],11],[2,[\"value!\",\"value\"],9],[0,[],13],[1,[\"strong\"],15],[1,[\"strong\"],12],[1,[\"strong\"],13],[1,[\"strong\"],11],[1,[\"value\"],10],[1,[\"strong\"],15],[0,[],13],[0,[],13],[0,[],13],[1,[\"strong\"],13],[0,[],13]],[0,12,[false,null,true]],[[8,[true,true,null,null,null,null,null,null]],[14,[true,false,null,true,null,null,null,true,null,null,null,null,null,null]],[9,[false,false,true,null,null,null,null,null,null]],[9,[true,true,true,null,null,null,null,null,null]],[1,[null]],[0,[]],[7,[false,null,null,null,null,null,null]],[0,[]],[3,[true,false,null]],[13,[true,true,true,null,null,true,null,null,true,null,null,false,false]],[16,[true,false,true,true,false,true,null,true,true,false,null,null,true,null,true,true]],[1,[false]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
