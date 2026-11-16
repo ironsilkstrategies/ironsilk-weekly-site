@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794851600609,
+ "generated": 1794851627886,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -32,7 +32,7 @@
     {
      "sp": "ncaaf",
      "game": "MISS@OU",
-     "gl": "#19 MISS@#35 OU",
+     "gl": "#16 MISS@#35 OU",
      "pick": "Under 49",
      "price": -110,
      "p": 0.796,
@@ -102,7 +102,7 @@
     {
      "sp": "nhl",
      "game": "CGY@LA",
-     "gl": "#30 CGY@#26 LA",
+     "gl": "#30 CGY@#25 LA",
      "pick": "LA ML",
      "price": -175,
      "p": 0.705,
@@ -208,7 +208,7 @@
     {
      "sp": "nhl",
      "game": "PIT@SJ",
-     "gl": "#23 PIT@#27 SJ",
+     "gl": "#22 PIT@#27 SJ",
      "pick": "SJ +1.5",
      "price": -193,
      "p": 0.663,
@@ -593,7 +593,7 @@
     {
      "sp": "nhl",
      "game": "DET@EDM",
-     "gl": "#22 DET@#3 EDM",
+     "gl": "#23 DET@#3 EDM",
      "pick": "EDM ML",
      "price": -175,
      "p": 0.709,
@@ -717,7 +717,7 @@
     {
      "sp": "nhl",
      "game": "PHI@BUF",
-     "gl": "#25 PHI@#28 BUF",
+     "gl": "#26 PHI@#28 BUF",
      "pick": "BUF ML",
      "price": -218,
      "p": 0.784,
@@ -761,7 +761,7 @@
     {
      "sp": "nhl",
      "game": "LA@WSH",
-     "gl": "#26 LA@#15 WSH",
+     "gl": "#25 LA@#16 WSH",
      "pick": "WSH ML",
      "price": -155,
      "p": 0.752,
@@ -779,7 +779,7 @@
     {
      "sp": "nhl",
      "game": "COL@PHI",
-     "gl": "#5 COL@#25 PHI",
+     "gl": "#5 COL@#26 PHI",
      "pick": "COL ML",
      "price": -238,
      "p": 0.8,
@@ -792,7 +792,7 @@
     {
      "sp": "nhl",
      "game": "PIT@UTAH",
-     "gl": "#23 PIT@#19 UTAH",
+     "gl": "#22 PIT@#19 UTAH",
      "pick": "UTAH ML",
      "price": -185,
      "p": 0.762,
@@ -805,7 +805,7 @@
     {
      "sp": "nhl",
      "game": "ANA@NYR",
-     "gl": "#16 ANA@#10 NYR",
+     "gl": "#15 ANA@#10 NYR",
      "pick": "NYR ML",
      "price": -155,
      "p": 0.759,
@@ -880,7 +880,7 @@
     {
      "sp": "nhl",
      "game": "OTT@PHI",
-     "gl": "#9 OTT@#25 PHI",
+     "gl": "#9 OTT@#26 PHI",
      "pick": "OTT ML",
      "price": -144,
      "p": 0.734,
@@ -898,7 +898,7 @@
     {
      "sp": "nhl",
      "game": "PIT@COL",
-     "gl": "#23 PIT@#5 COL",
+     "gl": "#22 PIT@#5 COL",
      "pick": "COL ML",
      "price": -205,
      "p": 0.812,
@@ -1020,14 +1020,14 @@
     }
    ],
    "record": {
-    "w": 106,
+    "w": 103,
     "l": 50,
     "pu": 0,
-    "u": -0.24
+    "u": -1.38
    },
    "props": {
-    "w": 557,
-    "l": 204
+    "w": 574,
+    "l": 206
    },
    "picks": [
     {
@@ -1165,35 +1165,35 @@
      "d": "2026-11-15",
      "kind": "prop",
      "sp": "nba",
-     "pick": "Oso Ighodaro under 11.5 REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 20+ PTS",
+     "pick": "Devin Booker 25+ PTS+AST",
      "r": "loss"
     },
     {
      "d": "2026-11-15",
      "kind": "prop",
      "sp": "nba",
-     "pick": "Devin Booker 4+ AST",
+     "pick": "Devin Booker under 11.5 REB+AST",
      "r": "win"
     },
     {
      "d": "2026-11-15",
      "kind": "prop",
      "sp": "nba",
-     "pick": "Devin Booker 25+ PTS+REB+AST",
-     "r": "win"
+     "pick": "Jalen Green under 24.5 PTS",
+     "r": "loss"
     },
     {
      "d": "2026-11-15",
      "kind": "prop",
      "sp": "nba",
-     "pick": "Devin Booker 20+ PTS+REB",
+     "pick": "Jalen Green under 5.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Jalen Green under 34.5 PTS+REB+AST",
      "r": "win"
     }
    ],
@@ -1438,14 +1438,14 @@
     }
    ],
    "record": {
-    "w": 89,
+    "w": 87,
     "l": 52,
     "pu": 0,
-    "u": -11.47
+    "u": -12.12
    },
    "props": {
-    "w": 551,
-    "l": 203
+    "w": 569,
+    "l": 205
    },
    "picks": [
     {
@@ -1455,7 +1455,7 @@
      "gl": "#31 LAC@#25 BAL",
      "pick": "BAL ML",
      "price": -215,
-     "p": 0.757,
+     "p": 0.759,
      "start": "2026-11-17T01:15Z",
      "hit": null,
      "push": false,
@@ -1860,9 +1860,9 @@
     },
     {
      "lane": "NHL overs",
-     "w": 55,
-     "l": 40,
-     "u": 7.9
+     "w": 54,
+     "l": 38,
+     "u": 9.1
     },
     {
      "lane": "NFL overs",
@@ -1885,8 +1885,8 @@
     "u": -16.68
    },
    "props": {
-    "w": 182,
-    "l": 56
+    "w": 206,
+    "l": 60
    },
    "picks": [
     {
@@ -2147,6 +2147,19 @@
    "players": [
     {
      "sp": "nfl",
+     "player": "Rico Dowdle",
+     "team": "PIT",
+     "over": {
+      "w": 0,
+      "l": 0
+     },
+     "under": {
+      "w": 5,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nfl",
      "player": "Travis Etienne Jr.",
      "team": "NO",
      "over": {
@@ -2235,19 +2248,6 @@
       "w": 0,
       "l": 0
      }
-    },
-    {
-     "sp": "nfl",
-     "player": "Trey McBride",
-     "team": "ARI",
-     "over": {
-      "w": 0,
-      "l": 2
-     },
-     "under": {
-      "w": 1,
-      "l": 0
-     }
     }
    ]
   },
@@ -2282,19 +2282,19 @@
    "still": [
     {
      "lane": "College football underdogs on the spread",
-     "w": 36,
+     "w": 35,
      "l": 46
     }
    ],
    "record": {
-    "w": 91,
-    "l": 69,
+    "w": 88,
+    "l": 68,
     "pu": 0,
-    "u": -8.87
+    "u": -9.01
    },
    "props": {
-    "w": 558,
-    "l": 209
+    "w": 574,
+    "l": 211
    },
    "picks": [
     {
@@ -2369,41 +2369,6 @@
      "d": "2026-11-15",
      "kind": "prop",
      "sp": "nba",
-     "pick": "Oso Ighodaro under 11.5 REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 20+ PTS",
-     "r": "loss"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 4+ AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 25+ PTS+REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 20+ PTS+REB",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
      "pick": "Devin Booker 25+ PTS+AST",
      "r": "loss"
     },
@@ -2448,6 +2413,41 @@
      "sp": "nba",
      "pick": "Jalen Green 15+ PTS+AST",
      "r": "loss"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Jalen Green under 9.5 REB+AST",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Ryan Dunn under 5.5 REB",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Ryan Dunn under 7.5 REB+AST",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Khaman Maluach under 7.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Khaman Maluach under 14.5 PTS+REB",
+     "r": "win"
     }
    ],
    "teams": [
@@ -2966,8 +2966,8 @@
     "u": -0.26
    },
    "props": {
-    "w": 545,
-    "l": 205
+    "w": 565,
+    "l": 207
    },
    "picks": [
     {
@@ -3042,41 +3042,6 @@
      "d": "2026-11-15",
      "kind": "prop",
      "sp": "nba",
-     "pick": "Oso Ighodaro under 11.5 REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 20+ PTS",
-     "r": "loss"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 4+ AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 25+ PTS+REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
-     "pick": "Devin Booker 20+ PTS+REB",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-15",
-     "kind": "prop",
-     "sp": "nba",
      "pick": "Devin Booker 25+ PTS+AST",
      "r": "loss"
     },
@@ -3121,6 +3086,41 @@
      "sp": "nba",
      "pick": "Jalen Green under 24.5 PTS+AST",
      "r": "win"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Jalen Green under 9.5 REB+AST",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Ryan Dunn under 7.5 REB+AST",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Khaman Maluach under 7.5 REB",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Luke Kennard under 2.5 3PM",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "prop",
+     "sp": "nba",
+     "pick": "Luke Kennard under 14.5 PTS+REB",
+     "r": "loss"
     }
    ],
    "teams": [
@@ -3532,10 +3532,10 @@
     }
    ],
    "record": {
-    "w": 52,
+    "w": 53,
     "l": 20,
     "pu": 0,
-    "u": 0.02
+    "u": 0.62
    },
    "props": {
     "w": 0,
@@ -3549,7 +3549,7 @@
      "gl": "#31 LAC@#25 BAL",
      "pick": "BAL ML",
      "price": -215,
-     "p": 0.747,
+     "p": 0.75,
      "start": "2026-11-17T01:15Z",
      "hit": null,
      "push": false,
@@ -3669,6 +3669,18 @@
    "teams": [
     {
      "sp": "nba",
+     "team": "BKN",
+     "for": {
+      "w": 0,
+      "l": 1
+     },
+     "vs": {
+      "w": 5,
+      "l": 0
+     }
+    },
+    {
+     "sp": "nba",
      "team": "DET",
      "for": {
       "w": 3,
@@ -3676,18 +3688,6 @@
      },
      "vs": {
       "w": 0,
-      "l": 0
-     }
-    },
-    {
-     "sp": "nba",
-     "team": "BKN",
-     "for": {
-      "w": 0,
-      "l": 1
-     },
-     "vs": {
-      "w": 4,
       "l": 0
      }
     },
@@ -3861,7 +3861,7 @@
      "sp": "ncaaf",
      "pick": "UNC +3.5",
      "price": -115,
-     "gl": "#14 LOU@#39 UNC",
+     "gl": "#22 LOU@#39 UNC",
      "r": "win"
     },
     {
@@ -3879,7 +3879,7 @@
      "sp": "ncaaf",
      "pick": "WAKE +1.5",
      "price": -110,
-     "gl": "#13 WAKE@#29 SMU",
+     "gl": "#10 WAKE@#29 SMU",
      "r": "win"
     },
     {
@@ -3888,7 +3888,7 @@
      "sp": "ncaaf",
      "pick": "BAY +9",
      "price": -110,
-     "gl": "#25 BAY@#10 BYU",
+     "gl": "#25 BAY@#12 BYU",
      "r": "loss"
     },
     {
@@ -3897,7 +3897,7 @@
      "sp": "ncaaf",
      "pick": "UNC ML",
      "price": 147,
-     "gl": "#14 LOU@#39 UNC",
+     "gl": "#22 LOU@#39 UNC",
      "r": "loss"
     },
     {
@@ -4167,7 +4167,7 @@
      "sp": "ncaaf",
      "pick": "Under 49",
      "price": -110,
-     "gl": "#19 MISS@#35 OU",
+     "gl": "#16 MISS@#35 OU",
      "r": "win"
     },
     {
@@ -4176,7 +4176,7 @@
      "sp": "nhl",
      "pick": "EDM ML",
      "price": -155,
-     "gl": "#3 EDM@#25 PHI",
+     "gl": "#3 EDM@#26 PHI",
      "r": "win"
     }
    ],
@@ -4366,7 +4366,7 @@
      "sp": "nhl",
      "pick": "TB ML",
      "price": -225,
-     "gl": "#22 DET@#12 TB",
+     "gl": "#23 DET@#12 TB",
      "r": "loss"
     },
     {
@@ -4411,7 +4411,7 @@
      "sp": "ncaaf",
      "pick": "NAVY +30.5",
      "price": -107,
-     "gl": "#5 ND@#94 NAVY",
+     "gl": "#3 ND@#94 NAVY",
      "r": "win"
     },
     {
@@ -4560,10 +4560,10 @@
     }
    ],
    "record": {
-    "w": 48,
+    "w": 47,
     "l": 21,
     "pu": 0,
-    "u": -1.47
+    "u": -1.64
    },
    "props": {
     "w": 0,
@@ -4622,7 +4622,7 @@
      "sp": "nhl",
      "pick": "ANA ML",
      "price": -140,
-     "gl": "#8 NSH@#16 ANA",
+     "gl": "#8 NSH@#15 ANA",
      "r": "loss"
     },
     {
@@ -5239,7 +5239,23 @@
     "start": "2026-11-17T01:15:00.000Z",
     "day": "2026-11-16",
     "st": "pre",
-    "picks": [],
+    "picks": [
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "LAC +4.5",
+      "price": -112,
+      "p": 0.46,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Covers"
+      ]
+     }
+    ],
     "calls": {
      "ml": [
       {
@@ -5247,7 +5263,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.662,
+       "p": 0.684,
        "o": 0,
        "r": {
         "lab": "NFL ML favorites",
@@ -5265,7 +5281,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.757,
+       "p": 0.759,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -5283,7 +5299,7 @@
        "s": "home",
        "pick": "BAL ML",
        "price": -215,
-       "p": 0.747,
+       "p": 0.75,
        "o": 1,
        "r": {
         "lab": "NFL ML favorites",
@@ -5334,7 +5350,7 @@
        "s": "away",
        "pick": "LAC +4.5",
        "price": -112,
-       "p": 0.396,
+       "p": 0.41,
        "o": 0,
        "r": {
         "lab": "NFL spread dogs",
@@ -5475,7 +5491,7 @@
        "s": "over",
        "pick": "Over 38.5",
        "price": -113,
-       "p": 0.499,
+       "p": 0.507,
        "o": 0,
        "r": {
         "lab": "NFL overs",
@@ -5539,6 +5555,6455 @@
       }
      ]
     }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "EMU@WMU",
+    "gl": "#127 EMU@#69 WMU",
+    "start": "2026-11-17T23:00:00.000Z",
+    "day": "2026-11-17",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "WMU ML",
+      "price": -675,
+      "p": 0.936,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Covers",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "WMU -14.5",
+      "price": -110,
+      "p": 0.447,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Covers"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "BALL@OHIO",
+    "gl": "#128 BALL@#78 OHIO",
+    "start": "2026-11-18T00:00:00.000Z",
+    "day": "2026-11-17",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "OHIO ML",
+      "price": -455,
+      "p": 0.92,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Covers",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "CMU@BUFF",
+    "gl": "#98 CMU@#103 BUFF",
+    "start": "2026-11-19T00:30:00.000Z",
+    "day": "2026-11-18",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "BUFF ML",
+      "price": -125,
+      "p": 0.717,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Covers",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "BUFF -2.5",
+      "price": -110,
+      "p": 0.493,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Covers"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "ISU@UCF",
+    "gl": "#63 ISU@#76 UCF",
+    "start": "2026-11-20T23:00Z",
+    "day": "2026-11-20",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "UCF ML",
+      "price": -125,
+      "p": 0.718,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "BGSU@TOL",
+    "gl": "#129 BGSU@#61 TOL",
+    "start": "2026-11-21T00:30Z",
+    "day": "2026-11-20",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "TOL ML",
+      "price": -750,
+      "p": 0.949,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "CLEM@DUKE",
+    "gl": "#56 CLEM@#24 DUKE",
+    "start": "2026-11-21T00:30Z",
+    "day": "2026-11-20",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "DUKE ML",
+      "price": -485,
+      "p": 0.901,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "UTEP@AFA",
+    "gl": "#134 UTEP@#59 AFA",
+    "start": "2026-11-21T01:00Z",
+    "day": "2026-11-20",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 46.5",
+      "price": -108,
+      "p": 0.486,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "ORE@MSU",
+    "gl": "#14 ORE@#83 MSU",
+    "start": "2026-11-21T01:00Z",
+    "day": "2026-11-20",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "MSU +16.5",
+      "price": -112,
+      "p": 0.651,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Most common",
+       "Coach",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "UNM@WYO",
+    "gl": "#31 UNM@#88 WYO",
+    "start": "2026-11-21T02:00Z",
+    "day": "2026-11-20",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "UNM ML",
+      "price": -305,
+      "p": 0.862,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 37.5",
+      "price": -110,
+      "p": 0.587,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Coach"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "UNM -7.5",
+      "price": -112,
+      "p": 0.497,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "COLO@CIN",
+    "gl": "#90 COLO@#73 CIN",
+    "start": "2026-11-21T17:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 60.5",
+      "price": -112,
+      "p": 0.546,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Coach"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "MEM@NAVY",
+    "gl": "#32 MEM@#94 NAVY",
+    "start": "2026-11-21T17:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "MEM ML",
+      "price": -170,
+      "p": 0.786,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "MEM -3.5",
+      "price": -102,
+      "p": 0.515,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Most common",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 66.5",
+      "price": -108,
+      "p": 0.532,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Coach"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "NU@MINN",
+    "gl": "#33 NU@#71 MINN",
+    "start": "2026-11-21T17:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "NU ML",
+      "price": -155,
+      "p": 0.75,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 42.5",
+      "price": -110,
+      "p": 0.572,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Coach"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "NU -3",
+      "price": -112,
+      "p": 0.493,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "BYU@KU",
+    "gl": "#12 BYU@#65 KU",
+    "start": "2026-11-21T17:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "BYU ML",
+      "price": -225,
+      "p": 0.82,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "BYU -5.5",
+      "price": -108,
+      "p": 0.525,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "WIS@PUR",
+    "gl": "#34 WIS@#80 PUR",
+    "start": "2026-11-21T17:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "WIS ML",
+      "price": -218,
+      "p": 0.803,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 44.5",
+      "price": -105,
+      "p": 0.555,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Coach"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "OSU@NEB",
+    "gl": "#17 OSU@#24 NEB",
+    "start": "2026-11-21T17:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "OSU ML",
+      "price": -155,
+      "p": 0.742,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "VAN@FLA",
+    "gl": "#86 VAN@#25 FLA",
+    "start": "2026-11-21T17:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "VAN +13.5",
+      "price": -110,
+      "p": 0.521,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Most common",
+       "Coach"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "SYR@BC",
+    "gl": "#68 SYR@#99 BC",
+    "start": "2026-11-21T17:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "BC +2.5",
+      "price": -108,
+      "p": 0.519,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "ULM@APP",
+    "gl": "#132 ULM@#95 APP",
+    "start": "2026-11-21T19:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "APP ML",
+      "price": -625,
+      "p": 0.938,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "APP ML",
+       "price": -625,
+       "p": 0.815,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "APP ML",
+       "price": -625,
+       "p": 0.856,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "APP ML",
+       "price": -625,
+       "p": 0.555,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "APP ML",
+       "price": -625,
+       "p": 0.87,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "APP -14",
+       "price": -108,
+       "p": 0.505,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "APP -14",
+       "price": -108,
+       "p": 0.457,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "ULM +14",
+       "price": -112,
+       "p": 0.47,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "ULM +14",
+       "price": -112,
+       "p": 0.548,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "APP -14",
+       "price": -108,
+       "p": 0.443,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 50.5",
+       "price": -110,
+       "p": 0.441,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 50.5",
+       "price": -110,
+       "p": 0.549,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "USF@FAU",
+    "gl": "#60 USF@#72 FAU",
+    "start": "2026-11-21T19:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 65.5",
+      "price": -110,
+      "p": 0.601,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Most common",
+       "Coach"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "USF ML",
+       "price": -115,
+       "p": 0.523,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "USF ML",
+       "price": -115,
+       "p": 0.532,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "FAU ML",
+       "price": -105,
+       "p": 0.407,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "USF ML",
+       "price": -115,
+       "p": 0.516,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "USF -1.5",
+       "price": -108,
+       "p": 0.513,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "FAU +1.5",
+       "price": -112,
+       "p": 0.428,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 7,
+        "of": 10,
+        "w": 41,
+        "l": 47,
+        "u": -9.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "FAU +1.5",
+       "price": -112,
+       "p": 0.468,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "USF -1.5",
+       "price": -108,
+       "p": 0.499,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 65.5",
+       "price": -110,
+       "p": 0.482,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 65.5",
+       "price": -110,
+       "p": 0.482,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "Under 65.5",
+       "price": -110,
+       "p": 0.548,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 4,
+        "of": 7,
+        "w": 112,
+        "l": 106,
+        "u": -3.7,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "under",
+       "pick": "Under 65.5",
+       "price": -110,
+       "p": 0.622,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 7,
+        "of": 7,
+        "w": 59,
+        "l": 66,
+        "u": -12.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "over",
+       "pick": "Over 65.5",
+       "price": -110,
+       "p": 0.483,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 1,
+        "of": 8,
+        "w": 20,
+        "l": 9,
+        "u": 8.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "CCU@UL",
+    "gl": "#110 CCU@#77 UL",
+    "start": "2026-11-21T20:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "UL ML",
+      "price": -410,
+      "p": 0.893,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "UL -10.5",
+      "price": -105,
+      "p": 0.457,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 51.5",
+      "price": 100,
+      "p": 0.49,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "UL ML",
+       "price": -410,
+       "p": 0.735,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "UL ML",
+       "price": -410,
+       "p": 0.743,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "UL ML",
+       "price": -410,
+       "p": 0.523,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "UL ML",
+       "price": -410,
+       "p": 0.683,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "UL -10.5",
+       "price": -105,
+       "p": 0.505,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "UL -10.5",
+       "price": -105,
+       "p": 0.497,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "CCU +10.5",
+       "price": -115,
+       "p": 0.57,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "UL -10.5",
+       "price": -105,
+       "p": 0.479,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 51.5",
+       "price": 100,
+       "p": 0.411,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 51.5",
+       "price": 100,
+       "p": 0.441,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "DEL@NMSU",
+    "gl": "#91 DEL@#121 NMSU",
+    "start": "2026-11-21T20:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "DEL ML",
+      "price": -166,
+      "p": 0.743,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "DEL ML",
+       "price": -166,
+       "p": 0.618,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "DEL ML",
+       "price": -166,
+       "p": 0.605,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "DEL ML",
+       "price": -166,
+       "p": 0.553,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "DEL ML",
+       "price": -166,
+       "p": 0.602,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "NMSU +3.5",
+       "price": -115,
+       "p": 0.451,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "DEL -3.5",
+       "price": -105,
+       "p": 0.517,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 53.5",
+       "price": -110,
+       "p": 0.574,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 53.5",
+       "price": -110,
+       "p": 0.409,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 53.5",
+       "price": -110,
+       "p": 0.854,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "FIU@KENN",
+    "gl": "#101 FIU@#104 KENN",
+    "start": "2026-11-21T20:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "KENN ML",
+      "price": -170,
+      "p": 0.759,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "KENN -3.5",
+      "price": -108,
+      "p": 0.482,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "KENN ML",
+       "price": -170,
+       "p": 0.605,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "KENN ML",
+       "price": -170,
+       "p": 0.607,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "KENN ML",
+       "price": -170,
+       "p": 0.517,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "KENN -3.5",
+       "price": -108,
+       "p": 0.48,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "KENN -3.5",
+       "price": -108,
+       "p": 0.48,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 45.5",
+       "price": -118,
+       "p": 0.574,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 45.5",
+       "price": -118,
+       "p": 0.559,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 45.5",
+       "price": -118,
+       "p": 0.864,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "UCLA@MICH",
+    "gl": "#4 UCLA@#52 MICH",
+    "start": "2026-11-21T20:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "UCLA ML",
+      "price": -185,
+      "p": 0.791,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "UCLA -3.5",
+      "price": -112,
+      "p": 0.513,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Most common",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 38.5",
+      "price": -112,
+      "p": 0.473,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "UCLA ML",
+       "price": -185,
+       "p": 0.667,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "UCLA ML",
+       "price": -185,
+       "p": 0.654,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "UCLA ML",
+       "price": -185,
+       "p": 0.553,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "UCLA ML",
+       "price": -185,
+       "p": 0.666,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "UCLA -3.5",
+       "price": -112,
+       "p": 0.549,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "UCLA -3.5",
+       "price": -112,
+       "p": 0.546,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "UCLA -3.5",
+       "price": -112,
+       "p": 0.64,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 7,
+        "of": 8,
+        "w": 76,
+        "l": 90,
+        "u": -21.3,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "UCLA -3.5",
+       "price": -112,
+       "p": 0.519,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 39,
+        "l": 41,
+        "u": -5.8,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "UCLA -3.5",
+       "price": -112,
+       "p": 0.534,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 38.5",
+       "price": -112,
+       "p": 0.574,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 38.5",
+       "price": -112,
+       "p": 0.559,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 38.5",
+       "price": -108,
+       "p": 0.533,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 8,
+        "of": 8,
+        "w": 60,
+        "l": 81,
+        "u": -26.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 38.5",
+       "price": -112,
+       "p": 0.882,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "ARK@TEX",
+    "gl": "#79 ARK@#8 TEX",
+    "start": "2026-11-21T20:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [],
+    "calls": {
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "TEX -20.5",
+       "price": -115,
+       "p": 0.512,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "TEX -20.5",
+       "price": -115,
+       "p": 0.457,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "ARK +20.5",
+       "price": -105,
+       "p": 0.523,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "ARK +20.5",
+       "price": -105,
+       "p": 0.597,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "TEX -20.5",
+       "price": -115,
+       "p": 0.481,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 46.5",
+       "price": -112,
+       "p": 0.381,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 46.5",
+       "price": -112,
+       "p": 0.382,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 46.5",
+       "price": -112,
+       "p": 0.428,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 8,
+        "of": 8,
+        "w": 60,
+        "l": 81,
+        "u": -26.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 46.5",
+       "price": -108,
+       "p": 0.92,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "RUTG@PSU",
+    "gl": "#117 RUTG@#36 PSU",
+    "start": "2026-11-21T20:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 50.5",
+      "price": -112,
+      "p": 0.517,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "PSU -24.5",
+       "price": -105,
+       "p": 0.483,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "PSU -24.5",
+       "price": -105,
+       "p": 0.457,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "RUTG +24.5",
+       "price": -115,
+       "p": 0.509,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "RUTG +24.5",
+       "price": -115,
+       "p": 0.571,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "RUTG +24.5",
+       "price": -115,
+       "p": 0.45,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "PSU -24.5",
+       "price": -105,
+       "p": 0.443,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 50.5",
+       "price": -112,
+       "p": 0.441,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 50.5",
+       "price": -112,
+       "p": 0.442,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "ODU@CONN",
+    "gl": "#125 ODU@#75 CONN",
+    "start": "2026-11-21T20:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "CONN ML",
+      "price": -535,
+      "p": 0.924,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 47.5",
+      "price": -110,
+      "p": 0.541,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Coach"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "CONN ML",
+       "price": -535,
+       "p": 0.786,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "CONN ML",
+       "price": -535,
+       "p": 0.765,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "CONN ML",
+       "price": -535,
+       "p": 0.555,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "CONN ML",
+       "price": -535,
+       "p": 0.728,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "CONN -13.5",
+       "price": -108,
+       "p": 0.503,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "CONN -13.5",
+       "price": -108,
+       "p": 0.489,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "ODU +13.5",
+       "price": -112,
+       "p": 0.567,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "CONN -13.5",
+       "price": -108,
+       "p": 0.479,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 47.5",
+       "price": -110,
+       "p": 0.352,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 47.5",
+       "price": -110,
+       "p": 0.382,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 47.5",
+       "price": -110,
+       "p": 0.439,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 8,
+        "of": 8,
+        "w": 60,
+        "l": 81,
+        "u": -26.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 47.5",
+       "price": -110,
+       "p": 0.92,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "LSU@TENN",
+    "gl": "#23 LSU@#9 TENN",
+    "start": "2026-11-21T20:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "TENN ML",
+      "price": -105,
+      "p": 0.673,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "TENN +1.5",
+      "price": -115,
+      "p": 0.517,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Most common",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "TENN ML",
+       "price": -105,
+       "p": 0.492,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "TENN ML",
+       "price": -105,
+       "p": 0.509,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "TENN ML",
+       "price": -105,
+       "p": 0.487,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "TENN +1.5",
+       "price": -115,
+       "p": 0.446,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "TENN +1.5",
+       "price": -115,
+       "p": 0.479,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 7,
+        "of": 10,
+        "w": 41,
+        "l": 47,
+        "u": -9.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "TENN +1.5",
+       "price": -115,
+       "p": 0.478,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "TENN +1.5",
+       "price": -115,
+       "p": 0.463,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "TENN +1.5",
+       "price": -115,
+       "p": 0.668,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 3,
+        "of": 10,
+        "w": 17,
+        "l": 19,
+        "u": -3.5,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 45.5",
+       "price": -115,
+       "p": 0.381,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 45.5",
+       "price": -105,
+       "p": 0.566,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 45.5",
+       "price": -115,
+       "p": 0.489,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 8,
+        "of": 8,
+        "w": 60,
+        "l": 81,
+        "u": -26.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 45.5",
+       "price": -105,
+       "p": 0.916,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "NCSU@FSU",
+    "gl": "#97 NCSU@#53 FSU",
+    "start": "2026-11-21T20:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "FSU ML",
+      "price": -360,
+      "p": 0.879,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 54.5",
+      "price": -120,
+      "p": 0.536,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "FSU ML",
+       "price": -360,
+       "p": 0.701,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "FSU ML",
+       "price": -360,
+       "p": 0.704,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "FSU ML",
+       "price": -360,
+       "p": 0.517,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "FSU -9.5",
+       "price": -115,
+       "p": 0.487,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "FSU -9.5",
+       "price": -115,
+       "p": 0.449,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "NCSU +9.5",
+       "price": -105,
+       "p": 0.479,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "NCSU +9.5",
+       "price": -105,
+       "p": 0.518,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "FSU -9.5",
+       "price": -115,
+       "p": 0.483,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 39,
+        "l": 41,
+        "u": -5.8,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 54.5",
+       "price": -120,
+       "p": 0.441,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 54.5",
+       "price": -120,
+       "p": 0.442,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "TTU@BAY",
+    "gl": "#11 TTU@#25 BAY",
+    "start": "2026-11-21T20:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 57.5",
+      "price": -115,
+      "p": 0.501,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "TTU ML",
+       "price": -170,
+       "p": 0.541,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "TTU ML",
+       "price": -170,
+       "p": 0.547,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "BAY ML",
+       "price": 142,
+       "p": 0.292,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML dogs",
+        "of": 5
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "TTU ML",
+       "price": -170,
+       "p": 0.559,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "BAY +3.5",
+       "price": -115,
+       "p": 0.418,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "TTU -3.5",
+       "price": -105,
+       "p": 0.508,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "BAY +3.5",
+       "price": -115,
+       "p": 0.467,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "BAY +3.5",
+       "price": -115,
+       "p": 0.414,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 57.5",
+       "price": -115,
+       "p": 0.574,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 57.5",
+       "price": -105,
+       "p": 0.409,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 57.5",
+       "price": -115,
+       "p": 0.861,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "TA&M@OU",
+    "gl": "#43 TA&M@#35 OU",
+    "start": "2026-11-21T20:45Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "TA&M +7.5",
+      "price": -115,
+      "p": 0.501,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Most common",
+       "Coach",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "OU ML",
+       "price": -305,
+       "p": 0.708,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "OU ML",
+       "price": -305,
+       "p": 0.695,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "OU ML",
+       "price": -305,
+       "p": 0.523,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "OU ML",
+       "price": -305,
+       "p": 0.66,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "TA&M +7.5",
+       "price": -115,
+       "p": 0.422,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "OU -7.5",
+       "price": -105,
+       "p": 0.456,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "TA&M +7.5",
+       "price": -115,
+       "p": 0.484,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "TA&M +7.5",
+       "price": -115,
+       "p": 0.48,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "TA&M +7.5",
+       "price": -115,
+       "p": 0.43,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "OU -7.5",
+       "price": -105,
+       "p": 0.494,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 38.5",
+       "price": -105,
+       "p": 0.574,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 38.5",
+       "price": -105,
+       "p": 0.559,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 38.5",
+       "price": -115,
+       "p": 0.54,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 8,
+        "of": 8,
+        "w": 60,
+        "l": 81,
+        "u": -26.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 38.5",
+       "price": -105,
+       "p": 0.873,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "NIU@NDSU",
+    "gl": "#136 NIU@#46 NDSU",
+    "start": "2026-11-21T21:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 45.5",
+      "price": -105,
+      "p": 0.479,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "NDSU -25.5",
+       "price": -110,
+       "p": 0.505,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "NDSU -25.5",
+       "price": -110,
+       "p": 0.457,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "NIU +25.5",
+       "price": -110,
+       "p": 0.484,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "NIU +25.5",
+       "price": -110,
+       "p": 0.579,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "NDSU -25.5",
+       "price": -110,
+       "p": 0.443,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 45.5",
+       "price": -105,
+       "p": 0.372,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 45.5",
+       "price": -115,
+       "p": 0.566,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 45.5",
+       "price": -115,
+       "p": 0.919,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "GASO@TROY",
+    "gl": "#51 GASO@#115 TROY",
+    "start": "2026-11-21T21:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "GASO ML",
+      "price": -325,
+      "p": 0.863,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "GASO ML",
+       "price": -325,
+       "p": 0.738,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "GASO ML",
+       "price": -325,
+       "p": 0.725,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "GASO ML",
+       "price": -325,
+       "p": 0.553,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "GASO ML",
+       "price": -325,
+       "p": 0.689,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "GASO -8.5",
+       "price": -108,
+       "p": 0.533,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "GASO -8.5",
+       "price": -108,
+       "p": 0.519,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "TROY +8.5",
+       "price": -112,
+       "p": 0.544,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "GASO -8.5",
+       "price": -108,
+       "p": 0.509,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 48.5",
+       "price": -110,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 48.5",
+       "price": -110,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "WSU@TXST",
+    "gl": "#107 WSU@#40 TXST",
+    "start": "2026-11-21T23:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "TXST ML",
+      "price": -410,
+      "p": 0.914,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 60.5",
+      "price": -112,
+      "p": 0.517,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "TXST ML",
+       "price": -410,
+       "p": 0.734,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "TXST ML",
+       "price": -410,
+       "p": 0.721,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "TXST ML",
+       "price": -410,
+       "p": 0.523,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "TXST ML",
+       "price": -410,
+       "p": 0.683,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "TXST -10.5",
+       "price": -108,
+       "p": 0.512,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "TXST -10.5",
+       "price": -108,
+       "p": 0.465,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "WSU +10.5",
+       "price": -112,
+       "p": 0.47,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "WSU +10.5",
+       "price": -112,
+       "p": 0.497,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "TXST -10.5",
+       "price": -108,
+       "p": 0.489,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 39,
+        "l": 41,
+        "u": -5.8,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "TXST -10.5",
+       "price": -108,
+       "p": 0.443,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 60.5",
+       "price": -112,
+       "p": 0.502,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 60.5",
+       "price": -112,
+       "p": 0.502,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "over",
+       "pick": "Over 60.5",
+       "price": -108,
+       "p": 0.51,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 1,
+        "of": 8,
+        "w": 20,
+        "l": 9,
+        "u": 8.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "MD@USC",
+    "gl": "#89 MD@#19 USC",
+    "start": "2026-11-21T23:15Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "USC ML",
+      "price": -900,
+      "p": 0.946,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 57.5",
+      "price": -115,
+      "p": 0.524,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "USC ML",
+       "price": -900,
+       "p": 0.849,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "USC ML",
+       "price": -900,
+       "p": 0.842,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "USC ML",
+       "price": -900,
+       "p": 0.548,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "USC -17.5",
+       "price": -105,
+       "p": 0.471,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "MD +17.5",
+       "price": -115,
+       "p": 0.468,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 7,
+        "of": 10,
+        "w": 41,
+        "l": 47,
+        "u": -9.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "MD +17.5",
+       "price": -115,
+       "p": 0.528,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "MD +17.5",
+       "price": -115,
+       "p": 0.567,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 57.5",
+       "price": -115,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 57.5",
+       "price": -115,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "VT@MIA",
+    "gl": "#55 VT@#6 MIA",
+    "start": "2026-11-22T00:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [],
+    "calls": {
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "MIA -20.5",
+       "price": -115,
+       "p": 0.483,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "MIA -20.5",
+       "price": -115,
+       "p": 0.457,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "VT +20.5",
+       "price": -105,
+       "p": 0.487,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "VT +20.5",
+       "price": -105,
+       "p": 0.553,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "VT +20.5",
+       "price": -105,
+       "p": 0.442,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "MIA -20.5",
+       "price": -115,
+       "p": 0.443,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 61.5",
+       "price": -115,
+       "p": 0.502,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 61.5",
+       "price": -105,
+       "p": 0.465,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "over",
+       "pick": "Over 61.5",
+       "price": -105,
+       "p": 0.51,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 1,
+        "of": 8,
+        "w": 20,
+        "l": 9,
+        "u": 8.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "ARST@LT",
+    "gl": "#106 ARST@#50 LT",
+    "start": "2026-11-22T00:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "LT ML",
+      "price": -575,
+      "p": 0.919,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "LT ML",
+       "price": -575,
+       "p": 0.882,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "LT ML",
+       "price": -575,
+       "p": 0.859,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "LT ML",
+       "price": -575,
+       "p": 0.555,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "LT ML",
+       "price": -575,
+       "p": 0.789,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "LT -13.5",
+       "price": -112,
+       "p": 0.513,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "LT -13.5",
+       "price": -112,
+       "p": 0.497,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "ARST +13.5",
+       "price": -108,
+       "p": 0.574,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "LT -13.5",
+       "price": -112,
+       "p": 0.48,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 53.5",
+       "price": -105,
+       "p": 0.412,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 53.5",
+       "price": -105,
+       "p": 0.441,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "ARIZ@KSU",
+    "gl": "#20 ARIZ@#82 KSU",
+    "start": "2026-11-22T00:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "over",
+      "pick": "Over 52.5",
+      "price": -112,
+      "p": 0.534,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Coach"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "ARIZ ML",
+       "price": -305,
+       "p": 0.739,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "ARIZ ML",
+       "price": -305,
+       "p": 0.726,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "ARIZ ML",
+       "price": -305,
+       "p": 0.553,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "ARIZ ML",
+       "price": -305,
+       "p": 0.69,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "KSU +7",
+       "price": -105,
+       "p": 0.389,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "ARIZ -7",
+       "price": -115,
+       "p": 0.526,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "KSU +7",
+       "price": -105,
+       "p": 0.491,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "ARIZ -7",
+       "price": -115,
+       "p": 0.559,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 39,
+        "l": 41,
+        "u": -5.8,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 52.5",
+       "price": -112,
+       "p": 0.401,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 52.5",
+       "price": -112,
+       "p": 0.402,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 52.5",
+       "price": -112,
+       "p": 0.445,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 8,
+        "of": 8,
+        "w": 60,
+        "l": 81,
+        "u": -26.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "UNLV@SJSU",
+    "gl": "#81 UNLV@#108 SJSU",
+    "start": "2026-11-22T00:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 46.5",
+      "price": -110,
+      "p": 0.513,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "UNLV ML",
+       "price": -258,
+       "p": 0.585,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "UNLV ML",
+       "price": -258,
+       "p": 0.587,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "UNLV ML",
+       "price": -258,
+       "p": 0.547,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "SJSU +7",
+       "price": -112,
+       "p": 0.419,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "SJSU +7",
+       "price": -112,
+       "p": 0.439,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 7,
+        "of": 10,
+        "w": 41,
+        "l": 47,
+        "u": -9.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "SJSU +7",
+       "price": -112,
+       "p": 0.492,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "SJSU +7",
+       "price": -112,
+       "p": 0.482,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "SJSU +7",
+       "price": -112,
+       "p": 0.422,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 46.5",
+       "price": -110,
+       "p": 0.574,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 46.5",
+       "price": -110,
+       "p": 0.559,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "Under 46.5",
+       "price": -110,
+       "p": 0.854,
+       "o": 1,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 1,
+        "of": 7,
+        "w": 27,
+        "l": 5,
+        "u": 19.9,
+        "say": "top"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "UK@MIZ",
+    "gl": "#18 UK@#21 MIZ",
+    "start": "2026-11-22T00:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "MIZ ML",
+      "price": -218,
+      "p": 0.814,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "MIZ -5.5",
+      "price": -108,
+      "p": 0.494,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "MIZ ML",
+       "price": -218,
+       "p": 0.555,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "MIZ ML",
+       "price": -218,
+       "p": 0.558,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "MIZ ML",
+       "price": -218,
+       "p": 0.517,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "MIZ -5.5",
+       "price": -108,
+       "p": 0.477,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 6,
+        "of": 8,
+        "w": 74,
+        "l": 86,
+        "u": -19.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "MIZ -5.5",
+       "price": -108,
+       "p": 0.481,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "MIZ -5.5",
+       "price": -108,
+       "p": 0.475,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 39,
+        "l": 41,
+        "u": -5.8,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 48.5",
+       "price": -110,
+       "p": 0.401,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 7,
+        "of": 8,
+        "w": 61,
+        "l": 79,
+        "u": -23.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 48.5",
+       "price": -110,
+       "p": 0.401,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 48.5",
+       "price": -110,
+       "p": 0.466,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 8,
+        "of": 8,
+        "w": 60,
+        "l": 81,
+        "u": -26.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "STAN@CAL",
+    "gl": "#114 STAN@#120 CAL",
+    "start": "2026-11-22T00:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 56.5",
+      "price": -112,
+      "p": 0.517,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "CAL ML",
+       "price": 110,
+       "p": 0.304,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML dogs",
+        "rk": 5,
+        "of": 5,
+        "w": 8,
+        "l": 16,
+        "u": -5.5,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "STAN ML",
+       "price": -130,
+       "p": 0.52,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "CAL ML",
+       "price": 110,
+       "p": 0.419,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML dogs",
+        "of": 5
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "CAL +2.5",
+       "price": -110,
+       "p": 0.419,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "STAN -2.5",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "CAL +2.5",
+       "price": -110,
+       "p": 0.488,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "CAL +2.5",
+       "price": -110,
+       "p": 0.414,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 56.5",
+       "price": -112,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 56.5",
+       "price": -112,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "CSU@FRES",
+    "gl": "#130 CSU@#66 FRES",
+    "start": "2026-11-22T00:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 64.5",
+      "price": -110,
+      "p": 0.489,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "SMU@ND",
+    "gl": "#29 SMU@#3 ND",
+    "start": "2026-11-22T00:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "SMU +20.5",
+      "price": -105,
+      "p": 0.61,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Most common",
+       "Coach",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "SMU +20.5",
+       "price": -105,
+       "p": 0.422,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "ND -20.5",
+       "price": -115,
+       "p": 0.464,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "SMU +20.5",
+       "price": -105,
+       "p": 0.477,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "SMU +20.5",
+       "price": -105,
+       "p": 0.533,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "SMU +20.5",
+       "price": -105,
+       "p": 0.43,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "ND -20.5",
+       "price": -115,
+       "p": 0.494,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 56.5",
+       "price": -108,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 56.5",
+       "price": -112,
+       "p": 0.449,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 6,
+        "of": 8,
+        "w": 66,
+        "l": 76,
+        "u": -16.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "UGA@SC",
+    "gl": "#1 UGA@#30 SC",
+    "start": "2026-11-22T00:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "SC +16.5",
+      "price": -105,
+      "p": 0.614,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Most common",
+       "Coach",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "UGA ML",
+       "price": -850,
+       "p": 0.844,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 182,
+        "l": 77,
+        "u": -12.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "UGA ML",
+       "price": -850,
+       "p": 0.887,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 3,
+        "of": 8,
+        "w": 199,
+        "l": 86,
+        "u": -12,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "UGA ML",
+       "price": -850,
+       "p": 0.585,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 8,
+        "of": 8,
+        "w": 186,
+        "l": 84,
+        "u": -16.3,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "UGA ML",
+       "price": -850,
+       "p": 0.901,
+       "o": 0,
+       "r": {
+        "lab": "CFB ML favorites",
+        "rk": 4,
+        "of": 8,
+        "w": 68,
+        "l": 26,
+        "u": -4.9,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "SC +16.5",
+       "price": -105,
+       "p": 0.388,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 8,
+        "of": 10,
+        "w": 58,
+        "l": 66,
+        "u": -13,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "UGA -16.5",
+       "price": -115,
+       "p": 0.494,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 5,
+        "of": 8,
+        "w": 92,
+        "l": 101,
+        "u": -18,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "SC +16.5",
+       "price": -105,
+       "p": 0.447,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 9,
+        "of": 10,
+        "w": 35,
+        "l": 46,
+        "u": -14.2,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "SC +16.5",
+       "price": -105,
+       "p": 0.51,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 10,
+        "of": 10,
+        "w": 16,
+        "l": 25,
+        "u": -10.2,
+        "say": "worst"
+       },
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "SC +16.5",
+       "price": -105,
+       "p": 0.391,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread dogs",
+        "rk": 5,
+        "of": 10,
+        "w": 63,
+        "l": 68,
+        "u": -10.5,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "UGA -16.5",
+       "price": -115,
+       "p": 0.525,
+       "o": 0,
+       "r": {
+        "lab": "CFB spread favorites",
+        "rk": 2,
+        "of": 8,
+        "w": 35,
+        "l": 34,
+        "u": -2.1,
+        "say": ""
+       },
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "Under 51.5",
+       "price": -115,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 5,
+        "of": 7,
+        "w": 78,
+        "l": 74,
+        "u": -3.1,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "Under 51.5",
+       "price": -115,
+       "p": 0.542,
+       "o": 0,
+       "r": {
+        "lab": "CFB unders",
+        "rk": 3,
+        "of": 7,
+        "w": 80,
+        "l": 69,
+        "u": 3.4,
+        "say": ""
+       },
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 51.5",
+       "price": -105,
+       "p": 0.536,
+       "o": 0,
+       "r": {
+        "lab": "CFB overs",
+        "rk": 8,
+        "of": 8,
+        "w": 60,
+        "l": 81,
+        "u": -26.3,
+        "say": "worst"
+       },
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
+    "sp": "ncaaf",
+    "game": "UTSA@UAB",
+    "gl": "#62 UTSA@#96 UAB",
+    "start": "2026-11-22T01:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "UAB +6.5",
+      "price": -112,
+      "p": 0.556,
+      "tier": "supreme",
+      "unan": true,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Most common",
+       "Coach",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "UTAH@TCU",
+    "gl": "#2 UTAH@#42 TCU",
+    "start": "2026-11-22T02:00Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "UTAH ML",
+      "price": -270,
+      "p": 0.828,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "SDSU@BOIS",
+    "gl": "#109 SDSU@#15 BOIS",
+    "start": "2026-11-22T02:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "BOIS ML",
+      "price": -900,
+      "p": 0.958,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 62.5",
+      "price": -112,
+      "p": 0.494,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "OKST@ASU",
+    "gl": "#22 OKST@#57 ASU",
+    "start": "2026-11-22T03:15Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "away",
+      "pick": "OKST ML",
+      "price": -162,
+      "p": 0.769,
+      "tier": "supreme",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "OKST -3",
+      "price": -112,
+      "p": 0.505,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 61.5",
+      "price": -110,
+      "p": 0.49,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "HAW@NEV",
+    "gl": "#102 HAW@#100 NEV",
+    "start": "2026-11-22T03:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "NEV ML",
+      "price": -192,
+      "p": 0.783,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "spread",
+      "sd": "home",
+      "pick": "NEV -4",
+      "price": -110,
+      "p": 0.533,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {}
+   },
+   {
+    "sp": "ncaaf",
+    "game": "USU@ORST",
+    "gl": "#87 USU@#64 ORST",
+    "start": "2026-11-22T03:30Z",
+    "day": "2026-11-21",
+    "st": "pre",
+    "picks": [
+     {
+      "m": "ml",
+      "sd": "home",
+      "pick": "ORST ML",
+      "price": -355,
+      "p": 0.868,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 51.5",
+      "price": -105,
+      "p": 0.49,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim"
+      ]
+     }
+    ],
+    "calls": {}
    }
   ],
   "cast": {
@@ -5551,6 +12016,11 @@
     "name": "The Judge",
     "chip": "JUDGE",
     "color": "#f5a524"
+   },
+   "Covers": {
+    "name": "Covers",
+    "chip": "COVERS",
+    "color": "#ff7a1a"
    },
    "Most common": {
     "name": "The Scorekeeper",
@@ -5577,10 +12047,10 @@
     "chip": "ORACLE",
     "color": "#e8c15a"
    },
-   "Covers": {
-    "name": "Covers",
-    "chip": "COVERS",
-    "color": "#ff7a1a"
+   "Dog": {
+    "name": "The Underdog Spotter",
+    "chip": "🐕 DOG",
+    "color": "#2dd4bf"
    }
   },
   "heavy": -500
@@ -8001,6 +14471,68 @@
   "d": "2026-11-16",
   "props": [
    {
+    "id": "nfl|jakebrowning|py|250|under",
+    "sp": "nfl",
+    "player": "Jake Browning",
+    "team": "LAC",
+    "k": "py",
+    "lab": "pass yds",
+    "thr": 250,
+    "side": "under",
+    "opp": "BAL",
+    "home": false,
+    "start": "2026-11-17T01:15Z",
+    "last": [
+     241,
+     140,
+     125,
+     251,
+     14
+    ],
+    "dates": [
+     "250914",
+     "250921",
+     "250929",
+     "251005",
+     "251123"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     4,
+     5
+    ],
+    "streak": 1,
+    "avg10": 154.2,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.87
+     },
+     {
+      "v": "Trends",
+      "p": 0.852
+     },
+     {
+      "v": "Sim",
+      "p": 0.834
+     },
+     {
+      "v": "Judge",
+      "p": 0.758
+     },
+     {
+      "v": "Most common",
+      "p": 0.743
+     }
+    ],
+    "votes": 5,
+    "p": 0.811,
+    "fair": -430
+   },
+   {
     "id": "nfl|kimanividal|rry|60|under",
     "sp": "nfl",
     "player": "Kimani Vidal",
@@ -8041,28 +14573,90 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.85
+      "p": 0.852
      },
      {
       "v": "Coach",
-      "p": 0.799
+      "p": 0.816
      },
      {
       "v": "Judge",
-      "p": 0.752
+      "p": 0.758
      },
      {
       "v": "Most common",
-      "p": 0.74
+      "p": 0.743
      },
      {
       "v": "Sim",
-      "p": 0.731
+      "p": 0.735
      }
     ],
     "votes": 5,
-    "p": 0.774,
-    "fair": -343
+    "p": 0.781,
+    "fair": -356
+   },
+   {
+    "id": "nfl|jakebrowning|cmp|25|under",
+    "sp": "nfl",
+    "player": "Jake Browning",
+    "team": "LAC",
+    "k": "cmp",
+    "lab": "completions",
+    "thr": 25,
+    "side": "under",
+    "opp": "BAL",
+    "home": false,
+    "start": "2026-11-17T01:15Z",
+    "last": [
+     21,
+     19,
+     14,
+     26,
+     1
+    ],
+    "dates": [
+     "250914",
+     "250921",
+     "250929",
+     "251005",
+     "251123"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     4,
+     5
+    ],
+    "streak": 1,
+    "avg10": 16.2,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.757
+     },
+     {
+      "v": "Trends",
+      "p": 0.754
+     },
+     {
+      "v": "Most common",
+      "p": 0.742
+     },
+     {
+      "v": "Sim",
+      "p": 0.735
+     }
+    ],
+    "votes": 5,
+    "p": 0.76,
+    "fair": -317
    },
    {
     "id": "nfl|omarionhampton|rry|100|under",
@@ -8113,100 +14707,28 @@
     "by": [
      {
       "v": "Coach",
-      "p": 0.792
+      "p": 0.809
      },
      {
       "v": "Judge",
-      "p": 0.751
+      "p": 0.756
      },
      {
       "v": "Trends",
-      "p": 0.748
+      "p": 0.754
      },
      {
       "v": "Most common",
-      "p": 0.737
+      "p": 0.741
      },
      {
       "v": "Sim",
-      "p": 0.729
+      "p": 0.734
      }
     ],
     "votes": 5,
-    "p": 0.751,
-    "fair": -302
-   },
-   {
-    "id": "nfl|laddmcconkey|wy|80|under",
-    "sp": "nfl",
-    "player": "Ladd McConkey",
-    "team": "LAC",
-    "k": "wy",
-    "lab": "rec yds",
-    "thr": 80,
-    "side": "under",
-    "opp": "BAL",
-    "home": false,
-    "start": "2026-11-17T01:15Z",
-    "last": [
-     20,
-     43,
-     31,
-     32,
-     82,
-     35,
-     66,
-     0,
-     17,
-     86
-    ],
-    "dates": [
-     "251214",
-     "251221",
-     "251227",
-     "260111",
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261101"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": -1,
-    "avg10": 41.2,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.79
-     },
-     {
-      "v": "Judge",
-      "p": 0.75
-     },
-     {
-      "v": "Trends",
-      "p": 0.746
-     },
-     {
-      "v": "Most common",
-      "p": 0.738
-     },
-     {
-      "v": "Sim",
-      "p": 0.729
-     }
-    ],
-    "votes": 5,
-    "p": 0.751,
-    "fair": -301
+    "p": 0.759,
+    "fair": -315
    },
    {
     "id": "nfl|omarionhampton|ry|75|under",
@@ -8257,28 +14779,94 @@
     "by": [
      {
       "v": "Coach",
-      "p": 0.789
+      "p": 0.806
      },
      {
       "v": "Trends",
-      "p": 0.746
+      "p": 0.751
      },
      {
       "v": "Sim",
-      "p": 0.728
+      "p": 0.733
      },
      {
       "v": "Judge",
-      "p": 0.721
+      "p": 0.726
      },
      {
       "v": "Most common",
-      "p": 0.707
+      "p": 0.715
      }
     ],
     "votes": 5,
-    "p": 0.738,
-    "fair": -282
+    "p": 0.746,
+    "fair": -294
+   },
+   {
+    "id": "nfl|treharris|rry|60|under",
+    "sp": "nfl",
+    "player": "Tre' Harris",
+    "team": "LAC",
+    "k": "rry",
+    "lab": "rush+rec yds",
+    "thr": 60,
+    "side": "under",
+    "opp": "BAL",
+    "home": false,
+    "start": "2026-11-17T01:15Z",
+    "last": [
+     20,
+     53,
+     76,
+     60,
+     16,
+     31,
+     6
+    ],
+    "dates": [
+     "260913",
+     "260920",
+     "260927",
+     "261004",
+     "261011",
+     "261101",
+     "261108"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     5,
+     7
+    ],
+    "streak": 3,
+    "avg10": 37.4,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.757
+     },
+     {
+      "v": "Trends",
+      "p": 0.751
+     },
+     {
+      "v": "Sim",
+      "p": 0.729
+     },
+     {
+      "v": "Judge",
+      "p": 0.726
+     },
+     {
+      "v": "Most common",
+      "p": 0.716
+     }
+    ],
+    "votes": 5,
+    "p": 0.736,
+    "fair": -279
    },
    {
     "id": "nfl|derrickhenry|ry|50|over",
@@ -8329,238 +14917,90 @@
     "by": [
      {
       "v": "Coach",
-      "p": 0.752
+      "p": 0.755
      },
      {
       "v": "Most common",
-      "p": 0.738
+      "p": 0.741
+     },
+     {
+      "v": "Sim",
+      "p": 0.727
+     },
+     {
+      "v": "Trends",
+      "p": 0.726
+     },
+     {
+      "v": "Judge",
+      "p": 0.725
+     }
+    ],
+    "votes": 5,
+    "p": 0.735,
+    "fair": -277
+   },
+   {
+    "id": "nfl|jakebrowning|att|35|under",
+    "sp": "nfl",
+    "player": "Jake Browning",
+    "team": "LAC",
+    "k": "att",
+    "lab": "pass att",
+    "thr": 35,
+    "side": "under",
+    "opp": "BAL",
+    "home": false,
+    "start": "2026-11-17T01:15Z",
+    "last": [
+     32,
+     27,
+     25,
+     40,
+     1
+    ],
+    "dates": [
+     "250914",
+     "250921",
+     "250929",
+     "251005",
+     "251123"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     4,
+     5
+    ],
+    "streak": 1,
+    "avg10": 25,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.756
+     },
+     {
+      "v": "Sim",
+      "p": 0.728
      },
      {
       "v": "Trends",
       "p": 0.728
      },
      {
-      "v": "Sim",
-      "p": 0.722
-     },
-     {
       "v": "Judge",
-      "p": 0.72
-     }
-    ],
-    "votes": 5,
-    "p": 0.732,
-    "fair": -273
-   },
-   {
-    "id": "nfl|treharris|rry|60|under",
-    "sp": "nfl",
-    "player": "Tre' Harris",
-    "team": "LAC",
-    "k": "rry",
-    "lab": "rush+rec yds",
-    "thr": 60,
-    "side": "under",
-    "opp": "BAL",
-    "home": false,
-    "start": "2026-11-17T01:15Z",
-    "last": [
-     20,
-     53,
-     76,
-     60,
-     16,
-     31,
-     6
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261101",
-     "261108"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     5,
-     7
-    ],
-    "streak": 3,
-    "avg10": 37.4,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.754
-     },
-     {
-      "v": "Trends",
-      "p": 0.746
-     },
-     {
-      "v": "Sim",
-      "p": 0.724
-     },
-     {
-      "v": "Judge",
-      "p": 0.721
+      "p": 0.726
      },
      {
       "v": "Most common",
-      "p": 0.708
+      "p": 0.715
      }
     ],
     "votes": 5,
     "p": 0.731,
     "fair": -271
-   },
-   {
-    "id": "nfl|laddmcconkey|rry|80|under",
-    "sp": "nfl",
-    "player": "Ladd McConkey",
-    "team": "LAC",
-    "k": "rry",
-    "lab": "rush+rec yds",
-    "thr": 80,
-    "side": "under",
-    "opp": "BAL",
-    "home": false,
-    "start": "2026-11-17T01:15Z",
-    "last": [
-     20,
-     43,
-     31,
-     32,
-     82,
-     35,
-     66,
-     0,
-     17,
-     86
-    ],
-    "dates": [
-     "251214",
-     "251221",
-     "251227",
-     "260111",
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261101"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": -1,
-    "avg10": 41.2,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.754
-     },
-     {
-      "v": "Trends",
-      "p": 0.745
-     },
-     {
-      "v": "Sim",
-      "p": 0.724
-     },
-     {
-      "v": "Judge",
-      "p": 0.721
-     },
-     {
-      "v": "Most common",
-      "p": 0.708
-     }
-    ],
-    "votes": 5,
-    "p": 0.73,
-    "fair": -271
-   },
-   {
-    "id": "nfl|markandrews|wy|40|under",
-    "sp": "nfl",
-    "player": "Mark Andrews",
-    "team": "BAL",
-    "k": "wy",
-    "lab": "rec yds",
-    "thr": 40,
-    "side": "under",
-    "opp": "LAC",
-    "home": true,
-    "start": "2026-11-17T01:15Z",
-    "last": [
-     14,
-     49,
-     49,
-     24,
-     27,
-     28,
-     4,
-     23,
-     14,
-     19
-    ],
-    "dates": [
-     "260104",
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261105"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 7,
-    "avg10": 25.1,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.746
-     },
-     {
-      "v": "Coach",
-      "p": 0.739
-     },
-     {
-      "v": "Sim",
-      "p": 0.723
-     },
-     {
-      "v": "Judge",
-      "p": 0.719
-     },
-     {
-      "v": "Most common",
-      "p": 0.711
-     }
-    ],
-    "votes": 5,
-    "p": 0.728,
-    "fair": -267
    },
    {
     "id": "nfl|treharris|rec|5|under",
@@ -8605,28 +15045,100 @@
     "by": [
      {
       "v": "Coach",
-      "p": 0.75
-     },
-     {
-      "v": "Trends",
-      "p": 0.729
+      "p": 0.753
      },
      {
       "v": "Sim",
-      "p": 0.723
+      "p": 0.727
+     },
+     {
+      "v": "Trends",
+      "p": 0.727
+     },
+     {
+      "v": "Judge",
+      "p": 0.725
+     },
+     {
+      "v": "Most common",
+      "p": 0.715
+     }
+    ],
+    "votes": 5,
+    "p": 0.729,
+    "fair": -270
+   },
+   {
+    "id": "nfl|justinherbert|pry|300|under",
+    "sp": "nfl",
+    "player": "Justin Herbert",
+    "team": "LAC",
+    "k": "pry",
+    "lab": "pass+rush yds",
+    "thr": 300,
+    "side": "under",
+    "opp": "BAL",
+    "home": false,
+    "start": "2026-11-17T01:15Z",
+    "last": [
+     273,
+     216,
+     238,
+     194,
+     243,
+     229,
+     175,
+     230,
+     272,
+     200
+    ],
+    "dates": [
+     "251227",
+     "260111",
+     "260913",
+     "260920",
+     "260927",
+     "261004",
+     "261011",
+     "261018",
+     "261101",
+     "261108"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 227,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.758
+     },
+     {
+      "v": "Sim",
+      "p": 0.741
+     },
+     {
+      "v": "Most common",
+      "p": 0.734
      },
      {
       "v": "Judge",
       "p": 0.719
      },
      {
-      "v": "Most common",
-      "p": 0.707
+      "v": "Trends",
+      "p": 0.69
      }
     ],
     "votes": 5,
-    "p": 0.726,
-    "fair": -264
+    "p": 0.728,
+    "fair": -268
    },
    {
     "id": "nfl|derrickhenry|rry|60|over",
@@ -8677,100 +15189,100 @@
     "by": [
      {
       "v": "Coach",
-      "p": 0.755
+      "p": 0.758
      },
      {
       "v": "Sim",
-      "p": 0.723
+      "p": 0.728
      },
      {
       "v": "Judge",
-      "p": 0.72
+      "p": 0.725
      },
      {
       "v": "Most common",
-      "p": 0.708
+      "p": 0.716
      },
      {
       "v": "Trends",
-      "p": 0.694
+      "p": 0.704
      }
     ],
     "votes": 5,
-    "p": 0.72,
-    "fair": -257
+    "p": 0.726,
+    "fair": -265
    },
    {
-    "id": "nfl|justinherbert|pry|300|under",
+    "id": "nfl|markandrews|wy|40|under",
     "sp": "nfl",
-    "player": "Justin Herbert",
-    "team": "LAC",
-    "k": "pry",
-    "lab": "pass+rush yds",
-    "thr": 300,
+    "player": "Mark Andrews",
+    "team": "BAL",
+    "k": "wy",
+    "lab": "rec yds",
+    "thr": 40,
     "side": "under",
-    "opp": "BAL",
-    "home": false,
+    "opp": "LAC",
+    "home": true,
     "start": "2026-11-17T01:15Z",
     "last": [
-     273,
-     216,
-     238,
-     194,
-     243,
-     229,
-     175,
-     230,
-     272,
-     200
+     14,
+     49,
+     49,
+     24,
+     27,
+     28,
+     4,
+     23,
+     14,
+     19
     ],
     "dates": [
-     "251227",
-     "260111",
+     "260104",
      "260913",
      "260920",
      "260927",
      "261004",
      "261011",
      "261018",
+     "261025",
      "261101",
-     "261108"
+     "261105"
     ],
     "l5": [
      5,
      5
     ],
     "l10": [
-     10,
+     8,
      10
     ],
-    "streak": 10,
-    "avg10": 227,
+    "streak": 7,
+    "avg10": 25.1,
     "by": [
      {
+      "v": "Trends",
+      "p": 0.751
+     },
+     {
       "v": "Sim",
-      "p": 0.738
-     },
-     {
-      "v": "Coach",
-      "p": 0.732
-     },
-     {
-      "v": "Most common",
-      "p": 0.726
+      "p": 0.727
      },
      {
       "v": "Judge",
-      "p": 0.708
+      "p": 0.724
      },
      {
-      "v": "Trends",
-      "p": 0.683
+      "v": "Coach",
+      "p": 0.717
+     },
+     {
+      "v": "Most common",
+      "p": 0.702
      }
     ],
     "votes": 5,
-    "p": 0.717,
-    "fair": -254
+    "p": 0.724,
+    "fair": -263
    },
    {
     "id": "nfl|treharris|wy|60|under",
@@ -8814,29 +15326,87 @@
     "avg10": 37.4,
     "by": [
      {
-      "v": "Coach",
-      "p": 0.74
+      "v": "Trends",
+      "p": 0.726
      },
      {
-      "v": "Trends",
-      "p": 0.728
+      "v": "Coach",
+      "p": 0.717
      },
      {
       "v": "Most common",
-      "p": 0.71
-     },
-     {
-      "v": "Judge",
-      "p": 0.694
+      "p": 0.701
      },
      {
       "v": "Sim",
       "p": 0.689
+     },
+     {
+      "v": "Judge",
+      "p": 0.685
      }
     ],
     "votes": 5,
-    "p": 0.712,
-    "fair": -247
+    "p": 0.704,
+    "fair": -237
+   },
+   {
+    "id": "nfl|jakebrowning|pry|260|under",
+    "sp": "nfl",
+    "player": "Jake Browning",
+    "team": "LAC",
+    "k": "pry",
+    "lab": "pass+rush yds",
+    "thr": 260,
+    "side": "under",
+    "opp": "BAL",
+    "home": false,
+    "start": "2026-11-17T01:15Z",
+    "last": [
+     242,
+     143,
+     129,
+     282,
+     14
+    ],
+    "dates": [
+     "250914",
+     "250921",
+     "250929",
+     "251005",
+     "251123"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     4,
+     5
+    ],
+    "streak": 1,
+    "avg10": 162,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.807
+     },
+     {
+      "v": "Judge",
+      "p": 0.755
+     },
+     {
+      "v": "Most common",
+      "p": 0.741
+     },
+     {
+      "v": "Sim",
+      "p": 0.733
+     }
+    ],
+    "votes": 4,
+    "p": 0.759,
+    "fair": -315
    },
    {
     "id": "nfl|zayflowers|wy|40|over",
@@ -8886,25 +15456,25 @@
     "avg10": 78.2,
     "by": [
      {
-      "v": "Sim",
-      "p": 0.737
+      "v": "Coach",
+      "p": 0.76
      },
      {
-      "v": "Coach",
-      "p": 0.735
+      "v": "Sim",
+      "p": 0.74
      },
      {
       "v": "Most common",
-      "p": 0.727
+      "p": 0.735
      },
      {
       "v": "Judge",
-      "p": 0.708
+      "p": 0.719
      }
     ],
     "votes": 4,
-    "p": 0.727,
-    "fair": -266
+    "p": 0.739,
+    "fair": -282
    },
    {
     "id": "nfl|quentinjohnston|wy|60|under",
@@ -8954,89 +15524,25 @@
     "avg10": 48.2,
     "by": [
      {
-      "v": "Sim",
-      "p": 0.737
+      "v": "Coach",
+      "p": 0.757
      },
      {
-      "v": "Coach",
-      "p": 0.731
+      "v": "Sim",
+      "p": 0.74
      },
      {
       "v": "Most common",
-      "p": 0.726
+      "p": 0.734
      },
      {
       "v": "Judge",
-      "p": 0.708
+      "p": 0.718
      }
     ],
     "votes": 4,
-    "p": 0.726,
-    "fair": -264
-   },
-   {
-    "id": "nfl|laddmcconkey|rec|6|under",
-    "sp": "nfl",
-    "player": "Ladd McConkey",
-    "team": "LAC",
-    "k": "rec",
-    "lab": "rec",
-    "thr": 6,
-    "side": "under",
-    "opp": "BAL",
-    "home": false,
-    "start": "2026-11-17T01:15Z",
-    "last": [
-     2,
-     4,
-     1,
-     3,
-     5,
-     3,
-     4,
-     0,
-     1,
-     4
-    ],
-    "dates": [
-     "251214",
-     "251221",
-     "251227",
-     "260111",
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261101"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     10,
-     10
-    ],
-    "streak": 10,
-    "avg10": 2.7,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.789
-     },
-     {
-      "v": "Most common",
-      "p": 0.738
-     },
-     {
-      "v": "Sim",
-      "p": 0.728
-     }
-    ],
-    "votes": 3,
-    "p": 0.752,
-    "fair": -303
+    "p": 0.737,
+    "fair": -281
    },
    {
     "id": "nfl|justinherbert|py|250|under",
@@ -9086,21 +15592,21 @@
     "avg10": 198.6,
     "by": [
      {
-      "v": "Sim",
-      "p": 0.737
+      "v": "Coach",
+      "p": 0.757
      },
      {
-      "v": "Coach",
-      "p": 0.731
+      "v": "Sim",
+      "p": 0.74
      },
      {
       "v": "Trends",
-      "p": 0.682
+      "p": 0.689
      }
     ],
     "votes": 3,
-    "p": 0.717,
-    "fair": -253
+    "p": 0.729,
+    "fair": -269
    },
    {
     "id": "nfl|justinherbert|py|275|under",
@@ -9151,76 +15657,16 @@
     "by": [
      {
       "v": "Judge",
-      "p": 0.749
+      "p": 0.755
      },
      {
       "v": "Most common",
-      "p": 0.708
+      "p": 0.716
      }
     ],
     "votes": 2,
-    "p": 0.728,
-    "fair": -268
-   },
-   {
-    "id": "nfl|laddmcconkey|rec|5|under",
-    "sp": "nfl",
-    "player": "Ladd McConkey",
-    "team": "LAC",
-    "k": "rec",
-    "lab": "rec",
-    "thr": 5,
-    "side": "under",
-    "opp": "BAL",
-    "home": false,
-    "start": "2026-11-17T01:15Z",
-    "last": [
-     2,
-     4,
-     1,
-     3,
-     5,
-     3,
-     4,
-     0,
-     1,
-     4
-    ],
-    "dates": [
-     "251214",
-     "251221",
-     "251227",
-     "260111",
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261101"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 5,
-    "avg10": 2.7,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.73
-     },
-     {
-      "v": "Judge",
-      "p": 0.709
-     }
-    ],
-    "votes": 2,
-    "p": 0.72,
-    "fair": -257
+    "p": 0.736,
+    "fair": -278
    },
    {
     "id": "nfl|quentinjohnston|rec|4|under",
@@ -9271,16 +15717,16 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.729
+      "p": 0.727
      },
      {
       "v": "Judge",
-      "p": 0.708
+      "p": 0.718
      }
     ],
     "votes": 2,
-    "p": 0.718,
-    "fair": -255
+    "p": 0.722,
+    "fair": -260
    },
    {
     "id": "nfl|zayflowers|rec|4|over",
@@ -9331,12 +15777,12 @@
     "by": [
      {
       "v": "Coach",
-      "p": 0.731
+      "p": 0.757
      }
     ],
     "votes": 1,
-    "p": 0.731,
-    "fair": -272
+    "p": 0.757,
+    "fair": -312
    },
    {
     "id": "nfl|zayflowers|rry|100|under",
@@ -9387,15 +15833,107 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.683
+      "p": 0.69
      }
     ],
     "votes": 1,
-    "p": 0.683,
-    "fair": -215
+    "p": 0.69,
+    "fair": -223
+   },
+   {
+    "id": "nfl|jakebrowning|pint|1|over",
+    "sp": "nfl",
+    "player": "Jake Browning",
+    "team": "LAC",
+    "k": "pint",
+    "lab": "INT thrown",
+    "thr": 1,
+    "side": "over",
+    "opp": "BAL",
+    "home": false,
+    "start": "2026-11-17T01:15Z",
+    "last": [
+     3,
+     2,
+     0,
+     3,
+     0
+    ],
+    "dates": [
+     "250914",
+     "250921",
+     "250929",
+     "251005",
+     "251123"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     3,
+     5
+    ],
+    "streak": -1,
+    "avg10": 1.6,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.689
+     }
+    ],
+    "votes": 1,
+    "p": 0.689,
+    "fair": -222
+   },
+   {
+    "id": "nfl|jakebrowning|pry|220|under",
+    "sp": "nfl",
+    "player": "Jake Browning",
+    "team": "LAC",
+    "k": "pry",
+    "lab": "pass+rush yds",
+    "thr": 220,
+    "side": "under",
+    "opp": "BAL",
+    "home": false,
+    "start": "2026-11-17T01:15Z",
+    "last": [
+     242,
+     143,
+     129,
+     282,
+     14
+    ],
+    "dates": [
+     "250914",
+     "250921",
+     "250929",
+     "251005",
+     "251123"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     3,
+     5
+    ],
+    "streak": 1,
+    "avg10": 162,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.689
+     }
+    ],
+    "votes": 1,
+    "p": 0.689,
+    "fair": -222
    }
   ]
  },
- "betaSig": "[[\"nfl|kimanividal|rry|60|under5\",\"nfl|omarionhampton|rry|100|under5\",\"nfl|laddmcconkey|wy|80|under5\",\"nfl|omarionhampton|ry|75|under5\",\"nfl|derrickhenry|ry|50|over5\",\"nfl|treharris|rry|60|under5\",\"nfl|laddmcconkey|rry|80|under5\",\"nfl|markandrews|wy|40|under5\",\"nfl|treharris|rec|5|under5\",\"nfl|derrickhenry|rry|60|over5\",\"nfl|justinherbert|pry|300|under5\",\"nfl|treharris|wy|60|under5\",\"nfl|zayflowers|wy|40|over4\",\"nfl|quentinjohnston|wy|60|under4\",\"nfl|laddmcconkey|rec|6|under3\",\"nfl|justinherbert|py|250|under3\",\"nfl|justinherbert|py|275|under2\",\"nfl|laddmcconkey|rec|5|under2\",\"nfl|quentinjohnston|rec|4|under2\",\"nfl|zayflowers|rec|4|over1\",\"nfl|zayflowers|rry|100|under1\"],[\"lost:hhmmhhhhhm\",\"lost:h83h50h71m2hh3hh3m0hh352m9h2h34mh91h4h9hm21m1m11m1hh109m2h6hm30h4h53h\",\"lost:hmhhhhhmmmh\",\"lost:hhhmmmhhm\",\"lost:hmmhmhhhmm\",\"lost:mhhmmhhhhh\",\"lost:hmhmhhhhmm\",\"lost:hhmmmhhhmh\",\"lost:hmhmhhh\",\"lost:hhhh24h9mh3m0h16h30h18hmh42h14h34h8h48h24h9h8h13h9h3h24h2h6mhh93h18mhh7h45h13m0m14h5\"],[[0,[],17]],0,[[6,[null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[1,[null]],[0,[]],[1,[null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"nfl|jakebrowning|py|250|under5\",\"nfl|kimanividal|rry|60|under5\",\"nfl|jakebrowning|cmp|25|under5\",\"nfl|omarionhampton|rry|100|under5\",\"nfl|omarionhampton|ry|75|under5\",\"nfl|treharris|rry|60|under5\",\"nfl|derrickhenry|ry|50|over5\",\"nfl|jakebrowning|att|35|under5\",\"nfl|treharris|rec|5|under5\",\"nfl|justinherbert|pry|300|under5\",\"nfl|derrickhenry|rry|60|over5\",\"nfl|markandrews|wy|40|under5\",\"nfl|treharris|wy|60|under5\",\"nfl|jakebrowning|pry|260|under4\",\"nfl|zayflowers|wy|40|over4\",\"nfl|quentinjohnston|wy|60|under4\",\"nfl|justinherbert|py|250|under3\",\"nfl|justinherbert|py|275|under2\",\"nfl|quentinjohnston|rec|4|under2\",\"nfl|zayflowers|rec|4|over1\",\"nfl|zayflowers|rry|100|under1\",\"nfl|jakebrowning|pint|1|over1\",\"nfl|jakebrowning|pry|220|under1\"],[\"lost:hhmmhhhhhm\",\"lost:h83h50h71m2hh3hh3m0hh352m9h2h34mh91h4h9hm21m1m11m1hh109m2h6hm30h4h53h\",\"lost:hmhhhhhmmmh\",\"lost:hhhmmmhhm\",\"lost:hmmhmhhhmm\",\"lost:mhhmmhhhhh\",\"lost:hmhmhhhhmm\",\"lost:hhmmmhhhmh\",\"lost:hmhmhhh\",\"lost:hhhh24h9mh3m0h16h30h18hmh42h14h34h8h48h24h9h8h13h9h3h24h2h6mhh93h18mhh7h45h13m0m14h5\"],[[1,[\"strong\"],17],[2,[\"strong\",\"strong\"],0],[1,[\"supreme\"],0],[2,[\"strong\",\"strong\"],0],[1,[\"strong\"],0],[1,[\"supreme\"],0],[1,[\"strong\"],0],[1,[\"value\"],0],[1,[\"strong\"],0],[3,[\"strong\",\"strong\",\"value\"],0],[1,[\"strong\"],0],[3,[\"supreme\",\"strong\",\"value\"],0],[3,[\"supreme\",\"strong\",\"value\"],0],[2,[\"strong\",\"value\"],0],[2,[\"strong\",\"strong\"],0],[1,[\"strong\"],0],[1,[\"strong\"],0],[1,[\"value\"],0],[1,[\"supreme\"],11],[1,[\"strong\"],13],[3,[\"strong\",\"strong\",\"value\"],10],[1,[\"strong\"],9],[2,[\"strong\",\"value\"],8],[3,[\"supreme\",\"strong\",\"strong\"],13],[0,[],9],[1,[\"value\"],8],[2,[\"strong\",\"strong\"],12],[2,[\"strong\",\"strong\"],12],[2,[\"strong\",\"value\"],10],[1,[\"value\"],11],[1,[\"value\"],14],[1,[\"value\"],8],[1,[\"strong\"],10],[2,[\"supreme\",\"value\"],13],[2,[\"strong\",\"value\"],9],[0,[],9],[1,[\"strong\"],10],[1,[\"strong\"],11],[1,[\"value\"],11],[2,[\"strong\",\"strong\"],9],[1,[\"value\"],9],[1,[\"value\"],0],[1,[\"strong\"],8],[1,[\"strong\"],13],[1,[\"supreme*\"],0],[1,[\"strong\"],0],[2,[\"supreme\",\"value\"],0],[3,[\"supreme\",\"strong\",\"value\"],0],[2,[\"strong\",\"value\"],0],[2,[\"strong\",\"value\"],0]],0,[[6,[null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[1,[null]],[0,[]],[1,[null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
