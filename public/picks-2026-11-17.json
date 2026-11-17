@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1794954204200,
+ "generated": 1794954207636,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -23,7 +23,7 @@
  },
  "today": {
   "d": "2026-11-17",
-  "lockedAt": 1794954197514,
+  "lockedAt": 1794954207245,
   "unlockMin": 30,
   "picks": [
    {
@@ -161,7 +161,7 @@
   "allStarted": false,
   "commit": {
    "alg": "sha256",
-   "hash": "c8251d629100772bdbd870e0ce7844981766de667627c891f1a7f48b46eb0d3b",
+   "hash": "a2a11dde4c5623748442276d61fadaaad3071a1bafa83c9d5365bcd54f4bca35",
    "salt": null
   }
  },
@@ -2724,18 +2724,18 @@
     "star": false
    },
    {
-    "who": "The Scorekeeper",
-    "v": "Most common",
-    "sp": "nba",
-    "pick": "Mikal Bridges 20+ PTS+REB+AST (NY · NY@TOR · 6:30 PM CT)",
-    "p": 0.866,
-    "star": false
-   },
-   {
     "who": "The Historian",
     "v": "Trends",
     "sp": "nba",
-    "pick": "Jalen Brunson 15+ PTS (NY · NY@TOR · 6:30 PM CT)",
+    "pick": "Collin Murray-Boyles 25+ PTS+REB (TOR · NY@TOR · 6:30 PM CT)",
+    "p": 0.869,
+    "star": false
+   },
+   {
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "sp": "nba",
+    "pick": "Ja'Kobe Walter 25+ PTS+REB+AST (TOR · NY@TOR · 6:30 PM CT)",
     "p": 0.866,
     "star": false
    },
@@ -2751,8 +2751,8 @@
     "who": "The Simulator",
     "v": "Sim",
     "sp": "nba",
-    "pick": "Immanuel Quickley 25+ PTS (TOR · NY@TOR · 6:30 PM CT)",
-    "p": 0.845,
+    "pick": "RJ Barrett 30+ PTS (TOR · NY@TOR · 6:30 PM CT)",
+    "p": 0.851,
     "star": false
    }
   ]
