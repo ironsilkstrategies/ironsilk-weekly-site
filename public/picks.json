@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795015125477,
+ "generated": 1795016179602,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -3679,8 +3679,8 @@
     {
      "lane": "NFL favorites on the moneyline",
      "w": 47,
-     "l": 16,
-     "u": 5.2
+     "l": 15,
+     "u": 6.2
     }
    ],
    "still": [
@@ -10816,7 +10816,7 @@
        "s": "home",
        "pick": "TOL -16",
        "price": -108,
-       "p": 0.464,
+       "p": 0.463,
        "o": 0,
        "r": {
         "lab": "CFB spread favorites",
@@ -10834,7 +10834,7 @@
        "s": "home",
        "pick": "TOL -16",
        "price": -108,
-       "p": 0.473,
+       "p": 0.472,
        "o": 0,
        "r": {
         "lab": "CFB spread favorites",
@@ -12831,7 +12831,7 @@
        "s": "away",
        "pick": "UNT -6",
        "price": -110,
-       "p": 0.493,
+       "p": 0.492,
        "o": 0,
        "r": {
         "lab": "CFB spread favorites",
@@ -12849,7 +12849,7 @@
        "s": "away",
        "pick": "UNT -6",
        "price": -110,
-       "p": 0.454,
+       "p": 0.453,
        "o": 0,
        "r": {
         "lab": "CFB spread favorites",
@@ -12867,7 +12867,7 @@
        "s": "away",
        "pick": "UNT -6",
        "price": -110,
-       "p": 0.459,
+       "p": 0.458,
        "o": 0,
        "r": {
         "lab": "CFB spread favorites",
@@ -16747,7 +16747,7 @@
        "s": "away",
        "pick": "USF ML",
        "price": -116,
-       "p": 0.485,
+       "p": 0.486,
        "o": 0,
        "r": {
         "lab": "CFB ML favorites",
@@ -16798,7 +16798,7 @@
        "s": "home",
        "pick": "FAU +1.5",
        "price": -112,
-       "p": 0.398,
+       "p": 0.397,
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
@@ -20947,7 +20947,7 @@
        "s": "away",
        "pick": "GAST ML",
        "price": -110,
-       "p": 0.569,
+       "p": 0.568,
        "o": 0,
        "r": {
         "lab": "CFB ML favorites",
@@ -20965,7 +20965,7 @@
        "s": "away",
        "pick": "GAST ML",
        "price": -110,
-       "p": 0.544,
+       "p": 0.388,
        "o": 0,
        "r": {
         "lab": "CFB ML favorites",
@@ -21057,7 +21057,7 @@
        "s": "away",
        "pick": "GAST 0",
        "price": -110,
-       "p": 0.578,
+       "p": 0.569,
        "o": 0,
        "r": {
         "lab": "CFB spread dogs",
@@ -22786,7 +22786,7 @@
        "s": "away",
        "pick": "STAN ML",
        "price": -132,
-       "p": 0.555,
+       "p": 0.554,
        "o": 0,
        "r": {
         "lab": "CFB ML favorites",
@@ -25849,146 +25849,6 @@
     "fair": -282
    },
    {
-    "id": "ncaaf|seanpatrick|rry|60|under",
-    "sp": "ncaaf",
-    "player": "Sean Patrick",
-    "team": "AKR",
-    "k": "rry",
-    "lab": "rush+rec yds",
-    "thr": 60,
-    "side": "under",
-    "opp": "MASS",
-    "home": false,
-    "start": "2026-11-19T00:00Z",
-    "last": [
-     44,
-     132,
-     23,
-     56,
-     31,
-     26,
-     4,
-     41,
-     15
-    ],
-    "dates": [
-     "260903",
-     "260912",
-     "260919",
-     "260926",
-     "261003",
-     "261010",
-     "261024",
-     "261103",
-     "261110"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     9
-    ],
-    "streak": 7,
-    "avg10": 41.3,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.714
-     },
-     {
-      "v": "Judge",
-      "p": 0.714
-     },
-     {
-      "v": "Sim",
-      "p": 0.703
-     },
-     {
-      "v": "Coach",
-      "p": 0.702
-     },
-     {
-      "v": "Most common",
-      "p": 0.688
-     }
-    ],
-    "votes": 5,
-    "p": 0.704,
-    "fair": -238
-   },
-   {
-    "id": "ncaaf|braydenroggow|pry|220|under",
-    "sp": "ncaaf",
-    "player": "Brayden Roggow",
-    "team": "AKR",
-    "k": "pry",
-    "lab": "pass+rush yds",
-    "thr": 220,
-    "side": "under",
-    "opp": "MASS",
-    "home": false,
-    "start": "2026-11-19T00:00Z",
-    "last": [
-     45,
-     66,
-     121,
-     166,
-     176,
-     229,
-     244,
-     233,
-     0
-    ],
-    "dates": [
-     "260903",
-     "260912",
-     "260919",
-     "260926",
-     "261003",
-     "261010",
-     "261017",
-     "261024",
-     "261103"
-    ],
-    "l5": [
-     2,
-     5
-    ],
-    "l10": [
-     6,
-     9
-    ],
-    "streak": 1,
-    "avg10": 142.2,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.725
-     },
-     {
-      "v": "Judge",
-      "p": 0.717
-     },
-     {
-      "v": "Sim",
-      "p": 0.714
-     },
-     {
-      "v": "Trends",
-      "p": 0.685
-     },
-     {
-      "v": "Most common",
-      "p": 0.672
-     }
-    ],
-    "votes": 5,
-    "p": 0.703,
-    "fair": -236
-   },
-   {
     "id": "ncaaf|chancemorrow|rry|100|under",
     "sp": "ncaaf",
     "player": "Chance Morrow",
@@ -26197,6 +26057,78 @@
     "fair": -211
    },
    {
+    "id": "ncaaf|seanpatrick|rry|60|under",
+    "sp": "ncaaf",
+    "player": "Sean Patrick",
+    "team": "AKR",
+    "k": "rry",
+    "lab": "rush+rec yds",
+    "thr": 60,
+    "side": "under",
+    "opp": "MASS",
+    "home": false,
+    "start": "2026-11-19T00:00Z",
+    "last": [
+     4,
+     44,
+     132,
+     23,
+     56,
+     31,
+     26,
+     4,
+     41,
+     15
+    ],
+    "dates": [
+     "251118",
+     "260903",
+     "260912",
+     "260919",
+     "260926",
+     "261003",
+     "261010",
+     "261024",
+     "261103",
+     "261110"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 7,
+    "avg10": 37.6,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.729
+     },
+     {
+      "v": "Most common",
+      "p": 0.687
+     },
+     {
+      "v": "Trends",
+      "p": 0.683
+     },
+     {
+      "v": "Sim",
+      "p": 0.642
+     },
+     {
+      "v": "Judge",
+      "p": 0.608
+     }
+    ],
+    "votes": 5,
+    "p": 0.67,
+    "fair": -203
+   },
+   {
     "id": "ncaaf|jaylenandrews|rec|4|under",
     "sp": "ncaaf",
     "player": "Jaylen Andrews",
@@ -26265,76 +26197,6 @@
     "votes": 5,
     "p": 0.661,
     "fair": -195
-   },
-   {
-    "id": "ncaaf|seanpatrick|ry|50|under",
-    "sp": "ncaaf",
-    "player": "Sean Patrick",
-    "team": "AKR",
-    "k": "ry",
-    "lab": "rush yds",
-    "thr": 50,
-    "side": "under",
-    "opp": "MASS",
-    "home": false,
-    "start": "2026-11-19T00:00Z",
-    "last": [
-     33,
-     67,
-     16,
-     48,
-     31,
-     26,
-     4,
-     34,
-     15
-    ],
-    "dates": [
-     "260903",
-     "260912",
-     "260919",
-     "260926",
-     "261003",
-     "261010",
-     "261024",
-     "261103",
-     "261110"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     9
-    ],
-    "streak": 7,
-    "avg10": 30.4,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.731
-     },
-     {
-      "v": "Most common",
-      "p": 0.681
-     },
-     {
-      "v": "Sim",
-      "p": 0.64
-     },
-     {
-      "v": "Trends",
-      "p": 0.62
-     },
-     {
-      "v": "Judge",
-      "p": 0.602
-     }
-    ],
-    "votes": 5,
-    "p": 0.655,
-    "fair": -190
    },
    {
     "id": "ncaaf|dwayneearlyjr|rec|4|under",
@@ -26787,6 +26649,74 @@
     "votes": 4,
     "p": 0.874,
     "fair": -694
+   },
+   {
+    "id": "nba|jakobewalter|pr|25|under",
+    "sp": "nba",
+    "player": "Ja'Kobe Walter",
+    "team": "TOR",
+    "k": "pr",
+    "lab": "PTS+REB",
+    "thr": 25,
+    "side": "under",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     12,
+     15,
+     16,
+     9,
+     13,
+     18,
+     20,
+     11,
+     9,
+     26
+    ],
+    "dates": [
+     "261030",
+     "261101",
+     "261102",
+     "261104",
+     "261106",
+     "261109",
+     "261111",
+     "261112",
+     "261115",
+     "261117"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": -1,
+    "avg10": 14.9,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.884
+     },
+     {
+      "v": "Sim",
+      "p": 0.879
+     },
+     {
+      "v": "Judge",
+      "p": 0.878
+     },
+     {
+      "v": "Trends",
+      "p": 0.847
+     }
+    ],
+    "votes": 4,
+    "p": 0.872,
+    "fair": -681
    },
    {
     "id": "nba|ajdybantsa|reb|10|under",
@@ -28553,74 +28483,6 @@
     "fair": -443
    },
    {
-    "id": "nba|acebailey|pts|20|under",
-    "sp": "nba",
-    "player": "Ace Bailey",
-    "team": "UTAH",
-    "k": "pts",
-    "lab": "PTS",
-    "thr": 20,
-    "side": "under",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     9,
-     5,
-     15,
-     12,
-     7,
-     23,
-     18,
-     21,
-     7,
-     5
-    ],
-    "dates": [
-     "261031",
-     "261102",
-     "261104",
-     "261106",
-     "261108",
-     "261110",
-     "261111",
-     "261113",
-     "261115",
-     "261117"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 2,
-    "avg10": 12.2,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.84
-     },
-     {
-      "v": "Sim",
-      "p": 0.808
-     },
-     {
-      "v": "Most common",
-      "p": 0.808
-     },
-     {
-      "v": "Judge",
-      "p": 0.801
-     }
-    ],
-    "votes": 4,
-    "p": 0.814,
-    "fair": -438
-   },
-   {
     "id": "nba|braydenburries|reb|10|under",
     "sp": "nba",
     "player": "Brayden Burries",
@@ -29047,74 +28909,6 @@
     "votes": 4,
     "p": 0.797,
     "fair": -392
-   },
-   {
-    "id": "nba|acebailey|pra|30|under",
-    "sp": "nba",
-    "player": "Ace Bailey",
-    "team": "UTAH",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 30,
-    "side": "under",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     17,
-     13,
-     21,
-     18,
-     12,
-     32,
-     27,
-     25,
-     19,
-     10
-    ],
-    "dates": [
-     "261031",
-     "261102",
-     "261104",
-     "261106",
-     "261108",
-     "261110",
-     "261111",
-     "261113",
-     "261115",
-     "261117"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 4,
-    "avg10": 19.4,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Sim",
-      "p": 0.8
-     },
-     {
-      "v": "Judge",
-      "p": 0.796
-     },
-     {
-      "v": "Most common",
-      "p": 0.757
-     }
-    ],
-    "votes": 4,
-    "p": 0.797,
-    "fair": -393
    },
    {
     "id": "nba|jarrettallen|pts|20|under",
@@ -29657,6 +29451,74 @@
     "votes": 4,
     "p": 0.795,
     "fair": -387
+   },
+   {
+    "id": "nba|acebailey|pts|20|under",
+    "sp": "nba",
+    "player": "Ace Bailey",
+    "team": "UTAH",
+    "k": "pts",
+    "lab": "PTS",
+    "thr": 20,
+    "side": "under",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     9,
+     5,
+     15,
+     12,
+     7,
+     23,
+     18,
+     21,
+     7,
+     5
+    ],
+    "dates": [
+     "261031",
+     "261102",
+     "261104",
+     "261106",
+     "261108",
+     "261110",
+     "261111",
+     "261113",
+     "261115",
+     "261117"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 2,
+    "avg10": 12.2,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.846
+     },
+     {
+      "v": "Sim",
+      "p": 0.783
+     },
+     {
+      "v": "Most common",
+      "p": 0.782
+     },
+     {
+      "v": "Judge",
+      "p": 0.769
+     }
+    ],
+    "votes": 4,
+    "p": 0.795,
+    "fair": -388
    },
    {
     "id": "nba|ryanrollins|pra|30|under",
@@ -30899,6 +30761,74 @@
     "votes": 4,
     "p": 0.793,
     "fair": -384
+   },
+   {
+    "id": "nba|jakobpoeltl|pra|25|under",
+    "sp": "nba",
+    "player": "Jakob Poeltl",
+    "team": "TOR",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 25,
+    "side": "under",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     1,
+     4,
+     26,
+     14,
+     32,
+     27,
+     16,
+     17,
+     17,
+     10
+    ],
+    "dates": [
+     "261025",
+     "261028",
+     "261030",
+     "261104",
+     "261106",
+     "261109",
+     "261111",
+     "261112",
+     "261115",
+     "261117"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 4,
+    "avg10": 16.4,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.84
+     },
+     {
+      "v": "Most common",
+      "p": 0.787
+     },
+     {
+      "v": "Sim",
+      "p": 0.778
+     },
+     {
+      "v": "Judge",
+      "p": 0.767
+     }
+    ],
+    "votes": 4,
+    "p": 0.793,
+    "fair": -383
    },
    {
     "id": "nba|tristandasilva|pr|30|under",
@@ -33813,6 +33743,74 @@
     "fair": -369
    },
    {
+    "id": "nba|jakobpoeltl|reb|10|under",
+    "sp": "nba",
+    "player": "Jakob Poeltl",
+    "team": "TOR",
+    "k": "reb",
+    "lab": "REB",
+    "thr": 10,
+    "side": "under",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     1,
+     2,
+     11,
+     5,
+     11,
+     7,
+     9,
+     5,
+     5,
+     6
+    ],
+    "dates": [
+     "261025",
+     "261028",
+     "261030",
+     "261104",
+     "261106",
+     "261109",
+     "261111",
+     "261112",
+     "261115",
+     "261117"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 5,
+    "avg10": 6.2,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.783
+     },
+     {
+      "v": "Sim",
+      "p": 0.772
+     },
+     {
+      "v": "Judge",
+      "p": 0.762
+     }
+    ],
+    "votes": 4,
+    "p": 0.787,
+    "fair": -370
+   },
+   {
     "id": "nba|cjmccollum|pa|30|under",
     "sp": "nba",
     "player": "CJ McCollum",
@@ -34742,6 +34740,6 @@
    }
   ]
  },
- "betaSig": "[[\"ncaaf|marcelwilliams|wy|80|under5\",\"ncaaf|marcelwilliams|rry|80|under5\",\"ncaaf|loganinagawa|pry|220|under5\",\"ncaaf|jabarilewis|wy|80|under5\",\"ncaaf|curtiskimmonsiv|rry|80|under5\",\"ncaaf|tyharding|rry|100|under5\",\"ncaaf|jabarilewis|rec|5|under5\",\"ncaaf|jabarilewis|rry|80|under5\",\"ncaaf|seanpatrick|rry|60|under5\",\"ncaaf|braydenroggow|pry|220|under5\",\"ncaaf|chancemorrow|rry|100|under5\",\"ncaaf|justinruffinjr|rec|4|under5\",\"ncaaf|marcelwilliams|rec|6|under5\",\"ncaaf|jaylenandrews|rec|4|under5\",\"ncaaf|seanpatrick|ry|50|under5\",\"ncaaf|dwayneearlyjr|rec|4|under5\",\"ncaaf|williamwatsoniii|pry|220|under5\",\"nba|jamalshead|pa|30|under4\",\"nba|najimarshall|pr|20|under4\",\"nba|moritzwagner|pr|20|under4\",\"nba|jeramigrant|pra|25|under4\",\"nba|dysondaniels|pa|25|under4\",\"nba|ajdybantsa|reb|10|under4\",\"nba|milesbridges|pa|25|under4\",\"nba|donovanmitchell|reb|8|under4\",\"nba|jordanpoole|pa|25|under4\",\"nba|obitoppin|pr|20|under4\",\"nba|jakelaravia|pra|20|under4\",\"nba|isaiahhartenstein|ast|8|under4\",\"nba|buddyhield|pr|20|under4\",\"nba|dannywolf|pa|20|under4\",\"nba|matissethybulle|stl|1|over4\",\"nba|deanthonymelton|pr|20|under4\",\"nba|jadenhardy|pra|20|under4\",\"nba|johncollins|pr|25|under4\",\"nba|jamesharden|pts|25|under4\",\"nba|peytonwatson|pr|25|under4\",\"nba|johncollins|ra|10|under4\",\"nba|jamalshead|pr|20|under4\",\"nba|jamalshead|pra|30|under4\",\"nba|jamalshead|to|3|under4\",\"nba|nolantraore|pts|25|under4\",\"nba|derikqueen|pts|20|under4\",\"nba|demarderozan|pra|20|under4\",\"nba|ausarthompson|pa|25|under4\",\"nba|kevinhuerter|pra|25|under4\",\"nba|kenrichwilliams|pr|20|under4\",\"nba|dayronsharpe|pa|25|under4\",\"nba|mitchellrobinson|reb|10|under4\",\"nba|cameronboozer|ast|8|under4\",\"nba|acebailey|pts|20|under4\",\"nba|braydenburries|reb|10|under4\",\"nba|jamalshead|ast|4|over4\",\"nba|johncollins|pra|25|under4\",\"nba|draymondgreen|pra|25|under4\",\"nba|samhauser|pr|20|under4\",\"nba|mikelbrownjr|pa|25|under4\",\"nba|willrichard|pa|15|under4\",\"nba|acebailey|pra|30|under4\",\"nba|jarrettallen|pts|20|under4\",\"nba|nolantraore|pa|30|under4\",\"nba|mikelbrownjr|ra|8|under4\",\"nba|georgesniang|pra|20|under4\",\"nba|trevonbrazile|pr|15|under4\",\"nba|gogabitadze|reb|8|under4\",\"nba|christianbraun|reb|8|under4\",\"nba|christianbraun|pa|20|under4\",\"nba|milesbridges|pts|20|under4\",\"nba|ryanrollins|pra|30|under4\",\"nba|tarieason|reb|10|under4\",\"nba|buddyhield|ra|8|under4\",\"nba|peytonwatson|pa|20|under4\",\"nba|cadecunningham|ast|4|over4\",\"nba|collingillespie|ra|10|under4\",\"nba|quentonjackson|pr|25|under4\",\"nba|kylekuzma|pra|30|under4\",\"nba|adaymara|pa|20|under4\",\"nba|dylancardwell|pr|20|under4\",\"nba|ryanrollins|pr|25|under4\",\"nba|isaiahcollier|pra|20|under4\",\"nhl|jackhughes|s|2|over4\",\"nba|mitchellrobinson|ra|12|under4\",\"nba|matasbuzelis|reb|8|under4\",\"nba|trejones|pra|25|under4\",\"nba|dayronsharpe|pr|25|under4\",\"nba|noahclowney|pr|20|under4\",\"nba|dannywolf|reb|10|under4\",\"nba|immanuelquickley|pts|25|under4\",\"nba|tristandasilva|pr|30|under4\",\"nba|camspencer|pra|30|under4\",\"nba|ljcryer|fg3|4|under4\",\"nba|dylancardwell|reb|10|under4\",\"nba|isaiahcollier|ra|10|under4\",\"nba|derrickwhite|pa|30|under4\",\"nba|meleekthomas|pts|20|under4\",\"nba|oliviermaxenceprosper|pa|20|under4\",\"nba|ajdybantsa|to|4|under4\",\"nba|derikqueen|pra|30|under4\",\"nba|cameronjohnson|pa|25|under4\",\"nba|santialdama|pra|20|under4\",\"nba|cadecunningham|reb|8|under4\",\"nba|jalengreen|ra|10|under4\",\"nba|trejones|pr|20|under4\",\"nba|saddiqbey|ra|12|under4\",\"nba|aaronnesmith|pr|25|under4\",\"nba|tjmcconnell|pr|15|under4\",\"nba|ziairewilliams|pts|15|under4\",\"nba|alexcaruso|ra|10|under4\",\"nba|jadenhardy|pts|15|under4\",\"nba|normanpowell|to|4|under4\",\"nba|tyreseproctor|pts|20|under4\",\"nba|javonsmall|pa|25|under4\",\"nba|deanwade|pra|20|under4\",\"nba|brandinpodziemski|ra|12|under4\",\"nba|kellyoubrejr|pts|20|under4\",\"nba|neemiasqueta|pr|25|under4\",\"nba|andrewwiggins|pr|20|under4\",\"nba|franzwagner|reb|10|under4\",\"nba|matasbuzelis|pa|25|under4\",\"nba|meleekthomas|pr|25|under4\",\"nba|meleekthomas|ra|8|under4\",\"nba|zionwilliamson|ra|12|under4\",\"nba|ivicazubac|pr|30|under4\",\"nba|aaronwiggins|pra|30|under4\",\"nba|aaronwiggins|pa|25|under4\",\"nhl|timomeier|s|2|over4\",\"nba|jabarismithjr|reb|10|under4\",\"nba|jabarismithjr|pra|30|under4\",\"nba|ryanconwell|pra|25|under4\",\"nba|ryanconwell|ra|8|under4\",\"nba|joshgiddey|pr|25|under4\",\"nba|vjedgecombe|pra|35|under4\",\"nba|guisantos|ra|10|under4\",\"nba|zaccharierisacher|pra|25|under4\",\"nba|kellyoubrejr|pr|25|under4\",\"nba|cjmccollum|pa|30|under4\",\"nba|isaiahhartenstein|pr|30|under4\",\"nba|andrewnembhard|to|4|under4\",\"nba|jaserichardson|ra|8|under4\",\"nhl|davidpastrnak|s|2|over4\",\"nba|tristandasilva|reb|8|under4\",\"nba|derrickwhite|ra|12|under4\",\"nba|ajdybantsa|pra|35|under4\",\"nba|dannywolf|pr|25|under4\",\"nba|jamalmurray|fg3|4|under4\",\"nba|najimarshall|pa|20|under4\",\"nba|osoighodaro|pra|20|under4\",\"nba|lukadoncic|ast|4|over4\",\"nba|kylekuzma|ra|10|under4\",\"nba|alexcaruso|pa|15|under4\"],[\"lost:mhhmhmhmhh\",\"lost:mhhhhhhmhh\",\"lost:hmmhm\",\"lost:mhhhmmhmmh\",\"lost:mmhphhhmh\",\"lost:hhhmhhmm\",\"lost:m10mm14hm340mh5m3h16\"],[[0,[],19],[2,[\"supreme*!\",\"value\"],15],[1,[\"supreme*\"],16],[1,[\"strong\"],14],[0,[],17],[1,[\"value\"],12],[0,[],15],[3,[\"strong\",\"strong!\",\"strong\"],14],[1,[\"strong\"],0],[2,[\"supreme*\",\"strong\"],0],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme\",\"strong\"],10],[0,[],17],[2,[\"supreme*\",\"supreme*\"],15],[1,[\"supreme*\"],16],[2,[\"supreme*!\",\"value\"],13],[3,[\"supreme\",\"strong\",\"strong\"],0],[2,[\"strong\",\"strong\"],14],[2,[\"supreme*\",\"strong\"],15],[1,[\"strong\"],17],[1,[\"supreme\"],15],[0,[],16],[1,[\"strong\"],11],[3,[\"supreme*\",\"strong\",\"strong\"],16],[2,[\"supreme\",\"strong\"],15],[2,[\"supreme\",\"strong\"],16],[3,[\"supreme\",\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],17],[2,[\"strong\",\"strong\"],15],[1,[\"strong\"],14],[0,[],11],[2,[\"strong\",\"strong\"],17],[1,[\"strong\"],13],[1,[\"strong\"],14],[3,[\"strong\",\"strong\",\"value\"],16],[1,[\"supreme\"],15],[2,[\"strong\",\"strong\"],18],[1,[\"supreme\"],11],[1,[\"strong\"],9],[1,[\"supreme\"],15],[2,[\"supreme*\",\"strong\"],16],[1,[\"strong\"],16],[2,[\"strong\",\"strong\"],12],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],12],[2,[\"supreme\",\"strong\"],16],[0,[],11],[1,[\"strong\"],11],[3,[\"strong\",\"strong\",\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],10],[2,[\"supreme*\",\"strong\"],16],[1,[\"strong\"],16],[1,[\"value\"],15],[0,[],10],[1,[\"strong\"],13],[1,[\"strong\"],15],[1,[\"value\"],12],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],9],[0,[],9],[1,[\"strong\"],10],[1,[\"value\"],11],[1,[\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"value\"],9],[1,[\"value\"],8],[1,[\"supreme*\"],11],[2,[\"strong\",\"strong\"],12],[2,[\"strong\",\"value\"],9],[2,[\"supreme\",\"value\"],10],[2,[\"strong\",\"value\"],10]],0,[[6,[null,null,null,null,null,null]],[10,[null,null,null,null,null,null,null,null,null,null]],[14,[null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[2,[null,null]],[2,[null,null]],[1,[null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"ncaaf|marcelwilliams|wy|80|under5\",\"ncaaf|marcelwilliams|rry|80|under5\",\"ncaaf|loganinagawa|pry|220|under5\",\"ncaaf|jabarilewis|wy|80|under5\",\"ncaaf|curtiskimmonsiv|rry|80|under5\",\"ncaaf|tyharding|rry|100|under5\",\"ncaaf|jabarilewis|rec|5|under5\",\"ncaaf|jabarilewis|rry|80|under5\",\"ncaaf|chancemorrow|rry|100|under5\",\"ncaaf|justinruffinjr|rec|4|under5\",\"ncaaf|marcelwilliams|rec|6|under5\",\"ncaaf|seanpatrick|rry|60|under5\",\"ncaaf|jaylenandrews|rec|4|under5\",\"ncaaf|dwayneearlyjr|rec|4|under5\",\"ncaaf|williamwatsoniii|pry|220|under5\",\"nba|jamalshead|pa|30|under4\",\"nba|najimarshall|pr|20|under4\",\"nba|moritzwagner|pr|20|under4\",\"nba|jeramigrant|pra|25|under4\",\"nba|dysondaniels|pa|25|under4\",\"nba|jakobewalter|pr|25|under4\",\"nba|ajdybantsa|reb|10|under4\",\"nba|milesbridges|pa|25|under4\",\"nba|donovanmitchell|reb|8|under4\",\"nba|jordanpoole|pa|25|under4\",\"nba|obitoppin|pr|20|under4\",\"nba|jakelaravia|pra|20|under4\",\"nba|isaiahhartenstein|ast|8|under4\",\"nba|buddyhield|pr|20|under4\",\"nba|dannywolf|pa|20|under4\",\"nba|matissethybulle|stl|1|over4\",\"nba|deanthonymelton|pr|20|under4\",\"nba|jadenhardy|pra|20|under4\",\"nba|johncollins|pr|25|under4\",\"nba|jamesharden|pts|25|under4\",\"nba|peytonwatson|pr|25|under4\",\"nba|johncollins|ra|10|under4\",\"nba|jamalshead|pr|20|under4\",\"nba|jamalshead|pra|30|under4\",\"nba|jamalshead|to|3|under4\",\"nba|nolantraore|pts|25|under4\",\"nba|derikqueen|pts|20|under4\",\"nba|demarderozan|pra|20|under4\",\"nba|ausarthompson|pa|25|under4\",\"nba|kevinhuerter|pra|25|under4\",\"nba|kenrichwilliams|pr|20|under4\",\"nba|dayronsharpe|pa|25|under4\",\"nba|mitchellrobinson|reb|10|under4\",\"nba|cameronboozer|ast|8|under4\",\"nba|braydenburries|reb|10|under4\",\"nba|jamalshead|ast|4|over4\",\"nba|johncollins|pra|25|under4\",\"nba|draymondgreen|pra|25|under4\",\"nba|samhauser|pr|20|under4\",\"nba|mikelbrownjr|pa|25|under4\",\"nba|willrichard|pa|15|under4\",\"nba|jarrettallen|pts|20|under4\",\"nba|nolantraore|pa|30|under4\",\"nba|mikelbrownjr|ra|8|under4\",\"nba|georgesniang|pra|20|under4\",\"nba|trevonbrazile|pr|15|under4\",\"nba|gogabitadze|reb|8|under4\",\"nba|christianbraun|reb|8|under4\",\"nba|christianbraun|pa|20|under4\",\"nba|milesbridges|pts|20|under4\",\"nba|acebailey|pts|20|under4\",\"nba|ryanrollins|pra|30|under4\",\"nba|tarieason|reb|10|under4\",\"nba|buddyhield|ra|8|under4\",\"nba|peytonwatson|pa|20|under4\",\"nba|cadecunningham|ast|4|over4\",\"nba|collingillespie|ra|10|under4\",\"nba|quentonjackson|pr|25|under4\",\"nba|kylekuzma|pra|30|under4\",\"nba|adaymara|pa|20|under4\",\"nba|dylancardwell|pr|20|under4\",\"nba|ryanrollins|pr|25|under4\",\"nba|isaiahcollier|pra|20|under4\",\"nhl|jackhughes|s|2|over4\",\"nba|mitchellrobinson|ra|12|under4\",\"nba|matasbuzelis|reb|8|under4\",\"nba|trejones|pra|25|under4\",\"nba|dayronsharpe|pr|25|under4\",\"nba|noahclowney|pr|20|under4\",\"nba|dannywolf|reb|10|under4\",\"nba|immanuelquickley|pts|25|under4\",\"nba|jakobpoeltl|pra|25|under4\",\"nba|tristandasilva|pr|30|under4\",\"nba|camspencer|pra|30|under4\",\"nba|ljcryer|fg3|4|under4\",\"nba|dylancardwell|reb|10|under4\",\"nba|isaiahcollier|ra|10|under4\",\"nba|derrickwhite|pa|30|under4\",\"nba|meleekthomas|pts|20|under4\",\"nba|oliviermaxenceprosper|pa|20|under4\",\"nba|ajdybantsa|to|4|under4\",\"nba|derikqueen|pra|30|under4\",\"nba|cameronjohnson|pa|25|under4\",\"nba|santialdama|pra|20|under4\",\"nba|cadecunningham|reb|8|under4\",\"nba|jalengreen|ra|10|under4\",\"nba|trejones|pr|20|under4\",\"nba|saddiqbey|ra|12|under4\",\"nba|aaronnesmith|pr|25|under4\",\"nba|tjmcconnell|pr|15|under4\",\"nba|ziairewilliams|pts|15|under4\",\"nba|alexcaruso|ra|10|under4\",\"nba|jadenhardy|pts|15|under4\",\"nba|normanpowell|to|4|under4\",\"nba|tyreseproctor|pts|20|under4\",\"nba|javonsmall|pa|25|under4\",\"nba|deanwade|pra|20|under4\",\"nba|brandinpodziemski|ra|12|under4\",\"nba|kellyoubrejr|pts|20|under4\",\"nba|neemiasqueta|pr|25|under4\",\"nba|andrewwiggins|pr|20|under4\",\"nba|franzwagner|reb|10|under4\",\"nba|matasbuzelis|pa|25|under4\",\"nba|meleekthomas|pr|25|under4\",\"nba|meleekthomas|ra|8|under4\",\"nba|zionwilliamson|ra|12|under4\",\"nba|ivicazubac|pr|30|under4\",\"nba|aaronwiggins|pra|30|under4\",\"nba|aaronwiggins|pa|25|under4\",\"nhl|timomeier|s|2|over4\",\"nba|jabarismithjr|reb|10|under4\",\"nba|jabarismithjr|pra|30|under4\",\"nba|ryanconwell|pra|25|under4\",\"nba|ryanconwell|ra|8|under4\",\"nba|joshgiddey|pr|25|under4\",\"nba|vjedgecombe|pra|35|under4\",\"nba|guisantos|ra|10|under4\",\"nba|zaccharierisacher|pra|25|under4\",\"nba|kellyoubrejr|pr|25|under4\",\"nba|jakobpoeltl|reb|10|under4\",\"nba|cjmccollum|pa|30|under4\",\"nba|isaiahhartenstein|pr|30|under4\",\"nba|andrewnembhard|to|4|under4\",\"nba|jaserichardson|ra|8|under4\",\"nhl|davidpastrnak|s|2|over4\",\"nba|tristandasilva|reb|8|under4\",\"nba|derrickwhite|ra|12|under4\",\"nba|ajdybantsa|pra|35|under4\",\"nba|dannywolf|pr|25|under4\",\"nba|jamalmurray|fg3|4|under4\",\"nba|najimarshall|pa|20|under4\",\"nba|osoighodaro|pra|20|under4\",\"nba|lukadoncic|ast|4|over4\",\"nba|kylekuzma|ra|10|under4\",\"nba|alexcaruso|pa|15|under4\"],[\"lost:mhhmhmhmhh\",\"lost:mhhhhhhmhh\",\"lost:hmmhm\",\"lost:mhhhmmhmmh\",\"lost:mmhphhhmh\",\"lost:hhhmhhmm\",\"lost:m10mm14hm340mh5m3h16\"],[[0,[],19],[2,[\"supreme*!\",\"value\"],15],[1,[\"supreme*\"],16],[1,[\"strong\"],14],[0,[],17],[1,[\"value\"],12],[0,[],15],[3,[\"strong\",\"strong!\",\"strong\"],14],[1,[\"strong\"],0],[2,[\"supreme*\",\"strong\"],0],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme\",\"strong\"],10],[0,[],17],[2,[\"supreme*\",\"supreme*\"],15],[1,[\"supreme*\"],16],[2,[\"supreme*!\",\"value\"],13],[3,[\"supreme\",\"strong\",\"strong\"],0],[2,[\"strong\",\"strong\"],14],[2,[\"supreme*\",\"strong\"],15],[1,[\"strong\"],17],[1,[\"supreme\"],15],[0,[],16],[1,[\"strong\"],11],[3,[\"supreme*\",\"strong\",\"strong\"],16],[2,[\"supreme\",\"strong\"],15],[2,[\"supreme\",\"strong\"],16],[3,[\"supreme\",\"strong\",\"strong\"],12],[2,[\"supreme*\",\"strong\"],17],[2,[\"strong\",\"strong\"],15],[1,[\"strong\"],14],[0,[],11],[2,[\"strong\",\"strong\"],17],[1,[\"strong\"],13],[1,[\"strong\"],14],[3,[\"strong\",\"strong\",\"value\"],16],[1,[\"supreme\"],15],[2,[\"strong\",\"strong\"],18],[1,[\"supreme\"],11],[1,[\"strong\"],9],[1,[\"supreme\"],15],[2,[\"supreme*\",\"strong\"],16],[1,[\"strong\"],16],[2,[\"strong\",\"strong\"],12],[3,[\"strong\",\"strong\",\"value\"],10],[2,[\"strong\",\"strong\"],12],[2,[\"supreme\",\"strong\"],16],[0,[],11],[1,[\"strong\"],11],[3,[\"strong\",\"strong\",\"strong\"],15],[1,[\"strong\"],14],[1,[\"strong\"],10],[2,[\"supreme*\",\"strong\"],16],[1,[\"strong\"],16],[1,[\"value\"],15],[0,[],10],[1,[\"strong\"],13],[1,[\"strong\"],15],[1,[\"value\"],12],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],9],[0,[],9],[1,[\"strong\"],10],[1,[\"value\"],11],[1,[\"value\"],11],[1,[\"strong\"],9],[2,[\"strong\",\"value\"],9],[1,[\"value\"],8],[1,[\"supreme*\"],11],[2,[\"strong\",\"strong\"],12],[2,[\"strong\",\"value\"],9],[2,[\"supreme\",\"value\"],10],[2,[\"strong\",\"value\"],10]],0,[[6,[null,null,null,null,null,null]],[10,[null,null,null,null,null,null,null,null,null,null]],[14,[null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[8,[null,null,null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[2,[null,null]],[2,[null,null]],[1,[null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
