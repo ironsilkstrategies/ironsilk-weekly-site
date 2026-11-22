@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795361676724,
+ "generated": 1795361785245,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -27232,6 +27232,78 @@
   "d": "2026-11-22",
   "props": [
    {
+    "id": "nfl|dandreswift|car|10|over",
+    "sp": "nfl",
+    "player": "D'Andre Swift",
+    "team": "CHI",
+    "k": "car",
+    "lab": "rush att",
+    "thr": 10,
+    "side": "over",
+    "opp": "NO",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     19,
+     18,
+     16,
+     20,
+     15,
+     9,
+     16,
+     22,
+     27,
+     12
+    ],
+    "dates": [
+     "260118",
+     "260913",
+     "260920",
+     "260928",
+     "261004",
+     "261011",
+     "261018",
+     "261022",
+     "261102",
+     "261108"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 4,
+    "avg10": 17.4,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.925
+     },
+     {
+      "v": "Trends",
+      "p": 0.898
+     },
+     {
+      "v": "Judge",
+      "p": 0.892
+     },
+     {
+      "v": "Sim",
+      "p": 0.886
+     },
+     {
+      "v": "Most common",
+      "p": 0.86
+     }
+    ],
+    "votes": 5,
+    "p": 0.892,
+    "fair": -828
+   },
+   {
     "id": "nfl|willreichard|fgm|1|over",
     "sp": "nfl",
     "player": "Will Reichard",
@@ -27650,29 +27722,31 @@
     "fair": -720
    },
    {
-    "id": "nfl|dandreswift|car|10|over",
+    "id": "nfl|dandreswift|ry|100|under",
     "sp": "nfl",
     "player": "D'Andre Swift",
     "team": "CHI",
-    "k": "car",
-    "lab": "rush att",
-    "thr": 10,
-    "side": "over",
+    "k": "ry",
+    "lab": "rush yds",
+    "thr": 100,
+    "side": "under",
     "opp": "NO",
     "home": true,
     "start": "2026-11-22T18:00Z",
     "last": [
-     18,
-     16,
-     20,
-     15,
-     9,
-     16,
-     22,
-     27,
-     12
+     76,
+     124,
+     45,
+     84,
+     58,
+     43,
+     44,
+     78,
+     69,
+     31
     ],
     "dates": [
+     "260118",
      "260913",
      "260920",
      "260928",
@@ -27684,40 +27758,40 @@
      "261108"
     ],
     "l5": [
-     4,
+     5,
      5
     ],
     "l10": [
-     8,
-     9
+     9,
+     10
     ],
-    "streak": 4,
-    "avg10": 17.2,
+    "streak": 8,
+    "avg10": 65.2,
     "by": [
      {
-      "v": "Coach",
-      "p": 0.903
+      "v": "Sim",
+      "p": 0.893
+     },
+     {
+      "v": "Trends",
+      "p": 0.893
      },
      {
       "v": "Judge",
-      "p": 0.875
-     },
-     {
-      "v": "Sim",
-      "p": 0.866
+      "p": 0.876
      },
      {
       "v": "Most common",
       "p": 0.866
      },
      {
-      "v": "Trends",
-      "p": 0.866
+      "v": "Coach",
+      "p": 0.85
      }
     ],
     "votes": 5,
-    "p": 0.875,
-    "fair": -701
+    "p": 0.876,
+    "fair": -704
    },
    {
     "id": "nfl|chubahubbard|car|10|over",
@@ -27788,6 +27862,150 @@
     "votes": 5,
     "p": 0.874,
     "fair": -691
+   },
+   {
+    "id": "nfl|jaredgoff|cmp|15|over",
+    "sp": "nfl",
+    "player": "Jared Goff",
+    "team": "DET",
+    "k": "cmp",
+    "lab": "completions",
+    "thr": 15,
+    "side": "over",
+    "opp": "TB",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     27,
+     26,
+     26,
+     25,
+     32,
+     19,
+     22,
+     18,
+     17,
+     20
+    ],
+    "dates": [
+     "260104",
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 23.2,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.897
+     },
+     {
+      "v": "Sim",
+      "p": 0.878
+     },
+     {
+      "v": "Judge",
+      "p": 0.873
+     },
+     {
+      "v": "Trends",
+      "p": 0.867
+     },
+     {
+      "v": "Coach",
+      "p": 0.849
+     }
+    ],
+    "votes": 5,
+    "p": 0.873,
+    "fair": -686
+   },
+   {
+    "id": "nfl|justinfields|car|10|under",
+    "sp": "nfl",
+    "player": "Justin Fields",
+    "team": "KC",
+    "k": "car",
+    "lab": "rush att",
+    "thr": 10,
+    "side": "under",
+    "opp": "ARI",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     7,
+     7,
+     7,
+     4,
+     11,
+     7,
+     11,
+     0,
+     2,
+     1
+    ],
+    "dates": [
+     "250929",
+     "251005",
+     "251012",
+     "251019",
+     "251026",
+     "251109",
+     "251113",
+     "260914",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 3,
+    "avg10": 5.7,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.92
+     },
+     {
+      "v": "Sim",
+      "p": 0.893
+     },
+     {
+      "v": "Judge",
+      "p": 0.873
+     },
+     {
+      "v": "Coach",
+      "p": 0.849
+     },
+     {
+      "v": "Most common",
+      "p": 0.829
+     }
+    ],
+    "votes": 5,
+    "p": 0.873,
+    "fair": -686
    },
    {
     "id": "nfl|buckyirving|car|10|over",
@@ -28418,6 +28636,78 @@
     "fair": -616
    },
    {
+    "id": "nfl|samlaporta|wy|80|under",
+    "sp": "nfl",
+    "player": "Sam LaPorta",
+    "team": "DET",
+    "k": "wy",
+    "lab": "rec yds",
+    "thr": 80,
+    "side": "under",
+    "opp": "TB",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     53,
+     48,
+     52,
+     44,
+     84,
+     88,
+     18,
+     33,
+     32,
+     16
+    ],
+    "dates": [
+     "251109",
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 4,
+    "avg10": 46.8,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.875
+     },
+     {
+      "v": "Coach",
+      "p": 0.871
+     },
+     {
+      "v": "Judge",
+      "p": 0.859
+     },
+     {
+      "v": "Sim",
+      "p": 0.852
+     },
+     {
+      "v": "Most common",
+      "p": 0.84
+     }
+    ],
+    "votes": 5,
+    "p": 0.859,
+    "fair": -611
+   },
+   {
     "id": "nfl|tylerbass|fgm|1|over",
     "sp": "nfl",
     "player": "Tyler Bass",
@@ -28683,6 +28973,78 @@
      {
       "v": "Trends",
       "p": 0.847
+     }
+    ],
+    "votes": 5,
+    "p": 0.855,
+    "fair": -590
+   },
+   {
+    "id": "nfl|tonypollard|car|10|over",
+    "sp": "nfl",
+    "player": "Tony Pollard",
+    "team": "TEN",
+    "k": "car",
+    "lab": "rush att",
+    "thr": 10,
+    "side": "over",
+    "opp": "DAL",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     14,
+     7,
+     14,
+     17,
+     16,
+     14,
+     19,
+     25,
+     21,
+     9
+    ],
+    "dates": [
+     "260104",
+     "260913",
+     "260920",
+     "260927",
+     "261004",
+     "261011",
+     "261018",
+     "261025",
+     "261101",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": -1,
+    "avg10": 15.6,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.886
+     },
+     {
+      "v": "Trends",
+      "p": 0.86
+     },
+     {
+      "v": "Judge",
+      "p": 0.855
+     },
+     {
+      "v": "Sim",
+      "p": 0.849
+     },
+     {
+      "v": "Most common",
+      "p": 0.825
      }
     ],
     "votes": 5,
@@ -29038,6 +29400,78 @@
     "fair": -578
    },
    {
+    "id": "nfl|calebwilliams|cmp|15|over",
+    "sp": "nfl",
+    "player": "Caleb Williams",
+    "team": "CHI",
+    "k": "cmp",
+    "lab": "completions",
+    "thr": 15,
+    "side": "over",
+    "opp": "NO",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     25,
+     20,
+     24,
+     23,
+     21,
+     15,
+     30,
+     22,
+     24,
+     22
+    ],
+    "dates": [
+     "251228",
+     "260104",
+     "260110",
+     "260118",
+     "260913",
+     "260920",
+     "261018",
+     "261022",
+     "261102",
+     "261108"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 22.6,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.895
+     },
+     {
+      "v": "Trends",
+      "p": 0.853
+     },
+     {
+      "v": "Judge",
+      "p": 0.853
+     },
+     {
+      "v": "Sim",
+      "p": 0.843
+     },
+     {
+      "v": "Most common",
+      "p": 0.819
+     }
+    ],
+    "votes": 5,
+    "p": 0.853,
+    "fair": -578
+   },
+   {
     "id": "nfl|alontaetaylor|tkl|8|under",
     "sp": "nfl",
     "player": "Alontae Taylor",
@@ -29238,6 +29672,78 @@
     "votes": 5,
     "p": 0.849,
     "fair": -561
+   },
+   {
+    "id": "nfl|samlaporta|rry|80|under",
+    "sp": "nfl",
+    "player": "Sam LaPorta",
+    "team": "DET",
+    "k": "rry",
+    "lab": "rush+rec yds",
+    "thr": 80,
+    "side": "under",
+    "opp": "TB",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     53,
+     48,
+     52,
+     44,
+     84,
+     88,
+     18,
+     35,
+     32,
+     16
+    ],
+    "dates": [
+     "251109",
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 4,
+    "avg10": 47,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.87
+     },
+     {
+      "v": "Coach",
+      "p": 0.859
+     },
+     {
+      "v": "Judge",
+      "p": 0.848
+     },
+     {
+      "v": "Sim",
+      "p": 0.84
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     }
+    ],
+    "votes": 5,
+    "p": 0.848,
+    "fair": -558
    },
    {
     "id": "nfl|ljariussneed|tkl|8|under",
@@ -29518,6 +30024,78 @@
     "fair": -554
    },
    {
+    "id": "nfl|travisetiennejr|ry|75|under",
+    "sp": "nfl",
+    "player": "Travis Etienne Jr.",
+    "team": "NO",
+    "k": "ry",
+    "lab": "rush yds",
+    "thr": 75,
+    "side": "under",
+    "opp": "CHI",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     74,
+     32,
+     50,
+     76,
+     32,
+     67,
+     46,
+     25,
+     57,
+     14
+    ],
+    "dates": [
+     "251207",
+     "251214",
+     "251221",
+     "251228",
+     "260104",
+     "260111",
+     "260913",
+     "260920",
+     "260927",
+     "261115"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 6,
+    "avg10": 47.3,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.88
+     },
+     {
+      "v": "Sim",
+      "p": 0.858
+     },
+     {
+      "v": "Trends",
+      "p": 0.858
+     },
+     {
+      "v": "Judge",
+      "p": 0.846
+     },
+     {
+      "v": "Most common",
+      "p": 0.789
+     }
+    ],
+    "votes": 5,
+    "p": 0.846,
+    "fair": -550
+   },
+   {
     "id": "nfl|malikmustapha|tkl|6|under",
     "sp": "nfl",
     "player": "Malik Mustapha",
@@ -29586,6 +30164,78 @@
     "votes": 5,
     "p": 0.846,
     "fair": -551
+   },
+   {
+    "id": "nfl|alvinkamara|lry|15|under",
+    "sp": "nfl",
+    "player": "Alvin Kamara",
+    "team": "NO",
+    "k": "lry",
+    "lab": "longest rush yds",
+    "thr": 15,
+    "side": "under",
+    "opp": "CHI",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     16,
+     5,
+     6,
+     11,
+     5,
+     6,
+     15,
+     3,
+     15,
+     3
+    ],
+    "dates": [
+     "251109",
+     "251123",
+     "260920",
+     "260927",
+     "261005",
+     "261011",
+     "261018",
+     "261025",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 1,
+    "avg10": 8.5,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.859
+     },
+     {
+      "v": "Trends",
+      "p": 0.852
+     },
+     {
+      "v": "Judge",
+      "p": 0.845
+     },
+     {
+      "v": "Sim",
+      "p": 0.838
+     },
+     {
+      "v": "Most common",
+      "p": 0.831
+     }
+    ],
+    "votes": 5,
+    "p": 0.845,
+    "fair": -545
    },
    {
     "id": "nfl|cairosantos|kpts|5|over",
@@ -29858,6 +30508,78 @@
     "votes": 5,
     "p": 0.843,
     "fair": -537
+   },
+   {
+    "id": "nfl|patrickmahomes|lry|15|under",
+    "sp": "nfl",
+    "player": "Patrick Mahomes",
+    "team": "KC",
+    "k": "lry",
+    "lab": "longest rush yds",
+    "thr": 15,
+    "side": "under",
+    "opp": "ARI",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     12,
+     15,
+     13,
+     1,
+     1,
+     10,
+     9,
+     4,
+     7,
+     9
+    ],
+    "dates": [
+     "251214",
+     "260914",
+     "260920",
+     "260927",
+     "261004",
+     "261018",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 8,
+    "avg10": 8.1,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.872
+     },
+     {
+      "v": "Sim",
+      "p": 0.854
+     },
+     {
+      "v": "Most common",
+      "p": 0.844
+     },
+     {
+      "v": "Judge",
+      "p": 0.842
+     },
+     {
+      "v": "Coach",
+      "p": 0.799
+     }
+    ],
+    "votes": 5,
+    "p": 0.842,
+    "fair": -534
    },
    {
     "id": "nfl|danebelton|tkl|4|over",
@@ -30550,6 +31272,150 @@
     "fair": -520
    },
    {
+    "id": "nfl|patrickmahomes|ptd|1|over",
+    "sp": "nfl",
+    "player": "Patrick Mahomes",
+    "team": "KC",
+    "k": "ptd",
+    "lab": "pass TD",
+    "thr": 1,
+    "side": "over",
+    "opp": "ARI",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     0,
+     2,
+     3,
+     2,
+     2,
+     0,
+     0,
+     3,
+     2,
+     5
+    ],
+    "dates": [
+     "251214",
+     "260914",
+     "260920",
+     "260927",
+     "261004",
+     "261018",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 3,
+    "avg10": 1.9,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.858
+     },
+     {
+      "v": "Coach",
+      "p": 0.857
+     },
+     {
+      "v": "Judge",
+      "p": 0.838
+     },
+     {
+      "v": "Sim",
+      "p": 0.827
+     },
+     {
+      "v": "Most common",
+      "p": 0.81
+     }
+    ],
+    "votes": 5,
+    "p": 0.838,
+    "fair": -517
+   },
+   {
+    "id": "nfl|camward|cmp|15|over",
+    "sp": "nfl",
+    "player": "Cam Ward",
+    "team": "TEN",
+    "k": "cmp",
+    "lab": "completions",
+    "thr": 15,
+    "side": "over",
+    "opp": "DAL",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     3,
+     19,
+     13,
+     23,
+     20,
+     23,
+     11,
+     20,
+     26,
+     28
+    ],
+    "dates": [
+     "260104",
+     "260913",
+     "260920",
+     "260927",
+     "261004",
+     "261011",
+     "261018",
+     "261025",
+     "261101",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 3,
+    "avg10": 18.6,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.875
+     },
+     {
+      "v": "Trends",
+      "p": 0.842
+     },
+     {
+      "v": "Judge",
+      "p": 0.838
+     },
+     {
+      "v": "Sim",
+      "p": 0.83
+     },
+     {
+      "v": "Most common",
+      "p": 0.805
+     }
+    ],
+    "votes": 5,
+    "p": 0.838,
+    "fair": -517
+   },
+   {
     "id": "nfl|dannystutsman|tkl|8|under",
     "sp": "nfl",
     "player": "Danny Stutsman",
@@ -31156,146 +32022,6 @@
     "votes": 5,
     "p": 0.835,
     "fair": -508
-   },
-   {
-    "id": "nfl|jaredgoff|cmp|15|over",
-    "sp": "nfl",
-    "player": "Jared Goff",
-    "team": "DET",
-    "k": "cmp",
-    "lab": "completions",
-    "thr": 15,
-    "side": "over",
-    "opp": "TB",
-    "home": true,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     26,
-     26,
-     25,
-     32,
-     19,
-     22,
-     18,
-     17,
-     20
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261108",
-     "261115"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     9
-    ],
-    "streak": 9,
-    "avg10": 22.8,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.851
-     },
-     {
-      "v": "Sim",
-      "p": 0.842
-     },
-     {
-      "v": "Judge",
-      "p": 0.833
-     },
-     {
-      "v": "Most common",
-      "p": 0.823
-     },
-     {
-      "v": "Coach",
-      "p": 0.815
-     }
-    ],
-    "votes": 5,
-    "p": 0.833,
-    "fair": -498
-   },
-   {
-    "id": "nfl|patrickmahomes|ptd|1|over",
-    "sp": "nfl",
-    "player": "Patrick Mahomes",
-    "team": "KC",
-    "k": "ptd",
-    "lab": "pass TD",
-    "thr": 1,
-    "side": "over",
-    "opp": "ARI",
-    "home": true,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     2,
-     3,
-     2,
-     2,
-     0,
-     0,
-     3,
-     2,
-     5
-    ],
-    "dates": [
-     "260914",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261025",
-     "261101",
-     "261108",
-     "261115"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     9
-    ],
-    "streak": 3,
-    "avg10": 2.1,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.853
-     },
-     {
-      "v": "Trends",
-      "p": 0.833
-     },
-     {
-      "v": "Judge",
-      "p": 0.833
-     },
-     {
-      "v": "Sim",
-      "p": 0.825
-     },
-     {
-      "v": "Most common",
-      "p": 0.821
-     }
-    ],
-    "votes": 5,
-    "p": 0.833,
-    "fair": -499
    },
    {
     "id": "nfl|dakprescott|ptd|1|over",
@@ -31910,6 +32636,78 @@
     "fair": -487
    },
    {
+    "id": "nfl|jaredgoff|att|25|over",
+    "sp": "nfl",
+    "player": "Jared Goff",
+    "team": "DET",
+    "k": "att",
+    "lab": "pass att",
+    "thr": 25,
+    "side": "over",
+    "opp": "TB",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     42,
+     39,
+     38,
+     32,
+     52,
+     30,
+     32,
+     25,
+     25,
+     31
+    ],
+    "dates": [
+     "260104",
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 34.6,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.864
+     },
+     {
+      "v": "Sim",
+      "p": 0.836
+     },
+     {
+      "v": "Judge",
+      "p": 0.829
+     },
+     {
+      "v": "Trends",
+      "p": 0.82
+     },
+     {
+      "v": "Coach",
+      "p": 0.796
+     }
+    ],
+    "votes": 5,
+    "p": 0.829,
+    "fair": -485
+   },
+   {
     "id": "nfl|jamespierre|tkl|6|under",
     "sp": "nfl",
     "player": "James Pierre",
@@ -32184,6 +32982,78 @@
     "fair": -482
    },
    {
+    "id": "nfl|bakermayfield|att|35|under",
+    "sp": "nfl",
+    "player": "Baker Mayfield",
+    "team": "TB",
+    "k": "att",
+    "lab": "pass att",
+    "thr": 35,
+    "side": "under",
+    "opp": "DET",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     34,
+     26,
+     44,
+     22,
+     28,
+     34,
+     34,
+     11,
+     3,
+     32
+    ],
+    "dates": [
+     "251211",
+     "251221",
+     "251228",
+     "260103",
+     "260913",
+     "260920",
+     "260927",
+     "261025",
+     "261101",
+     "261108"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 7,
+    "avg10": 26.8,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.861
+     },
+     {
+      "v": "Trends",
+      "p": 0.858
+     },
+     {
+      "v": "Sim",
+      "p": 0.829
+     },
+     {
+      "v": "Judge",
+      "p": 0.828
+     },
+     {
+      "v": "Most common",
+      "p": 0.764
+     }
+    ],
+    "votes": 5,
+    "p": 0.828,
+    "fair": -481
+   },
+   {
     "id": "nfl|camlittle|fgm|1|over",
     "sp": "nfl",
     "player": "Cam Little",
@@ -32254,6 +33124,78 @@
     "fair": -477
    },
    {
+    "id": "nfl|xavierworthy|rry|60|under",
+    "sp": "nfl",
+    "player": "Xavier Worthy",
+    "team": "KC",
+    "k": "rry",
+    "lab": "rush+rec yds",
+    "thr": 60,
+    "side": "under",
+    "opp": "ARI",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     1,
+     18,
+     25,
+     20,
+     70,
+     73,
+     11,
+     13,
+     48,
+     0
+    ],
+    "dates": [
+     "251225",
+     "260914",
+     "260920",
+     "260927",
+     "261004",
+     "261018",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 4,
+    "avg10": 27.9,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.867
+     },
+     {
+      "v": "Sim",
+      "p": 0.834
+     },
+     {
+      "v": "Judge",
+      "p": 0.826
+     },
+     {
+      "v": "Most common",
+      "p": 0.816
+     },
+     {
+      "v": "Coach",
+      "p": 0.787
+     }
+    ],
+    "votes": 5,
+    "p": 0.826,
+    "fair": -475
+   },
+   {
     "id": "nfl|zackbaun|tkl|4|over",
     "sp": "nfl",
     "player": "Zack Baun",
@@ -32315,70 +33257,6 @@
      {
       "v": "Coach",
       "p": 0.808
-     }
-    ],
-    "votes": 5,
-    "p": 0.826,
-    "fair": -475
-   },
-   {
-    "id": "nfl|bakermayfield|py|250|under",
-    "sp": "nfl",
-    "player": "Baker Mayfield",
-    "team": "TB",
-    "k": "py",
-    "lab": "pass yds",
-    "thr": 250,
-    "side": "under",
-    "opp": "DET",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     216,
-     182,
-     217,
-     64,
-     0,
-     243
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261025",
-     "261101",
-     "261108"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     6,
-     6
-    ],
-    "streak": 6,
-    "avg10": 153.7,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.838
-     },
-     {
-      "v": "Coach",
-      "p": 0.837
-     },
-     {
-      "v": "Judge",
-      "p": 0.826
-     },
-     {
-      "v": "Sim",
-      "p": 0.815
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
      }
     ],
     "votes": 5,
@@ -32738,146 +33616,6 @@
     "fair": -462
    },
    {
-    "id": "nfl|tonypollard|ry|100|under",
-    "sp": "nfl",
-    "player": "Tony Pollard",
-    "team": "TEN",
-    "k": "ry",
-    "lab": "rush yds",
-    "thr": 100,
-    "side": "under",
-    "opp": "DAL",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     35,
-     64,
-     74,
-     48,
-     52,
-     76,
-     129,
-     117,
-     33
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261115"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     9
-    ],
-    "streak": 1,
-    "avg10": 69.8,
-    "by": [
-     {
-      "v": "Sim",
-      "p": 0.836
-     },
-     {
-      "v": "Trends",
-      "p": 0.836
-     },
-     {
-      "v": "Judge",
-      "p": 0.82
-     },
-     {
-      "v": "Most common",
-      "p": 0.807
-     },
-     {
-      "v": "Coach",
-      "p": 0.799
-     }
-    ],
-    "votes": 5,
-    "p": 0.82,
-    "fair": -454
-   },
-   {
-    "id": "nfl|kennygainwell|car|10|under",
-    "sp": "nfl",
-    "player": "Kenny Gainwell",
-    "team": "TB",
-    "k": "car",
-    "lab": "rush att",
-    "thr": 10,
-    "side": "under",
-    "opp": "DET",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     5,
-     2,
-     3,
-     3,
-     4,
-     2,
-     14,
-     25,
-     5
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261008",
-     "261018",
-     "261025",
-     "261101",
-     "261108"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     9
-    ],
-    "streak": 1,
-    "avg10": 7,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.853
-     },
-     {
-      "v": "Coach",
-      "p": 0.842
-     },
-     {
-      "v": "Sim",
-      "p": 0.824
-     },
-     {
-      "v": "Judge",
-      "p": 0.82
-     },
-     {
-      "v": "Most common",
-      "p": 0.759
-     }
-    ],
-    "votes": 5,
-    "p": 0.82,
-    "fair": -454
-   },
-   {
     "id": "nfl|rjharvey|lry|10|under",
     "sp": "nfl",
     "player": "RJ Harvey",
@@ -33004,146 +33742,6 @@
     "fair": -453
    },
    {
-    "id": "nfl|jahmyrgibbs|ry|50|over",
-    "sp": "nfl",
-    "player": "Jahmyr Gibbs",
-    "team": "DET",
-    "k": "ry",
-    "lab": "rush yds",
-    "thr": 50,
-    "side": "over",
-    "opp": "TB",
-    "home": true,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     156,
-     52,
-     99,
-     46,
-     151,
-     116,
-     153,
-     74,
-     153
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261108",
-     "261115"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     9
-    ],
-    "streak": 5,
-    "avg10": 111.1,
-    "by": [
-     {
-      "v": "Sim",
-      "p": 0.826
-     },
-     {
-      "v": "Trends",
-      "p": 0.826
-     },
-     {
-      "v": "Judge",
-      "p": 0.818
-     },
-     {
-      "v": "Coach",
-      "p": 0.811
-     },
-     {
-      "v": "Most common",
-      "p": 0.81
-     }
-    ],
-    "votes": 5,
-    "p": 0.818,
-    "fair": -450
-   },
-   {
-    "id": "nfl|patrickmahomes|cmp|15|over",
-    "sp": "nfl",
-    "player": "Patrick Mahomes",
-    "team": "KC",
-    "k": "cmp",
-    "lab": "completions",
-    "thr": 15,
-    "side": "over",
-    "opp": "ARI",
-    "home": true,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     15,
-     32,
-     20,
-     15,
-     23,
-     19,
-     30,
-     23,
-     22
-    ],
-    "dates": [
-     "260914",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261025",
-     "261101",
-     "261108",
-     "261115"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     9
-    ],
-    "streak": 9,
-    "avg10": 22.1,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.864
-     },
-     {
-      "v": "Judge",
-      "p": 0.818
-     },
-     {
-      "v": "Most common",
-      "p": 0.807
-     },
-     {
-      "v": "Sim",
-      "p": 0.802
-     },
-     {
-      "v": "Trends",
-      "p": 0.8
-     }
-    ],
-    "votes": 5,
-    "p": 0.818,
-    "fair": -450
-   },
-   {
     "id": "nfl|brandonaubrey|fgm|1|over",
     "sp": "nfl",
     "player": "Brandon Aubrey",
@@ -33216,74 +33814,76 @@
     "fair": -449
    },
    {
-    "id": "nfl|jaredgoff|ptd|1|over",
+    "id": "nfl|chrisgodwinjr|rry|60|under",
     "sp": "nfl",
-    "player": "Jared Goff",
-    "team": "DET",
-    "k": "ptd",
-    "lab": "pass TD",
-    "thr": 1,
-    "side": "over",
-    "opp": "TB",
-    "home": true,
+    "player": "Chris Godwin Jr.",
+    "team": "TB",
+    "k": "rry",
+    "lab": "rush+rec yds",
+    "thr": 60,
+    "side": "under",
+    "opp": "DET",
+    "home": false,
     "start": "2026-11-22T18:00Z",
     "last": [
-     2,
-     4,
-     2,
-     1,
-     3,
-     2,
-     1,
+     8,
+     43,
+     58,
+     25,
+     31,
+     40,
+     37,
+     27,
      0,
-     3
+     28
     ],
     "dates": [
+     "260103",
      "260913",
-     "260917",
+     "260920",
      "260927",
      "261004",
-     "261011",
+     "261008",
+     "261018",
      "261025",
      "261101",
-     "261108",
-     "261115"
+     "261108"
     ],
     "l5": [
-     4,
+     5,
      5
     ],
     "l10": [
-     8,
-     9
+     10,
+     10
     ],
-    "streak": 1,
-    "avg10": 2,
+    "streak": 10,
+    "avg10": 29.7,
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Most common",
-      "p": 0.808
+      "p": 0.84
      },
      {
       "v": "Coach",
-      "p": 0.804
+      "p": 0.825
+     },
+     {
+      "v": "Judge",
+      "p": 0.818
+     },
+     {
+      "v": "Sim",
+      "p": 0.812
+     },
+     {
+      "v": "Most common",
+      "p": 0.797
      }
     ],
     "votes": 5,
-    "p": 0.816,
-    "fair": -443
+    "p": 0.818,
+    "fair": -451
    },
    {
     "id": "nfl|druphillips|tkl|6|under",
@@ -33354,76 +33954,6 @@
     "votes": 5,
     "p": 0.816,
     "fair": -443
-   },
-   {
-    "id": "nfl|tonypollard|car|10|over",
-    "sp": "nfl",
-    "player": "Tony Pollard",
-    "team": "TEN",
-    "k": "car",
-    "lab": "rush att",
-    "thr": 10,
-    "side": "over",
-    "opp": "DAL",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     7,
-     14,
-     17,
-     16,
-     14,
-     19,
-     25,
-     21,
-     9
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261115"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     7,
-     9
-    ],
-    "streak": -1,
-    "avg10": 15.8,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.839
-     },
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Judge",
-      "p": 0.814
-     },
-     {
-      "v": "Sim",
-      "p": 0.801
-     },
-     {
-      "v": "Trends",
-      "p": 0.786
-     }
-    ],
-    "votes": 5,
-    "p": 0.814,
-    "fair": -436
    },
    {
     "id": "nfl|kevinwinstonjr|tkl|4|over",
@@ -33698,6 +34228,78 @@
     "fair": -434
    },
    {
+    "id": "nfl|bakermayfield|py|250|under",
+    "sp": "nfl",
+    "player": "Baker Mayfield",
+    "team": "TB",
+    "k": "py",
+    "lab": "pass yds",
+    "thr": 250,
+    "side": "under",
+    "opp": "DET",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     277,
+     145,
+     346,
+     203,
+     216,
+     182,
+     217,
+     64,
+     0,
+     243
+    ],
+    "dates": [
+     "251211",
+     "251221",
+     "251228",
+     "260103",
+     "260913",
+     "260920",
+     "260927",
+     "261025",
+     "261101",
+     "261108"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 7,
+    "avg10": 189.3,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.843
+     },
+     {
+      "v": "Sim",
+      "p": 0.823
+     },
+     {
+      "v": "Trends",
+      "p": 0.823
+     },
+     {
+      "v": "Judge",
+      "p": 0.814
+     },
+     {
+      "v": "Most common",
+      "p": 0.764
+     }
+    ],
+    "votes": 5,
+    "p": 0.813,
+    "fair": -436
+   },
+   {
     "id": "nfl|davisonigbinosun|tkl|6|under",
     "sp": "nfl",
     "player": "Davison Igbinosun",
@@ -33768,106 +34370,40 @@
     "fair": -431
    },
    {
-    "id": "nfl|kennygainwell|lry|20|under",
+    "id": "nfl|calebwilliams|lry|20|under",
     "sp": "nfl",
-    "player": "Kenny Gainwell",
-    "team": "TB",
+    "player": "Caleb Williams",
+    "team": "CHI",
     "k": "lry",
     "lab": "longest rush yds",
     "thr": 20,
     "side": "under",
-    "opp": "DET",
-    "home": false,
+    "opp": "NO",
+    "home": true,
     "start": "2026-11-22T18:00Z",
     "last": [
-     7,
      6,
-     6,
-     4,
-     7,
-     14,
+     1,
+     11,
+     26,
      29,
-     28,
-     8
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261008",
-     "261018",
-     "261025",
-     "261101",
-     "261108"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
+     17,
+     2,
+     9,
+     2,
      9
     ],
-    "streak": 1,
-    "avg10": 12.1,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.833
-     },
-     {
-      "v": "Coach",
-      "p": 0.82
-     },
-     {
-      "v": "Judge",
-      "p": 0.811
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.789
-     }
-    ],
-    "votes": 5,
-    "p": 0.811,
-    "fair": -430
-   },
-   {
-    "id": "nfl|alvinkamara|car|10|under",
-    "sp": "nfl",
-    "player": "Alvin Kamara",
-    "team": "NO",
-    "k": "car",
-    "lab": "rush att",
-    "thr": 10,
-    "side": "under",
-    "opp": "CHI",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     9,
-     9,
-     7,
-     3,
-     7,
-     6,
-     6,
-     2
-    ],
     "dates": [
+     "251228",
+     "260104",
+     "260110",
+     "260118",
+     "260913",
      "260920",
-     "260927",
-     "261005",
-     "261011",
      "261018",
-     "261025",
-     "261108",
-     "261115"
+     "261022",
+     "261102",
+     "261108"
     ],
     "l5": [
      5,
@@ -33875,35 +34411,179 @@
     ],
     "l10": [
      8,
-     8
+     10
     ],
-    "streak": 8,
-    "avg10": 6.1,
+    "streak": 5,
+    "avg10": 11.2,
     "by": [
      {
-      "v": "Coach",
-      "p": 0.826
-     },
-     {
-      "v": "Most common",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.81
+      "v": "Trends",
+      "p": 0.844
      },
      {
       "v": "Sim",
-      "p": 0.802
+      "p": 0.819
      },
      {
-      "v": "Trends",
-      "p": 0.796
+      "v": "Judge",
+      "p": 0.812
+     },
+     {
+      "v": "Most common",
+      "p": 0.806
+     },
+     {
+      "v": "Coach",
+      "p": 0.78
      }
     ],
     "votes": 5,
-    "p": 0.81,
-    "fair": -426
+    "p": 0.812,
+    "fair": -432
+   },
+   {
+    "id": "nfl|jaredgoff|ptd|1|over",
+    "sp": "nfl",
+    "player": "Jared Goff",
+    "team": "DET",
+    "k": "ptd",
+    "lab": "pass TD",
+    "thr": 1,
+    "side": "over",
+    "opp": "TB",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     1,
+     2,
+     4,
+     2,
+     1,
+     3,
+     2,
+     1,
+     0,
+     3
+    ],
+    "dates": [
+     "260104",
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 1,
+    "avg10": 1.9,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.817
+     },
+     {
+      "v": "Sim",
+      "p": 0.815
+     },
+     {
+      "v": "Trends",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.811
+     },
+     {
+      "v": "Coach",
+      "p": 0.801
+     }
+    ],
+    "votes": 5,
+    "p": 0.811,
+    "fair": -429
+   },
+   {
+    "id": "nfl|camward|att|25|over",
+    "sp": "nfl",
+    "player": "Cam Ward",
+    "team": "TEN",
+    "k": "att",
+    "lab": "pass att",
+    "thr": 25,
+    "side": "over",
+    "opp": "DAL",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     3,
+     32,
+     20,
+     36,
+     31,
+     36,
+     22,
+     31,
+     40,
+     39
+    ],
+    "dates": [
+     "260104",
+     "260913",
+     "260920",
+     "260927",
+     "261004",
+     "261011",
+     "261018",
+     "261025",
+     "261101",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 3,
+    "avg10": 29,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.856
+     },
+     {
+      "v": "Judge",
+      "p": 0.811
+     },
+     {
+      "v": "Trends",
+      "p": 0.808
+     },
+     {
+      "v": "Sim",
+      "p": 0.799
+     },
+     {
+      "v": "Most common",
+      "p": 0.78
+     }
+    ],
+    "votes": 5,
+    "p": 0.811,
+    "fair": -429
    },
    {
     "id": "nfl|javontewilliams|ry|100|under",
@@ -33971,76 +34651,6 @@
      {
       "v": "Coach",
       "p": 0.789
-     }
-    ],
-    "votes": 5,
-    "p": 0.81,
-    "fair": -426
-   },
-   {
-    "id": "nfl|dkmetcalf|wy|80|under",
-    "sp": "nfl",
-    "player": "DK Metcalf",
-    "team": "PIT",
-    "k": "wy",
-    "lab": "rec yds",
-    "thr": 80,
-    "side": "under",
-    "opp": "PHI",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     40,
-     27,
-     31,
-     115,
-     12,
-     93,
-     56,
-     4,
-     54
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261001",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261115"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     7,
-     9
-    ],
-    "streak": 3,
-    "avg10": 48,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.813
-     },
-     {
-      "v": "Sim",
-      "p": 0.81
-     },
-     {
-      "v": "Judge",
-      "p": 0.81
-     },
-     {
-      "v": "Most common",
-      "p": 0.809
-     },
-     {
-      "v": "Coach",
-      "p": 0.808
      }
     ],
     "votes": 5,
@@ -34116,6 +34726,78 @@
     "votes": 5,
     "p": 0.809,
     "fair": -423
+   },
+   {
+    "id": "nfl|alvinkamara|rry|80|under",
+    "sp": "nfl",
+    "player": "Alvin Kamara",
+    "team": "NO",
+    "k": "rry",
+    "lab": "rush+rec yds",
+    "thr": 80,
+    "side": "under",
+    "opp": "CHI",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     115,
+     15,
+     22,
+     41,
+     58,
+     6,
+     69,
+     62,
+     49,
+     14
+    ],
+    "dates": [
+     "251109",
+     "251123",
+     "260920",
+     "260927",
+     "261005",
+     "261011",
+     "261018",
+     "261025",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 9,
+    "avg10": 45.1,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.822
+     },
+     {
+      "v": "Coach",
+      "p": 0.821
+     },
+     {
+      "v": "Judge",
+      "p": 0.809
+     },
+     {
+      "v": "Sim",
+      "p": 0.801
+     },
+     {
+      "v": "Most common",
+      "p": 0.79
+     }
+    ],
+    "votes": 5,
+    "p": 0.809,
+    "fair": -422
    },
    {
     "id": "nfl|malachifields|rry|60|under",
@@ -34252,142 +34934,6 @@
     "votes": 5,
     "p": 0.809,
     "fair": -424
-   },
-   {
-    "id": "nfl|camward|py|250|under",
-    "sp": "nfl",
-    "player": "Cam Ward",
-    "team": "TEN",
-    "k": "py",
-    "lab": "pass yds",
-    "thr": 250,
-    "side": "under",
-    "opp": "DAL",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     140,
-     183,
-     181,
-     222,
-     170,
-     102,
-     181,
-     304,
-     231
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261115"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     9
-    ],
-    "streak": 1,
-    "avg10": 190.4,
-    "by": [
-     {
-      "v": "Sim",
-      "p": 0.834
-     },
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Judge",
-      "p": 0.808
-     },
-     {
-      "v": "Most common",
-      "p": 0.788
-     },
-     {
-      "v": "Coach",
-      "p": 0.775
-     }
-    ],
-    "votes": 5,
-    "p": 0.808,
-    "fair": -420
-   },
-   {
-    "id": "nfl|elijahhiggins|lwy|25|under",
-    "sp": "nfl",
-    "player": "Elijah Higgins",
-    "team": "ARI",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 25,
-    "side": "under",
-    "opp": "KC",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     9,
-     17,
-     38,
-     17,
-     14,
-     6,
-     7
-    ],
-    "dates": [
-     "260927",
-     "261004",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261108"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     6,
-     7
-    ],
-    "streak": 4,
-    "avg10": 15.4,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.839
-     },
-     {
-      "v": "Judge",
-      "p": 0.808
-     },
-     {
-      "v": "Most common",
-      "p": 0.799
-     },
-     {
-      "v": "Sim",
-      "p": 0.798
-     },
-     {
-      "v": "Trends",
-      "p": 0.797
-     }
-    ],
-    "votes": 5,
-    "p": 0.808,
-    "fair": -421
    },
    {
     "id": "nfl|malcolmrodriguez|tkl|6|under",
@@ -35560,6 +36106,78 @@
     "fair": -403
    },
    {
+    "id": "nfl|juwanjohnson|lwy|30|under",
+    "sp": "nfl",
+    "player": "Juwan Johnson",
+    "team": "NO",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 30,
+    "side": "under",
+    "opp": "CHI",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     28,
+     27,
+     25,
+     22,
+     23,
+     6,
+     0,
+     7,
+     19,
+     20
+    ],
+    "dates": [
+     "260104",
+     "260913",
+     "260920",
+     "260927",
+     "261005",
+     "261011",
+     "261018",
+     "261025",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 17.7,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.818
+     },
+     {
+      "v": "Coach",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.801
+     },
+     {
+      "v": "Sim",
+      "p": 0.792
+     },
+     {
+      "v": "Most common",
+      "p": 0.779
+     }
+    ],
+    "votes": 5,
+    "p": 0.801,
+    "fair": -402
+   },
+   {
     "id": "nfl|jordanwatkins|rry|80|under",
     "sp": "nfl",
     "player": "Jordan Watkins",
@@ -35690,6 +36308,78 @@
     "votes": 5,
     "p": 0.801,
     "fair": -402
+   },
+   {
+    "id": "nfl|jaredgoff|py|200|over",
+    "sp": "nfl",
+    "player": "Jared Goff",
+    "team": "DET",
+    "k": "py",
+    "lab": "pass yds",
+    "thr": 200,
+    "side": "over",
+    "opp": "TB",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     331,
+     206,
+     327,
+     269,
+     412,
+     271,
+     303,
+     176,
+     170,
+     303
+    ],
+    "dates": [
+     "260104",
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 1,
+    "avg10": 276.8,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.83
+     },
+     {
+      "v": "Sim",
+      "p": 0.803
+     },
+     {
+      "v": "Trends",
+      "p": 0.803
+     },
+     {
+      "v": "Judge",
+      "p": 0.8
+     },
+     {
+      "v": "Coach",
+      "p": 0.763
+     }
+    ],
+    "votes": 5,
+    "p": 0.8,
+    "fair": -400
    },
    {
     "id": "nfl|willutz|fgm|1|over",
@@ -36182,6 +36872,78 @@
     "fair": -396
    },
    {
+    "id": "nfl|traviskelce|wy|80|under",
+    "sp": "nfl",
+    "player": "Travis Kelce",
+    "team": "KC",
+    "k": "wy",
+    "lab": "rec yds",
+    "thr": 80,
+    "side": "under",
+    "opp": "ARI",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     12,
+     71,
+     101,
+     59,
+     15,
+     53,
+     44,
+     67,
+     72,
+     30
+    ],
+    "dates": [
+     "260104",
+     "260914",
+     "260920",
+     "260927",
+     "261004",
+     "261018",
+     "261025",
+     "261101",
+     "261108",
+     "261115"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 7,
+    "avg10": 52.4,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Most common",
+      "p": 0.809
+     },
+     {
+      "v": "Judge",
+      "p": 0.797
+     },
+     {
+      "v": "Coach",
+      "p": 0.751
+     }
+    ],
+    "votes": 5,
+    "p": 0.797,
+    "fair": -392
+   },
+   {
     "id": "nfl|harrisonphillips|tkl|6|under",
     "sp": "nfl",
     "player": "Harrison Phillips",
@@ -36380,76 +37142,6 @@
     "votes": 5,
     "p": 0.797,
     "fair": -393
-   },
-   {
-    "id": "nfl|jamesonwilliams|wy|80|under",
-    "sp": "nfl",
-    "player": "Jameson Williams",
-    "team": "DET",
-    "k": "wy",
-    "lab": "rec yds",
-    "thr": 80,
-    "side": "under",
-    "opp": "TB",
-    "home": true,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     45,
-     33,
-     49,
-     102,
-     47,
-     91,
-     70,
-     31,
-     50
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261108",
-     "261115"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     7,
-     9
-    ],
-    "streak": 3,
-    "avg10": 57.6,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.816
-     },
-     {
-      "v": "Judge",
-      "p": 0.796
-     },
-     {
-      "v": "Sim",
-      "p": 0.79
-     },
-     {
-      "v": "Most common",
-      "p": 0.79
-     },
-     {
-      "v": "Trends",
-      "p": 0.79
-     }
-    ],
-    "votes": 5,
-    "p": 0.796,
-    "fair": -391
    },
    {
     "id": "nfl|foyesadeoluokun|tkl|4|over",
@@ -36728,6 +37420,150 @@
     "fair": -388
    },
    {
+    "id": "nfl|dkmetcalf|wy|80|under",
+    "sp": "nfl",
+    "player": "DK Metcalf",
+    "team": "PIT",
+    "k": "wy",
+    "lab": "rec yds",
+    "thr": 80,
+    "side": "under",
+    "opp": "PHI",
+    "home": false,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     42,
+     40,
+     27,
+     31,
+     115,
+     12,
+     93,
+     56,
+     4,
+     54
+    ],
+    "dates": [
+     "260112",
+     "260913",
+     "260920",
+     "260927",
+     "261001",
+     "261011",
+     "261018",
+     "261025",
+     "261101",
+     "261115"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 3,
+    "avg10": 47.4,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.801
+     },
+     {
+      "v": "Sim",
+      "p": 0.795
+     },
+     {
+      "v": "Judge",
+      "p": 0.795
+     },
+     {
+      "v": "Most common",
+      "p": 0.792
+     },
+     {
+      "v": "Coach",
+      "p": 0.792
+     }
+    ],
+    "votes": 5,
+    "p": 0.795,
+    "fair": -388
+   },
+   {
+    "id": "nfl|calebwilliams|py|200|over",
+    "sp": "nfl",
+    "player": "Caleb Williams",
+    "team": "CHI",
+    "k": "py",
+    "lab": "pass yds",
+    "thr": 200,
+    "side": "over",
+    "opp": "NO",
+    "home": true,
+    "start": "2026-11-22T18:00Z",
+    "last": [
+     330,
+     212,
+     361,
+     257,
+     269,
+     138,
+     305,
+     308,
+     247,
+     279
+    ],
+    "dates": [
+     "251228",
+     "260104",
+     "260110",
+     "260118",
+     "260913",
+     "260920",
+     "261018",
+     "261022",
+     "261102",
+     "261108"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 4,
+    "avg10": 270.6,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.858
+     },
+     {
+      "v": "Judge",
+      "p": 0.795
+     },
+     {
+      "v": "Sim",
+      "p": 0.791
+     },
+     {
+      "v": "Trends",
+      "p": 0.791
+     },
+     {
+      "v": "Most common",
+      "p": 0.741
+     }
+    ],
+    "votes": 5,
+    "p": 0.795,
+    "fair": -388
+   },
+   {
     "id": "nfl|jalenhurts|cmp|25|under",
     "sp": "nfl",
     "player": "Jalen Hurts",
@@ -36788,759 +37624,9 @@
     "votes": 5,
     "p": 0.795,
     "fair": -387
-   },
-   {
-    "id": "nfl|jordanmason|ry|75|under",
-    "sp": "nfl",
-    "player": "Jordan Mason",
-    "team": "MIN",
-    "k": "ry",
-    "lab": "rush yds",
-    "thr": 75,
-    "side": "under",
-    "opp": "SF",
-    "home": false,
-    "start": "2026-11-23T01:20Z",
-    "last": [
-     59,
-     68,
-     20,
-     35,
-     59
-    ],
-    "dates": [
-     "260913",
-     "261025",
-     "261101",
-     "261109",
-     "261115"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     5,
-     5
-    ],
-    "streak": 5,
-    "avg10": 48.2,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.794
-     },
-     {
-      "v": "Judge",
-      "p": 0.794
-     },
-     {
-      "v": "Sim",
-      "p": 0.789
-     },
-     {
-      "v": "Trends",
-      "p": 0.789
-     }
-    ],
-    "votes": 5,
-    "p": 0.794,
-    "fair": -385
-   },
-   {
-    "id": "nfl|justinherbert|lry|20|under",
-    "sp": "nfl",
-    "player": "Justin Herbert",
-    "team": "LAC",
-    "k": "lry",
-    "lab": "longest rush yds",
-    "thr": 20,
-    "side": "under",
-    "opp": "NYJ",
-    "home": true,
-    "start": "2026-11-22T21:05Z",
-    "last": [
-     11,
-     2,
-     7,
-     26,
-     23,
-     7,
-     5,
-     7,
-     22
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261018",
-     "261101",
-     "261108",
-     "261116"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     6,
-     9
-    ],
-    "streak": -1,
-    "avg10": 12.2,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.81
-     },
-     {
-      "v": "Sim",
-      "p": 0.801
-     },
-     {
-      "v": "Most common",
-      "p": 0.797
-     },
-     {
-      "v": "Judge",
-      "p": 0.794
-     },
-     {
-      "v": "Coach",
-      "p": 0.769
-     }
-    ],
-    "votes": 5,
-    "p": 0.794,
-    "fair": -386
-   },
-   {
-    "id": "nfl|rjharvey|rry|80|under",
-    "sp": "nfl",
-    "player": "RJ Harvey",
-    "team": "DEN",
-    "k": "rry",
-    "lab": "rush+rec yds",
-    "thr": 80,
-    "side": "under",
-    "opp": "LV",
-    "home": true,
-    "start": "2026-11-22T21:25Z",
-    "last": [
-     41,
-     47,
-     93,
-     7,
-     56,
-     60
-    ],
-    "dates": [
-     "260914",
-     "260927",
-     "261004",
-     "261011",
-     "261015",
-     "261025"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     5,
-     6
-    ],
-    "streak": 3,
-    "avg10": 50.7,
-    "by": [
-     {
-      "v": "Sim",
-      "p": 0.816
-     },
-     {
-      "v": "Most common",
-      "p": 0.816
-     },
-     {
-      "v": "Trends",
-      "p": 0.816
-     },
-     {
-      "v": "Judge",
-      "p": 0.794
-     },
-     {
-      "v": "Coach",
-      "p": 0.729
-     }
-    ],
-    "votes": 5,
-    "p": 0.794,
-    "fair": -386
-   },
-   {
-    "id": "nfl|tonypollard|lry|10|over",
-    "sp": "nfl",
-    "player": "Tony Pollard",
-    "team": "TEN",
-    "k": "lry",
-    "lab": "longest rush yds",
-    "thr": 10,
-    "side": "over",
-    "opp": "DAL",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     13,
-     18,
-     16,
-     7,
-     14,
-     16,
-     36,
-     40,
-     15
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261115"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     9
-    ],
-    "streak": 5,
-    "avg10": 19.4,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.812
-     },
-     {
-      "v": "Most common",
-      "p": 0.796
-     },
-     {
-      "v": "Judge",
-      "p": 0.793
-     },
-     {
-      "v": "Sim",
-      "p": 0.789
-     },
-     {
-      "v": "Trends",
-      "p": 0.774
-     }
-    ],
-    "votes": 5,
-    "p": 0.793,
-    "fair": -383
-   },
-   {
-    "id": "nfl|trevonmoehrig|tkl|6|under",
-    "sp": "nfl",
-    "player": "Tre'von Moehrig",
-    "team": "CAR",
-    "k": "tkl",
-    "lab": "tackles",
-    "thr": 6,
-    "side": "under",
-    "opp": "BAL",
-    "home": true,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     3,
-     5,
-     4,
-     5,
-     4,
-     3,
-     5,
-     3,
-     3
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261025",
-     "261029",
-     "261108",
-     "261115"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     9
-    ],
-    "streak": 9,
-    "avg10": 3.9,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.804
-     },
-     {
-      "v": "Sim",
-      "p": 0.801
-     },
-     {
-      "v": "Trends",
-      "p": 0.794
-     },
-     {
-      "v": "Judge",
-      "p": 0.793
-     },
-     {
-      "v": "Coach",
-      "p": 0.774
-     }
-    ],
-    "votes": 5,
-    "p": 0.793,
-    "fair": -384
-   },
-   {
-    "id": "nfl|olliegordonii|car|10|over",
-    "sp": "nfl",
-    "player": "Ollie Gordon II",
-    "team": "MIA",
-    "k": "car",
-    "lab": "rush att",
-    "thr": 10,
-    "side": "over",
-    "opp": "BUF",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     3,
-     17,
-     9,
-     18,
-     25,
-     19,
-     16,
-     20
-    ],
-    "dates": [
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261108",
-     "261115"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     6,
-     8
-    ],
-    "streak": 5,
-    "avg10": 15.9,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.823
-     },
-     {
-      "v": "Sim",
-      "p": 0.794
-     },
-     {
-      "v": "Judge",
-      "p": 0.792
-     },
-     {
-      "v": "Trends",
-      "p": 0.778
-     },
-     {
-      "v": "Coach",
-      "p": 0.773
-     }
-    ],
-    "votes": 5,
-    "p": 0.792,
-    "fair": -381
-   },
-   {
-    "id": "nfl|aaronrodgers|cmp|15|over",
-    "sp": "nfl",
-    "player": "Aaron Rodgers",
-    "team": "PIT",
-    "k": "cmp",
-    "lab": "completions",
-    "thr": 15,
-    "side": "over",
-    "opp": "PHI",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     24,
-     23,
-     19,
-     22,
-     22,
-     33,
-     19,
-     13,
-     15
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261001",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261115"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     9
-    ],
-    "streak": 1,
-    "avg10": 21.1,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.798
-     },
-     {
-      "v": "Coach",
-      "p": 0.796
-     },
-     {
-      "v": "Sim",
-      "p": 0.792
-     },
-     {
-      "v": "Judge",
-      "p": 0.792
-     },
-     {
-      "v": "Most common",
-      "p": 0.781
-     }
-    ],
-    "votes": 5,
-    "p": 0.792,
-    "fair": -380
-   },
-   {
-    "id": "nfl|treymcbride|lwy|25|under",
-    "sp": "nfl",
-    "player": "Trey McBride",
-    "team": "ARI",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 25,
-    "side": "under",
-    "opp": "KC",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     27,
-     9,
-     18,
-     9,
-     11,
-     26,
-     27,
-     15,
-     19,
-     13
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261011",
-     "261018",
-     "261025",
-     "261101",
-     "261108",
-     "261115"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 3,
-    "avg10": 17.4,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.833
-     },
-     {
-      "v": "Judge",
-      "p": 0.791
-     },
-     {
-      "v": "Most common",
-      "p": 0.779
-     },
-     {
-      "v": "Sim",
-      "p": 0.777
-     },
-     {
-      "v": "Trends",
-      "p": 0.773
-     }
-    ],
-    "votes": 5,
-    "p": 0.791,
-    "fair": -378
-   },
-   {
-    "id": "nfl|jameldean|tkl|6|under",
-    "sp": "nfl",
-    "player": "Jamel Dean",
-    "team": "PIT",
-    "k": "tkl",
-    "lab": "tackles",
-    "thr": 6,
-    "side": "under",
-    "opp": "PHI",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     5,
-     3,
-     5,
-     1,
-     4,
-     7,
-     5,
-     2
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261001",
-     "261018",
-     "261025",
-     "261101",
-     "261115"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     7,
-     8
-    ],
-    "streak": 2,
-    "avg10": 4,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.795
-     },
-     {
-      "v": "Sim",
-      "p": 0.793
-     },
-     {
-      "v": "Judge",
-      "p": 0.791
-     },
-     {
-      "v": "Coach",
-      "p": 0.79
-     },
-     {
-      "v": "Trends",
-      "p": 0.787
-     }
-    ],
-    "votes": 5,
-    "p": 0.791,
-    "fair": -379
-   },
-   {
-    "id": "nfl|dallasgoedert|lwy|30|under",
-    "sp": "nfl",
-    "player": "Dallas Goedert",
-    "team": "PHI",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 30,
-    "side": "under",
-    "opp": "PIT",
-    "home": true,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     43,
-     4,
-     17,
-     18,
-     18,
-     16,
-     19
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "261011",
-     "261018",
-     "261026",
-     "261101",
-     "261108"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     6,
-     7
-    ],
-    "streak": 6,
-    "avg10": 19.3,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.81
-     },
-     {
-      "v": "Most common",
-      "p": 0.794
-     },
-     {
-      "v": "Judge",
-      "p": 0.791
-     },
-     {
-      "v": "Sim",
-      "p": 0.787
-     },
-     {
-      "v": "Trends",
-      "p": 0.772
-     }
-    ],
-    "votes": 5,
-    "p": 0.791,
-    "fair": -378
-   },
-   {
-    "id": "nfl|zyonmccollum|tkl|6|under",
-    "sp": "nfl",
-    "player": "Zyon McCollum",
-    "team": "TB",
-    "k": "tkl",
-    "lab": "tackles",
-    "thr": 6,
-    "side": "under",
-    "opp": "DET",
-    "home": false,
-    "start": "2026-11-22T18:00Z",
-    "last": [
-     9,
-     3,
-     1,
-     3,
-     0,
-     11,
-     2,
-     1,
-     5
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261008",
-     "261018",
-     "261025",
-     "261101",
-     "261108"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     7,
-     9
-    ],
-    "streak": 3,
-    "avg10": 3.9,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.808
-     },
-     {
-      "v": "Most common",
-      "p": 0.804
-     },
-     {
-      "v": "Judge",
-      "p": 0.791
-     },
-     {
-      "v": "Sim",
-      "p": 0.79
-     },
-     {
-      "v": "Trends",
-      "p": 0.761
-     }
-    ],
-    "votes": 5,
-    "p": 0.791,
-    "fair": -378
    }
   ]
  },
- "betaSig": "[[\"nfl|willreichard|fgm|1|over5\",\"nfl|tylerallgeier|car|15|under5\",\"nfl|jasonsanders|fgm|1|over5\",\"nfl|kendremiller|car|15|under5\",\"nfl|chasemclaughlin|fgm|1|over5\",\"nfl|davidbailey|tkl|8|under5\",\"nfl|dandreswift|car|10|over5\",\"nfl|chubahubbard|car|10|over5\",\"nfl|buckyirving|car|10|over5\",\"nfl|jasonsanders|kpts|5|over5\",\"nfl|jacobybrissett|cmp|15|over5\",\"nfl|roquansmith|tkl|4|over5\",\"nfl|arvellreese|tkl|4|over5\",\"nfl|elijahmolden|tkl|8|under5\",\"nfl|jamiensherwood|tkl|4|over5\",\"nfl|javontewilliams|car|10|over5\",\"nfl|ricodowdle|rry|80|under5\",\"nfl|tylerbass|fgm|1|over5\",\"nfl|jordanmason|car|20|under5\",\"nfl|druetranquill|tkl|4|over5\",\"nfl|bhayshultuten|ry|100|under5\",\"nfl|chadryland|fgm|1|over5\",\"nfl|saquonbarkley|car|15|under5\",\"nfl|olliegordonii|ry|100|under5\",\"nfl|chrisjohnson|tkl|8|under5\",\"nfl|mattgay|kpts|5|over5\",\"nfl|alontaetaylor|tkl|8|under5\",\"nfl|jakebates|kpts|5|over5\",\"nfl|emekaegbuka|lwy|25|under5\",\"nfl|ljariussneed|tkl|8|under5\",\"nfl|trevorlawrence|ptd|1|over5\",\"nfl|malikwashington|rry|60|under5\",\"nfl|brandonaubrey|kpts|5|over5\",\"nfl|malikmustapha|tkl|6|under5\",\"nfl|cairosantos|kpts|5|over5\",\"nfl|chrisboswell|fgm|1|over5\",\"nfl|tykeesmith|tkl|8|under5\",\"nfl|jordanmason|rry|80|under5\",\"nfl|danebelton|tkl|4|over5\",\"nfl|chamarriconner|tkl|8|under5\",\"nfl|mattgay|fgm|1|over5\",\"nfl|kirkcousins|ptd|1|over5\",\"nfl|patsurtainii|tkl|8|under5\",\"nfl|jefferysimmons|tkl|8|under5\",\"nfl|bhayshultuten|car|10|over5\",\"nfl|kadenelliss|tkl|4|over5\",\"nfl|chadryland|kpts|5|over5\",\"nfl|patrickqueen|tkl|4|over5\",\"nfl|dannystutsman|tkl|8|under5\",\"nfl|breecehall|lry|20|under5\",\"nfl|braelonallen|ry|100|under5\",\"nfl|ericstokes|tkl|6|under5\",\"nfl|chrisboswell|kpts|5|over5\",\"nfl|andrewmukuba|tkl|8|under5\",\"nfl|deewinters|tkl|8|under5\",\"nfl|ifeatumelifonwu|tkl|6|under5\",\"nfl|antoinewinfieldjr|tkl|8|under5\",\"nfl|jaredgoff|cmp|15|over5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|bryceyoung|cmp|15|over5\",\"nfl|brandincooks|lwy|15|under5\",\"nfl|danielcarlson|kpts|9|under5\",\"nfl|rileypatterson|kpts|9|under5\",\"nfl|devinlloyd|tkl|4|over5\",\"nfl|brockpurdy|ptd|1|over5\",\"nfl|asantesamueljr|tkl|6|under5\",\"nfl|justinherbert|cmp|25|under5\",\"nfl|jamespierre|tkl|6|under5\",\"nfl|quaywalker|tkl|4|over5\",\"nfl|rasheerice|rry|100|under5\",\"nfl|delshawnphillips|tkl|8|under5\",\"nfl|camlittle|fgm|1|over5\",\"nfl|zackbaun|tkl|4|over5\",\"nfl|bakermayfield|py|250|under5\",\"nfl|jujubrents|tkl|6|under5\",\"nfl|jalenramsey|tkl|8|under5\",\"nfl|riqwoolen|tkl|6|under5\",\"nfl|camerondicker|fgm|1|over5\",\"nfl|khalilshakir|wy|80|under5\",\"nfl|tonypollard|ry|100|under5\",\"nfl|kennygainwell|car|10|under5\",\"nfl|rjharvey|lry|10|under5\",\"nfl|jakobilane|lwy|25|under5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|patrickmahomes|cmp|15|over5\",\"nfl|brandonaubrey|fgm|1|over5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|druphillips|tkl|6|under5\",\"nfl|tonypollard|car|10|over5\",\"nfl|kevinwinstonjr|tkl|4|over5\",\"nfl|tarheebstill|tkl|6|under5\",\"nfl|petewerner|tkl|4|over5\",\"nfl|deontebanks|tkl|6|under5\",\"nfl|davisonigbinosun|tkl|6|under5\",\"nfl|kennygainwell|lry|20|under5\",\"nfl|alvinkamara|car|10|under5\",\"nfl|javontewilliams|ry|100|under5\",\"nfl|dkmetcalf|wy|80|under5\",\"nfl|justinjefferson|wy|80|under5\",\"nfl|malachifields|rry|60|under5\",\"nfl|saquonbarkley|rry|80|under5\",\"nfl|camward|py|250|under5\",\"nfl|elijahhiggins|lwy|25|under5\",\"nfl|malcolmrodriguez|tkl|6|under5\",\"nfl|chrisrodriguezjr|car|10|under5\",\"nfl|bryceyoung|py|200|over5\",\"nfl|minkahfitzpatrick|tkl|4|over5\",\"nfl|najeeharris|car|10|under5\",\"nfl|travishunter|tkl|6|under5\",\"nfl|ashtonjeanty|lry|15|under5\",\"nfl|aaronrodgers|att|25|over5\",\"nfl|dominiczvada|fgm|1|over5\",\"nfl|kirkcousins|cmp|15|over5\",\"nfl|terrelbernard|tkl|4|over5\",\"nfl|dregreenlaw|tkl|4|over5\",\"nfl|kylehamilton|tkl|4|over5\",\"nfl|devinsingletary|car|10|under5\",\"nfl|isaiahlikely|rry|100|under5\",\"nfl|jackcampbell|tkl|4|over5\",\"nfl|justinjefferson|rry|80|under5\",\"nfl|jordanwatkins|rry|80|under5\",\"nfl|patfreiermuth|lwy|25|under5\",\"nfl|willutz|fgm|1|over5\",\"nfl|georgekarlaftis|tkl|6|under5\",\"nfl|chubahubbard|lry|10|over5\",\"nfl|amanihooker|tkl|4|over5\",\"nfl|jamescookiii|car|15|over5\",\"nfl|garrettwilson|lwy|15|over5\",\"nfl|robertspearsjennings|tkl|6|under5\",\"nfl|harrisonphillips|tkl|6|under5\",\"nfl|marcusepps|tkl|6|under5\",\"nfl|jaquanmcmillian|tkl|6|under5\",\"nfl|jamesonwilliams|wy|80|under5\",\"nfl|foyesadeoluokun|tkl|4|over5\",\"nfl|bryceyoung|ptd|1|over5\",\"nfl|koolaidmckinstry|tkl|6|under5\",\"nfl|kimanividal|lwy|15|under5\",\"nfl|jalenhurts|cmp|25|under5\",\"nfl|jordanmason|ry|75|under5\",\"nfl|justinherbert|lry|20|under5\",\"nfl|rjharvey|rry|80|under5\",\"nfl|tonypollard|lry|10|over5\",\"nfl|trevonmoehrig|tkl|6|under5\",\"nfl|olliegordonii|car|10|over5\",\"nfl|aaronrodgers|cmp|15|over5\",\"nfl|treymcbride|lwy|25|under5\",\"nfl|jameldean|tkl|6|under5\",\"nfl|dallasgoedert|lwy|30|under5\",\"nfl|zyonmccollum|tkl|6|under5\"],[],[[1,[\"strong\"],13],[1,[\"value\"],7],[1,[\"supreme*\"],15],[2,[\"supreme\",\"strong\"],15],[2,[\"supreme*\",\"supreme\"],13],[0,[],13],[2,[\"strong\",\"value\"],12],[0,[],12],[1,[\"value\"],10],[0,[],14],[0,[],16],[1,[\"supreme*!\"],16],[1,[\"strong\"],14],[1,[\"value\"],17],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],15],[2,[\"strong\",\"value\"],11],[0,[],9],[1,[\"strong\"],12],[0,[],12],[0,[],13],[2,[\"strong\",\"strong\"],17],[1,[\"value\"],17],[1,[\"value\"],10],[1,[\"supreme\"],17],[0,[],17],[1,[\"strong\"],10],[0,[],13],[1,[\"value\"],11],[0,[],16],[2,[\"strong!\",\"strong\"],16],[1,[\"supreme*\"],16],[1,[\"value\"],15],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[0,[],15],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],10],[0,[],11],[2,[\"supreme*\",\"strong!\"],14],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"strong\"],12],[1,[\"supreme\"],15],[1,[\"value\"],14],[1,[\"strong\"],14],[1,[\"strong\"],13],[0,[],12],[1,[\"strong\"],10],[2,[\"supreme*\",\"supreme\"],15],[1,[\"supreme*\"],15],[2,[\"strong\",\"strong\"],14],[3,[\"supreme\",\"strong\",\"value\"],11],[0,[],10],[0,[],16],[2,[\"supreme*\",\"value\"],14],[1,[\"supreme*!\"],14],[0,[],14],[2,[\"supreme*\",\"value\"],15],[1,[\"strong\"],12],[1,[\"strong\"],15]],[6,13,[null,null,null,null]],[[9,[null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[1,[null]],[1,[null]],[7,[null,null,null,null,null,null,null]],[0,[]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[1,[null]],[4,[null,null,null,null]],[3,[null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"nfl|dandreswift|car|10|over5\",\"nfl|willreichard|fgm|1|over5\",\"nfl|tylerallgeier|car|15|under5\",\"nfl|jasonsanders|fgm|1|over5\",\"nfl|kendremiller|car|15|under5\",\"nfl|chasemclaughlin|fgm|1|over5\",\"nfl|davidbailey|tkl|8|under5\",\"nfl|dandreswift|ry|100|under5\",\"nfl|chubahubbard|car|10|over5\",\"nfl|jaredgoff|cmp|15|over5\",\"nfl|justinfields|car|10|under5\",\"nfl|buckyirving|car|10|over5\",\"nfl|jasonsanders|kpts|5|over5\",\"nfl|jacobybrissett|cmp|15|over5\",\"nfl|roquansmith|tkl|4|over5\",\"nfl|arvellreese|tkl|4|over5\",\"nfl|elijahmolden|tkl|8|under5\",\"nfl|jamiensherwood|tkl|4|over5\",\"nfl|javontewilliams|car|10|over5\",\"nfl|ricodowdle|rry|80|under5\",\"nfl|samlaporta|wy|80|under5\",\"nfl|tylerbass|fgm|1|over5\",\"nfl|jordanmason|car|20|under5\",\"nfl|druetranquill|tkl|4|over5\",\"nfl|bhayshultuten|ry|100|under5\",\"nfl|tonypollard|car|10|over5\",\"nfl|chadryland|fgm|1|over5\",\"nfl|saquonbarkley|car|15|under5\",\"nfl|olliegordonii|ry|100|under5\",\"nfl|chrisjohnson|tkl|8|under5\",\"nfl|mattgay|kpts|5|over5\",\"nfl|calebwilliams|cmp|15|over5\",\"nfl|alontaetaylor|tkl|8|under5\",\"nfl|jakebates|kpts|5|over5\",\"nfl|emekaegbuka|lwy|25|under5\",\"nfl|samlaporta|rry|80|under5\",\"nfl|ljariussneed|tkl|8|under5\",\"nfl|trevorlawrence|ptd|1|over5\",\"nfl|malikwashington|rry|60|under5\",\"nfl|brandonaubrey|kpts|5|over5\",\"nfl|travisetiennejr|ry|75|under5\",\"nfl|malikmustapha|tkl|6|under5\",\"nfl|alvinkamara|lry|15|under5\",\"nfl|cairosantos|kpts|5|over5\",\"nfl|chrisboswell|fgm|1|over5\",\"nfl|tykeesmith|tkl|8|under5\",\"nfl|jordanmason|rry|80|under5\",\"nfl|patrickmahomes|lry|15|under5\",\"nfl|danebelton|tkl|4|over5\",\"nfl|chamarriconner|tkl|8|under5\",\"nfl|mattgay|fgm|1|over5\",\"nfl|kirkcousins|ptd|1|over5\",\"nfl|patsurtainii|tkl|8|under5\",\"nfl|jefferysimmons|tkl|8|under5\",\"nfl|bhayshultuten|car|10|over5\",\"nfl|kadenelliss|tkl|4|over5\",\"nfl|chadryland|kpts|5|over5\",\"nfl|patrickqueen|tkl|4|over5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|camward|cmp|15|over5\",\"nfl|dannystutsman|tkl|8|under5\",\"nfl|breecehall|lry|20|under5\",\"nfl|braelonallen|ry|100|under5\",\"nfl|ericstokes|tkl|6|under5\",\"nfl|chrisboswell|kpts|5|over5\",\"nfl|andrewmukuba|tkl|8|under5\",\"nfl|deewinters|tkl|8|under5\",\"nfl|ifeatumelifonwu|tkl|6|under5\",\"nfl|antoinewinfieldjr|tkl|8|under5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|bryceyoung|cmp|15|over5\",\"nfl|brandincooks|lwy|15|under5\",\"nfl|danielcarlson|kpts|9|under5\",\"nfl|rileypatterson|kpts|9|under5\",\"nfl|devinlloyd|tkl|4|over5\",\"nfl|brockpurdy|ptd|1|over5\",\"nfl|asantesamueljr|tkl|6|under5\",\"nfl|justinherbert|cmp|25|under5\",\"nfl|jaredgoff|att|25|over5\",\"nfl|jamespierre|tkl|6|under5\",\"nfl|quaywalker|tkl|4|over5\",\"nfl|rasheerice|rry|100|under5\",\"nfl|delshawnphillips|tkl|8|under5\",\"nfl|bakermayfield|att|35|under5\",\"nfl|camlittle|fgm|1|over5\",\"nfl|xavierworthy|rry|60|under5\",\"nfl|zackbaun|tkl|4|over5\",\"nfl|jujubrents|tkl|6|under5\",\"nfl|jalenramsey|tkl|8|under5\",\"nfl|riqwoolen|tkl|6|under5\",\"nfl|camerondicker|fgm|1|over5\",\"nfl|khalilshakir|wy|80|under5\",\"nfl|rjharvey|lry|10|under5\",\"nfl|jakobilane|lwy|25|under5\",\"nfl|brandonaubrey|fgm|1|over5\",\"nfl|chrisgodwinjr|rry|60|under5\",\"nfl|druphillips|tkl|6|under5\",\"nfl|kevinwinstonjr|tkl|4|over5\",\"nfl|tarheebstill|tkl|6|under5\",\"nfl|petewerner|tkl|4|over5\",\"nfl|deontebanks|tkl|6|under5\",\"nfl|bakermayfield|py|250|under5\",\"nfl|davisonigbinosun|tkl|6|under5\",\"nfl|calebwilliams|lry|20|under5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|camward|att|25|over5\",\"nfl|javontewilliams|ry|100|under5\",\"nfl|justinjefferson|wy|80|under5\",\"nfl|alvinkamara|rry|80|under5\",\"nfl|malachifields|rry|60|under5\",\"nfl|saquonbarkley|rry|80|under5\",\"nfl|malcolmrodriguez|tkl|6|under5\",\"nfl|chrisrodriguezjr|car|10|under5\",\"nfl|bryceyoung|py|200|over5\",\"nfl|minkahfitzpatrick|tkl|4|over5\",\"nfl|najeeharris|car|10|under5\",\"nfl|travishunter|tkl|6|under5\",\"nfl|ashtonjeanty|lry|15|under5\",\"nfl|aaronrodgers|att|25|over5\",\"nfl|dominiczvada|fgm|1|over5\",\"nfl|kirkcousins|cmp|15|over5\",\"nfl|terrelbernard|tkl|4|over5\",\"nfl|dregreenlaw|tkl|4|over5\",\"nfl|kylehamilton|tkl|4|over5\",\"nfl|devinsingletary|car|10|under5\",\"nfl|isaiahlikely|rry|100|under5\",\"nfl|jackcampbell|tkl|4|over5\",\"nfl|justinjefferson|rry|80|under5\",\"nfl|juwanjohnson|lwy|30|under5\",\"nfl|jordanwatkins|rry|80|under5\",\"nfl|patfreiermuth|lwy|25|under5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|willutz|fgm|1|over5\",\"nfl|georgekarlaftis|tkl|6|under5\",\"nfl|chubahubbard|lry|10|over5\",\"nfl|amanihooker|tkl|4|over5\",\"nfl|jamescookiii|car|15|over5\",\"nfl|garrettwilson|lwy|15|over5\",\"nfl|robertspearsjennings|tkl|6|under5\",\"nfl|traviskelce|wy|80|under5\",\"nfl|harrisonphillips|tkl|6|under5\",\"nfl|marcusepps|tkl|6|under5\",\"nfl|jaquanmcmillian|tkl|6|under5\",\"nfl|foyesadeoluokun|tkl|4|over5\",\"nfl|bryceyoung|ptd|1|over5\",\"nfl|koolaidmckinstry|tkl|6|under5\",\"nfl|kimanividal|lwy|15|under5\",\"nfl|dkmetcalf|wy|80|under5\",\"nfl|calebwilliams|py|200|over5\",\"nfl|jalenhurts|cmp|25|under5\"],[],[[1,[\"strong\"],13],[1,[\"value\"],7],[1,[\"supreme*\"],15],[2,[\"supreme\",\"strong\"],15],[2,[\"supreme*\",\"supreme\"],13],[0,[],13],[2,[\"strong\",\"value\"],12],[0,[],12],[1,[\"value\"],10],[0,[],14],[0,[],16],[1,[\"supreme*!\"],16],[1,[\"strong\"],14],[1,[\"value\"],17],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],15],[2,[\"strong\",\"value\"],11],[0,[],9],[1,[\"strong\"],12],[0,[],12],[0,[],13],[2,[\"strong\",\"strong\"],17],[1,[\"value\"],17],[1,[\"value\"],10],[1,[\"supreme\"],17],[0,[],17],[1,[\"strong\"],10],[0,[],13],[1,[\"value\"],11],[0,[],16],[2,[\"strong!\",\"strong\"],16],[1,[\"supreme*\"],16],[1,[\"value\"],15],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[0,[],15],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],10],[0,[],11],[2,[\"supreme*\",\"strong!\"],14],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"strong\"],12],[1,[\"supreme\"],15],[1,[\"value\"],14],[1,[\"strong\"],14],[1,[\"strong\"],13],[0,[],12],[1,[\"strong\"],10],[2,[\"supreme*\",\"supreme\"],15],[1,[\"supreme*\"],15],[2,[\"strong\",\"strong\"],14],[3,[\"supreme\",\"strong\",\"value\"],11],[0,[],10],[0,[],16],[2,[\"supreme*\",\"value\"],14],[1,[\"supreme*!\"],14],[0,[],14],[2,[\"supreme*\",\"value\"],15],[1,[\"strong\"],12],[1,[\"strong\"],15]],[6,13,[null,null,null,null]],[[9,[null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[1,[null]],[1,[null]],[7,[null,null,null,null,null,null,null]],[0,[]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[1,[null]],[4,[null,null,null,null]],[3,[null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
