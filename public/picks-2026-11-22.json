@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795335108185,
+ "generated": 1795361355651,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -9016,8 +9016,8 @@
     },
     "sc": {
      "Sim": [
-      4,
-      3
+      3,
+      4
      ],
      "Judge": [
       4,
@@ -20145,6 +20145,23 @@
     "st": "pre",
     "picks": [
      {
+      "m": "spread",
+      "sd": "away",
+      "pick": "BUF +1.5",
+      "price": -145,
+      "p": 0.812,
+      "tier": "supreme",
+      "unan": true,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Covers",
+       "Coach",
+       "Power"
+      ]
+     },
+     {
       "m": "ml",
       "sd": "home",
       "pick": "TB ML",
@@ -23668,8 +23685,8 @@
     },
     "sc": {
      "Sim": [
-      4,
-      3
+      3,
+      4
      ],
      "Judge": [
       4,
@@ -23705,6 +23722,22 @@
     "day": "2026-11-22",
     "st": "pre",
     "picks": [
+     {
+      "m": "spread",
+      "sd": "away",
+      "pick": "PIT +1.5",
+      "price": -140,
+      "p": 0.77,
+      "tier": "strong",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Judge",
+       "Covers",
+       "Power"
+      ]
+     },
      {
       "m": "ml",
       "sd": "home",
@@ -23983,8 +24016,8 @@
       4
      ],
      "Judge": [
-      3,
-      4
+      2,
+      3
      ],
      "Covers": [
       3,
@@ -24861,6 +24894,20 @@
        "Pred",
        "Coach",
        "Power"
+      ]
+     },
+     {
+      "m": "total",
+      "sd": "under",
+      "pick": "Under 6.5",
+      "price": -105,
+      "p": 0.549,
+      "tier": "value",
+      "unan": false,
+      "off": false,
+      "by": [
+       "Sim",
+       "Coach"
       ]
      }
     ],
@@ -37118,6 +37165,6 @@
    }
   ]
  },
- "betaSig": "[[\"nhl|leondraisaitl|s|2|over5\",\"nhl|connormcdavid|pts|1|over5\",\"nhl|tagethompson|s|2|over5\",\"nhl|alexformenton|ht|4|under5\",\"nhl|liamohgren|ht|4|under5\",\"nhl|jasonrobertson|s|2|over5\",\"nhl|leondraisaitl|pts|1|over5\",\"nhl|zachbenson|s|4|under5\",\"nhl|jacksonblake|s|4|under5\",\"nhl|linuskarlsson|ht|3|under5\",\"nhl|drewoconnor|ht|3|under5\",\"nhl|connormcdavid|s|4|under5\",\"nhl|paulcotter|ht|4|under5\",\"nhl|trentfrederic|ht|3|under5\",\"nhl|evanbouchard|s|4|under5\",\"nhl|eliasnpettersson|bs|1|over5\",\"nhl|connormcdavid|a|1|over5\",\"nhl|gabeperreault|s|3|under5\",\"nhl|arttuhyry|s|3|under5\",\"nhl|mathieujoseph|ht|3|under5\",\"nhl|nikitakucherov|s|2|over5\",\"nhl|coltondach|ht|3|under5\",\"nhl|jackquinn|s|2|over5\",\"nhl|wyattjohnston|s|2|over5\",\"nhl|krisletang|s|3|under5\",\"nhl|vasilypodkolzin|ht|3|under5\",\"nhl|evanbouchard|pts|1|over5\",\"ncaab|ollieengen|ast|7|under4\",\"ncaab|cadendiggs|pts|15|under4\",\"ncaab|isaactaveras|reb|10|under4\",\"ncaab|armeloboone|pa|20|under4\",\"nba|samhauser|pr|20|under4\",\"nba|patrickwilliams|pra|20|under4\",\"nfl|willreichard|fgm|1|over4\",\"ncaab|isaacdavis|reb|7|under4\",\"nfl|jasonsanders|fgm|1|over4\",\"nfl|chasemclaughlin|fgm|1|over4\",\"nba|nicclaxton|pr|25|under4\",\"nba|dysondaniels|stl|1|over4\",\"nfl|tylerallgeier|car|15|under4\",\"nfl|davidbailey|tkl|8|under4\",\"nfl|dakprescott|cmp|15|over4\",\"ncaab|ethanduncan|pr|20|under4\",\"ncaab|matasdeniusas|pa|20|under4\",\"nfl|kendremiller|car|15|under4\",\"nfl|dantetraderjr|tkl|8|under4\",\"nfl|jacobybrissett|cmp|15|over4\",\"nfl|buckyirving|car|10|over4\",\"ncaab|junseokyeo|pa|20|under4\",\"nba|ausarthompson|pa|25|under4\",\"ncaab|rihardsvavers|pts|20|under4\",\"ncaab|rihardsvavers|fg3|1|over4\",\"nfl|christianmccaffrey|lry|20|under4\",\"nfl|arvellreese|tkl|4|over4\",\"nfl|jasonsanders|kpts|5|over4\",\"nba|derrickwhite|pr|25|under4\",\"nfl|elijahmolden|tkl|8|under4\",\"nfl|chubahubbard|car|10|over4\",\"nba|trejones|pr|20|under4\",\"nfl|dandreswift|car|10|over4\",\"nba|davionmitchell|pts|25|under4\",\"ncaab|zionsensley|fg3|1|over4\",\"nba|mitchellrobinson|ra|10|under4\",\"ncaab|aaronmcbride|pr|20|under4\",\"nba|zaccharierisacher|reb|8|under4\",\"nba|joshhart|reb|10|under4\",\"nba|aaronwiggins|pra|30|under4\",\"nfl|mattgay|kpts|5|over4\",\"nfl|micahmcfadden|tkl|8|under4\",\"ncaab|christiangibson|fg3|1|over4\",\"nba|jalensuggs|pr|25|under4\",\"nba|anthonyblack|pts|25|under4\",\"nba|pjwashington|pa|25|under4\",\"ncaab|treysonanderson|pa|20|under4\",\"ncaab|aidenargabright|pts|15|under4\",\"nfl|justinreid|tkl|8|under4\",\"nfl|chadryland|fgm|1|over4\",\"nfl|ricodowdle|rry|80|under4\",\"nba|guisantos|pra|20|under4\",\"nba|kenrichwilliams|pra|20|under4\",\"ncaab|rihardsvavers|reb|7|under4\",\"ncaab|cameronwallace|reb|10|under4\",\"nfl|roquansmith|tkl|4|over4\",\"nfl|treydanstukes|tkl|8|under4\",\"nba|joshhart|pra|25|under4\",\"nfl|alontaetaylor|tkl|8|under4\",\"nfl|jamiensherwood|tkl|4|over4\",\"nfl|ljariussneed|tkl|8|under4\",\"nba|acebailey|reb|10|under4\",\"nba|deanthonymelton|ra|10|under4\",\"nba|marvinbagleyiii|pr|15|under4\",\"nba|tjmcconnell|pa|20|under4\",\"ncaab|samuadler|ra|10|under4\",\"nfl|patsurtainii|tkl|8|under4\",\"nba|andrewwiggins|pr|20|under4\",\"nba|cooperflagg|reb|10|under4\",\"ncaab|kelvinamoako|reb|10|under4\",\"nfl|jakebates|kpts|5|over4\",\"nba|kellyoubrejr|pa|20|under4\",\"ncaab|willheimbrodt|blk|1|over4\",\"nfl|tylerbass|fgm|1|over4\",\"ncaab|tjburch|stl|1|over4\",\"nba|jalensuggs|pa|25|under4\",\"ncaab|emondrekerkinsford|pra|20|under4\",\"ncaab|ethancopeland|fg3|1|over4\",\"nfl|chamarriconner|tkl|8|under4\",\"nfl|jordanmason|car|20|under4\",\"nba|jaxsonhayes|pr|25|under4\",\"ncaab|amondorries|reb|7|under4\",\"nfl|javontewilliams|car|10|over4\",\"nba|joshhart|pr|20|under4\",\"nfl|bhayshultuten|ry|100|under4\",\"nfl|calebdouglas|rry|100|under4\",\"nba|jaysontatum|reb|10|under4\",\"nba|joshgiddey|pr|25|under4\",\"nba|aaronwiggins|pa|25|under4\",\"ncaab|filipradakovic|pa|20|under4\",\"nfl|chadryland|kpts|5|over4\",\"nfl|saquonbarkley|car|15|under4\",\"ncaab|tjburch|ra|10|under4\",\"nfl|trevorlawrence|ptd|1|over4\",\"nfl|chrisjohnson|tkl|8|under4\",\"nba|trejones|pra|25|under4\",\"nba|deanthonymelton|pra|25|under4\",\"nba|cadecunningham|ast|4|over4\",\"nfl|olliegordonii|ry|100|under4\",\"nfl|jefferysimmons|tkl|8|under4\",\"ncaab|ljhackman|pr|20|under4\",\"ncaab|derrianford|pts|10|over4\",\"ncaab|derrianford|ra|10|under4\",\"nfl|kirkcousins|ptd|1|over4\",\"nfl|mattgay|fgm|1|over4\",\"ncaab|tylikweeks|pts|10|over4\",\"ncaab|tylikweeks|reb|7|under4\",\"ncaab|derrianford|pra|15|over4\",\"ncaab|naritchotikavanic|fg3|1|over4\",\"ncaab|tylonchatman|pra|20|under4\",\"nba|cameronjohnson|pr|25|under4\",\"ncaab|jasiahcannady|ast|7|under4\",\"nfl|druetranquill|tkl|4|over4\",\"nfl|kadenelliss|tkl|4|over4\",\"nba|patrickwilliams|pa|15|under4\",\"nba|tjmcconnell|ast|8|under4\",\"ncaab|jahnisummers|pr|20|under4\",\"ncaab|christianwilliams|fg3|1|over4\",\"ncaab|leobeath|pra|25|under4\",\"ncaab|daveeflowers|pr|15|under4\",\"nfl|rasheerice|rry|100|under4\",\"nfl|treymcbride|rry|100|under4\",\"nfl|brockpurdy|ptd|1|over4\"],[],[[1,[\"strong\"],13],[1,[\"value\"],7],[1,[\"supreme*\"],15],[2,[\"supreme\",\"strong\"],15],[2,[\"supreme*\",\"supreme\"],13],[0,[],13],[2,[\"strong\",\"value\"],12],[0,[],12],[1,[\"value\"],10],[0,[],14],[0,[],16],[1,[\"supreme*!\"],16],[1,[\"strong\"],14],[0,[],17],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],15],[2,[\"strong\",\"value\"],11],[0,[],9],[1,[\"strong\"],12],[0,[],12],[0,[],13],[2,[\"strong\",\"strong\"],17],[1,[\"value\"],17],[1,[\"value\"],10],[1,[\"supreme\"],17],[0,[],17],[1,[\"strong\"],10],[0,[],13],[1,[\"value\"],11],[0,[],16],[2,[\"strong!\",\"strong\"],16],[1,[\"supreme*\"],16],[1,[\"value\"],15],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[0,[],15],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],10],[0,[],11],[1,[\"strong!\"],14],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"strong\"],12],[1,[\"supreme\"],15],[1,[\"value\"],14],[1,[\"strong\"],14],[1,[\"strong\"],13],[0,[],12],[1,[\"strong\"],10],[2,[\"supreme*\",\"supreme\"],15],[1,[\"supreme*\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"value\"],11],[0,[],10],[0,[],16],[1,[\"supreme*\"],14],[1,[\"supreme*!\"],14],[0,[],14],[2,[\"supreme*\",\"value\"],15],[1,[\"strong\"],12],[1,[\"strong\"],15]],[6,13,[null,null,null,null]],[[9,[null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[1,[null]],[1,[null]],[7,[null,null,null,null,null,null,null]],[0,[]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[1,[null]],[4,[null,null,null,null]],[3,[null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"nhl|leondraisaitl|s|2|over5\",\"nhl|connormcdavid|pts|1|over5\",\"nhl|tagethompson|s|2|over5\",\"nhl|alexformenton|ht|4|under5\",\"nhl|liamohgren|ht|4|under5\",\"nhl|jasonrobertson|s|2|over5\",\"nhl|leondraisaitl|pts|1|over5\",\"nhl|zachbenson|s|4|under5\",\"nhl|jacksonblake|s|4|under5\",\"nhl|linuskarlsson|ht|3|under5\",\"nhl|drewoconnor|ht|3|under5\",\"nhl|connormcdavid|s|4|under5\",\"nhl|paulcotter|ht|4|under5\",\"nhl|trentfrederic|ht|3|under5\",\"nhl|evanbouchard|s|4|under5\",\"nhl|eliasnpettersson|bs|1|over5\",\"nhl|connormcdavid|a|1|over5\",\"nhl|gabeperreault|s|3|under5\",\"nhl|arttuhyry|s|3|under5\",\"nhl|mathieujoseph|ht|3|under5\",\"nhl|nikitakucherov|s|2|over5\",\"nhl|coltondach|ht|3|under5\",\"nhl|jackquinn|s|2|over5\",\"nhl|wyattjohnston|s|2|over5\",\"nhl|krisletang|s|3|under5\",\"nhl|vasilypodkolzin|ht|3|under5\",\"nhl|evanbouchard|pts|1|over5\",\"ncaab|ollieengen|ast|7|under4\",\"ncaab|cadendiggs|pts|15|under4\",\"ncaab|isaactaveras|reb|10|under4\",\"ncaab|armeloboone|pa|20|under4\",\"nba|samhauser|pr|20|under4\",\"nba|patrickwilliams|pra|20|under4\",\"nfl|willreichard|fgm|1|over4\",\"ncaab|isaacdavis|reb|7|under4\",\"nfl|jasonsanders|fgm|1|over4\",\"nfl|chasemclaughlin|fgm|1|over4\",\"nba|nicclaxton|pr|25|under4\",\"nba|dysondaniels|stl|1|over4\",\"nfl|tylerallgeier|car|15|under4\",\"nfl|davidbailey|tkl|8|under4\",\"nfl|dakprescott|cmp|15|over4\",\"ncaab|ethanduncan|pr|20|under4\",\"ncaab|matasdeniusas|pa|20|under4\",\"nfl|kendremiller|car|15|under4\",\"nfl|dantetraderjr|tkl|8|under4\",\"nfl|jacobybrissett|cmp|15|over4\",\"nfl|buckyirving|car|10|over4\",\"ncaab|junseokyeo|pa|20|under4\",\"nba|ausarthompson|pa|25|under4\",\"ncaab|rihardsvavers|pts|20|under4\",\"ncaab|rihardsvavers|fg3|1|over4\",\"nfl|christianmccaffrey|lry|20|under4\",\"nfl|arvellreese|tkl|4|over4\",\"nfl|jasonsanders|kpts|5|over4\",\"nba|derrickwhite|pr|25|under4\",\"nfl|elijahmolden|tkl|8|under4\",\"nfl|chubahubbard|car|10|over4\",\"nba|trejones|pr|20|under4\",\"nfl|dandreswift|car|10|over4\",\"nba|davionmitchell|pts|25|under4\",\"ncaab|zionsensley|fg3|1|over4\",\"nba|mitchellrobinson|ra|10|under4\",\"ncaab|aaronmcbride|pr|20|under4\",\"nba|zaccharierisacher|reb|8|under4\",\"nba|joshhart|reb|10|under4\",\"nba|aaronwiggins|pra|30|under4\",\"nfl|mattgay|kpts|5|over4\",\"nfl|micahmcfadden|tkl|8|under4\",\"ncaab|christiangibson|fg3|1|over4\",\"nba|jalensuggs|pr|25|under4\",\"nba|anthonyblack|pts|25|under4\",\"nba|pjwashington|pa|25|under4\",\"ncaab|treysonanderson|pa|20|under4\",\"ncaab|aidenargabright|pts|15|under4\",\"nfl|justinreid|tkl|8|under4\",\"nfl|chadryland|fgm|1|over4\",\"nfl|ricodowdle|rry|80|under4\",\"nba|guisantos|pra|20|under4\",\"nba|kenrichwilliams|pra|20|under4\",\"ncaab|rihardsvavers|reb|7|under4\",\"ncaab|cameronwallace|reb|10|under4\",\"nfl|roquansmith|tkl|4|over4\",\"nfl|treydanstukes|tkl|8|under4\",\"nba|joshhart|pra|25|under4\",\"nfl|alontaetaylor|tkl|8|under4\",\"nfl|jamiensherwood|tkl|4|over4\",\"nfl|ljariussneed|tkl|8|under4\",\"nba|acebailey|reb|10|under4\",\"nba|deanthonymelton|ra|10|under4\",\"nba|marvinbagleyiii|pr|15|under4\",\"nba|tjmcconnell|pa|20|under4\",\"ncaab|samuadler|ra|10|under4\",\"nfl|patsurtainii|tkl|8|under4\",\"nba|andrewwiggins|pr|20|under4\",\"nba|cooperflagg|reb|10|under4\",\"ncaab|kelvinamoako|reb|10|under4\",\"nfl|jakebates|kpts|5|over4\",\"nba|kellyoubrejr|pa|20|under4\",\"ncaab|willheimbrodt|blk|1|over4\",\"nfl|tylerbass|fgm|1|over4\",\"ncaab|tjburch|stl|1|over4\",\"nba|jalensuggs|pa|25|under4\",\"ncaab|emondrekerkinsford|pra|20|under4\",\"ncaab|ethancopeland|fg3|1|over4\",\"nfl|chamarriconner|tkl|8|under4\",\"nfl|jordanmason|car|20|under4\",\"nba|jaxsonhayes|pr|25|under4\",\"ncaab|amondorries|reb|7|under4\",\"nfl|javontewilliams|car|10|over4\",\"nba|joshhart|pr|20|under4\",\"nfl|bhayshultuten|ry|100|under4\",\"nfl|calebdouglas|rry|100|under4\",\"nba|jaysontatum|reb|10|under4\",\"nba|joshgiddey|pr|25|under4\",\"nba|aaronwiggins|pa|25|under4\",\"ncaab|filipradakovic|pa|20|under4\",\"nfl|chadryland|kpts|5|over4\",\"nfl|saquonbarkley|car|15|under4\",\"ncaab|tjburch|ra|10|under4\",\"nfl|trevorlawrence|ptd|1|over4\",\"nfl|chrisjohnson|tkl|8|under4\",\"nba|trejones|pra|25|under4\",\"nba|deanthonymelton|pra|25|under4\",\"nba|cadecunningham|ast|4|over4\",\"nfl|olliegordonii|ry|100|under4\",\"nfl|jefferysimmons|tkl|8|under4\",\"ncaab|ljhackman|pr|20|under4\",\"ncaab|derrianford|pts|10|over4\",\"ncaab|derrianford|ra|10|under4\",\"nfl|kirkcousins|ptd|1|over4\",\"nfl|mattgay|fgm|1|over4\",\"ncaab|tylikweeks|pts|10|over4\",\"ncaab|tylikweeks|reb|7|under4\",\"ncaab|derrianford|pra|15|over4\",\"ncaab|naritchotikavanic|fg3|1|over4\",\"ncaab|tylonchatman|pra|20|under4\",\"nba|cameronjohnson|pr|25|under4\",\"ncaab|jasiahcannady|ast|7|under4\",\"nfl|druetranquill|tkl|4|over4\",\"nfl|kadenelliss|tkl|4|over4\",\"nba|patrickwilliams|pa|15|under4\",\"nba|tjmcconnell|ast|8|under4\",\"ncaab|jahnisummers|pr|20|under4\",\"ncaab|christianwilliams|fg3|1|over4\",\"ncaab|leobeath|pra|25|under4\",\"ncaab|daveeflowers|pr|15|under4\",\"nfl|rasheerice|rry|100|under4\",\"nfl|treymcbride|rry|100|under4\",\"nfl|brockpurdy|ptd|1|over4\"],[],[[1,[\"strong\"],13],[1,[\"value\"],7],[1,[\"supreme*\"],15],[2,[\"supreme\",\"strong\"],15],[2,[\"supreme*\",\"supreme\"],13],[0,[],13],[2,[\"strong\",\"value\"],12],[0,[],12],[1,[\"value\"],10],[0,[],14],[0,[],16],[1,[\"supreme*!\"],16],[1,[\"strong\"],14],[0,[],17],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],15],[2,[\"strong\",\"value\"],11],[0,[],9],[1,[\"strong\"],12],[0,[],12],[0,[],13],[2,[\"strong\",\"strong\"],17],[1,[\"value\"],17],[1,[\"value\"],10],[1,[\"supreme\"],17],[0,[],17],[1,[\"strong\"],10],[0,[],13],[1,[\"value\"],11],[0,[],16],[2,[\"strong!\",\"strong\"],16],[1,[\"supreme*\"],16],[1,[\"value\"],15],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[0,[],15],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],10],[0,[],11],[2,[\"supreme*\",\"strong!\"],14],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"strong\"],12],[1,[\"supreme\"],15],[1,[\"value\"],14],[1,[\"strong\"],14],[1,[\"strong\"],13],[0,[],12],[1,[\"strong\"],10],[2,[\"supreme*\",\"supreme\"],15],[1,[\"supreme*\"],15],[2,[\"strong\",\"strong\"],14],[3,[\"supreme\",\"strong\",\"value\"],11],[0,[],10],[0,[],16],[2,[\"supreme*\",\"value\"],14],[1,[\"supreme*!\"],14],[0,[],14],[2,[\"supreme*\",\"value\"],15],[1,[\"strong\"],12],[1,[\"strong\"],15]],[6,13,[null,null,null,null]],[[9,[null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[1,[null]],[1,[null]],[7,[null,null,null,null,null,null,null]],[0,[]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[1,[null]],[4,[null,null,null,null]],[3,[null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
