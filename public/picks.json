@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795368938055,
+ "generated": 1795369745790,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -16,7 +16,7 @@
   "w": 51,
   "l": 36,
   "pu": 0,
-  "u": 2.82,
+  "u": 2.816394569201279,
   "first": "2026-10-06",
   "be": 0.5789208521852353,
   "ap": -137
@@ -263,7 +263,12 @@
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "3774087a4dc50f2adf2ddb652c19154ac4c30a306a805c770a2492447aa73700",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -3432,7 +3437,7 @@
       "pick": "CAR ML",
       "price": -148,
       "p": 0.759,
-      "q": 0.759,
+      "q": 0.747,
       "start": "2026-11-22T17:30Z",
       "hit": null,
       "push": false,
@@ -7792,7 +7797,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 2,
-    "best": null,
+    "best": {
+     "lab": "how fast it learns: 0.04 → 0.02",
+     "n": 230,
+     "days": 5,
+     "z": -0.72,
+     "bar": 2
+    },
     "hist": []
    },
    {
@@ -7803,7 +7814,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how much it trusts its own read: 0.6 → 0.35",
+     "n": 984,
+     "days": 35,
+     "z": -0.72,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7814,7 +7831,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 984,
+     "days": 35,
+     "z": -0.66,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7825,7 +7848,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how fast it forgets old results: 45 → 21",
+     "n": 958,
+     "days": 35,
+     "z": 0.1,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7836,7 +7865,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 989,
+     "days": 35,
+     "z": -0.51,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7847,7 +7882,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": null,
+    "best": {
+     "lab": "how fast it forgets old results: 45 → 21",
+     "n": 136,
+     "days": 15,
+     "z": 0.13,
+     "bar": 1.9
+    },
     "hist": []
    },
    {
@@ -7858,7 +7899,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 793,
+     "days": 35,
+     "z": -1.28,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7869,7 +7916,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how much it trusts its own read: 0.6 → 0.35",
+     "n": 654,
+     "days": 35,
+     "z": -1,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7880,7 +7933,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 716,
+     "days": 35,
+     "z": -0.21,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7891,7 +7950,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": null,
+    "best": {
+     "lab": "how much it trusts its own read: 0.6 → 0.85",
+     "n": 605,
+     "days": 15,
+     "z": 0.4,
+     "bar": 1.9
+    },
     "hist": []
    },
    {
@@ -7902,7 +7967,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 442,
+     "days": 35,
+     "z": 0.51,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7913,7 +7984,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how fast it learns: 0.04 → 0.02",
+     "n": 439,
+     "days": 35,
+     "z": 0.2,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7924,7 +8001,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 436,
+     "days": 35,
+     "z": -0.99,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7935,7 +8018,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 151,
+     "days": 35,
+     "z": -1.64,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7946,7 +8035,13 @@
     "champ": "the worldview: its own read first, the market as the check",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how much it leans on the market: 0.4 → 0.2",
+     "n": 384,
+     "days": 35,
+     "z": 2.58,
+     "bar": 1.9
+    },
     "hist": [
      {
       "gen": 1,
@@ -7964,7 +8059,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 796,
+     "days": 35,
+     "z": -0.58,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7975,7 +8076,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 130,
+     "days": 35,
+     "z": -0.78,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7986,7 +8093,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 484,
+     "days": 35,
+     "z": 0.22,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -7997,7 +8110,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 141,
+     "days": 35,
+     "z": -0.96,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8008,7 +8127,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how much it trusts its own read: 0.6 → 0.35",
+     "n": 987,
+     "days": 35,
+     "z": -1.34,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8019,7 +8144,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 86,
+     "days": 35,
+     "z": 0.67,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8030,7 +8161,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 196,
+     "days": 35,
+     "z": 0.16,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8041,7 +8178,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 133,
+     "days": 35,
+     "z": -0.98,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8052,7 +8195,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 234,
+     "days": 35,
+     "z": -1.24,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8063,7 +8212,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how much it leans on the market: 0.4 → 0.65",
+     "n": 247,
+     "days": 35,
+     "z": -1.04,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8074,7 +8229,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 242,
+     "days": 35,
+     "z": -0.27,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8085,7 +8246,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how fast it learns: 0.04 → 0.02",
+     "n": 324,
+     "days": 35,
+     "z": -0.09,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8096,7 +8263,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 492,
+     "days": 35,
+     "z": -0.44,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8107,7 +8280,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how much it leans on the market: 0.4 → 0.65",
+     "n": 383,
+     "days": 35,
+     "z": -0.36,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8118,7 +8297,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 454,
+     "days": 35,
+     "z": -0.69,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8129,7 +8314,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 435,
+     "days": 35,
+     "z": -0.21,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8140,7 +8331,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how fast it learns: 0.04 → 0.02",
+     "n": 430,
+     "days": 35,
+     "z": -0.22,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8151,7 +8348,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 33,
+     "days": 35,
+     "z": -0.31,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8162,7 +8365,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 34,
+     "days": 35,
+     "z": 0.01,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8173,7 +8382,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 5,
+     "days": 35,
+     "z": -2.43,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8184,7 +8399,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how fast it learns: 0.04 → 0.02",
+     "n": 34,
+     "days": 35,
+     "z": -1.6,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8195,7 +8416,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 29,
+     "days": 35,
+     "z": 2.14,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8206,7 +8433,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 37,
+     "days": 35,
+     "z": -0.52,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8217,7 +8450,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "how fast it forgets old results: 45 → 120",
+     "n": 429,
+     "days": 35,
+     "z": -0.43,
+     "bar": 1.75
+    },
     "hist": []
    },
    {
@@ -8228,7 +8467,13 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": null,
+    "best": {
+     "lab": "the worldview: its own read first, the market as the check",
+     "n": 8,
+     "days": 35,
+     "z": -0.49,
+     "bar": 1.75
+    },
     "hist": []
    }
   ],
@@ -8750,7 +8995,7 @@
     "gl": "#1 CAR@#10 NYR",
     "start": "2026-11-22T17:30:00.000Z",
     "day": "2026-11-22",
-    "st": "pre",
+    "st": "in",
     "picks": [
      {
       "m": "spread",
@@ -12382,7 +12627,7 @@
       19
      ],
      "Pred": [
-      22,
+      21,
       17
      ],
      "Coach": [
@@ -18143,7 +18388,7 @@
       18
      ],
      "Coach": [
-      24,
+      25,
       21
      ]
     }
@@ -27237,6 +27482,614 @@
  "founder": {
   "tix": [
    {
+    "id": "f12dsyf",
+    "name": null,
+    "date": "2026-11-22",
+    "legs": [
+     {
+      "sp": "nfl",
+      "game": "TB@DET",
+      "pick": "DET ML",
+      "price": -212,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.679,
+      "q": 0.679,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "ORL@WSH",
+      "pick": "ORL ML",
+      "price": -195,
+      "start": "2026-11-23T00:10:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.661,
+      "q": 0.661,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "PIT@PHI",
+      "pick": "PIT ML",
+      "price": -202,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.669,
+      "q": 0.669,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "JAX@NYG",
+      "pick": "JAX ML",
+      "price": -290,
+      "start": "2026-11-22T21:25:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.744,
+      "q": 0.744,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "MIN@SF",
+      "pick": "SF ML",
+      "price": -187,
+      "start": "2026-11-23T01:20:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.652,
+      "q": 0.652,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "BAL@CAR",
+      "pick": "CAR ML",
+      "price": -143,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.588,
+      "q": 0.588,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "WIU@CAN",
+      "pick": "CAN ML",
+      "price": -170,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.63,
+      "q": 0.63,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SDAK@UTU",
+      "pick": "SDAK +3",
+      "price": -158,
+      "start": "2026-11-22T19:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.612,
+      "q": 0.612,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "CAR@NYR",
+      "pick": "CAR ML",
+      "price": -163,
+      "start": "2026-11-22T17:37:00Z",
+      "day": "2026-11-22",
+      "st": "live",
+      "p": 0.62,
+      "q": 0.613,
+      "detail": "CAR 0–0 NYR (live)",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "BUF@TB",
+      "pick": "TB ML",
+      "price": -212,
+      "start": "2026-11-22T22:07:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.679,
+      "q": 0.679,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 71.9,
+    "res": "live",
+    "hit": 0,
+    "p0": 0.01391,
+    "now": 0.01377
+   },
+   {
+    "id": "f11py9t",
+    "name": null,
+    "date": "2026-11-22",
+    "legs": [
+     {
+      "sp": "nfl",
+      "game": "ARI@KC",
+      "pick": "KC -13.5",
+      "price": -145,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.592,
+      "q": 0.592,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "MIA@BUF",
+      "pick": "BUF -14.5",
+      "price": -152,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.603,
+      "q": 0.603,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "PIT@PHI",
+      "pick": "PIT -1.5",
+      "price": -180,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.643,
+      "q": 0.643,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "TB@DET",
+      "pick": "DET -1.5",
+      "price": -180,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.643,
+      "q": 0.643,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "JAX@NYG",
+      "pick": "JAX -4",
+      "price": -150,
+      "start": "2026-11-22T21:25:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.6,
+      "q": 0.6,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "LV@DEN",
+      "pick": "DEN -9",
+      "price": -150,
+      "start": "2026-11-22T21:25:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.6,
+      "q": 0.6,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "MIN@SF",
+      "pick": "SF -1.5",
+      "price": -178,
+      "start": "2026-11-23T01:20:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.64,
+      "q": 0.64,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "BAL@CAR",
+      "pick": "CAR -0.5",
+      "price": -155,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.608,
+      "q": 0.608,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "CAR@NYR",
+      "pick": "CAR ML",
+      "price": -160,
+      "start": "2026-11-22T17:37:00Z",
+      "day": "2026-11-22",
+      "st": "live",
+      "p": 0.615,
+      "q": 0.609,
+      "detail": "CAR 0–0 NYR (live)",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "ORL@WSH",
+      "pick": "ORL ML",
+      "price": -195,
+      "start": "2026-11-23T00:10:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.661,
+      "q": 0.661,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 118.64,
+    "res": "live",
+    "hit": 0,
+    "p0": 0.00841,
+    "now": 0.00832
+   },
+   {
+    "id": "f11knfe",
+    "name": null,
+    "date": "2026-11-22",
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "EDM@STL",
+      "pick": "STL ML",
+      "price": -128,
+      "start": "2026-11-23T00:07:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.561,
+      "q": 0.561,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "PIT@DAL",
+      "pick": "PIT +1.5",
+      "price": -130,
+      "start": "2026-11-23T00:07:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.565,
+      "q": 0.565,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "CHI@VAN",
+      "pick": "CHI ML",
+      "price": -115,
+      "start": "2026-11-23T01:07:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.535,
+      "q": 0.535,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "IND@NY",
+      "pick": "NY ML",
+      "price": -345,
+      "start": "2026-11-23T01:10:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.775,
+      "q": 0.775,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "BOS@GS",
+      "pick": "BOS ML",
+      "price": -350,
+      "start": "2026-11-23T01:40:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.778,
+      "q": 0.778,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "CAR@NYR",
+      "pick": "NYR +1.5",
+      "price": -185,
+      "start": "2026-11-22T17:37:00Z",
+      "day": "2026-11-22",
+      "st": "live",
+      "p": 0.649,
+      "q": 0.668,
+      "detail": "CAR 0–0 NYR (live) · margin 0",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TEM@SFA",
+      "pick": "Over 142.5",
+      "price": -140,
+      "start": "2026-11-22T22:30:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.583,
+      "q": 0.583,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "UTAH@MINN",
+      "pick": "Over 129.5",
+      "price": -140,
+      "start": "2026-11-22T23:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.583,
+      "q": 0.583,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "DEL@UCLA",
+      "pick": "Over 143",
+      "price": -140,
+      "start": "2026-11-23T00:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.583,
+      "q": 0.583,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TEM@SFA",
+      "pick": "SFA +5",
+      "price": -157,
+      "start": "2026-11-22T22:30:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.611,
+      "q": 0.611,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 124.1,
+    "res": "live",
+    "hit": 0,
+    "p0": 0.00806,
+    "now": 0.00829
+   },
+   {
+    "id": "fzn7q8",
+    "name": null,
+    "date": "2026-11-22",
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "CAR@NYR",
+      "pick": "CAR ML",
+      "price": -157,
+      "start": "2026-11-22T17:37:00Z",
+      "day": "2026-11-22",
+      "st": "live",
+      "p": 0.611,
+      "q": 0.605,
+      "detail": "CAR 0–0 NYR (live)",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "ARI@KC",
+      "pick": "KC -13.5",
+      "price": -145,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.592,
+      "q": 0.592,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "MIA@BUF",
+      "pick": "BUF -14.5",
+      "price": -152,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.603,
+      "q": 0.603,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "PIT@PHI",
+      "pick": "PIT -1.5",
+      "price": -180,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.643,
+      "q": 0.643,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "TB@DET",
+      "pick": "DET -1.5",
+      "price": -182,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.645,
+      "q": 0.645,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "WIU@CAN",
+      "pick": "Over 138.5",
+      "price": -140,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.583,
+      "q": 0.583,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "WIU@CAN",
+      "pick": "CAN ML",
+      "price": -175,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.636,
+      "q": 0.636,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SDAK@UTU",
+      "pick": "Over 151",
+      "price": -140,
+      "start": "2026-11-22T19:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.583,
+      "q": 0.583,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "W&M@YSU",
+      "pick": "W&M ML",
+      "price": -144,
+      "start": "2026-11-22T19:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.59,
+      "q": 0.59,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "GW@WKU",
+      "pick": "Under 150",
+      "price": -145,
+      "start": "2026-11-22T19:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.592,
+      "q": 0.592,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 146.11,
+    "res": "live",
+    "hit": 0,
+    "p0": 0.00684,
+    "now": 0.00678
+   },
+   {
     "id": "fyxwql",
     "name": null,
     "date": "2026-11-22",
@@ -27250,8 +28103,8 @@
       "day": "2026-11-22",
       "st": "live",
       "p": 0.879,
-      "q": 0.826,
-      "detail": "NEB 20–20 BTLR (live)",
+      "q": 0.571,
+      "detail": "NEB 33–38 BTLR (live)",
       "prog": null,
       "prop": false
      },
@@ -27386,17 +28239,87 @@
     "res": "live",
     "hit": 0,
     "p0": 0.03764,
-    "now": 0.03537
+    "now": 0.02445
    },
    {
-    "id": "f11py9t",
+    "id": "fywz6e",
     "name": null,
     "date": "2026-11-22",
     "legs": [
      {
       "sp": "nfl",
-      "game": "ARI@KC",
-      "pick": "KC -13.5",
+      "game": "TB@DET",
+      "pick": "DET ML",
+      "price": -212,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.679,
+      "q": 0.679,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "MIN@SF",
+      "pick": "SF ML",
+      "price": -170,
+      "start": "2026-11-23T01:20:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.63,
+      "q": 0.63,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SEA@UCSD",
+      "pick": "SEA +2",
+      "price": -154,
+      "start": "2026-11-23T02:30:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "CAR@NYR",
+      "pick": "NYR +1.5",
+      "price": -182,
+      "start": "2026-11-22T17:37:00Z",
+      "day": "2026-11-22",
+      "st": "live",
+      "p": 0.645,
+      "q": 0.665,
+      "detail": "CAR 0–0 NYR (live) · margin 0",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "EDM@STL",
+      "pick": "STL -1.5",
+      "price": 207,
+      "start": "2026-11-23T00:07:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.326,
+      "q": 0.326,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "DAY@NU",
+      "pick": "Over 133.5",
       "price": -145,
       "start": "2026-11-22T18:00:00Z",
       "day": "2026-11-22",
@@ -27408,57 +28331,15 @@
       "prop": false
      },
      {
-      "sp": "nfl",
-      "game": "MIA@BUF",
-      "pick": "BUF -14.5",
-      "price": -152,
-      "start": "2026-11-22T18:00:00Z",
+      "sp": "ncaab",
+      "game": "CBU@PORT",
+      "pick": "Over 144.5",
+      "price": -140,
+      "start": "2026-11-23T00:00:00Z",
       "day": "2026-11-22",
       "st": "open",
-      "p": 0.603,
-      "q": 0.603,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "PIT@PHI",
-      "pick": "PIT -1.5",
-      "price": -180,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.643,
-      "q": 0.643,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "TB@DET",
-      "pick": "DET -1.5",
-      "price": -180,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.643,
-      "q": 0.643,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "JAX@NYG",
-      "pick": "JAX -4",
-      "price": -150,
-      "start": "2026-11-22T21:25:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.6,
-      "q": 0.6,
+      "p": 0.583,
+      "q": 0.583,
       "detail": null,
       "prog": null,
       "prop": false
@@ -27466,7 +28347,7 @@
      {
       "sp": "nfl",
       "game": "LV@DEN",
-      "pick": "DEN -9",
+      "pick": "Over 39",
       "price": -150,
       "start": "2026-11-22T21:25:00Z",
       "day": "2026-11-22",
@@ -27478,43 +28359,277 @@
       "prop": false
      },
      {
-      "sp": "nfl",
-      "game": "MIN@SF",
-      "pick": "SF -1.5",
-      "price": -178,
-      "start": "2026-11-23T01:20:00Z",
+      "sp": "ncaab",
+      "game": "CBU@PORT",
+      "pick": "PORT ML",
+      "price": -420,
+      "start": "2026-11-23T00:00:00Z",
       "day": "2026-11-22",
       "st": "open",
-      "p": 0.64,
-      "q": 0.64,
+      "p": 0.808,
+      "q": 0.808,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "IND@NY",
+      "pick": "NY ML",
+      "price": -350,
+      "start": "2026-11-23T01:10:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.778,
+      "q": 0.778,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 140.89,
+    "res": "live",
+    "hit": 0,
+    "p0": 0.0071,
+    "now": 0.00731
+   },
+   {
+    "id": "f12g4av",
+    "name": null,
+    "date": "2026-11-22",
+    "legs": [
+     {
+      "sp": "nfl",
+      "game": "JAX@NYG",
+      "pick": "JAX ML",
+      "price": -290,
+      "start": "2026-11-22T21:25:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.744,
+      "q": 0.744,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "IND@NY",
+      "pick": "NY ML",
+      "price": -345,
+      "start": "2026-11-23T01:10:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.775,
+      "q": 0.775,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "DEN@CHI",
+      "pick": "DEN ML",
+      "price": -425,
+      "start": "2026-11-23T00:10:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.81,
+      "q": 0.81,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "BOS@GS",
+      "pick": "BOS ML",
+      "price": -350,
+      "start": "2026-11-23T01:40:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.778,
+      "q": 0.778,
       "detail": null,
       "prog": null,
       "prop": false
      },
      {
       "sp": "nfl",
-      "game": "BAL@CAR",
-      "pick": "CAR -0.5",
-      "price": -155,
+      "game": "PIT@PHI",
+      "pick": "PIT ML",
+      "price": -202,
       "start": "2026-11-22T18:00:00Z",
       "day": "2026-11-22",
       "st": "open",
-      "p": 0.608,
-      "q": 0.608,
+      "p": 0.669,
+      "q": 0.669,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "TEN@DAL",
+      "pick": "DAL ML",
+      "price": -385,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.794,
+      "q": 0.794,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "CSUF@PRST",
+      "pick": "PRST ML",
+      "price": -190,
+      "start": "2026-11-22T22:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.655,
+      "q": 0.655,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "CSUF@PRST",
+      "pick": "Under 165.5",
+      "price": -140,
+      "start": "2026-11-22T22:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.583,
+      "q": 0.583,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "NYJ@LAC",
+      "pick": "Under 45",
+      "price": -152,
+      "start": "2026-11-22T21:05:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.603,
+      "q": 0.603,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 22.48,
+    "res": "open",
+    "hit": 0,
+    "p0": 0.04443,
+    "now": null
+   },
+   {
+    "id": "f12eo0q",
+    "name": null,
+    "date": "2026-11-22",
+    "legs": [
+     {
+      "sp": "nfl",
+      "game": "PIT@PHI",
+      "pick": "PIT ML",
+      "price": -202,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.669,
+      "q": 0.669,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "JAX@NYG",
+      "pick": "JAX ML",
+      "price": -290,
+      "start": "2026-11-22T21:25:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.744,
+      "q": 0.744,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "TB@DET",
+      "pick": "DET ML",
+      "price": -212,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.679,
+      "q": 0.679,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "MIN@SF",
+      "pick": "SF ML",
+      "price": -187,
+      "start": "2026-11-23T01:20:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.652,
+      "q": 0.652,
       "detail": null,
       "prog": null,
       "prop": false
      },
      {
       "sp": "nhl",
-      "game": "CAR@NYR",
-      "pick": "CAR ML",
-      "price": -160,
-      "start": "2026-11-22T17:37:00Z",
+      "game": "BUF@TB",
+      "pick": "TB ML",
+      "price": -212,
+      "start": "2026-11-22T22:07:00Z",
       "day": "2026-11-22",
       "st": "open",
-      "p": 0.615,
-      "q": 0.615,
+      "p": 0.679,
+      "q": 0.679,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "PIT@DAL",
+      "pick": "DAL ML",
+      "price": -226,
+      "start": "2026-11-23T00:07:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.693,
+      "q": 0.693,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "GW@WKU",
+      "pick": "GW ML",
+      "price": -163,
+      "start": "2026-11-22T19:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.62,
+      "q": 0.62,
       "detail": null,
       "prog": null,
       "prop": false
@@ -27532,12 +28647,178 @@
       "detail": null,
       "prog": null,
       "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "WIU@CAN",
+      "pick": "CAN ML",
+      "price": -170,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.63,
+      "q": 0.63,
+      "detail": null,
+      "prog": null,
+      "prop": false
      }
     ],
-    "dec": 118.64,
+    "dec": 37.37,
     "res": "open",
     "hit": 0,
-    "p0": 0.00841,
+    "p0": 0.02676,
+    "now": null
+   },
+   {
+    "id": "f12d3sq",
+    "name": null,
+    "date": "2026-11-22",
+    "legs": [
+     {
+      "sp": "nfl",
+      "game": "MIN@SF",
+      "pick": "SF ML",
+      "price": -187,
+      "start": "2026-11-23T01:20:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.652,
+      "q": 0.652,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "BUF@TB",
+      "pick": "TB ML",
+      "price": -212,
+      "start": "2026-11-22T22:07:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.679,
+      "q": 0.679,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "WIU@CAN",
+      "pick": "CAN ML",
+      "price": -170,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.63,
+      "q": 0.63,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "TB@DET",
+      "pick": "DET ML",
+      "price": -212,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.679,
+      "q": 0.679,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "PIT@DAL",
+      "pick": "DAL ML",
+      "price": -226,
+      "start": "2026-11-23T00:07:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.693,
+      "q": 0.693,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "NYJ@LAC",
+      "pick": "LAC ML",
+      "price": -165,
+      "start": "2026-11-22T21:05:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.623,
+      "q": 0.623,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "GW@WKU",
+      "pick": "GW ML",
+      "price": -163,
+      "start": "2026-11-22T19:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.62,
+      "q": 0.62,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "USD@FOR",
+      "pick": "FOR ML",
+      "price": -150,
+      "start": "2026-11-22T19:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.6,
+      "q": 0.6,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "PIT@PHI",
+      "pick": "PIT ML",
+      "price": -202,
+      "start": "2026-11-22T18:00:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.669,
+      "q": 0.669,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "JAX@NYG",
+      "pick": "JAX ML",
+      "price": -290,
+      "start": "2026-11-22T21:25:00Z",
+      "day": "2026-11-22",
+      "st": "open",
+      "p": 0.744,
+      "q": 0.744,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 66.13,
+    "res": "open",
+    "hit": 0,
+    "p0": 0.01512,
     "now": null
    },
    {
@@ -28104,158 +29385,6 @@
     "res": "open",
     "hit": 0,
     "p0": 0.00595,
-    "now": null
-   },
-   {
-    "id": "f11knfe",
-    "name": null,
-    "date": "2026-11-22",
-    "legs": [
-     {
-      "sp": "nhl",
-      "game": "EDM@STL",
-      "pick": "STL ML",
-      "price": -128,
-      "start": "2026-11-23T00:07:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.561,
-      "q": 0.561,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nhl",
-      "game": "PIT@DAL",
-      "pick": "PIT +1.5",
-      "price": -130,
-      "start": "2026-11-23T00:07:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.565,
-      "q": 0.565,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nhl",
-      "game": "CHI@VAN",
-      "pick": "CHI ML",
-      "price": -115,
-      "start": "2026-11-23T01:07:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.535,
-      "q": 0.535,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nba",
-      "game": "IND@NY",
-      "pick": "NY ML",
-      "price": -345,
-      "start": "2026-11-23T01:10:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.775,
-      "q": 0.775,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nba",
-      "game": "BOS@GS",
-      "pick": "BOS ML",
-      "price": -350,
-      "start": "2026-11-23T01:40:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.778,
-      "q": 0.778,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nhl",
-      "game": "CAR@NYR",
-      "pick": "NYR +1.5",
-      "price": -185,
-      "start": "2026-11-22T17:37:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.649,
-      "q": 0.649,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "TEM@SFA",
-      "pick": "Over 142.5",
-      "price": -140,
-      "start": "2026-11-22T22:30:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.583,
-      "q": 0.583,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "UTAH@MINN",
-      "pick": "Over 129.5",
-      "price": -140,
-      "start": "2026-11-22T23:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.583,
-      "q": 0.583,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "DEL@UCLA",
-      "pick": "Over 143",
-      "price": -140,
-      "start": "2026-11-23T00:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.583,
-      "q": 0.583,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "TEM@SFA",
-      "pick": "SFA +5",
-      "price": -157,
-      "start": "2026-11-22T22:30:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.611,
-      "q": 0.611,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     }
-    ],
-    "dec": 124.1,
-    "res": "open",
-    "hit": 0,
-    "p0": 0.00806,
     "now": null
    },
    {
@@ -30021,158 +31150,6 @@
     "now": null
    },
    {
-    "id": "fzn7q8",
-    "name": null,
-    "date": "2026-11-22",
-    "legs": [
-     {
-      "sp": "nhl",
-      "game": "CAR@NYR",
-      "pick": "CAR ML",
-      "price": -157,
-      "start": "2026-11-22T17:37:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.611,
-      "q": 0.611,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "ARI@KC",
-      "pick": "KC -13.5",
-      "price": -145,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.592,
-      "q": 0.592,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "MIA@BUF",
-      "pick": "BUF -14.5",
-      "price": -152,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.603,
-      "q": 0.603,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "PIT@PHI",
-      "pick": "PIT -1.5",
-      "price": -180,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.643,
-      "q": 0.643,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "TB@DET",
-      "pick": "DET -1.5",
-      "price": -182,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.645,
-      "q": 0.645,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "WIU@CAN",
-      "pick": "Over 138.5",
-      "price": -140,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.583,
-      "q": 0.583,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "WIU@CAN",
-      "pick": "CAN ML",
-      "price": -175,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.636,
-      "q": 0.636,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "SDAK@UTU",
-      "pick": "Over 151",
-      "price": -140,
-      "start": "2026-11-22T19:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.583,
-      "q": 0.583,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "W&M@YSU",
-      "pick": "W&M ML",
-      "price": -144,
-      "start": "2026-11-22T19:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.59,
-      "q": 0.59,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "GW@WKU",
-      "pick": "Under 150",
-      "price": -145,
-      "start": "2026-11-22T19:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.592,
-      "q": 0.592,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     }
-    ],
-    "dec": 146.11,
-    "res": "open",
-    "hit": 0,
-    "p0": 0.00684,
-    "now": null
-   },
-   {
     "id": "fzmf5s",
     "name": null,
     "date": "2026-11-22",
@@ -30878,158 +31855,6 @@
     "res": "open",
     "hit": 0,
     "p0": 0.01962,
-    "now": null
-   },
-   {
-    "id": "fywz6e",
-    "name": null,
-    "date": "2026-11-22",
-    "legs": [
-     {
-      "sp": "nfl",
-      "game": "TB@DET",
-      "pick": "DET ML",
-      "price": -212,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.679,
-      "q": 0.679,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "MIN@SF",
-      "pick": "SF ML",
-      "price": -170,
-      "start": "2026-11-23T01:20:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.63,
-      "q": 0.63,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "SEA@UCSD",
-      "pick": "SEA +2",
-      "price": -154,
-      "start": "2026-11-23T02:30:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.606,
-      "q": 0.606,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nhl",
-      "game": "CAR@NYR",
-      "pick": "NYR +1.5",
-      "price": -182,
-      "start": "2026-11-22T17:37:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.645,
-      "q": 0.645,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nhl",
-      "game": "EDM@STL",
-      "pick": "STL -1.5",
-      "price": 207,
-      "start": "2026-11-23T00:07:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.326,
-      "q": 0.326,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "DAY@NU",
-      "pick": "Over 133.5",
-      "price": -145,
-      "start": "2026-11-22T18:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.592,
-      "q": 0.592,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "CBU@PORT",
-      "pick": "Over 144.5",
-      "price": -140,
-      "start": "2026-11-23T00:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.583,
-      "q": 0.583,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "LV@DEN",
-      "pick": "Over 39",
-      "price": -150,
-      "start": "2026-11-22T21:25:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.6,
-      "q": 0.6,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "CBU@PORT",
-      "pick": "PORT ML",
-      "price": -420,
-      "start": "2026-11-23T00:00:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.808,
-      "q": 0.808,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nba",
-      "game": "IND@NY",
-      "pick": "NY ML",
-      "price": -350,
-      "start": "2026-11-23T01:10:00Z",
-      "day": "2026-11-22",
-      "st": "open",
-      "p": 0.778,
-      "q": 0.778,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     }
-    ],
-    "dec": 140.89,
-    "res": "open",
-    "hit": 0,
-    "p0": 0.0071,
     "now": null
    }
   ],
@@ -41531,7 +42356,6 @@
    }
   ]
  },
- "betaSig": "[[\"nfl|dandreswift|car|10|over5\",\"nfl|willreichard|fgm|1|over5\",\"nfl|tylerallgeier|car|15|under5\",\"nfl|jasonsanders|fgm|1|over5\",\"nfl|kendremiller|car|15|under5\",\"nfl|chasemclaughlin|fgm|1|over5\",\"nfl|davidbailey|tkl|8|under5\",\"nfl|dandreswift|ry|100|under5\",\"nfl|jaredgoff|cmp|15|over5\",\"nfl|justinfields|car|10|under5\",\"nfl|breecehall|ry|100|under5\",\"nfl|buckyirving|car|10|over5\",\"nfl|jasonsanders|kpts|5|over5\",\"nfl|roquansmith|tkl|4|over5\",\"nfl|ricodowdle|ry|75|under5\",\"nfl|arvellreese|tkl|4|over5\",\"nfl|jordanmason|car|15|under5\",\"nfl|elijahmolden|tkl|8|under5\",\"nfl|jamiensherwood|tkl|4|over5\",\"nfl|javontewilliams|car|10|over5\",\"nfl|samlaporta|wy|80|under5\",\"nfl|tylerbass|fgm|1|over5\",\"nfl|druetranquill|tkl|4|over5\",\"nfl|bhayshultuten|ry|100|under5\",\"nfl|tonypollard|car|10|over5\",\"nfl|chadryland|fgm|1|over5\",\"nfl|trevorlawrence|ptd|1|over5\",\"nfl|olliegordonii|ry|100|under5\",\"nfl|chrisjohnson|tkl|8|under5\",\"nfl|mattgay|kpts|5|over5\",\"nfl|calebwilliams|cmp|15|over5\",\"nfl|alontaetaylor|tkl|8|under5\",\"nfl|jakebates|kpts|5|over5\",\"nfl|breecehall|car|10|over5\",\"nfl|samlaporta|rry|80|under5\",\"nfl|ljariussneed|tkl|8|under5\",\"nfl|malikwashington|rry|60|under5\",\"nfl|brandonaubrey|kpts|5|over5\",\"nfl|travisetiennejr|ry|75|under5\",\"nfl|malikmustapha|tkl|6|under5\",\"nfl|alvinkamara|lry|15|under5\",\"nfl|cairosantos|kpts|5|over5\",\"nfl|chrisboswell|fgm|1|over5\",\"nfl|tykeesmith|tkl|8|under5\",\"nfl|patrickmahomes|lry|15|under5\",\"nfl|danebelton|tkl|4|over5\",\"nfl|chamarriconner|tkl|8|under5\",\"nfl|mattgay|fgm|1|over5\",\"nfl|kirkcousins|ptd|1|over5\",\"nfl|patsurtainii|tkl|8|under5\",\"nfl|jefferysimmons|tkl|8|under5\",\"nfl|bhayshultuten|car|10|over5\",\"nfl|kadenelliss|tkl|4|over5\",\"nfl|chadryland|kpts|5|over5\",\"nfl|patrickqueen|tkl|4|over5\",\"nfl|jakebrowning|py|250|under5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|camward|cmp|15|over5\",\"nfl|dannystutsman|tkl|8|under5\",\"nfl|braelonallen|ry|100|under5\",\"nfl|ericstokes|tkl|6|under5\",\"nfl|chrisboswell|kpts|5|over5\",\"nfl|andrewmukuba|tkl|8|under5\",\"nfl|deewinters|tkl|8|under5\",\"nfl|ifeatumelifonwu|tkl|6|under5\",\"nfl|antoinewinfieldjr|tkl|8|under5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|brandincooks|lwy|15|under5\",\"nfl|danielcarlson|kpts|9|under5\",\"nfl|rileypatterson|kpts|9|under5\",\"nfl|devinlloyd|tkl|4|over5\",\"nfl|asantesamueljr|tkl|6|under5\",\"nfl|camskattebo|ry|100|under5\",\"nfl|bryceyoung|cmp|15|over5\",\"nfl|brockpurdy|ptd|1|over5\",\"nfl|jakebrowning|cmp|25|under5\",\"nfl|jaredgoff|att|25|over5\",\"nfl|jamespierre|tkl|6|under5\",\"nfl|quaywalker|tkl|4|over5\",\"nfl|ricodowdle|lry|20|under5\",\"nfl|delshawnphillips|tkl|8|under5\",\"nfl|bakermayfield|att|35|under5\",\"nfl|camlittle|fgm|1|over5\",\"nfl|chubahubbard|car|10|over5\",\"nfl|aaronrodgers|att|25|over5\",\"nfl|xavierworthy|rry|60|under5\",\"nfl|zackbaun|tkl|4|over5\",\"nfl|brockpurdy|lry|20|under5\",\"nfl|justinjefferson|wy|80|under5\",\"nfl|jujubrents|tkl|6|under5\",\"nfl|jalenramsey|tkl|8|under5\",\"nfl|camskattebo|car|10|over5\",\"nfl|riqwoolen|tkl|6|under5\",\"nfl|camerondicker|fgm|1|over5\",\"nfl|khalilshakir|wy|80|under5\",\"nfl|aaronjonessr|rry|100|under5\",\"nfl|brandonaubrey|fgm|1|over5\",\"nfl|chrisgodwinjr|rry|60|under5\",\"nfl|druphillips|tkl|6|under5\",\"nfl|kevinwinstonjr|tkl|4|over5\",\"nfl|tarheebstill|tkl|6|under5\",\"nfl|petewerner|tkl|4|over5\",\"nfl|deontebanks|tkl|6|under5\",\"nfl|bakermayfield|py|250|under5\",\"nfl|davisonigbinosun|tkl|6|under5\",\"nfl|calebwilliams|lry|20|under5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|brianthomasjr|rry|60|under5\",\"nfl|camward|att|25|over5\",\"nfl|aaronrodgers|cmp|15|over5\",\"nfl|chrisrodriguezjr|rry|60|under5\",\"nfl|javontewilliams|ry|100|under5\",\"nfl|patfreiermuth|lwy|25|under5\",\"nfl|alvinkamara|rry|80|under5\",\"nfl|malachifields|rry|60|under5\",\"nfl|laddmcconkey|wy|80|under5\",\"nfl|malcolmrodriguez|tkl|6|under5\",\"nfl|justinjefferson|rry|80|under5\",\"nfl|minkahfitzpatrick|tkl|4|over5\",\"nfl|najeeharris|car|10|under5\",\"nfl|brianthomasjr|wy|60|under5\",\"nfl|christianmccaffrey|car|10|over5\",\"nfl|ashtonjeanty|lry|15|under5\",\"nfl|dominiczvada|fgm|1|over5\",\"nfl|kirkcousins|cmp|15|over5\",\"nfl|terrelbernard|tkl|4|over5\",\"nfl|saquonbarkley|car|10|over5\",\"nfl|dregreenlaw|tkl|4|over5\",\"nfl|kylehamilton|tkl|4|over5\",\"nfl|devinsingletary|rry|60|under5\",\"nfl|jackcampbell|tkl|4|over5\",\"nfl|juwanjohnson|lwy|30|under5\",\"nfl|jordanwatkins|rry|80|under5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|garrettwilson|rry|100|under5\",\"nfl|willutz|fgm|1|over5\",\"nfl|georgekarlaftis|tkl|6|under5\",\"nfl|amanihooker|tkl|4|over5\",\"nfl|jamescookiii|car|15|over5\",\"nfl|robertspearsjennings|tkl|6|under5\",\"nfl|traviskelce|wy|80|under5\",\"nfl|harrisonphillips|tkl|6|under5\",\"nfl|marcusepps|tkl|6|under5\",\"nfl|jaquanmcmillian|tkl|6|under5\",\"nfl|cooperrush|att|25|under5\",\"nfl|foyesadeoluokun|tkl|4|over5\",\"nfl|koolaidmckinstry|tkl|6|under5\",\"nfl|brockbowers|rry|100|under5\",\"nfl|kimanividal|lwy|15|under5\",\"nfl|dkmetcalf|wy|80|under5\"],[\"live:l~8ooooooooo\",\"open:oooooooooo\",\"open:oooooooo\",\"open:oooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:ooooooooooooooooooooooooooooooo\",\"open:oooooooooooooooooooooooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooo\",\"open:oooooooooooooooooooooooooooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\"],[[1,[\"strong\"],13],[1,[\"value\"],7],[1,[\"supreme*\"],15],[2,[\"supreme\",\"strong\"],15],[2,[\"supreme*\",\"supreme\"],13],[0,[],13],[2,[\"strong\",\"value\"],12],[0,[],12],[1,[\"value\"],10],[0,[],14],[0,[],16],[1,[\"supreme*!\"],16],[1,[\"strong\"],14],[1,[\"value\"],17],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],15],[2,[\"strong\",\"value\"],11],[0,[],9],[1,[\"strong\"],12],[0,[],12],[0,[],13],[2,[\"strong\",\"strong\"],17],[1,[\"value\"],17],[1,[\"value\"],10],[1,[\"supreme\"],17],[0,[],17],[1,[\"strong\"],10],[0,[],13],[1,[\"value\"],11],[0,[],16],[2,[\"strong!\",\"strong\"],17],[1,[\"supreme*\"],16],[1,[\"value\"],15],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[0,[],15],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],10],[0,[],11],[2,[\"supreme*\",\"strong!\"],14],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"strong\"],12],[1,[\"supreme\"],15],[1,[\"value\"],14],[1,[\"strong\"],14],[1,[\"strong\"],13],[0,[],12],[1,[\"strong\"],10],[2,[\"supreme*\",\"supreme\"],15],[1,[\"supreme*\"],15],[2,[\"strong\",\"strong\"],14],[3,[\"supreme\",\"strong\",\"value\"],11],[0,[],10],[0,[],16],[2,[\"supreme*\",\"value\"],14],[1,[\"supreme*!\"],14],[0,[],14],[2,[\"supreme*\",\"value\"],15],[1,[\"strong\"],12],[1,[\"strong\"],15]],[6,13,[null,null,null,null]],[[9,[null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[1,[null]],[1,[null]],[7,[null,null,null,null,null,null,null]],[0,[]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[1,[null]],[4,[null,null,null,null]],[3,[null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
- "simple": 1,
- "by": "worker"
+ "betaSig": "[[\"nfl|dandreswift|car|10|over5\",\"nfl|willreichard|fgm|1|over5\",\"nfl|tylerallgeier|car|15|under5\",\"nfl|jasonsanders|fgm|1|over5\",\"nfl|kendremiller|car|15|under5\",\"nfl|chasemclaughlin|fgm|1|over5\",\"nfl|davidbailey|tkl|8|under5\",\"nfl|dandreswift|ry|100|under5\",\"nfl|jaredgoff|cmp|15|over5\",\"nfl|justinfields|car|10|under5\",\"nfl|breecehall|ry|100|under5\",\"nfl|buckyirving|car|10|over5\",\"nfl|jasonsanders|kpts|5|over5\",\"nfl|roquansmith|tkl|4|over5\",\"nfl|ricodowdle|ry|75|under5\",\"nfl|arvellreese|tkl|4|over5\",\"nfl|jordanmason|car|15|under5\",\"nfl|elijahmolden|tkl|8|under5\",\"nfl|jamiensherwood|tkl|4|over5\",\"nfl|javontewilliams|car|10|over5\",\"nfl|samlaporta|wy|80|under5\",\"nfl|tylerbass|fgm|1|over5\",\"nfl|druetranquill|tkl|4|over5\",\"nfl|bhayshultuten|ry|100|under5\",\"nfl|tonypollard|car|10|over5\",\"nfl|chadryland|fgm|1|over5\",\"nfl|trevorlawrence|ptd|1|over5\",\"nfl|olliegordonii|ry|100|under5\",\"nfl|chrisjohnson|tkl|8|under5\",\"nfl|mattgay|kpts|5|over5\",\"nfl|calebwilliams|cmp|15|over5\",\"nfl|alontaetaylor|tkl|8|under5\",\"nfl|jakebates|kpts|5|over5\",\"nfl|breecehall|car|10|over5\",\"nfl|samlaporta|rry|80|under5\",\"nfl|ljariussneed|tkl|8|under5\",\"nfl|malikwashington|rry|60|under5\",\"nfl|brandonaubrey|kpts|5|over5\",\"nfl|travisetiennejr|ry|75|under5\",\"nfl|malikmustapha|tkl|6|under5\",\"nfl|alvinkamara|lry|15|under5\",\"nfl|cairosantos|kpts|5|over5\",\"nfl|chrisboswell|fgm|1|over5\",\"nfl|tykeesmith|tkl|8|under5\",\"nfl|patrickmahomes|lry|15|under5\",\"nfl|danebelton|tkl|4|over5\",\"nfl|chamarriconner|tkl|8|under5\",\"nfl|mattgay|fgm|1|over5\",\"nfl|kirkcousins|ptd|1|over5\",\"nfl|patsurtainii|tkl|8|under5\",\"nfl|jefferysimmons|tkl|8|under5\",\"nfl|bhayshultuten|car|10|over5\",\"nfl|kadenelliss|tkl|4|over5\",\"nfl|chadryland|kpts|5|over5\",\"nfl|patrickqueen|tkl|4|over5\",\"nfl|jakebrowning|py|250|under5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|camward|cmp|15|over5\",\"nfl|dannystutsman|tkl|8|under5\",\"nfl|braelonallen|ry|100|under5\",\"nfl|ericstokes|tkl|6|under5\",\"nfl|chrisboswell|kpts|5|over5\",\"nfl|andrewmukuba|tkl|8|under5\",\"nfl|deewinters|tkl|8|under5\",\"nfl|ifeatumelifonwu|tkl|6|under5\",\"nfl|antoinewinfieldjr|tkl|8|under5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|brandincooks|lwy|15|under5\",\"nfl|danielcarlson|kpts|9|under5\",\"nfl|rileypatterson|kpts|9|under5\",\"nfl|devinlloyd|tkl|4|over5\",\"nfl|asantesamueljr|tkl|6|under5\",\"nfl|camskattebo|ry|100|under5\",\"nfl|bryceyoung|cmp|15|over5\",\"nfl|brockpurdy|ptd|1|over5\",\"nfl|jakebrowning|cmp|25|under5\",\"nfl|jaredgoff|att|25|over5\",\"nfl|jamespierre|tkl|6|under5\",\"nfl|quaywalker|tkl|4|over5\",\"nfl|ricodowdle|lry|20|under5\",\"nfl|delshawnphillips|tkl|8|under5\",\"nfl|bakermayfield|att|35|under5\",\"nfl|camlittle|fgm|1|over5\",\"nfl|chubahubbard|car|10|over5\",\"nfl|aaronrodgers|att|25|over5\",\"nfl|xavierworthy|rry|60|under5\",\"nfl|zackbaun|tkl|4|over5\",\"nfl|brockpurdy|lry|20|under5\",\"nfl|justinjefferson|wy|80|under5\",\"nfl|jujubrents|tkl|6|under5\",\"nfl|jalenramsey|tkl|8|under5\",\"nfl|camskattebo|car|10|over5\",\"nfl|riqwoolen|tkl|6|under5\",\"nfl|camerondicker|fgm|1|over5\",\"nfl|khalilshakir|wy|80|under5\",\"nfl|aaronjonessr|rry|100|under5\",\"nfl|brandonaubrey|fgm|1|over5\",\"nfl|chrisgodwinjr|rry|60|under5\",\"nfl|druphillips|tkl|6|under5\",\"nfl|kevinwinstonjr|tkl|4|over5\",\"nfl|tarheebstill|tkl|6|under5\",\"nfl|petewerner|tkl|4|over5\",\"nfl|deontebanks|tkl|6|under5\",\"nfl|bakermayfield|py|250|under5\",\"nfl|davisonigbinosun|tkl|6|under5\",\"nfl|calebwilliams|lry|20|under5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|brianthomasjr|rry|60|under5\",\"nfl|camward|att|25|over5\",\"nfl|aaronrodgers|cmp|15|over5\",\"nfl|chrisrodriguezjr|rry|60|under5\",\"nfl|javontewilliams|ry|100|under5\",\"nfl|patfreiermuth|lwy|25|under5\",\"nfl|alvinkamara|rry|80|under5\",\"nfl|malachifields|rry|60|under5\",\"nfl|laddmcconkey|wy|80|under5\",\"nfl|malcolmrodriguez|tkl|6|under5\",\"nfl|justinjefferson|rry|80|under5\",\"nfl|minkahfitzpatrick|tkl|4|over5\",\"nfl|najeeharris|car|10|under5\",\"nfl|brianthomasjr|wy|60|under5\",\"nfl|christianmccaffrey|car|10|over5\",\"nfl|ashtonjeanty|lry|15|under5\",\"nfl|dominiczvada|fgm|1|over5\",\"nfl|kirkcousins|cmp|15|over5\",\"nfl|terrelbernard|tkl|4|over5\",\"nfl|saquonbarkley|car|10|over5\",\"nfl|dregreenlaw|tkl|4|over5\",\"nfl|kylehamilton|tkl|4|over5\",\"nfl|devinsingletary|rry|60|under5\",\"nfl|jackcampbell|tkl|4|over5\",\"nfl|juwanjohnson|lwy|30|under5\",\"nfl|jordanwatkins|rry|80|under5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|garrettwilson|rry|100|under5\",\"nfl|willutz|fgm|1|over5\",\"nfl|georgekarlaftis|tkl|6|under5\",\"nfl|amanihooker|tkl|4|over5\",\"nfl|jamescookiii|car|15|over5\",\"nfl|robertspearsjennings|tkl|6|under5\",\"nfl|traviskelce|wy|80|under5\",\"nfl|harrisonphillips|tkl|6|under5\",\"nfl|marcusepps|tkl|6|under5\",\"nfl|jaquanmcmillian|tkl|6|under5\",\"nfl|cooperrush|att|25|under5\",\"nfl|foyesadeoluokun|tkl|4|over5\",\"nfl|koolaidmckinstry|tkl|6|under5\",\"nfl|brockbowers|rry|100|under5\",\"nfl|kimanividal|lwy|15|under5\",\"nfl|dkmetcalf|wy|80|under5\"],[\"live:ooooooool~6o\",\"live:ooooooool~6o\",\"live:oooool~7oooo\",\"live:l~6ooooooooo\",\"live:l~6ooooooooo\",\"live:oool~7oooooo\",\"open:ooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:oooooooo\",\"open:oooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:ooooooooooooooooooooooooooooooo\",\"open:oooooooooooooooooooooooooooooo\",\"open:ooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooo\",\"open:oooooooooooooooooooooooooooooooooo\",\"open:oooooooooo\"],[[1,[\"strong\"],13],[1,[\"value\"],7],[1,[\"supreme*\"],15],[2,[\"supreme\",\"strong\"],15],[2,[\"supreme*\",\"supreme\"],13],[0,[],13],[2,[\"strong\",\"value\"],12],[0,[],12],[1,[\"value\"],10],[0,[],14],[0,[],16],[1,[\"supreme*!\"],16],[1,[\"strong\"],14],[1,[\"value\"],17],[2,[\"strong\",\"strong\"],13],[2,[\"strong\",\"strong\"],15],[2,[\"strong\",\"value\"],11],[0,[],9],[1,[\"strong\"],12],[0,[],12],[0,[],13],[2,[\"strong\",\"strong\"],17],[1,[\"value\"],17],[1,[\"value\"],10],[1,[\"supreme\"],17],[0,[],17],[1,[\"strong\"],10],[0,[],13],[1,[\"value\"],11],[0,[],16],[2,[\"strong!\",\"strong\"],17],[1,[\"supreme*\"],16],[1,[\"value\"],15],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],14],[1,[\"strong\"],15],[0,[],15],[3,[\"strong\",\"strong\",\"value\"],12],[0,[],10],[0,[],11],[2,[\"supreme*\",\"strong!\"],14],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"strong\"],12],[1,[\"supreme\"],15],[1,[\"value\"],14],[1,[\"strong\"],14],[1,[\"strong\"],13],[0,[],12],[1,[\"strong\"],10],[2,[\"supreme*\",\"supreme\"],15],[1,[\"supreme*\"],15],[2,[\"strong\",\"strong\"],14],[3,[\"supreme\",\"strong\",\"value\"],11],[0,[],10],[0,[],16],[2,[\"supreme*\",\"value\"],14],[1,[\"supreme*!\"],14],[0,[],14],[2,[\"supreme*\",\"value\"],15],[1,[\"strong\"],12],[1,[\"strong\"],15]],[6,13,[null,null,null,null]],[[9,[null,null,null,null,null,null,null,null,null]],[16,[null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[1,[null]],[1,[null]],[7,[null,null,null,null,null,null,null]],[0,[]],[13,[null,null,null,null,null,null,null,null,null,null,null,null,null]],[1,[null]],[4,[null,null,null,null]],[3,[null,null,null]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "simple": 1
 }
