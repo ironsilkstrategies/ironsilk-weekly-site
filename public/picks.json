@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795454926368,
+ "generated": 1795455249691,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -5551,7 +5551,7 @@
     "gl": "#258 INST@#233 ECU",
     "start": "2026-11-23T17:30:00.000Z",
     "day": "2026-11-23",
-    "st": "pre",
+    "st": "in",
     "picks": [
      {
       "m": "spread",
@@ -10525,7 +10525,7 @@
       102
      ],
      "Covers": [
-      112,
+      111,
       107
      ],
      "Pred": [
@@ -26280,6 +26280,78 @@
     "fair": -567
    },
    {
+    "id": "nba|preciousachiuwa|pr|25|under",
+    "sp": "nba",
+    "player": "Precious Achiuwa",
+    "team": "SAC",
+    "k": "pr",
+    "lab": "PTS+REB",
+    "thr": 25,
+    "side": "under",
+    "opp": "SA",
+    "home": true,
+    "start": "2026-11-24T03:00Z",
+    "last": [
+     5,
+     33,
+     11,
+     16,
+     10,
+     13,
+     21,
+     13,
+     0,
+     12
+    ],
+    "dates": [
+     "261027",
+     "261029",
+     "261031",
+     "261102",
+     "261104",
+     "261106",
+     "261108",
+     "261110",
+     "261118",
+     "261121"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 8,
+    "avg10": 13.4,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.856
+     },
+     {
+      "v": "Coach",
+      "p": 0.853
+     },
+     {
+      "v": "Sim",
+      "p": 0.851
+     },
+     {
+      "v": "Judge",
+      "p": 0.85
+     },
+     {
+      "v": "Trends",
+      "p": 0.841
+     }
+    ],
+    "votes": 5,
+    "p": 0.85,
+    "fair": -568
+   },
+   {
     "id": "nba|osoighodaro|pa|15|under",
     "sp": "nba",
     "player": "Oso Ighodaro",
@@ -34042,6 +34114,78 @@
     "fair": -438
    },
    {
+    "id": "nba|preciousachiuwa|pra|25|under",
+    "sp": "nba",
+    "player": "Precious Achiuwa",
+    "team": "SAC",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 25,
+    "side": "under",
+    "opp": "SA",
+    "home": true,
+    "start": "2026-11-24T03:00Z",
+    "last": [
+     5,
+     35,
+     12,
+     19,
+     11,
+     13,
+     23,
+     13,
+     0,
+     13
+    ],
+    "dates": [
+     "261027",
+     "261029",
+     "261031",
+     "261102",
+     "261104",
+     "261106",
+     "261108",
+     "261110",
+     "261118",
+     "261121"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 8,
+    "avg10": 14.4,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.821
+     },
+     {
+      "v": "Coach",
+      "p": 0.818
+     },
+     {
+      "v": "Sim",
+      "p": 0.815
+     },
+     {
+      "v": "Judge",
+      "p": 0.814
+     },
+     {
+      "v": "Trends",
+      "p": 0.804
+     }
+    ],
+    "votes": 5,
+    "p": 0.814,
+    "fair": -439
+   },
+   {
     "id": "nba|zachedey|pra|25|under",
     "sp": "nba",
     "player": "Zach Edey",
@@ -34112,153 +34256,9 @@
     "votes": 5,
     "p": 0.813,
     "fair": -435
-   },
-   {
-    "id": "nba|dayronsharpe|pa|20|under",
-    "sp": "nba",
-    "player": "Day'Ron Sharpe",
-    "team": "BKN",
-    "k": "pa",
-    "lab": "PTS+AST",
-    "thr": 20,
-    "side": "under",
-    "opp": "MIN",
-    "home": false,
-    "start": "2026-11-24T00:30Z",
-    "last": [
-     19,
-     7,
-     13,
-     25,
-     12,
-     20,
-     21,
-     11,
-     7,
-     19
-    ],
-    "dates": [
-     "261101",
-     "261102",
-     "261104",
-     "261107",
-     "261108",
-     "261111",
-     "261114",
-     "261116",
-     "261118",
-     "261120"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 3,
-    "avg10": 15.4,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.835
-     },
-     {
-      "v": "Most common",
-      "p": 0.818
-     },
-     {
-      "v": "Judge",
-      "p": 0.813
-     },
-     {
-      "v": "Sim",
-      "p": 0.809
-     },
-     {
-      "v": "Trends",
-      "p": 0.791
-     }
-    ],
-    "votes": 5,
-    "p": 0.813,
-    "fair": -435
-   },
-   {
-    "id": "nba|jeremiahfears|reb|8|under",
-    "sp": "nba",
-    "player": "Jeremiah Fears",
-    "team": "NO",
-    "k": "reb",
-    "lab": "REB",
-    "thr": 8,
-    "side": "under",
-    "opp": "PHX",
-    "home": true,
-    "start": "2026-11-24T01:00Z",
-    "last": [
-     5,
-     6,
-     3,
-     4,
-     5,
-     4,
-     10,
-     5,
-     7,
-     5
-    ],
-    "dates": [
-     "261106",
-     "261108",
-     "261109",
-     "261111",
-     "261113",
-     "261114",
-     "261116",
-     "261118",
-     "261120",
-     "261121"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 3,
-    "avg10": 5.4,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.84
-     },
-     {
-      "v": "Sim",
-      "p": 0.812
-     },
-     {
-      "v": "Judge",
-      "p": 0.812
-     },
-     {
-      "v": "Trends",
-      "p": 0.798
-     },
-     {
-      "v": "Coach",
-      "p": 0.796
-     }
-    ],
-    "votes": 5,
-    "p": 0.812,
-    "fair": -431
    }
   ]
  },
- "betaSig": "[[\"nba|derikqueen|pts|20|under5\",\"nba|jaracewalker|pra|20|under5\",\"nba|nicclaxton|pr|25|under5\",\"nba|trejones|pr|20|under5\",\"nba|ziairewilliams|pts|15|under5\",\"nba|sammerrill|pra|20|under5\",\"nba|meleekthomas|pts|20|under5\",\"nba|dannywolf|pa|20|under5\",\"nba|mylesturner|pra|25|under5\",\"nba|robertwilliamsiii|reb|10|under5\",\"nba|kellyoubrejr|pra|25|under5\",\"nba|obitoppin|pa|20|under5\",\"nba|ziairewilliams|pra|20|under5\",\"nba|trejones|pra|25|under5\",\"nba|joanberinger|reb|10|under5\",\"nba|deandrehunter|ra|10|under5\",\"nba|jaylenwells|pra|25|under5\",\"nba|vjedgecombe|reb|10|under5\",\"nba|tjmcconnell|pa|20|under5\",\"nba|ruihachimura|pa|25|under5\",\"nba|robertwilliamsiii|pr|20|under5\",\"nba|khamanmaluach|pr|20|under5\",\"nba|pascalsiakam|reb|10|under5\",\"nba|ruihachimura|reb|10|under5\",\"nba|jalengreen|pa|25|under5\",\"nba|victorwembanyama|sb|3|over5\",\"nba|patrickwilliams|pa|15|under5\",\"nba|jordangoodwin|pra|25|under5\",\"nba|jabarismithjr|reb|10|under5\",\"nba|pascalsiakam|ast|6|under5\",\"nba|sionjames|pra|20|under5\",\"nba|julianchampagnie|pra|25|under5\",\"nba|keldonjohnson|pra|25|under5\",\"nba|jadenhardy|pts|15|under5\",\"nba|jaxsonhayes|reb|10|under5\",\"nba|treymurphyiii|reb|8|under5\",\"nba|jonathankuminga|pa|25|under5\",\"nba|sandromamukelashvili|pra|25|under5\",\"nba|stephoncastle|reb|8|under5\",\"nba|osoighodaro|pa|15|under5\",\"nba|obitoppin|pra|25|under5\",\"nba|jakobewalter|pr|25|under5\",\"nba|keldonjohnson|ra|12|under5\",\"nba|sammerrill|pa|15|under5\",\"nba|tjmcconnell|ast|8|under5\",\"nba|sandromamukelashvili|ra|10|under5\",\"nba|jamesharden|reb|8|under5\",\"nba|kenrichwilliams|pra|20|under5\",\"nba|keeganmurray|pts|20|under5\",\"nba|jarrettallen|pts|20|under5\",\"nba|zachedey|pr|25|under5\",\"nba|kellyoubrejr|pa|20|under5\",\"nba|mobamba|pr|25|under5\",\"nba|donovanmitchell|ast|8|under5\",\"nba|aaronnesmith|pra|25|under5\",\"nba|jakobewalter|ra|10|under5\",\"nba|zachlavine|ra|10|under5\",\"nba|camspencer|pa|25|under5\",\"nba|walkerkessler|pa|25|under5\",\"nba|kenrichwilliams|pa|15|under5\",\"nba|deniavdija|reb|10|under5\",\"nba|yvesmissi|pr|25|under5\",\"nba|quentonjackson|pr|20|under5\",\"nba|lukadoncic|reb|10|under5\",\"nba|lukekornet|ra|8|under5\",\"nba|nicclaxton|pa|20|under5\",\"nba|collingillespie|pr|20|under5\",\"nba|collinsexton|pr|20|under5\",\"nba|javonsmall|pr|20|under5\",\"nba|quentonjackson|ra|10|under5\",\"nba|royceoneale|pr|15|under5\",\"nba|dayronsharpe|pr|25|under5\",\"nba|moritzwagner|pr|20|under5\",\"nba|jalengreen|pr|25|under5\",\"nba|lukadoncic|ast|4|over5\",\"nba|malikmonk|pra|20|under5\",\"nba|tarieason|pr|25|under5\",\"nba|jamalshead|pra|25|under5\",\"nba|mylesturner|pr|20|under5\",\"nba|derrickjonesjr|pts|15|under5\",\"nba|marcussmart|pra|20|under5\",\"nba|tyreseproctor|pra|25|under5\",\"nba|meleekthomas|pra|25|under5\",\"nba|collingillespie|pra|25|under5\",\"nba|keyontegeorge|pts|30|under5\",\"nba|lameloball|pts|25|under5\",\"nba|stephoncastle|pts|25|under5\",\"nba|boneshyland|pa|20|under5\",\"nba|nazreid|pts|25|under5\",\"nba|isaiahjackson|pa|15|under5\",\"nba|terrenceshannonjr|pra|30|under5\",\"nba|jalengreen|pts|20|under5\",\"nba|dariusgarland|to|2|over5\",\"nba|terrenceshannonjr|ra|10|under5\",\"nba|aaronnesmith|pa|20|under5\",\"nba|jaracewalker|ra|10|under5\",\"nba|acebailey|pts|20|under5\",\"nba|treymurphyiii|pr|15|over5\",\"nba|sammerrill|ra|8|under5\",\"nba|dayronsharpe|pra|30|under5\",\"nba|devinbooker|ra|12|under5\",\"nba|brandonmiller|ra|12|under5\",\"nba|kylekuzma|pra|30|under5\",\"nba|kelelware|pra|25|under5\",\"nba|jaredmccain|pa|25|under5\",\"nba|mariohezonja|pra|25|under5\",\"nba|jaylenwells|pa|20|under5\",\"nba|krisdunn|ra|12|under5\",\"nba|immanuelquickley|pa|15|over5\",\"nba|toumanicamara|pra|25|under5\",\"nba|keldonjohnson|reb|8|under5\",\"nba|jabarismithjr|pra|35|under5\",\"nba|toumanicamara|pa|20|under5\",\"nba|amenthompson|pr|15|over5\",\"nba|treymurphyiii|ast|6|under5\",\"nba|thomasbryant|pr|20|under5\",\"nba|brooklopez|pts|25|under5\",\"nba|scottiebarnes|reb|10|under5\",\"nba|adaymara|pts|15|under5\",\"nba|michaelporterjr|reb|10|under5\",\"nba|matissethybulle|stl|1|over5\",\"nba|ruihachimura|ra|12|under5\",\"nba|damianlillard|pa|15|over5\",\"nba|jabariwalker|pra|20|under5\",\"nba|rudygobert|pa|15|under5\",\"nba|ivicazubac|pr|30|under5\",\"nba|dylancardwell|pr|15|under5\",\"nba|jaxsonhayes|pra|25|under5\",\"nba|jaxsonhayes|ra|12|under5\",\"nba|collinmurrayboyles|pts|15|under5\",\"nba|braydenburries|pr|25|under5\",\"nba|thomasbryant|pts|15|under5\",\"nba|sidycissoko|reb|6|under5\",\"nba|domantassabonis|ast|8|under5\",\"nba|jalensmith|pa|25|under5\",\"nba|patrickwilliams|ra|8|under5\",\"nba|deanwade|pr|15|under5\",\"nba|anferneesimons|pa|20|under5\",\"nba|terrenceshannonjr|pa|25|under5\",\"nba|walkerkessler|reb|6|over5\",\"nba|andrewnembhard|pa|15|over5\",\"nba|kevindurant|reb|8|under5\",\"nba|jalensmith|pra|35|under5\",\"nba|deniavdija|pr|20|over5\",\"nba|cobywhite|pts|20|under5\",\"nba|stevenadams|pra|20|under5\",\"nba|ajaymitchell|pts|25|under5\",\"nba|zachedey|pra|25|under5\",\"nba|dayronsharpe|pa|20|under5\",\"nba|jeremiahfears|reb|8|under5\"],[\"lost:mhhmmhmmm\",\"lost:mmhhmhmmm\",\"lost:hmmmhhmhhm\",\"lost:hmmhhmmmmm\",\"lost:hhmhmhhhhm\",\"lost:mmmmhhhm\",\"lost:hhhmmmmhhm\",\"lost:mhhhmhhhm\",\"lost:mmhhhhmmhm\",\"lost:hhhhmmmhmh\",\"lost:hmhhhmmhm\",\"lost:mhmmhhhmhh\",\"lost:m34h55hh3h4hm35h85m0h61h3hhmh6h6h20m34h55h3hh89h2hm3m8m9h5h2h25h\",\"lost:hhh324h74h53h59h6h4h9m28m1m1h38hhm3m1h6h22h71h120h6hh4h2hh276h67m1h18\",\"lost:hhhmhhhmm\",\"lost:hhmhhmhhhm\",\"lost:hmhmmhmhmh\",\"lost:hmhhmhmhhh\",\"lost:hhhmhmmmhm\",\"lost:hhmh\",\"lost:m10hm2h3m181h45h4m0m0mm37h62h2hhh67h58h7m2h3mmh2m14h304mh69hh101h8h2h3m12h2\",\"lost:hhmmmmhhhm\",\"lost:hmhmmhmmmh\",\"lost:hhhmmhhhmh\"],[[0,[],11],[2,[\"supreme*\",\"strong\"],16],[1,[\"strong\"],13],[2,[\"supreme\",\"value\"],14],[0,[],13],[0,[],12],[1,[\"value\"],13],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],10],[0,[],14],[1,[\"strong\"],12],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme\",\"strong\"],16],[3,[\"supreme*\",\"strong\",\"strong\"],17],[0,[],17],[1,[\"supreme*\"],13],[1,[\"supreme*\"],19],[0,[],15],[0,[],14],[0,[],14],[1,[\"strong\"],15],[1,[\"strong\"],18],[0,[],20],[2,[\"supreme\",\"value\"],15],[2,[\"strong\",\"value\"],16],[1,[\"supreme\"],15],[0,[],13],[2,[\"supreme*\",\"strong\"],17],[3,[\"strong\",\"strong\",\"value\"],16],[1,[\"strong\"],15],[1,[\"supreme*\"],14],[1,[\"strong\"],13],[0,[],8],[1,[\"supreme\"],16],[1,[\"strong\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],17],[1,[\"strong\"],15],[0,[],13],[0,[],14],[1,[\"supreme*\"],13]],0,[[6,[null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[1,[null]],[0,[]],[0,[]],[1,[null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"nba|derikqueen|pts|20|under5\",\"nba|jaracewalker|pra|20|under5\",\"nba|nicclaxton|pr|25|under5\",\"nba|trejones|pr|20|under5\",\"nba|ziairewilliams|pts|15|under5\",\"nba|sammerrill|pra|20|under5\",\"nba|meleekthomas|pts|20|under5\",\"nba|dannywolf|pa|20|under5\",\"nba|mylesturner|pra|25|under5\",\"nba|robertwilliamsiii|reb|10|under5\",\"nba|kellyoubrejr|pra|25|under5\",\"nba|obitoppin|pa|20|under5\",\"nba|ziairewilliams|pra|20|under5\",\"nba|trejones|pra|25|under5\",\"nba|joanberinger|reb|10|under5\",\"nba|deandrehunter|ra|10|under5\",\"nba|jaylenwells|pra|25|under5\",\"nba|vjedgecombe|reb|10|under5\",\"nba|tjmcconnell|pa|20|under5\",\"nba|ruihachimura|pa|25|under5\",\"nba|robertwilliamsiii|pr|20|under5\",\"nba|khamanmaluach|pr|20|under5\",\"nba|pascalsiakam|reb|10|under5\",\"nba|ruihachimura|reb|10|under5\",\"nba|jalengreen|pa|25|under5\",\"nba|victorwembanyama|sb|3|over5\",\"nba|patrickwilliams|pa|15|under5\",\"nba|jordangoodwin|pra|25|under5\",\"nba|jabarismithjr|reb|10|under5\",\"nba|pascalsiakam|ast|6|under5\",\"nba|sionjames|pra|20|under5\",\"nba|julianchampagnie|pra|25|under5\",\"nba|keldonjohnson|pra|25|under5\",\"nba|jadenhardy|pts|15|under5\",\"nba|jaxsonhayes|reb|10|under5\",\"nba|treymurphyiii|reb|8|under5\",\"nba|jonathankuminga|pa|25|under5\",\"nba|sandromamukelashvili|pra|25|under5\",\"nba|stephoncastle|reb|8|under5\",\"nba|preciousachiuwa|pr|25|under5\",\"nba|osoighodaro|pa|15|under5\",\"nba|obitoppin|pra|25|under5\",\"nba|jakobewalter|pr|25|under5\",\"nba|keldonjohnson|ra|12|under5\",\"nba|sammerrill|pa|15|under5\",\"nba|tjmcconnell|ast|8|under5\",\"nba|sandromamukelashvili|ra|10|under5\",\"nba|jamesharden|reb|8|under5\",\"nba|kenrichwilliams|pra|20|under5\",\"nba|keeganmurray|pts|20|under5\",\"nba|jarrettallen|pts|20|under5\",\"nba|zachedey|pr|25|under5\",\"nba|kellyoubrejr|pa|20|under5\",\"nba|mobamba|pr|25|under5\",\"nba|donovanmitchell|ast|8|under5\",\"nba|aaronnesmith|pra|25|under5\",\"nba|jakobewalter|ra|10|under5\",\"nba|zachlavine|ra|10|under5\",\"nba|camspencer|pa|25|under5\",\"nba|walkerkessler|pa|25|under5\",\"nba|kenrichwilliams|pa|15|under5\",\"nba|deniavdija|reb|10|under5\",\"nba|yvesmissi|pr|25|under5\",\"nba|quentonjackson|pr|20|under5\",\"nba|lukadoncic|reb|10|under5\",\"nba|lukekornet|ra|8|under5\",\"nba|nicclaxton|pa|20|under5\",\"nba|collingillespie|pr|20|under5\",\"nba|collinsexton|pr|20|under5\",\"nba|javonsmall|pr|20|under5\",\"nba|quentonjackson|ra|10|under5\",\"nba|royceoneale|pr|15|under5\",\"nba|dayronsharpe|pr|25|under5\",\"nba|moritzwagner|pr|20|under5\",\"nba|jalengreen|pr|25|under5\",\"nba|lukadoncic|ast|4|over5\",\"nba|malikmonk|pra|20|under5\",\"nba|tarieason|pr|25|under5\",\"nba|jamalshead|pra|25|under5\",\"nba|mylesturner|pr|20|under5\",\"nba|derrickjonesjr|pts|15|under5\",\"nba|marcussmart|pra|20|under5\",\"nba|tyreseproctor|pra|25|under5\",\"nba|meleekthomas|pra|25|under5\",\"nba|collingillespie|pra|25|under5\",\"nba|keyontegeorge|pts|30|under5\",\"nba|lameloball|pts|25|under5\",\"nba|stephoncastle|pts|25|under5\",\"nba|boneshyland|pa|20|under5\",\"nba|nazreid|pts|25|under5\",\"nba|isaiahjackson|pa|15|under5\",\"nba|terrenceshannonjr|pra|30|under5\",\"nba|jalengreen|pts|20|under5\",\"nba|dariusgarland|to|2|over5\",\"nba|terrenceshannonjr|ra|10|under5\",\"nba|aaronnesmith|pa|20|under5\",\"nba|jaracewalker|ra|10|under5\",\"nba|acebailey|pts|20|under5\",\"nba|treymurphyiii|pr|15|over5\",\"nba|sammerrill|ra|8|under5\",\"nba|dayronsharpe|pra|30|under5\",\"nba|devinbooker|ra|12|under5\",\"nba|brandonmiller|ra|12|under5\",\"nba|kylekuzma|pra|30|under5\",\"nba|kelelware|pra|25|under5\",\"nba|jaredmccain|pa|25|under5\",\"nba|mariohezonja|pra|25|under5\",\"nba|jaylenwells|pa|20|under5\",\"nba|krisdunn|ra|12|under5\",\"nba|immanuelquickley|pa|15|over5\",\"nba|toumanicamara|pra|25|under5\",\"nba|keldonjohnson|reb|8|under5\",\"nba|jabarismithjr|pra|35|under5\",\"nba|toumanicamara|pa|20|under5\",\"nba|amenthompson|pr|15|over5\",\"nba|treymurphyiii|ast|6|under5\",\"nba|thomasbryant|pr|20|under5\",\"nba|brooklopez|pts|25|under5\",\"nba|scottiebarnes|reb|10|under5\",\"nba|adaymara|pts|15|under5\",\"nba|michaelporterjr|reb|10|under5\",\"nba|matissethybulle|stl|1|over5\",\"nba|ruihachimura|ra|12|under5\",\"nba|damianlillard|pa|15|over5\",\"nba|jabariwalker|pra|20|under5\",\"nba|rudygobert|pa|15|under5\",\"nba|ivicazubac|pr|30|under5\",\"nba|dylancardwell|pr|15|under5\",\"nba|jaxsonhayes|pra|25|under5\",\"nba|jaxsonhayes|ra|12|under5\",\"nba|collinmurrayboyles|pts|15|under5\",\"nba|braydenburries|pr|25|under5\",\"nba|thomasbryant|pts|15|under5\",\"nba|sidycissoko|reb|6|under5\",\"nba|domantassabonis|ast|8|under5\",\"nba|jalensmith|pa|25|under5\",\"nba|patrickwilliams|ra|8|under5\",\"nba|deanwade|pr|15|under5\",\"nba|anferneesimons|pa|20|under5\",\"nba|terrenceshannonjr|pa|25|under5\",\"nba|walkerkessler|reb|6|over5\",\"nba|andrewnembhard|pa|15|over5\",\"nba|kevindurant|reb|8|under5\",\"nba|jalensmith|pra|35|under5\",\"nba|deniavdija|pr|20|over5\",\"nba|cobywhite|pts|20|under5\",\"nba|stevenadams|pra|20|under5\",\"nba|ajaymitchell|pts|25|under5\",\"nba|preciousachiuwa|pra|25|under5\",\"nba|zachedey|pra|25|under5\"],[\"lost:mhhmmhmmm\",\"lost:mmhhmhmmm\",\"lost:hmmmhhmhhm\",\"lost:hmmhhmmmmm\",\"lost:hhmhmhhhhm\",\"lost:mmmmhhhm\",\"lost:hhhmmmmhhm\",\"lost:mhhhmhhhm\",\"lost:mmhhhhmmhm\",\"lost:hhhhmmmhmh\",\"lost:hmhhhmmhm\",\"lost:mhmmhhhmhh\",\"lost:m34h55hh3h4hm35h85m0h61h3hhmh6h6h20m34h55h3hh89h2hm3m8m9h5h2h25h\",\"lost:hhh324h74h53h59h6h4h9m28m1m1h38hhm3m1h6h22h71h120h6hh4h2hh276h67m1h18\",\"lost:hhhmhhhmm\",\"lost:hhmhhmhhhm\",\"lost:hmhmmhmhmh\",\"lost:hmhhmhmhhh\",\"lost:hhhmhmmmhm\",\"lost:hhmh\",\"lost:m10hm2h3m181h45h4m0m0mm37h62h2hhh67h58h7m2h3mmh2m14h304mh69hh101h8h2h3m12h2\",\"lost:hhmmmmhhhm\",\"lost:hmhmmhmmmh\",\"lost:hhhmmhhhmh\"],[[0,[],11],[2,[\"supreme*\",\"strong\"],16],[1,[\"strong\"],13],[2,[\"supreme\",\"value\"],14],[0,[],13],[0,[],12],[1,[\"value\"],13],[1,[\"supreme*\"],11],[2,[\"strong\",\"value\"],10],[0,[],14],[1,[\"strong\"],12],[2,[\"supreme\",\"strong\"],13],[1,[\"strong\"],14],[2,[\"supreme\",\"strong\"],16],[3,[\"supreme*\",\"strong\",\"strong\"],17],[0,[],17],[1,[\"supreme*\"],13],[1,[\"supreme*\"],19],[0,[],15],[0,[],14],[0,[],14],[1,[\"strong\"],15],[1,[\"strong\"],18],[0,[],20],[2,[\"supreme\",\"value\"],15],[2,[\"strong\",\"value\"],16],[1,[\"supreme\"],15],[0,[],13],[2,[\"supreme*\",\"strong\"],17],[3,[\"strong\",\"strong\",\"value\"],16],[1,[\"strong\"],15],[1,[\"supreme*\"],14],[1,[\"strong\"],13],[0,[],8],[1,[\"supreme\"],16],[1,[\"strong\"],12],[1,[\"strong\"],15],[2,[\"strong\",\"value\"],17],[1,[\"strong\"],15],[0,[],13],[0,[],14],[1,[\"supreme*\"],13]],0,[[6,[null,null,null,null,null,null]],[7,[null,null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[6,[null,null,null,null,null,null]],[0,[]],[0,[]],[6,[null,null,null,null,null,null]],[0,[]],[1,[null]],[0,[]],[0,[]],[1,[null]],[0,[]],[0,[]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
