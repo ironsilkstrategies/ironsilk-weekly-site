@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795643671428,
+ "generated": 1795645064477,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -16,7 +16,7 @@
   "w": 55,
   "l": 39,
   "pu": 0,
-  "u": 3.1589588676479305,
+  "u": 3.16,
   "first": "2026-10-06",
   "be": 0.5796380449811086,
   "ap": -138
@@ -642,12 +642,7 @@
    }
   ],
   "props": [],
-  "allStarted": false,
-  "commit": {
-   "alg": "sha256",
-   "hash": "91475c5ae085e43f109c75a7c38687113d5f50a5cce2cf5e166f568fdfc9f0b6",
-   "salt": null
-  }
+  "allStarted": true
  },
  "parlay": null,
  "parlayRecord": null,
@@ -1592,572 +1587,7 @@
  ],
  "beta": true,
  "vip": {
-  "top10": [
-   {
-    "sp": "nhl",
-    "game": "NYR@BUF",
-    "gl": "#17 NYR@#16 BUF",
-    "pick": "NYR +1.5",
-    "price": -225,
-    "p": 0.766,
-    "q": null,
-    "start": "2026-11-26T00:00Z",
-    "hit": null,
-    "push": false,
-    "by": [],
-    "voices": [
-     {
-      "who": "The Scout",
-      "v": "Scout",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.653,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · picked team's main goalie is top 20% in save % · me vs BUF ats 3-2 · picked team trails the head-to-head series · me with NYR ats 2-2 · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Grinder",
-      "v": "H_L2e1",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.629,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · picked team's main goalie is top 20% in save % · picked team trails the head-to-head series · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Closer",
-      "v": "H_L3e1",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.594,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · picked team's main goalie is top 20% in save % · picked team trails the head-to-head series · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "Covers",
-      "v": "Covers",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.56,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · picked team's main goalie is top 20% in save % · me with NYR ats 0-2 · picked team trails the head-to-head series · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.558,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · picked team's main goalie is top 20% in save % · me vs BUF ats 8-2 · picked team trails the head-to-head series · me with NYR ats 3-4 · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Commissioner",
-      "v": "Power",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.554,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · picked team's main goalie is top 20% in save % · me vs BUF ats 6-2 · picked team trails the head-to-head series · me with NYR ats 1-3 · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Scorekeeper",
-      "v": "Most common",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.55,
-      "official": false,
-      "note": "his final NYR 2 – 3 BUF · NYR: 27.8 shots × 11.1% · me vs BUF ats 8-2 · BUF: 27.6 shots × 11.2% · me with NYR ats 3-4 · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Judge",
-      "v": "Judge",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.54,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · picked team's main goalie is top 20% in save % · me vs BUF ats 8-3 · picked team trails the head-to-head series · me with NYR ats 3-4 · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Banker",
-      "v": "Banker",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.518,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · picked team's main goalie is top 20% in save % · me with NYR ats 0-2 · picked team trails the head-to-head series · me vs BUF ats 2-0 · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Coach",
-      "v": "Coach",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.502,
-      "official": false,
-      "note": "+0.09 NYR revenge: lost the last meeting (2026) · his score NYR 3 – 3 BUF vs the line -1.5 · me with NYR ats 0-2 · me vs BUF ats 2-0 · avg NYR 3-2.7 BUF 3-3.5 · rec NYR 13-9 BUF 10-10 · last5 NYR 3-2 BUF 1-4"
-     },
-     {
-      "who": "The Oracle",
-      "v": "Pred",
-      "with": true,
-      "pick": "NYR +1.5",
-      "p": 0.458,
-      "official": false,
-      "note": "outside consensus BUF by 0.6 vs the line -1.5 · Kalshi BUF 55% · me with NYR ats 3-0 · Polymarket BUF 56% · DRatings BUF 54% · OddsShark computer NYR 2.95–3.26 BUF · DRatings: NYR by 0.4 — 62% on 106 · OddsShark computer: NYR by 0.3 — 54% on 80 · me vs BUF ats 2-1 · avg NYR 3-2.7 BUF 3-3.5"
-     }
-    ],
-    "ev": 10.7,
-    "voicesBy": [
-     "The Scout"
-    ]
-   },
-   {
-    "sp": "ncaab",
-    "game": "CLEM@CSU",
-    "gl": "#164 CLEM@#263 CSU",
-    "pick": "CSU +3.5",
-    "price": -110,
-    "p": 0.701,
-    "q": null,
-    "start": "2026-11-26T05:30Z",
-    "hit": null,
-    "push": false,
-    "by": [],
-    "voices": [
-     {
-      "who": "The Banker",
-      "v": "Banker",
-      "with": true,
-      "pick": "CSU +3.5",
-      "p": 0.518,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CLEM ats 3-1 · home underdog · me with CSU ats 2-0 · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "Covers",
-      "v": "Covers",
-      "with": true,
-      "pick": "CSU +3.5",
-      "p": 0.5,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CLEM ats 1-1 · home underdog · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Grinder",
-      "v": "H_L2e1",
-      "with": true,
-      "pick": "CSU +3.5",
-      "p": 0.485,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · home underdog · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Coach",
-      "v": "Coach",
-      "with": true,
-      "pick": "CSU +3",
-      "p": 0.478,
-      "official": false,
-      "note": "his score CLEM 74 – 76 CSU vs the line +3 · me with CSU ats 2-0 · me vs CLEM ats 2-1 · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Judge",
-      "v": "Judge",
-      "with": true,
-      "pick": "CSU +3.5",
-      "p": 0.469,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CLEM ats 4-1 · home underdog · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "CSU +3.5",
-      "p": 0.445,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CLEM ats 4-1 · home underdog · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     }
-    ],
-    "ev": 33.7,
-    "voicesBy": [
-     "The Coach"
-    ]
-   },
-   {
-    "sp": "nhl",
-    "game": "VAN@DET",
-    "gl": "#32 VAN@#21 DET",
-    "pick": "DET ML",
-    "price": -224,
-    "p": 0.703,
-    "q": null,
-    "start": "2026-11-26T00:30Z",
-    "hit": null,
-    "push": false,
-    "by": [],
-    "voices": [
-     {
-      "who": "Covers",
-      "v": "Covers",
-      "with": true,
-      "pick": "DET ML",
-      "p": 0.641,
-      "official": false,
-      "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 0-2 · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-     },
-     {
-      "who": "The Grinder",
-      "v": "H_L2e1",
-      "with": true,
-      "pick": "DET ML",
-      "p": 0.625,
-      "official": false,
-      "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-     },
-     {
-      "who": "The Closer",
-      "v": "H_L3e1",
-      "with": true,
-      "pick": "DET ML",
-      "p": 0.623,
-      "official": false,
-      "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-     },
-     {
-      "who": "The Banker",
-      "v": "Banker",
-      "with": true,
-      "pick": "DET ML",
-      "p": 0.616,
-      "official": false,
-      "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 2-1 · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-     },
-     {
-      "who": "The Judge",
-      "v": "Judge",
-      "with": true,
-      "pick": "DET ML",
-      "p": 0.615,
-      "official": false,
-      "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 18-3 · picked team's main goalie is bottom 20% · me with DET ml 3-3 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-     },
-     {
-      "who": "The Scout",
-      "v": "Scout",
-      "with": true,
-      "pick": "DET ML",
-      "p": 0.573,
-      "official": false,
-      "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 10-3 · picked team's main goalie is bottom 20% · me with DET ml 1-1 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-     },
-     {
-      "who": "The Commissioner",
-      "v": "Power",
-      "with": true,
-      "pick": "DET ML",
-      "p": 0.562,
-      "official": false,
-      "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 15-3 · picked team's main goalie is bottom 20% · me with DET ml 3-2 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "DET ML",
-      "p": 0.538,
-      "official": false,
-      "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 17-3 · picked team's main goalie is bottom 20% · me with DET ml 3-5 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-     }
-    ],
-    "ev": 1.7,
-    "voicesBy": [
-     "The Judge"
-    ]
-   },
-   {
-    "sp": "ncaab",
-    "game": "PAC@JXST",
-    "gl": "#109 PAC@#233 JXST",
-    "pick": "PAC ML",
-    "price": -185,
-    "p": 0.704,
-    "q": null,
-    "start": "2026-11-26T03:30Z",
-    "hit": null,
-    "push": false,
-    "by": [],
-    "voices": [
-     {
-      "who": "The Scorekeeper",
-      "v": "Most common",
-      "with": true,
-      "pick": "PAC ML",
-      "p": 0.683,
-      "official": false,
-      "note": "his final PAC 77 – 66 JXST · 68 possessions · PAC: 7.7 threes, 20.3 twos, 13.3 FT · JXST: 7.6 threes, 15.4 twos, 12.1 FT · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
-     },
-     {
-      "who": "The Grinder",
-      "v": "H_L2e1",
-      "with": true,
-      "pick": "PAC ML",
-      "p": 0.602,
-      "official": false,
-      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
-     },
-     {
-      "who": "The Closer",
-      "v": "H_L3e1",
-      "with": true,
-      "pick": "PAC ML",
-      "p": 0.588,
-      "official": false,
-      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
-     },
-     {
-      "who": "The Scout",
-      "v": "Scout",
-      "with": true,
-      "pick": "PAC ML",
-      "p": 0.536,
-      "official": false,
-      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "PAC ML",
-      "p": 0.493,
-      "official": false,
-      "note": "road favorite · picked team has the clear talent edge (Scout) · me vs JXST ml 2-0 · picked team owns a top-vs-bottom unit mismatch · me with PAC ml 1-1 · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
-     },
-     {
-      "who": "The Banker",
-      "v": "Banker",
-      "with": true,
-      "pick": "PAC ML",
-      "p": 0.492,
-      "official": false,
-      "note": "road favorite · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
-     },
-     {
-      "who": "The Judge",
-      "v": "Judge",
-      "with": true,
-      "pick": "PAC ML",
-      "p": 0.489,
-      "official": false,
-      "note": "road favorite · picked team has the clear talent edge (Scout) · me vs JXST ml 2-2 · picked team owns a top-vs-bottom unit mismatch · me with PAC ml 1-1 · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
-     },
-     {
-      "who": "The Commissioner",
-      "v": "Power",
-      "with": true,
-      "pick": "PAC ML",
-      "p": 0.479,
-      "official": false,
-      "note": "road favorite · picked team has the clear talent edge (Scout) · me vs JXST ml 4-0 · picked team owns a top-vs-bottom unit mismatch · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
-     }
-    ],
-    "ev": 8.4,
-    "voicesBy": [
-     "The Scout"
-    ]
-   },
-   {
-    "sp": "ncaab",
-    "game": "CLEM@CSU",
-    "gl": "#164 CLEM@#263 CSU",
-    "pick": "CLEM ML",
-    "price": -165,
-    "p": 0.703,
-    "q": null,
-    "start": "2026-11-26T05:30Z",
-    "hit": null,
-    "push": false,
-    "by": [],
-    "voices": [
-     {
-      "who": "The Closer",
-      "v": "H_L3e1",
-      "with": true,
-      "pick": "CLEM ML",
-      "p": 0.61,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Grinder",
-      "v": "H_L2e1",
-      "with": true,
-      "pick": "CLEM ML",
-      "p": 0.594,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CSU ml 2-0 · road favorite · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Banker",
-      "v": "Banker",
-      "with": true,
-      "pick": "CLEM ML",
-      "p": 0.513,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Scout",
-      "v": "Scout",
-      "with": true,
-      "pick": "CLEM ML",
-      "p": 0.491,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CSU ml 2-0 · road favorite · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "Covers",
-      "v": "Covers",
-      "with": true,
-      "pick": "CLEM ML",
-      "p": 0.491,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CSU ml 2-0 · road favorite · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Commissioner",
-      "v": "Power",
-      "with": true,
-      "pick": "CLEM ML",
-      "p": 0.449,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CSU ml 2-0 · road favorite · me with CLEM ml 2-1 · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Judge",
-      "v": "Judge",
-      "with": true,
-      "pick": "CLEM ML",
-      "p": 0.446,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CSU ml 2-0 · road favorite · me with CLEM ml 3-2 · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "CLEM ML",
-      "p": 0.441,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CSU ml 2-0 · road favorite · me with CLEM ml 3-2 · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
-     }
-    ],
-    "ev": 13,
-    "voicesBy": [
-     "The Scout"
-    ]
-   },
-   {
-    "sp": "ncaab",
-    "game": "BYU@PROV",
-    "gl": "#80 BYU@#141 PROV",
-    "pick": "BYU ML",
-    "price": -145,
-    "p": 0.702,
-    "q": null,
-    "start": "2026-11-25T22:30Z",
-    "hit": null,
-    "push": false,
-    "by": [],
-    "voices": [
-     {
-      "who": "The Closer",
-      "v": "H_L3e1",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.61,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     },
-     {
-      "who": "The Grinder",
-      "v": "H_L2e1",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.592,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with BYU ml 1-1 · road favorite · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     },
-     {
-      "who": "The Brain",
-      "v": "Brain",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.549,
-      "official": false,
-      "note": "edge +5.1% — his 62% vs the price's 59% · the exchanges 63% vs the book's 57% · the outside consensus 68% · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     },
-     {
-      "who": "The Scout",
-      "v": "Scout",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.491,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     },
-     {
-      "who": "The Banker",
-      "v": "Banker",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.491,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     },
-     {
-      "who": "Covers",
-      "v": "Covers",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.491,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     },
-     {
-      "who": "The Commissioner",
-      "v": "Power",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.448,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with BYU ml 3-1 · road favorite · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     },
-     {
-      "who": "The Judge",
-      "v": "Judge",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.446,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with BYU ml 4-0 · road favorite · me vs PROV ml 2-1 · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "BYU ML",
-      "p": 0.441,
-      "official": false,
-      "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with BYU ml 4-0 · road favorite · me vs PROV ml 2-1 · avg BYU 90-72.4 PROV 72.9-64 · rec BYU 6-1 PROV 5-2 · last5 BYU 3-1 PROV 4-1"
-     }
-    ],
-    "ev": 18.7,
-    "voicesBy": [
-     "The Scout"
-    ]
-   }
-  ],
+  "top10": [],
   "banker": null,
   "parlays": [
    {
@@ -2175,7 +1605,7 @@
       "pick": "UND ML",
       "price": 105,
       "p": 0.616,
-      "q": 0.704,
+      "q": 0.705,
       "start": "2026-11-25T20:00Z",
       "hit": null,
       "push": false,
@@ -112960,7 +112390,7 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.507,
-      "q": 0.658,
+      "q": 0.659,
       "detail": "SELA 53–55 UND (live)",
       "prog": null,
       "prop": false
@@ -112998,7 +112428,7 @@
     "res": "live",
     "hit": 0,
     "p0": 0.0116,
-    "now": 0.01504
+    "now": 0.01507
    },
    {
     "id": "fmdshg7",
@@ -113028,7 +112458,7 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.583,
-      "q": 0.512,
+      "q": 0.476,
       "detail": "SELA 53–55 UND (live) · total 108 so far",
       "prog": null,
       "prop": false
@@ -113070,7 +112500,7 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.606,
-      "q": 0.839,
+      "q": 0.842,
       "detail": "SELA 53–55 UND (live) · margin +2",
       "prog": null,
       "prop": false
@@ -113094,7 +112524,311 @@
     "res": "live",
     "hit": 0,
     "p0": 0.04593,
-    "now": 0.00128
+    "now": 0.00119
+   },
+   {
+    "id": "fmfbdkx",
+    "name": null,
+    "date": "2026-11-25",
+    "legs": [
+     {
+      "sp": "nhl",
+      "game": "OTT@FLA",
+      "pick": "OTT +1.5",
+      "price": -250,
+      "start": "2026-11-26T00:07:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.714,
+      "q": 0.714,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "GB@LAR",
+      "pick": "LAR ML",
+      "price": -140,
+      "start": "2026-11-26T01:00:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.583,
+      "q": 0.583,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "NJ@CBJ",
+      "pick": "NJ ML",
+      "price": -145,
+      "start": "2026-11-26T00:07:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.592,
+      "q": 0.592,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nhl",
+      "game": "VAN@DET",
+      "pick": "DET ML",
+      "price": -224,
+      "start": "2026-11-26T00:37:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.691,
+      "q": 0.691,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "CHI@CHA",
+      "pick": "CHI ML",
+      "price": 145,
+      "start": "2026-11-26T00:10:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.408,
+      "q": 0.408,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "CLE@NY",
+      "pick": "CLE +6.5",
+      "price": -166,
+      "start": "2026-11-26T00:40:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.624,
+      "q": 0.624,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "MIN@OKC",
+      "pick": "Over 219.5",
+      "price": -139,
+      "start": "2026-11-26T00:40:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.582,
+      "q": 0.582,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "SA@POR",
+      "pick": "SA ML",
+      "price": -160,
+      "start": "2026-11-26T03:10:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.615,
+      "q": 0.615,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "SAC@GS",
+      "pick": "GS -5.5",
+      "price": -169,
+      "start": "2026-11-26T03:10:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.628,
+      "q": 0.628,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "PHX@HOU",
+      "pick": "HOU -6.5",
+      "price": -169,
+      "start": "2026-11-26T01:40:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.628,
+      "q": 0.628,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 162.97,
+    "res": "open",
+    "hit": 0,
+    "p0": 0.00613,
+    "now": null
+   },
+   {
+    "id": "fmfb9fi",
+    "name": null,
+    "date": "2026-11-25",
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "PAC@JXST",
+      "pick": "PAC ML",
+      "price": -175,
+      "start": "2026-11-26T03:30:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.636,
+      "q": 0.636,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "WASH@VCU",
+      "pick": "VCU ML",
+      "price": -185,
+      "start": "2026-11-26T03:00:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.649,
+      "q": 0.649,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "KENN@COFC",
+      "pick": "KENN +3.5",
+      "price": -152,
+      "start": "2026-11-25T23:00:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.603,
+      "q": 0.603,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "STMN@UNCW",
+      "pick": "STMN ML",
+      "price": 186,
+      "start": "2026-11-26T00:00:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.35,
+      "q": 0.35,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "CHI@CHA",
+      "pick": "CHA ML",
+      "price": -165,
+      "start": "2026-11-26T00:10:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.623,
+      "q": 0.623,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "GB@LAR",
+      "pick": "LAR ML",
+      "price": -140,
+      "start": "2026-11-26T01:00:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.583,
+      "q": 0.583,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MEM@PSU",
+      "pick": "MEM ML",
+      "price": -175,
+      "start": "2026-11-25T23:45:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.636,
+      "q": 0.636,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "CONN@DUKE",
+      "pick": "CONN ML",
+      "price": -118,
+      "start": "2026-11-26T00:00:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.541,
+      "q": 0.541,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "CLEM@CSU",
+      "pick": "CSU +5.5",
+      "price": -154,
+      "start": "2026-11-26T04:59:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nba",
+      "game": "SA@POR",
+      "pick": "SA ML",
+      "price": -160,
+      "start": "2026-11-26T03:10:00Z",
+      "day": "2026-11-25",
+      "st": "open",
+      "p": 0.615,
+      "q": 0.615,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 245.63,
+    "res": "open",
+    "hit": 0,
+    "p0": 0.00407,
+    "now": null
    },
    {
     "id": "fmeka0m",
@@ -124313,6 +124047,7 @@
    }
   ]
  },
- "betaSig": "[[\"ncaab|jordanmathews|reb|10|under5\",\"ncaab|joaquimboumtjeboumtje|reb|10|under5\",\"ncaab|alexconstanza|reb|10|under5\",\"ncaab|amonteallenjohnson|ast|7|under5\",\"ncaab|dasontebowen|pts|20|under5\",\"ncaab|michaelbelle|pr|20|under5\",\"ncaab|masonfalslev|ast|7|under5\",\"ncaab|milesbyrd|stl|1|over5\",\"ncaab|turkbrowniii|ast|7|under5\",\"ncaab|jordanburks|pts|20|under5\",\"ncaab|xavierabreu|pts|20|under5\",\"ncaab|johnblackwell|fg3|1|over5\",\"ncaab|isaacondekane|pra|20|under5\",\"ncaab|aaronmcbride|pr|20|under5\",\"ncaab|aidenargabright|pr|20|under5\",\"ncaab|rihardsvavers|reb|7|under5\",\"ncaab|dallinhall|fg3|1|over5\",\"ncaab|jonnyjordanjr|pra|20|under5\",\"ncaab|jaylencolon|fg3|1|over5\",\"ncaab|shaneblakeney|reb|7|under5\",\"ncaab|kjaybradley|ast|7|under5\",\"ncaab|braedencarrington|fg3|1|over5\",\"ncaab|landonclark|pra|20|under5\",\"ncaab|isaacbruns|reb|7|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jacobcofie|pts|15|under5\",\"ncaab|zionsensley|fg3|1|over5\",\"ncaab|tylikweeks|reb|7|under5\",\"ncaab|rihardsvavers|fg3|1|over5\",\"ncaab|marcusbanks|ast|7|under5\",\"ncaab|jaelongermany|ast|5|under5\",\"ncaab|austinherro|pra|20|under5\",\"ncaab|chrishowell|pra|20|under5\",\"ncaab|michaelbelle|ra|10|under5\",\"ncaab|isaacondekane|reb|10|under5\",\"ncaab|landonclark|ra|10|under5\",\"ncaab|jacobcofie|reb|10|under5\",\"ncaab|patrickwessler|pts|10|over5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|camamboree|pa|20|under5\",\"ncaab|soloball|pa|20|under5\",\"ncaab|nickjones|ra|10|under5\",\"ncaab|carterevanson|pra|20|under5\",\"ncaab|malikabdullahi|pts|15|under5\",\"ncaab|ariusalijosius|pra|20|under5\",\"ncaab|rihardsvavers|pa|20|under5\",\"ncaab|dramanecamara|pa|12|under5\",\"ncaab|tylerjones|ra|10|under5\",\"ncaab|brucebranchiii|pts|20|under5\",\"ncaab|mjwilliams|fg3|1|over5\",\"ncaab|jeremiahdavis|pra|25|under5\",\"ncaab|aidenargabright|pa|20|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|carterbjerke|ra|8|under5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|grantstubblefield|pra|25|under5\",\"ncaab|andrewball|pr|20|under5\",\"ncaab|buddyhammerjr|pr|15|under5\",\"ncaab|brycecofield|pra|25|under5\",\"ncaab|dramanecamara|pr|15|under5\",\"ncaab|braedencarrington|pra|25|under5\",\"ncaab|michaelbelle|pra|20|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|jordanmathews|ra|10|under5\",\"ncaab|aaronmcbride|pra|20|under5\",\"ncaab|ozgurcengiz|pa|20|under5\",\"ncaab|joaquimboumtjeboumtje|pts|20|under5\",\"ncaab|jalencox|reb|7|under5\",\"ncaab|adamclark|stl|1|over5\",\"ncaab|colecerta|fg3|1|over5\",\"ncaab|brantbyers|pts|20|under5\",\"ncaab|willshortt|pr|20|under5\",\"ncaab|lazardjokovic|ra|10|under5\",\"ncaab|christianking|fg3|1|over5\",\"ncaab|juanfernandez|ra|10|under5\",\"ncaab|nyklewis|pr|20|under5\",\"ncaab|boldengdit|pa|20|under5\",\"ncaab|elijahbrooks|pra|25|under5\",\"ncaab|justinmenard|pts|20|under5\",\"ncaab|lukabogavac|pra|20|under5\",\"ncaab|spencerelliott|pra|15|under5\",\"ncaab|carterevanson|ra|10|under5\",\"ncaab|aaronmcbride|reb|7|under5\",\"ncaab|carterbjerke|fg3|1|over5\",\"ncaab|joshreed|pr|20|under5\",\"ncaab|tylikweeks|pts|10|over5\",\"ncaab|joaquimboumtjeboumtje|pa|20|under5\",\"ncaab|treybeamer|ast|5|under5\",\"ncaab|masonblazer|pr|20|under5\",\"ncaab|andysigiscar|pr|20|under5\",\"ncaab|patrickwessler|reb|7|over5\",\"ncaab|jaelongermany|pra|20|under5\",\"ncaab|marcusbanks|pts|20|under5\",\"ncaab|eianelmer|pts|20|under5\",\"ncaab|tayshawncomer|pra|20|under5\",\"ncaab|jaylencolon|reb|7|under5\",\"ncaab|makhaivalentine|pa|20|under5\",\"ncaab|rihardsvavers|pra|25|under5\",\"ncaab|malikabdullahi|ra|10|under5\",\"ncaab|joshpascarelli|pr|20|under5\",\"ncaab|solomoncallaghan|pra|25|under5\",\"ncaab|elijahbrooks|ra|10|under5\",\"ncaab|williamkermoury|ra|10|under5\",\"ncaab|noahotshudi|pra|15|over5\",\"ncaab|uzziahbuntyn|pra|25|under5\",\"ncaab|coreycaulker|ra|10|under5\",\"ncaab|josiahdavis|pa|15|over5\",\"ncaab|jordanburks|pa|20|under5\",\"ncaab|noahbolanga|ra|6|over5\",\"ncaab|daviddouglasjr|fg3|1|over5\",\"ncaab|abdoulayefall|pr|20|under5\",\"ncaab|braedencarrington|pa|20|under5\",\"ncaab|connoramundsen|pts|15|under5\",\"ncaab|dallinhall|pts|25|under5\",\"ncaab|jacobcofie|pra|25|under5\",\"ncaab|quincyallen|pts|15|under5\",\"ncaab|grantstubblefield|pa|20|under5\",\"ncaab|willshortt|pra|20|under5\",\"ncaab|jeremiahdavis|pa|20|under5\",\"ncaab|uriahtenette|pra|25|under5\",\"ncaab|davidbolden|fg3|1|over5\",\"ncaab|kanyeclary|pr|20|under5\",\"ncaab|calebsmith|reb|7|under5\",\"ncaab|grantstubblefield|pr|20|under5\",\"ncaab|silasdemaryjr|ast|3|over5\",\"ncaab|latrellallmond|pr|15|under5\",\"ncaab|camamboree|pts|15|under5\",\"ncaab|danielculberson|ast|5|under5\",\"ncaab|andrewball|pra|20|under5\",\"ncaab|barakaokojie|pts|10|over5\",\"ncaab|elijahbrooks|pa|20|under5\",\"ncaab|antoinealmuttar|pra|15|under5\",\"ncaab|lukealmodovar|fg3|1|over5\",\"ncaab|thomasallard|pra|20|under5\",\"ncaab|davidbolden|pra|25|under5\",\"ncaab|nyklewis|reb|7|under5\",\"ncaab|jaelongermany|pr|15|under5\",\"ncaab|tariquefoster|pra|15|under5\",\"ncaab|makhaivalentine|pra|25|under5\",\"ncaab|jacksonfurman|pra|20|under5\",\"ncaab|nyklewis|ra|10|under5\",\"ncaab|milesbyrd|pa|20|under5\",\"ncaab|andrewball|pa|15|under5\",\"ncaab|yourifritz|pra|20|under5\",\"ncaab|soloball|pr|20|under5\",\"ncaab|ozgurcengiz|ra|10|under5\",\"ncaab|umiergraham|pts|15|under5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|dancivello|pa|15|under5\",\"ncaab|zachkraft|fg3|1|over5\"],[\"live:oool~7oo\",\"live:l~0l~5l~2l~8l~8l~6\",\"open:oooooooooooo\",\"open:ooooooo\",\"open:oooooooo\",\"lost:h7h3m1m8h5m6mhmhh8h8h13h14m1m3h17\"],[[0,[],19],[0,[],16],[0,[],19],[0,[],12],[2,[\"supreme*\",\"value\"],19],[1,[\"strong\"],24],[1,[\"strong\"],19],[0,[],24],[1,[\"supreme*\"],15],[2,[\"supreme*\",\"strong\"],25],[0,[],19],[0,[],16],[1,[\"value\"],16],[0,[],18],[3,[\"supreme\",\"strong\",\"value\"],18],[1,[\"value\"],24],[1,[\"strong\"],23],[0,[],26],[0,[],18],[2,[\"supreme*\",\"strong\"],19],[0,[],19],[2,[\"supreme\",\"value\"],20],[0,[],20],[1,[\"supreme*\"],13],[0,[],14],[0,[],21],[0,[],13],[1,[\"supreme*\"],24],[1,[\"value\"],14],[1,[\"strong\"],16],[2,[\"supreme\",\"strong\"],23],[1,[\"supreme\"],21],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],21],[1,[\"strong\"],21],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],20],[0,[],13],[0,[],20],[1,[\"value\"],17],[0,[],22],[0,[],25],[2,[\"supreme\",\"value\"],24],[0,[],17],[0,[],15],[1,[\"strong\"],24],[1,[\"supreme*\"],13],[0,[],17],[1,[\"supreme\"],17],[1,[\"supreme*\"],21],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[2,[\"supreme*\",\"strong\"],15],[2,[\"supreme*\",\"strong\"],21],[2,[\"supreme*\",\"strong\"],17],[1,[\"supreme*\"],19],[1,[\"value\"],25],[2,[\"strong\",\"strong\"],23],[1,[\"strong\"],22],[0,[],21],[1,[\"value\"],16],[2,[\"supreme\",\"strong\"],20],[1,[\"value\"],20],[3,[\"strong\",\"strong\",\"value\"],18],[2,[\"supreme*\",\"strong\"],17],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[1,[\"strong\"],21],[1,[\"supreme*\"],15],[3,[\"supreme\",\"strong\",\"strong\"],20],[2,[\"supreme\",\"value\"],16],[1,[\"strong\"],24],[2,[\"supreme\",\"value\"],21],[1,[\"strong\"],21],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme*\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],13],[0,[],17],[3,[\"strong\",\"value\",\"value\"],19],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],23],[1,[\"strong\"],17],[0,[],18],[1,[\"value\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"strong\",\"value\"],20],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],21],[0,[],20],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme\",\"strong\"],19],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],19],[2,[\"supreme*\",\"strong\"],22],[0,[],16],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"value\"],11],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],19],[1,[\"supreme*\"],13],[1,[\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],18],[1,[\"strong\"],23],[2,[\"strong\",\"strong\"],20],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],11],[3,[\"supreme\",\"strong\",\"strong\"],15],[1,[\"supreme*\"],21],[2,[\"supreme\",\"strong\"],21],[0,[],15],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],24],[2,[\"strong\",\"strong\"],21],[0,[],12],[1,[\"strong\"],22],[0,[],20],[2,[\"strong\",\"strong\"],22],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[0,[],13],[2,[\"strong\",\"strong\"],22],[1,[\"supreme\"],22],[2,[\"strong\",\"value\"],21],[1,[\"value\"],19],[1,[\"supreme\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],15],[0,[],16],[1,[\"strong\"],18],[1,[\"value\"],10],[2,[\"value\",\"value\"],13],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],16],[2,[\"strong\",\"value\"],13],[0,[],16],[1,[\"value\"],18],[2,[\"strong\",\"strong\"],13]],[6,15,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[1,[null],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[3,[null,false,null],[\"1-10-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
- "simple": 1
+ "betaSig": "[[\"ncaab|jordanmathews|reb|10|under5\",\"ncaab|joaquimboumtjeboumtje|reb|10|under5\",\"ncaab|alexconstanza|reb|10|under5\",\"ncaab|amonteallenjohnson|ast|7|under5\",\"ncaab|dasontebowen|pts|20|under5\",\"ncaab|michaelbelle|pr|20|under5\",\"ncaab|masonfalslev|ast|7|under5\",\"ncaab|milesbyrd|stl|1|over5\",\"ncaab|turkbrowniii|ast|7|under5\",\"ncaab|jordanburks|pts|20|under5\",\"ncaab|xavierabreu|pts|20|under5\",\"ncaab|johnblackwell|fg3|1|over5\",\"ncaab|isaacondekane|pra|20|under5\",\"ncaab|aaronmcbride|pr|20|under5\",\"ncaab|aidenargabright|pr|20|under5\",\"ncaab|rihardsvavers|reb|7|under5\",\"ncaab|dallinhall|fg3|1|over5\",\"ncaab|jonnyjordanjr|pra|20|under5\",\"ncaab|jaylencolon|fg3|1|over5\",\"ncaab|shaneblakeney|reb|7|under5\",\"ncaab|kjaybradley|ast|7|under5\",\"ncaab|braedencarrington|fg3|1|over5\",\"ncaab|landonclark|pra|20|under5\",\"ncaab|isaacbruns|reb|7|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jacobcofie|pts|15|under5\",\"ncaab|zionsensley|fg3|1|over5\",\"ncaab|tylikweeks|reb|7|under5\",\"ncaab|rihardsvavers|fg3|1|over5\",\"ncaab|marcusbanks|ast|7|under5\",\"ncaab|jaelongermany|ast|5|under5\",\"ncaab|austinherro|pra|20|under5\",\"ncaab|chrishowell|pra|20|under5\",\"ncaab|michaelbelle|ra|10|under5\",\"ncaab|isaacondekane|reb|10|under5\",\"ncaab|landonclark|ra|10|under5\",\"ncaab|jacobcofie|reb|10|under5\",\"ncaab|patrickwessler|pts|10|over5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|camamboree|pa|20|under5\",\"ncaab|soloball|pa|20|under5\",\"ncaab|nickjones|ra|10|under5\",\"ncaab|carterevanson|pra|20|under5\",\"ncaab|malikabdullahi|pts|15|under5\",\"ncaab|ariusalijosius|pra|20|under5\",\"ncaab|rihardsvavers|pa|20|under5\",\"ncaab|dramanecamara|pa|12|under5\",\"ncaab|tylerjones|ra|10|under5\",\"ncaab|brucebranchiii|pts|20|under5\",\"ncaab|mjwilliams|fg3|1|over5\",\"ncaab|jeremiahdavis|pra|25|under5\",\"ncaab|aidenargabright|pa|20|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|carterbjerke|ra|8|under5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|grantstubblefield|pra|25|under5\",\"ncaab|andrewball|pr|20|under5\",\"ncaab|buddyhammerjr|pr|15|under5\",\"ncaab|brycecofield|pra|25|under5\",\"ncaab|dramanecamara|pr|15|under5\",\"ncaab|braedencarrington|pra|25|under5\",\"ncaab|michaelbelle|pra|20|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|jordanmathews|ra|10|under5\",\"ncaab|aaronmcbride|pra|20|under5\",\"ncaab|ozgurcengiz|pa|20|under5\",\"ncaab|joaquimboumtjeboumtje|pts|20|under5\",\"ncaab|jalencox|reb|7|under5\",\"ncaab|adamclark|stl|1|over5\",\"ncaab|colecerta|fg3|1|over5\",\"ncaab|brantbyers|pts|20|under5\",\"ncaab|willshortt|pr|20|under5\",\"ncaab|lazardjokovic|ra|10|under5\",\"ncaab|christianking|fg3|1|over5\",\"ncaab|juanfernandez|ra|10|under5\",\"ncaab|nyklewis|pr|20|under5\",\"ncaab|boldengdit|pa|20|under5\",\"ncaab|elijahbrooks|pra|25|under5\",\"ncaab|justinmenard|pts|20|under5\",\"ncaab|lukabogavac|pra|20|under5\",\"ncaab|spencerelliott|pra|15|under5\",\"ncaab|carterevanson|ra|10|under5\",\"ncaab|aaronmcbride|reb|7|under5\",\"ncaab|carterbjerke|fg3|1|over5\",\"ncaab|joshreed|pr|20|under5\",\"ncaab|tylikweeks|pts|10|over5\",\"ncaab|joaquimboumtjeboumtje|pa|20|under5\",\"ncaab|treybeamer|ast|5|under5\",\"ncaab|masonblazer|pr|20|under5\",\"ncaab|andysigiscar|pr|20|under5\",\"ncaab|patrickwessler|reb|7|over5\",\"ncaab|jaelongermany|pra|20|under5\",\"ncaab|marcusbanks|pts|20|under5\",\"ncaab|eianelmer|pts|20|under5\",\"ncaab|tayshawncomer|pra|20|under5\",\"ncaab|jaylencolon|reb|7|under5\",\"ncaab|makhaivalentine|pa|20|under5\",\"ncaab|rihardsvavers|pra|25|under5\",\"ncaab|malikabdullahi|ra|10|under5\",\"ncaab|joshpascarelli|pr|20|under5\",\"ncaab|solomoncallaghan|pra|25|under5\",\"ncaab|elijahbrooks|ra|10|under5\",\"ncaab|williamkermoury|ra|10|under5\",\"ncaab|noahotshudi|pra|15|over5\",\"ncaab|uzziahbuntyn|pra|25|under5\",\"ncaab|coreycaulker|ra|10|under5\",\"ncaab|josiahdavis|pa|15|over5\",\"ncaab|jordanburks|pa|20|under5\",\"ncaab|noahbolanga|ra|6|over5\",\"ncaab|daviddouglasjr|fg3|1|over5\",\"ncaab|abdoulayefall|pr|20|under5\",\"ncaab|braedencarrington|pa|20|under5\",\"ncaab|connoramundsen|pts|15|under5\",\"ncaab|dallinhall|pts|25|under5\",\"ncaab|jacobcofie|pra|25|under5\",\"ncaab|quincyallen|pts|15|under5\",\"ncaab|grantstubblefield|pa|20|under5\",\"ncaab|willshortt|pra|20|under5\",\"ncaab|jeremiahdavis|pa|20|under5\",\"ncaab|uriahtenette|pra|25|under5\",\"ncaab|davidbolden|fg3|1|over5\",\"ncaab|kanyeclary|pr|20|under5\",\"ncaab|calebsmith|reb|7|under5\",\"ncaab|grantstubblefield|pr|20|under5\",\"ncaab|silasdemaryjr|ast|3|over5\",\"ncaab|latrellallmond|pr|15|under5\",\"ncaab|camamboree|pts|15|under5\",\"ncaab|danielculberson|ast|5|under5\",\"ncaab|andrewball|pra|20|under5\",\"ncaab|barakaokojie|pts|10|over5\",\"ncaab|elijahbrooks|pa|20|under5\",\"ncaab|antoinealmuttar|pra|15|under5\",\"ncaab|lukealmodovar|fg3|1|over5\",\"ncaab|thomasallard|pra|20|under5\",\"ncaab|davidbolden|pra|25|under5\",\"ncaab|nyklewis|reb|7|under5\",\"ncaab|jaelongermany|pr|15|under5\",\"ncaab|tariquefoster|pra|15|under5\",\"ncaab|makhaivalentine|pra|25|under5\",\"ncaab|jacksonfurman|pra|20|under5\",\"ncaab|nyklewis|ra|10|under5\",\"ncaab|milesbyrd|pa|20|under5\",\"ncaab|andrewball|pa|15|under5\",\"ncaab|yourifritz|pra|20|under5\",\"ncaab|soloball|pr|20|under5\",\"ncaab|ozgurcengiz|ra|10|under5\",\"ncaab|umiergraham|pts|15|under5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|dancivello|pa|15|under5\",\"ncaab|zachkraft|fg3|1|over5\"],[\"live:oool~7oo\",\"live:l~0l~5l~2l~8l~8l~6\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooooo\",\"open:ooooooo\",\"open:oooooooo\",\"lost:h7h3m1m8h5m6mhmhh8h8h13h14m1m3h17\"],[[0,[],19],[0,[],16],[0,[],19],[0,[],12],[2,[\"supreme*\",\"value\"],19],[1,[\"strong\"],24],[1,[\"strong\"],19],[0,[],24],[1,[\"supreme*\"],15],[2,[\"supreme*\",\"strong\"],25],[0,[],19],[0,[],16],[1,[\"value\"],16],[0,[],18],[3,[\"supreme\",\"strong\",\"value\"],18],[1,[\"value\"],24],[1,[\"strong\"],23],[0,[],26],[0,[],18],[2,[\"supreme*\",\"strong\"],19],[0,[],19],[2,[\"supreme\",\"value\"],20],[0,[],20],[1,[\"supreme*\"],13],[0,[],14],[0,[],21],[0,[],13],[1,[\"supreme*\"],24],[1,[\"value\"],14],[1,[\"strong\"],16],[2,[\"supreme\",\"strong\"],23],[1,[\"supreme\"],21],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],21],[1,[\"strong\"],21],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],20],[0,[],13],[0,[],20],[1,[\"value\"],17],[0,[],22],[0,[],25],[2,[\"supreme\",\"value\"],24],[0,[],17],[0,[],15],[1,[\"strong\"],24],[1,[\"supreme*\"],13],[0,[],17],[1,[\"supreme\"],17],[1,[\"supreme*\"],21],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[2,[\"supreme*\",\"strong\"],15],[2,[\"supreme*\",\"strong\"],21],[2,[\"supreme*\",\"strong\"],17],[1,[\"supreme*\"],19],[1,[\"value\"],25],[2,[\"strong\",\"strong\"],23],[1,[\"strong\"],22],[0,[],21],[1,[\"value\"],16],[2,[\"supreme\",\"strong\"],20],[1,[\"value\"],20],[3,[\"strong\",\"strong\",\"value\"],18],[2,[\"supreme*\",\"strong\"],17],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[1,[\"strong\"],21],[1,[\"supreme*\"],15],[3,[\"supreme\",\"strong\",\"strong\"],20],[2,[\"supreme\",\"value\"],16],[1,[\"strong\"],24],[2,[\"supreme\",\"value\"],21],[1,[\"strong\"],21],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme*\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],13],[0,[],17],[3,[\"strong\",\"value\",\"value\"],19],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],23],[1,[\"strong\"],17],[0,[],18],[1,[\"value\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"strong\",\"value\"],20],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],21],[0,[],20],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme\",\"strong\"],19],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],19],[2,[\"supreme*\",\"strong\"],22],[0,[],16],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"value\"],11],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],19],[1,[\"supreme*\"],13],[1,[\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],18],[1,[\"strong\"],23],[2,[\"strong\",\"strong\"],20],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],11],[3,[\"supreme\",\"strong\",\"strong\"],15],[1,[\"supreme*\"],21],[2,[\"supreme\",\"strong\"],21],[0,[],15],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],24],[2,[\"strong\",\"strong\"],21],[0,[],12],[1,[\"strong\"],22],[0,[],20],[2,[\"strong\",\"strong\"],22],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[0,[],13],[2,[\"strong\",\"strong\"],22],[1,[\"supreme\"],22],[2,[\"strong\",\"value\"],21],[1,[\"value\"],19],[1,[\"supreme\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],15],[0,[],16],[1,[\"strong\"],18],[1,[\"value\"],10],[2,[\"value\",\"value\"],13],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],16],[2,[\"strong\",\"value\"],13],[0,[],16],[1,[\"value\"],18],[2,[\"strong\",\"strong\"],13]],[0,15,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[1,[null],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[3,[null,false,null],[\"1-10-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "simple": 1,
+ "by": "worker"
 }
