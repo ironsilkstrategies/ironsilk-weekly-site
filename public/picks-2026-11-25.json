@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795638970856,
+ "generated": 1795639127133,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -555,7 +555,7 @@
      "read": {
       "who": "The Judge",
       "take": "I've heard the arguments. Case closed, for now: New Jersey on the moneyline.",
-      "text": "I've heard the arguments. Case closed, for now: New Jersey on the moneyline. Jack Hughes is putting up 1.3 points a game. New Jersey has the clear talent edge. The evidence, not the noise. All 3 characters reading this game agree. My record on NHL favorites on the moneyline: 91-56. New Jersey has been good to me on the moneyline, 11-2. For the defense: Zach Werenski is hot for Columbus — 4.2 shots a game lately. He can beat this on his own. At -149 the book needs this to hit 60% of the time. I have it at 68% — the price pays more than the risk."
+      "text": "I've heard the arguments. Case closed, for now: New Jersey on the moneyline. Jack Hughes is putting up 1.3 points a game. New Jersey has the clear talent edge. The evidence, not the noise. The sims land on New Jersey 58% of the time. My record on NHL favorites on the moneyline: 91-56. New Jersey has been good to me on the moneyline, 11-2. For the defense: Zach Werenski is hot for Columbus — 4.2 shots a game lately. He can beat this on his own. At -149 the book needs this to hit 60% of the time. I have it at 68% — the price pays more than the risk."
      }
     },
     "q": null,
@@ -1610,7 +1610,7 @@
       "pick": "UND ML",
       "price": 105,
       "p": 0.616,
-      "q": 0.523,
+      "q": 0.522,
       "start": "2026-11-25T20:00Z",
       "hit": null,
       "push": false,
@@ -3211,7 +3211,7 @@
       "pick": "APP +5.5",
       "price": -112,
       "p": 0.74,
-      "q": 0.89,
+      "q": 0.842,
       "start": "2026-11-25T20:00Z",
       "hit": null,
       "push": false,
@@ -11540,13 +11540,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 2,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 375,
-     "days": 8,
-     "z": -0.09,
-     "bar": 2
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11557,13 +11551,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 882,
-     "days": 38,
-     "z": -1.37,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11574,13 +11562,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 2,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 8,
-     "days": 0,
-     "z": -0.86,
-     "bar": 2
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11591,13 +11573,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 21",
-     "n": 879,
-     "days": 38,
-     "z": -1.3,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11608,13 +11584,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.35",
-     "n": 91,
-     "days": 1,
-     "z": -2.41,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11625,13 +11595,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 21",
-     "n": 143,
-     "days": 18,
-     "z": -0.33,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11642,13 +11606,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.08",
-     "n": 660,
-     "days": 38,
-     "z": -0.78,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11659,13 +11617,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 88,
-     "days": 2,
-     "z": 0.97,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11676,13 +11628,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it leans on the market: 0.4 → 0.2",
-     "n": 649,
-     "days": 38,
-     "z": -0.18,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11693,13 +11639,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 653,
-     "days": 18,
-     "z": -0.86,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11710,13 +11650,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 317,
-     "days": 38,
-     "z": -0.18,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11727,13 +11661,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 314,
-     "days": 38,
-     "z": -0.67,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11744,13 +11672,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 314,
-     "days": 38,
-     "z": -1.51,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11761,13 +11683,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 139,
-     "days": 38,
-     "z": -1.58,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11778,13 +11694,7 @@
     "champ": "how much it leans on the market: 0.4 → 0.2",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it leans on the market: 0.4 → 0.65",
-     "n": 69,
-     "days": 2,
-     "z": -0.97,
-     "bar": 2
-    },
+    "best": null,
     "hist": [
      {
       "gen": 1,
@@ -11808,13 +11718,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 21",
-     "n": 675,
-     "days": 38,
-     "z": -1.2,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11825,13 +11729,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it leans on the market: 0.4 → 0.65",
-     "n": 133,
-     "days": 38,
-     "z": -1.01,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11842,13 +11740,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 428,
-     "days": 38,
-     "z": 1.13,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11859,13 +11751,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 219,
-     "days": 38,
-     "z": -1.77,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11876,13 +11762,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 90,
-     "days": 1,
-     "z": -0.22,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11893,13 +11773,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 53,
-     "days": 38,
-     "z": 1.23,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11910,13 +11784,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 196,
-     "days": 38,
-     "z": -1.09,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11927,13 +11795,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 163,
-     "days": 38,
-     "z": -0.13,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11944,13 +11806,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 252,
-     "days": 38,
-     "z": -0.06,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11961,13 +11817,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 254,
-     "days": 38,
-     "z": -0.91,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11978,13 +11828,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 254,
-     "days": 38,
-     "z": -0.3,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -11995,13 +11839,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 372,
-     "days": 38,
-     "z": 0.07,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12012,13 +11850,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how strongly it holds its starting beliefs: 1 → 2",
-     "n": 564,
-     "days": 38,
-     "z": -0.12,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12029,13 +11861,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it leans on the market: 0.4 → 0.65",
-     "n": 435,
-     "days": 38,
-     "z": -0.52,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12046,13 +11872,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 120",
-     "n": 335,
-     "days": 38,
-     "z": -0.96,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12063,13 +11883,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 315,
-     "days": 38,
-     "z": -1.95,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12080,13 +11894,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 311,
-     "days": 38,
-     "z": -0.79,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12097,13 +11905,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 21",
-     "n": 7,
-     "days": 38,
-     "z": -1,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12114,13 +11916,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 7,
-     "days": 38,
-     "z": -0.83,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12131,13 +11927,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.08",
-     "n": 1,
-     "days": 38,
-     "z": 0.15,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12148,13 +11938,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 16,
-     "days": 38,
-     "z": -0.6,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12165,13 +11949,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 12,
-     "days": 38,
-     "z": 0.87,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12182,13 +11960,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 22,
-     "days": 38,
-     "z": 1.66,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12199,13 +11971,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 120",
-     "n": 444,
-     "days": 38,
-     "z": -0.17,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -12216,13 +11982,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 12,
-     "days": 38,
-     "z": -1.04,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    }
   ],
@@ -23046,7 +22806,7 @@
     "gl": "#83 ARST@#196 FIU",
     "start": "2026-11-25T20:30:00.000Z",
     "day": "2026-11-25",
-    "st": "pre",
+    "st": "in",
     "picks": [
      {
       "m": "total",
@@ -33805,7 +33565,7 @@
      ],
      "H_L2e1": [
       83,
-      81
+      80
      ],
      "Covers": [
       79,
@@ -100121,7 +99881,7 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.507,
-      "q": 0.425,
+      "q": 0.424,
       "detail": "SELA 14–12 UND (live)",
       "prog": null,
       "prop": false
@@ -100159,7 +99919,7 @@
     "res": "live",
     "hit": 0,
     "p0": 0.0116,
-    "now": 0.00971
+    "now": 0.00969
    },
    {
     "id": "fmdshg7",
@@ -100175,7 +99935,7 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.583,
-      "q": 0.535,
+      "q": 0.494,
       "detail": "SELA 14–12 UND (live) · total 26 so far",
       "prog": null,
       "prop": false
@@ -100187,10 +99947,10 @@
       "price": -130,
       "start": "2026-11-25T20:30:00Z",
       "day": "2026-11-25",
-      "st": "open",
+      "st": "live",
       "p": 0.565,
-      "q": 0.565,
-      "detail": null,
+      "q": 0.706,
+      "detail": "ARST 2–6 FIU (live)",
       "prog": null,
       "prop": false
      },
@@ -100201,10 +99961,10 @@
       "price": -132,
       "start": "2026-11-25T20:30:00Z",
       "day": "2026-11-25",
-      "st": "open",
+      "st": "live",
       "p": 0.569,
-      "q": 0.569,
-      "detail": null,
+      "q": 0.605,
+      "detail": "ARST 2–6 FIU (live) · total 8 so far",
       "prog": null,
       "prop": false
      },
@@ -100217,7 +99977,7 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.606,
-      "q": 0.538,
+      "q": 0.539,
       "detail": "SELA 14–12 UND (live) · margin -2",
       "prog": null,
       "prop": false
@@ -100227,7 +99987,7 @@
     "res": "live",
     "hit": 0,
     "p0": 0.11374,
-    "now": 0.09277
+    "now": 0.11309
    },
    {
     "id": "fmduygw",
@@ -111176,6 +110936,6 @@
    }
   ]
  },
- "betaSig": "[[\"ncaab|joaquimboumtjeboumtje|reb|10|under5\",\"ncaab|alexconstanza|reb|10|under5\",\"ncaab|amonteallenjohnson|ast|7|under5\",\"ncaab|michaelbelle|pr|20|under5\",\"ncaab|masonfalslev|ast|7|under5\",\"ncaab|milesbyrd|stl|1|over5\",\"ncaab|turkbrowniii|ast|7|under5\",\"ncaab|jordanburks|pts|20|under5\",\"ncaab|xavierabreu|pts|20|under5\",\"ncaab|johnblackwell|fg3|1|over5\",\"ncaab|isaacondekane|pra|20|under5\",\"ncaab|aaronmcbride|pr|20|under5\",\"ncaab|aidenargabright|pr|20|under5\",\"ncaab|rihardsvavers|reb|7|under5\",\"ncaab|dallinhall|fg3|1|over5\",\"ncaab|jonnyjordanjr|pra|20|under5\",\"ncaab|jaylencolon|fg3|1|over5\",\"ncaab|shaneblakeney|reb|7|under5\",\"ncaab|kjaybradley|ast|7|under5\",\"ncaab|chrishowell|pra|20|under5\",\"ncaab|braedencarrington|fg3|1|over5\",\"ncaab|landonclark|pra|20|under5\",\"ncaab|isaacbruns|reb|7|under5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jacobcofie|pts|15|under5\",\"ncaab|zionsensley|fg3|1|over5\",\"ncaab|nickjones|ra|10|under5\",\"ncaab|tylikweeks|reb|7|under5\",\"ncaab|rihardsvavers|fg3|1|over5\",\"ncaab|marcusbanks|ast|7|under5\",\"ncaab|jaelongermany|ast|5|under5\",\"ncaab|carterevanson|pra|20|under5\",\"ncaab|austinherro|pra|20|under5\",\"ncaab|mjwilliams|fg3|1|over5\",\"ncaab|michaelbelle|ra|10|under5\",\"ncaab|isaacondekane|reb|10|under5\",\"ncaab|landonclark|ra|10|under5\",\"ncaab|aidenargabright|pa|20|under5\",\"ncaab|jacobcofie|reb|10|under5\",\"ncaab|patrickwessler|pts|10|over5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|andrewball|pr|20|under5\",\"ncaab|soloball|pa|20|under5\",\"ncaab|braedencarrington|pra|25|under5\",\"ncaab|michaelbelle|pra|20|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|aaronmcbride|pra|20|under5\",\"ncaab|joaquimboumtjeboumtje|pts|20|under5\",\"ncaab|malikabdullahi|pts|15|under5\",\"ncaab|adamclark|stl|1|over5\",\"ncaab|colecerta|fg3|1|over5\",\"ncaab|josiahdotzler|pts|20|under5\",\"ncaab|willshortt|pr|20|under5\",\"ncaab|ariusalijosius|pra|20|under5\",\"ncaab|rihardsvavers|pa|20|under5\",\"ncaab|dramanecamara|pa|12|under5\",\"ncaab|tylerjones|ra|10|under5\",\"ncaab|brucebranchiii|pts|20|under5\",\"ncaab|jeremiahdavis|pra|25|under5\",\"ncaab|lazardjokovic|ra|10|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|nyklewis|pr|20|under5\",\"ncaab|carterbjerke|ra|8|under5\",\"ncaab|grantstubblefield|pra|25|under5\",\"ncaab|boldengdit|pa|20|under5\",\"ncaab|christiangibson|fg3|1|over5\",\"ncaab|elijahbrooks|pra|25|under5\",\"ncaab|buddyhammerjr|pr|15|under5\",\"ncaab|justinmenard|pts|20|under5\",\"ncaab|donovandent|stl|1|over5\",\"ncaab|brycecofield|pra|25|under5\",\"ncaab|lukabogavac|pra|20|under5\",\"ncaab|spencerelliott|pra|15|under5\",\"ncaab|carterevanson|ra|10|under5\",\"ncaab|dramanecamara|pr|15|under5\",\"ncaab|joshreed|pr|20|under5\",\"ncaab|aaronmcbride|reb|7|under5\",\"ncaab|carterbjerke|fg3|1|over5\",\"ncaab|tylikweeks|pts|10|over5\",\"ncaab|joaquimboumtjeboumtje|pa|20|under5\",\"ncaab|masonblazer|pr|20|under5\",\"ncaab|andysigiscar|pr|20|under5\",\"ncaab|patrickwessler|reb|7|over5\",\"ncaab|jaelongermany|pra|20|under5\",\"ncaab|eianelmer|pts|20|under5\",\"ncaab|treybeamer|ast|5|under5\",\"ncaab|tayshawncomer|pra|20|under5\",\"ncaab|jaylencolon|reb|7|under5\",\"ncaab|jalencox|reb|7|under5\",\"ncaab|marcusbanks|pts|20|under5\",\"ncaab|rihardsvavers|pra|25|under5\",\"ncaab|malikabdullahi|ra|10|under5\",\"ncaab|makhaivalentine|pa|20|under5\",\"ncaab|joshpascarelli|pr|20|under5\",\"ncaab|elijahbrooks|ra|10|under5\",\"ncaab|williamkermoury|ra|10|under5\",\"ncaab|noahotshudi|pra|15|over5\",\"ncaab|solomoncallaghan|pra|25|under5\",\"ncaab|christianking|fg3|1|over5\",\"ncaab|uzziahbuntyn|pra|25|under5\",\"ncaab|juanfernandez|ra|10|under5\",\"ncaab|josiahdavis|pa|15|over5\",\"ncaab|abdoulayefall|pr|20|under5\",\"ncaab|connoramundsen|pts|15|under5\",\"ncaab|jordanburks|pa|20|under5\",\"ncaab|dallinhall|pts|25|under5\",\"ncaab|jacobcofie|pra|25|under5\",\"ncaab|quincyallen|pts|15|under5\",\"ncaab|cadehornecker|pra|15|under5\",\"ncaab|grantstubblefield|pa|20|under5\",\"ncaab|xabilopez|pr|15|under5\",\"ncaab|davidbolden|fg3|1|over5\",\"ncaab|abdibashirjr|pra|25|under5\",\"ncaab|skyyclark|fg3|1|over5\",\"ncaab|calebsmith|reb|7|under5\",\"ncaab|jeremiahdavis|pa|20|under5\",\"ncaab|grantstubblefield|pr|20|under5\",\"ncaab|andrewball|pra|20|under5\",\"ncaab|silasdemaryjr|ast|3|over5\",\"ncaab|barakaokojie|pts|10|over5\",\"ncaab|davidbolden|pra|25|under5\",\"ncaab|elijahbrooks|pa|20|under5\",\"ncaab|nyklewis|reb|7|under5\",\"ncaab|jaelongermany|pr|15|under5\",\"ncaab|tariquefoster|pra|15|under5\",\"ncaab|jacksonfurman|pra|20|under5\",\"ncaab|nyklewis|ra|10|under5\",\"ncaab|milesbyrd|pa|20|under5\",\"ncaab|soloball|pr|20|under5\",\"ncaab|donovandent|pra|15|over5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|yourifritz|pra|20|under5\",\"ncaab|umiergraham|pts|15|under5\",\"ncaab|tjrobinson|pts|15|under5\",\"ncaab|cavinholden|fg3|1|over5\",\"ncaab|zachkraft|fg3|1|over5\",\"ncaab|jahkigupton|reb|7|under5\",\"ncaab|barakaokojie|pa|15|over5\",\"ncaab|coreycaulker|ra|10|under5\",\"ncaab|noahotshudi|pts|10|over5\",\"ncaab|victoryimgamoukouri|pra|15|under5\",\"ncaab|ollieengen|pts|20|under5\",\"ncaab|noahbolanga|ra|6|over5\",\"ncaab|drewhaffner|pra|15|under5\",\"ncaab|daviddouglasjr|fg3|1|over5\",\"ncaab|amonteallenjohnson|reb|7|under5\",\"ncaab|bobbycannon|pra|15|under5\",\"ncaab|braedencarrington|pa|20|under5\",\"ncaab|grantstubblefield|pts|15|under5\"],[\"live:oool~4oo\",\"live:l~5ool~5\",\"open:oooooooo\",\"lost:h7h3m1m8h5m6mhmhh8h8h13h14m1m3h17\"],[[0,[],19],[0,[],16],[0,[],19],[0,[],12],[2,[\"supreme*\",\"value\"],19],[1,[\"strong\"],24],[1,[\"strong\"],19],[0,[],24],[1,[\"supreme*\"],15],[2,[\"supreme*\",\"strong\"],25],[0,[],19],[0,[],16],[1,[\"value\"],16],[0,[],18],[3,[\"supreme\",\"strong\",\"value\"],18],[1,[\"value\"],24],[0,[],14],[1,[\"strong\"],23],[0,[],26],[0,[],18],[2,[\"supreme*\",\"strong\"],19],[0,[],19],[2,[\"supreme\",\"value\"],20],[0,[],20],[1,[\"supreme*\"],13],[1,[\"supreme\"],21],[0,[],21],[0,[],13],[1,[\"supreme*\"],24],[1,[\"value\"],14],[1,[\"strong\"],16],[2,[\"supreme\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],21],[1,[\"strong\"],21],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],20],[0,[],13],[0,[],20],[1,[\"value\"],17],[0,[],22],[0,[],24],[2,[\"supreme\",\"value\"],24],[0,[],17],[0,[],15],[1,[\"strong\"],24],[1,[\"supreme*\"],13],[0,[],17],[1,[\"supreme\"],17],[1,[\"supreme*\"],21],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[2,[\"supreme*\",\"strong\"],15],[2,[\"supreme*\",\"strong\"],21],[2,[\"supreme*\",\"strong\"],17],[1,[\"supreme*\"],19],[1,[\"value\"],25],[2,[\"strong\",\"strong\"],23],[1,[\"strong\"],22],[0,[],21],[1,[\"value\"],16],[2,[\"supreme\",\"strong\"],20],[1,[\"value\"],20],[3,[\"strong\",\"strong\",\"value\"],18],[2,[\"supreme*\",\"strong\"],17],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[1,[\"strong\"],21],[1,[\"supreme*\"],15],[3,[\"supreme\",\"strong\",\"strong\"],18],[2,[\"supreme\",\"value\"],16],[1,[\"strong\"],24],[2,[\"supreme\",\"value\"],21],[1,[\"strong\"],21],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme*\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],13],[0,[],17],[3,[\"strong\",\"value\",\"value\"],16],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],23],[1,[\"strong\"],17],[0,[],18],[1,[\"value\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"strong\",\"value\"],20],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],21],[0,[],20],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme\",\"strong\"],19],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],19],[2,[\"supreme*\",\"strong\"],22],[0,[],16],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"value\"],11],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],19],[1,[\"supreme*\"],13],[1,[\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],18],[1,[\"strong\"],23],[2,[\"strong\",\"strong\"],20],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],11],[3,[\"supreme\",\"strong\",\"strong\"],15],[1,[\"supreme*\"],21],[2,[\"supreme\",\"strong\"],21],[0,[],15],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],24],[2,[\"strong\",\"strong\"],21],[0,[],12],[1,[\"strong\"],22],[0,[],20],[2,[\"strong\",\"strong\"],22],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[0,[],13],[2,[\"strong\",\"strong\"],22],[1,[\"supreme\"],22],[2,[\"strong\",\"value\"],21],[1,[\"value\"],19],[1,[\"supreme\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],15],[0,[],16],[1,[\"strong\"],18],[1,[\"value\"],10],[2,[\"value\",\"value\"],13],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],16],[2,[\"strong\",\"value\"],13],[0,[],16],[1,[\"value\"],18],[2,[\"strong\",\"strong\"],13]],[0,15,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[1,[null],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[3,[null,false,null],[\"1-10-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"ncaab|joaquimboumtjeboumtje|reb|10|under5\",\"ncaab|alexconstanza|reb|10|under5\",\"ncaab|amonteallenjohnson|ast|7|under5\",\"ncaab|michaelbelle|pr|20|under5\",\"ncaab|masonfalslev|ast|7|under5\",\"ncaab|milesbyrd|stl|1|over5\",\"ncaab|turkbrowniii|ast|7|under5\",\"ncaab|jordanburks|pts|20|under5\",\"ncaab|xavierabreu|pts|20|under5\",\"ncaab|johnblackwell|fg3|1|over5\",\"ncaab|isaacondekane|pra|20|under5\",\"ncaab|aaronmcbride|pr|20|under5\",\"ncaab|aidenargabright|pr|20|under5\",\"ncaab|rihardsvavers|reb|7|under5\",\"ncaab|dallinhall|fg3|1|over5\",\"ncaab|jonnyjordanjr|pra|20|under5\",\"ncaab|jaylencolon|fg3|1|over5\",\"ncaab|shaneblakeney|reb|7|under5\",\"ncaab|kjaybradley|ast|7|under5\",\"ncaab|chrishowell|pra|20|under5\",\"ncaab|braedencarrington|fg3|1|over5\",\"ncaab|landonclark|pra|20|under5\",\"ncaab|isaacbruns|reb|7|under5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jacobcofie|pts|15|under5\",\"ncaab|zionsensley|fg3|1|over5\",\"ncaab|nickjones|ra|10|under5\",\"ncaab|tylikweeks|reb|7|under5\",\"ncaab|rihardsvavers|fg3|1|over5\",\"ncaab|marcusbanks|ast|7|under5\",\"ncaab|jaelongermany|ast|5|under5\",\"ncaab|carterevanson|pra|20|under5\",\"ncaab|austinherro|pra|20|under5\",\"ncaab|mjwilliams|fg3|1|over5\",\"ncaab|michaelbelle|ra|10|under5\",\"ncaab|isaacondekane|reb|10|under5\",\"ncaab|landonclark|ra|10|under5\",\"ncaab|aidenargabright|pa|20|under5\",\"ncaab|jacobcofie|reb|10|under5\",\"ncaab|patrickwessler|pts|10|over5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|andrewball|pr|20|under5\",\"ncaab|soloball|pa|20|under5\",\"ncaab|braedencarrington|pra|25|under5\",\"ncaab|michaelbelle|pra|20|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|aaronmcbride|pra|20|under5\",\"ncaab|joaquimboumtjeboumtje|pts|20|under5\",\"ncaab|malikabdullahi|pts|15|under5\",\"ncaab|adamclark|stl|1|over5\",\"ncaab|colecerta|fg3|1|over5\",\"ncaab|josiahdotzler|pts|20|under5\",\"ncaab|willshortt|pr|20|under5\",\"ncaab|ariusalijosius|pra|20|under5\",\"ncaab|rihardsvavers|pa|20|under5\",\"ncaab|dramanecamara|pa|12|under5\",\"ncaab|tylerjones|ra|10|under5\",\"ncaab|brucebranchiii|pts|20|under5\",\"ncaab|jeremiahdavis|pra|25|under5\",\"ncaab|lazardjokovic|ra|10|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|nyklewis|pr|20|under5\",\"ncaab|carterbjerke|ra|8|under5\",\"ncaab|grantstubblefield|pra|25|under5\",\"ncaab|boldengdit|pa|20|under5\",\"ncaab|christiangibson|fg3|1|over5\",\"ncaab|elijahbrooks|pra|25|under5\",\"ncaab|buddyhammerjr|pr|15|under5\",\"ncaab|justinmenard|pts|20|under5\",\"ncaab|donovandent|stl|1|over5\",\"ncaab|brycecofield|pra|25|under5\",\"ncaab|lukabogavac|pra|20|under5\",\"ncaab|spencerelliott|pra|15|under5\",\"ncaab|carterevanson|ra|10|under5\",\"ncaab|dramanecamara|pr|15|under5\",\"ncaab|joshreed|pr|20|under5\",\"ncaab|aaronmcbride|reb|7|under5\",\"ncaab|carterbjerke|fg3|1|over5\",\"ncaab|tylikweeks|pts|10|over5\",\"ncaab|joaquimboumtjeboumtje|pa|20|under5\",\"ncaab|masonblazer|pr|20|under5\",\"ncaab|andysigiscar|pr|20|under5\",\"ncaab|patrickwessler|reb|7|over5\",\"ncaab|jaelongermany|pra|20|under5\",\"ncaab|eianelmer|pts|20|under5\",\"ncaab|treybeamer|ast|5|under5\",\"ncaab|tayshawncomer|pra|20|under5\",\"ncaab|jaylencolon|reb|7|under5\",\"ncaab|jalencox|reb|7|under5\",\"ncaab|marcusbanks|pts|20|under5\",\"ncaab|rihardsvavers|pra|25|under5\",\"ncaab|malikabdullahi|ra|10|under5\",\"ncaab|makhaivalentine|pa|20|under5\",\"ncaab|joshpascarelli|pr|20|under5\",\"ncaab|elijahbrooks|ra|10|under5\",\"ncaab|williamkermoury|ra|10|under5\",\"ncaab|noahotshudi|pra|15|over5\",\"ncaab|solomoncallaghan|pra|25|under5\",\"ncaab|christianking|fg3|1|over5\",\"ncaab|uzziahbuntyn|pra|25|under5\",\"ncaab|juanfernandez|ra|10|under5\",\"ncaab|josiahdavis|pa|15|over5\",\"ncaab|abdoulayefall|pr|20|under5\",\"ncaab|connoramundsen|pts|15|under5\",\"ncaab|jordanburks|pa|20|under5\",\"ncaab|dallinhall|pts|25|under5\",\"ncaab|jacobcofie|pra|25|under5\",\"ncaab|quincyallen|pts|15|under5\",\"ncaab|cadehornecker|pra|15|under5\",\"ncaab|grantstubblefield|pa|20|under5\",\"ncaab|xabilopez|pr|15|under5\",\"ncaab|davidbolden|fg3|1|over5\",\"ncaab|abdibashirjr|pra|25|under5\",\"ncaab|skyyclark|fg3|1|over5\",\"ncaab|calebsmith|reb|7|under5\",\"ncaab|jeremiahdavis|pa|20|under5\",\"ncaab|grantstubblefield|pr|20|under5\",\"ncaab|andrewball|pra|20|under5\",\"ncaab|silasdemaryjr|ast|3|over5\",\"ncaab|barakaokojie|pts|10|over5\",\"ncaab|davidbolden|pra|25|under5\",\"ncaab|elijahbrooks|pa|20|under5\",\"ncaab|nyklewis|reb|7|under5\",\"ncaab|jaelongermany|pr|15|under5\",\"ncaab|tariquefoster|pra|15|under5\",\"ncaab|jacksonfurman|pra|20|under5\",\"ncaab|nyklewis|ra|10|under5\",\"ncaab|milesbyrd|pa|20|under5\",\"ncaab|soloball|pr|20|under5\",\"ncaab|donovandent|pra|15|over5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|yourifritz|pra|20|under5\",\"ncaab|umiergraham|pts|15|under5\",\"ncaab|tjrobinson|pts|15|under5\",\"ncaab|cavinholden|fg3|1|over5\",\"ncaab|zachkraft|fg3|1|over5\",\"ncaab|jahkigupton|reb|7|under5\",\"ncaab|barakaokojie|pa|15|over5\",\"ncaab|coreycaulker|ra|10|under5\",\"ncaab|noahotshudi|pts|10|over5\",\"ncaab|victoryimgamoukouri|pra|15|under5\",\"ncaab|ollieengen|pts|20|under5\",\"ncaab|noahbolanga|ra|6|over5\",\"ncaab|drewhaffner|pra|15|under5\",\"ncaab|daviddouglasjr|fg3|1|over5\",\"ncaab|amonteallenjohnson|reb|7|under5\",\"ncaab|bobbycannon|pra|15|under5\",\"ncaab|braedencarrington|pa|20|under5\",\"ncaab|grantstubblefield|pts|15|under5\"],[\"live:oool~4oo\",\"live:l~5l~7l~6l~5\",\"open:oooooooo\",\"lost:h7h3m1m8h5m6mhmhh8h8h13h14m1m3h17\"],[[0,[],19],[0,[],16],[0,[],19],[0,[],12],[2,[\"supreme*\",\"value\"],19],[1,[\"strong\"],24],[1,[\"strong\"],19],[0,[],24],[1,[\"supreme*\"],15],[2,[\"supreme*\",\"strong\"],25],[0,[],19],[0,[],16],[1,[\"value\"],16],[0,[],18],[3,[\"supreme\",\"strong\",\"value\"],18],[1,[\"value\"],24],[0,[],14],[1,[\"strong\"],23],[0,[],26],[0,[],18],[2,[\"supreme*\",\"strong\"],19],[0,[],19],[2,[\"supreme\",\"value\"],20],[0,[],20],[1,[\"supreme*\"],13],[1,[\"supreme\"],21],[0,[],21],[0,[],13],[1,[\"supreme*\"],24],[1,[\"value\"],14],[1,[\"strong\"],16],[2,[\"supreme\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],21],[1,[\"strong\"],21],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],20],[0,[],13],[0,[],20],[1,[\"value\"],17],[0,[],22],[0,[],24],[2,[\"supreme\",\"value\"],24],[0,[],17],[0,[],15],[1,[\"strong\"],24],[1,[\"supreme*\"],13],[0,[],17],[1,[\"supreme\"],17],[1,[\"supreme*\"],21],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[2,[\"supreme*\",\"strong\"],15],[2,[\"supreme*\",\"strong\"],21],[2,[\"supreme*\",\"strong\"],17],[1,[\"supreme*\"],19],[1,[\"value\"],25],[2,[\"strong\",\"strong\"],23],[1,[\"strong\"],22],[0,[],21],[1,[\"value\"],16],[2,[\"supreme\",\"strong\"],20],[1,[\"value\"],20],[3,[\"strong\",\"strong\",\"value\"],18],[2,[\"supreme*\",\"strong\"],17],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[1,[\"strong\"],21],[1,[\"supreme*\"],15],[3,[\"supreme\",\"strong\",\"strong\"],18],[2,[\"supreme\",\"value\"],16],[1,[\"strong\"],24],[2,[\"supreme\",\"value\"],21],[1,[\"strong\"],21],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme*\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],13],[0,[],17],[3,[\"strong\",\"value\",\"value\"],16],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],23],[1,[\"strong\"],17],[0,[],18],[1,[\"value\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"strong\",\"value\"],20],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],21],[0,[],20],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme\",\"strong\"],19],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],19],[2,[\"supreme*\",\"strong\"],22],[0,[],16],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"value\"],11],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],19],[1,[\"supreme*\"],13],[1,[\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],18],[1,[\"strong\"],23],[2,[\"strong\",\"strong\"],20],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],11],[3,[\"supreme\",\"strong\",\"strong\"],15],[1,[\"supreme*\"],21],[2,[\"supreme\",\"strong\"],21],[0,[],15],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],24],[2,[\"strong\",\"strong\"],21],[0,[],12],[1,[\"strong\"],22],[0,[],20],[2,[\"strong\",\"strong\"],22],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[0,[],13],[2,[\"strong\",\"strong\"],22],[1,[\"supreme\"],22],[2,[\"strong\",\"value\"],21],[1,[\"value\"],19],[1,[\"supreme\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],15],[0,[],16],[1,[\"strong\"],18],[1,[\"value\"],10],[2,[\"value\",\"value\"],13],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],16],[2,[\"strong\",\"value\"],13],[0,[],16],[1,[\"value\"],18],[2,[\"strong\",\"strong\"],13]],[0,15,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[1,[null],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[3,[null,false,null],[\"1-10-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
