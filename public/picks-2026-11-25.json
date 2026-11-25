@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795635292309,
+ "generated": 1795635308518,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -364,17 +364,17 @@
  },
  "today": {
   "d": "2026-11-25",
-  "lockedAt": 1795629943928,
+  "lockedAt": 1795635307480,
   "unlockMin": 30,
   "picks": [
    {
     "sp": "ncaab",
     "game": "WASH@VCU",
     "gl": "#180 WASH@#101 VCU",
-    "pick": "WASH +4.5",
+    "pick": "WASH +4",
     "price": -110,
-    "p": 0.769,
-    "ev": 46.8,
+    "p": 0.742,
+    "ev": 41.6,
     "start": "2026-11-26T03:00Z",
     "tier": "UNANIMOUS",
     "calls": [
@@ -475,77 +475,77 @@
    },
    {
     "sp": "nhl",
-    "game": "WPG@BOS",
-    "gl": "#18 WPG@#3 BOS",
-    "pick": "BOS ML",
-    "price": -165,
-    "p": 0.686,
-    "ev": 10.2,
+    "game": "NJ@CBJ",
+    "gl": "#8 NJ@#25 CBJ",
+    "pick": "NJ ML",
+    "price": -149,
+    "p": 0.678,
+    "ev": 13.2,
     "start": "2026-11-26T00:00Z",
-    "tier": "SUPREME",
+    "tier": "STRONG",
     "calls": [
      {
       "who": "The Closer",
       "v": "H_L3e1",
       "with": true,
-      "pick": "BOS ML",
-      "p": 0.62,
+      "pick": "NJ ML",
+      "p": 0.615,
       "official": false,
-      "note": "picked team has the clear talent edge (Scout) · out-of-conference game · avg WPG 3.2-3.4 BOS 3.6-2.7 · rec WPG 12-9 BOS 15-7 · last5 WPG 3-2 BOS 2-3"
+      "note": "road favorite · picked team has the clear talent edge (Scout) · division game · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
      },
      {
       "who": "The Grinder",
       "v": "H_L2e1",
       "with": true,
-      "pick": "BOS ML",
-      "p": 0.562,
+      "pick": "NJ ML",
+      "p": 0.561,
       "official": false,
-      "note": "picked team has the clear talent edge (Scout) · out-of-conference game · avg WPG 3.2-3.4 BOS 3.6-2.7 · rec WPG 12-9 BOS 15-7 · last5 WPG 3-2 BOS 2-3"
-     },
-     {
-      "who": "The Scout",
-      "v": "Scout",
-      "with": true,
-      "pick": "BOS ML",
-      "p": 0.544,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · out-of-conference game · me with BOS ml 5-1 · me vs WPG ml 5-3 · avg WPG 3.2-3.4 BOS 3.6-2.7 · rec WPG 12-9 BOS 15-7 · last5 WPG 3-2 BOS 2-3"
+      "note": "road favorite · picked team has the clear talent edge (Scout) · division game · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
      },
      {
       "who": "The Judge",
       "v": "Judge",
       "with": true,
-      "pick": "BOS ML",
-      "p": 0.524,
+      "pick": "NJ ML",
+      "p": 0.546,
       "official": false,
-      "note": "picked team has the clear talent edge (Scout) · out-of-conference game · me with BOS ml 12-6 · me vs WPG ml 6-7 · avg WPG 3.2-3.4 BOS 3.6-2.7 · rec WPG 12-9 BOS 15-7 · last5 WPG 3-2 BOS 2-3"
+      "note": "road favorite · picked team has the clear talent edge (Scout) · me with NJ ml 11-2 · division game · me vs CBJ ml 7-7 · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
      },
      {
-      "who": "The Banker",
-      "v": "Banker",
+      "who": "The Scout",
+      "v": "Scout",
       "with": true,
-      "pick": "BOS ML",
-      "p": 0.516,
+      "pick": "NJ ML",
+      "p": 0.544,
       "official": false,
-      "note": "picked team has the clear talent edge (Scout) · out-of-conference game · me vs WPG ml 3-3 · me with BOS ml 2-2 · avg WPG 3.2-3.4 BOS 3.6-2.7 · rec WPG 12-9 BOS 15-7 · last5 WPG 3-2 BOS 2-3"
-     },
-     {
-      "who": "The Simulator",
-      "v": "Sim",
-      "with": true,
-      "pick": "BOS ML",
-      "p": 0.512,
-      "official": false,
-      "note": "picked team has the clear talent edge (Scout) · out-of-conference game · me with BOS ml 10-5 · me vs WPG ml 7-8 · avg WPG 3.2-3.4 BOS 3.6-2.7 · rec WPG 12-9 BOS 15-7 · last5 WPG 3-2 BOS 2-3"
+      "note": "road favorite · picked team has the clear talent edge (Scout) · me vs CBJ ml 3-4 · division game · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
      },
      {
       "who": "The Commissioner",
       "v": "Power",
       "with": true,
-      "pick": "BOS ML",
-      "p": 0.488,
+      "pick": "NJ ML",
+      "p": 0.522,
       "official": false,
-      "note": "picked team has the clear talent edge (Scout) · out-of-conference game · me with BOS ml 9-3 · me vs WPG ml 8-7 · avg WPG 3.2-3.4 BOS 3.6-2.7 · rec WPG 12-9 BOS 15-7 · last5 WPG 3-2 BOS 2-3"
+      "note": "road favorite · picked team has the clear talent edge (Scout) · me with NJ ml 10-1 · division game · me vs CBJ ml 7-6 · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
+     },
+     {
+      "who": "The Banker",
+      "v": "Banker",
+      "with": true,
+      "pick": "NJ ML",
+      "p": 0.515,
+      "official": false,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · me vs CBJ ml 3-0 · division game · me with NJ ml 3-1 · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
+     },
+     {
+      "who": "The Simulator",
+      "v": "Sim",
+      "with": true,
+      "pick": "NJ ML",
+      "p": 0.512,
+      "official": false,
+      "note": "road favorite · picked team has the clear talent edge (Scout) · me with NJ ml 9-2 · division game · me vs CBJ ml 8-7 · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
      }
     ],
     "hit": null,
@@ -553,9 +553,9 @@
     "spread": true,
     "why": {
      "read": {
-      "who": "The Closer",
-      "take": "Let the record show: The evidence points to Boston.",
-      "text": "Let the record show: The evidence points to Boston. The case against: Kyle Connor is hot for Winnipeg — 1.8 points a game lately. He can beat this on his own. David Pastrnak is putting up 1.3 points a game, and lately it's 1.7. Boston has the clear talent edge. The sims land on Boston 58% of the time. The book is pricing this like it happens 62% of the time. I say 67%. Translation: the price pays more than the risk."
+      "who": "The Judge",
+      "take": "I've heard the arguments. Case closed, for now: New Jersey on the moneyline.",
+      "text": "I've heard the arguments. Case closed, for now: New Jersey on the moneyline. Jack Hughes is putting up 1.3 points a game. New Jersey has the clear talent edge. The evidence, not the noise. The sims land on New Jersey 58% of the time. My record on NHL favorites on the moneyline: 91-56. New Jersey has been good to me on the moneyline, 11-2. For the defense: Zach Werenski is hot for Columbus — 4.2 shots a game lately. He can beat this on his own. At -149 the book needs this to hit 60% of the time. I have it at 68% — the price pays more than the risk."
      }
     },
     "q": null,
@@ -567,8 +567,8 @@
     "gl": "#12 GB@#7 LAR",
     "pick": "LAR ML",
     "price": -140,
-    "p": 0.686,
-    "ev": 17.5,
+    "p": 0.677,
+    "ev": 16.1,
     "start": "2026-11-26T01:00Z",
     "tier": "STRONG",
     "calls": [
@@ -645,7 +645,7 @@
   "allStarted": false,
   "commit": {
    "alg": "sha256",
-   "hash": "57891ac9a71186d37599944b9ffcf59b410300e12dad74c7135f1531370745c6",
+   "hash": "91475c5ae085e43f109c75a7c38687113d5f50a5cce2cf5e166f568fdfc9f0b6",
    "salt": null
   }
  },
@@ -1600,96 +1600,16 @@
     "v": "Scout",
     "skill": false,
     "px": false,
-    "price": "+292",
-    "p": 0.261,
+    "price": "+306",
+    "p": 0.315,
     "legs": [
-     {
-      "sp": "ncaab",
-      "game": "UWF@NWST",
-      "gl": "#120 UWF@#507 NWST",
-      "pick": "UWF ML",
-      "price": -102,
-      "p": 0.512,
-      "q": null,
-      "start": "2026-11-25T23:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Scout"
-      ],
-      "voices": [
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": true,
-        "pick": "UWF ML",
-        "p": 0.511,
-        "official": true,
-        "note": "road favorite · picked team has the clear talent edge (Scout) · me with UWF ml 0-2 · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
-       },
-       {
-        "who": "The Scorekeeper",
-        "v": "Most common",
-        "with": true,
-        "pick": "UWF ML",
-        "p": 0.692,
-        "official": false,
-        "note": "his final UWF 78 – 70 NWST · 69 possessions · me with UWF ml 1-3 · UWF: 10.3 threes, 16.4 twos, 16.0 FT · NWST: 5.3 threes, 17.7 twos, 17.0 FT · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
-       },
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "UWF ML",
-        "p": 0.584,
-        "official": false,
-        "note": "road favorite · picked team has the clear talent edge (Scout) · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "UWF ML",
-        "p": 0.486,
-        "official": false,
-        "note": "road favorite · picked team has the clear talent edge (Scout) · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "UWF ML",
-        "p": 0.483,
-        "official": false,
-        "note": "road favorite · picked team has the clear talent edge (Scout) · me with UWF ml 0-4 · me vs NWST ml 3-0 · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "UWF ML",
-        "p": 0.327,
-        "official": false,
-        "note": "road favorite · picked team has the clear talent edge (Scout) · me with UWF ml 1-4 · me vs NWST ml 3-0 · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": false,
-        "pick": "NWST ML",
-        "p": 0.508,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · opponent has the clear talent edge (Scout) · me vs UWF ml 3-0 · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
-       }
-      ]
-     },
      {
       "sp": "ncaab",
       "game": "SELA@UND",
       "gl": "#289 SELA@#248 UND",
       "pick": "UND ML",
-      "price": -102,
-      "p": 0.51,
+      "price": 105,
+      "p": 0.616,
       "q": null,
       "start": "2026-11-25T20:00Z",
       "hit": null,
@@ -1780,6 +1700,86 @@
         "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · road favorite · avg SELA 65.2-86.5 UND 77.4-79.7 · rec SELA 2-4 UND 4-3 · last5 SELA 2-3 UND 3-2"
        }
       ]
+     },
+     {
+      "sp": "ncaab",
+      "game": "UWF@NWST",
+      "gl": "#120 UWF@#507 NWST",
+      "pick": "UWF ML",
+      "price": -102,
+      "p": 0.511,
+      "q": null,
+      "start": "2026-11-25T23:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scout"
+      ],
+      "voices": [
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.511,
+        "official": true,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · me with UWF ml 0-2 · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.692,
+        "official": false,
+        "note": "his final UWF 78 – 70 NWST · 69 possessions · me with UWF ml 1-3 · UWF: 10.3 threes, 16.4 twos, 16.0 FT · NWST: 5.3 threes, 17.7 twos, 17.0 FT · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
+       },
+       {
+        "who": "The Closer",
+        "v": "H_L3e1",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.584,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.486,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.483,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · me with UWF ml 0-4 · me vs NWST ml 3-0 · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "UWF ML",
+        "p": 0.327,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · me with UWF ml 1-4 · me vs NWST ml 3-0 · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "NWST ML",
+        "p": 0.508,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · opponent has the clear talent edge (Scout) · me vs UWF ml 3-0 · avg UWF 87.9-69.7 NWST 53.2-63.3 · rec UWF 3-4 NWST 1-5 · last5 UWF 2-3 NWST 1-4"
+       }
+      ]
      }
     ]
    },
@@ -1788,16 +1788,123 @@
     "v": "Sim",
     "skill": true,
     "px": false,
-    "price": "+146",
-    "p": 0.447,
+    "price": "+129",
+    "p": 0.467,
     "legs": [
      {
+      "sp": "nhl",
+      "game": "OTT@FLA",
+      "gl": "#12 OTT@#14 FLA",
+      "pick": "OTT +1.5",
+      "price": -245,
+      "p": 0.742,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": [
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.626,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team's main goalie is top 20% in save % · division game · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.624,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team's main goalie is top 20% in save % · me vs FLA ats 8-4 · division game · me with OTT ats 4-2 · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "The Closer",
+        "v": "H_L3e1",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.577,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team's main goalie is top 20% in save % · division game · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.568,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team's main goalie is top 20% in save % · me vs FLA ats 2-0 · division game · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.556,
+        "official": false,
+        "note": "his final OTT 3 – 2 FLA · OTT: 25.3 shots × 12.2% · me vs FLA ats 8-4 · FLA: 28.0 shots × 10.9% · me with OTT ats 4-2 · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.554,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team's main goalie is top 20% in save % · me with OTT ats 3-1 · division game · me vs FLA ats 5-4 · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.54,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team's main goalie is top 20% in save % · me vs FLA ats 8-4 · division game · me with OTT ats 4-2 · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.518,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · picked team's main goalie is top 20% in save % · me vs FLA ats 3-1 · division game · me with OTT ats 1-1 · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.477,
+        "official": false,
+        "note": "+0.1 FLA revenge: lost the last meeting (2026) · +0.08 FLA news: something to play for · me vs FLA ats 3-1 · his score OTT 3 – 4 FLA vs the line -1.5 · avg OTT 3.2-2.8 FLA 3.2-3 · rec OTT 16-6 FLA 13-8 · last5 OTT 5-0 FLA 3-2"
+       },
+       {
+        "who": "The Oracle",
+        "v": "Pred",
+        "with": true,
+        "pick": "OTT +1.5",
+        "p": 0.457,
+        "official": false,
+        "note": "outside consensus FLA by 0.7 vs the line -1.5 · Kalshi FLA 52% · me vs FLA ats 4-3 · Polymarket FLA 52% · DRatings FLA 56% · OddsShark computer OTT 2.94–3.21 FLA · DRatings: OTT by 0.7 — 62% on 106 · OddsShark computer: OTT by 0.3 — 54% on 80 · me with OTT ats 1-2 · avg OTT 3.2-2.8 FLA 3.2-3"
+       }
+      ]
+     },
+     {
       "sp": "nba",
-      "game": "SAC@GS",
-      "gl": "#28 SAC@#20 GS",
-      "pick": "GS ML",
-      "price": -265,
-      "p": 0.781,
+      "game": "SA@POR",
+      "gl": "#1 SA@#11 POR",
+      "pick": "SA ML",
+      "price": -160,
+      "p": 0.629,
       "q": null,
       "start": "2026-11-26T03:00Z",
       "hit": null,
@@ -1807,156 +1914,747 @@
       ],
       "voices": [
        {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.67,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 13-2 · division game · me with GS ml 7-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.657,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 13-2 · division game · me with GS ml 6-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.643,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 14-2 · division game · me with GS ml 7-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
         "who": "The Grinder",
         "v": "H_L2e1",
         "with": true,
-        "pick": "GS ML",
-        "p": 0.643,
+        "pick": "SA ML",
+        "p": 0.625,
         "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
+        "note": "road favorite · picked team won 4+ of its last 5 · picked team leads the head-to-head series · avg SA 117.6-105.4 POR 116.8-110.4 · rec SA 15-3 POR 11-6 · last5 SA 4-1 POR 3-2"
        },
        {
         "who": "The Closer",
         "v": "H_L3e1",
         "with": true,
-        "pick": "GS ML",
-        "p": 0.632,
+        "pick": "SA ML",
+        "p": 0.566,
         "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.583,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 9-2 · division game · me with GS ml 4-2 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.577,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me with GS ml 0-2 · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.574,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 2-0 · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       }
-      ]
-     },
-     {
-      "sp": "nba",
-      "game": "MIA@PHI",
-      "gl": "#12 MIA@#10 PHI",
-      "pick": "PHI ML",
-      "price": -127,
-      "p": 0.573,
-      "q": null,
-      "start": "2026-11-25T22:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Simulator"
-      ],
-      "voices": [
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "PHI ML",
-        "p": 0.516,
-        "official": false,
-        "note": "picked team over-performing its scoring (Pythagorean) · picked team won 4+ of its last 5 · me vs MIA ml 1-4 · picked team trails the head-to-head series · me with PHI ml 2-0 · avg MIA 120.7-119.4 PHI 115.3-113.4 · rec MIA 10-6 PHI 14-4 · last5 MIA 5-0 PHI 4-1"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "PHI ML",
-        "p": 0.51,
-        "official": false,
-        "note": "picked team over-performing its scoring (Pythagorean) · picked team won 4+ of its last 5 · me with PHI ml 10-0 · picked team trails the head-to-head series · me vs MIA ml 4-6 · avg MIA 120.7-119.4 PHI 115.3-113.4 · rec MIA 10-6 PHI 14-4 · last5 MIA 5-0 PHI 4-1"
+        "note": "road favorite · picked team won 4+ of its last 5 · picked team leads the head-to-head series · avg SA 117.6-105.4 POR 116.8-110.4 · rec SA 15-3 POR 11-6 · last5 SA 4-1 POR 3-2"
        },
        {
         "who": "The Judge",
         "v": "Judge",
         "with": true,
-        "pick": "PHI ML",
-        "p": 0.508,
+        "pick": "SA ML",
+        "p": 0.536,
         "official": false,
-        "note": "picked team over-performing its scoring (Pythagorean) · picked team won 4+ of its last 5 · me with PHI ml 10-1 · picked team trails the head-to-head series · me vs MIA ml 4-3 · avg MIA 120.7-119.4 PHI 115.3-113.4 · rec MIA 10-6 PHI 14-4 · last5 MIA 5-0 PHI 4-1"
+        "note": "road favorite · picked team won 4+ of its last 5 · me with SA ml 14-2 · picked team leads the head-to-head series · me vs POR ml 3-3 · avg SA 117.6-105.4 POR 116.8-110.4 · rec SA 15-3 POR 11-6 · last5 SA 4-1 POR 3-2"
        },
        {
         "who": "The Commissioner",
         "v": "Power",
         "with": true,
-        "pick": "PHI ML",
-        "p": 0.497,
+        "pick": "SA ML",
+        "p": 0.522,
         "official": false,
-        "note": "picked team over-performing its scoring (Pythagorean) · picked team won 4+ of its last 5 · me with PHI ml 9-3 · picked team trails the head-to-head series · me vs MIA ml 4-3 · avg MIA 120.7-119.4 PHI 115.3-113.4 · rec MIA 10-6 PHI 14-4 · last5 MIA 5-0 PHI 4-1"
+        "note": "road favorite · picked team won 4+ of its last 5 · me with SA ml 13-2 · picked team leads the head-to-head series · me vs POR ml 5-5 · avg SA 117.6-105.4 POR 116.8-110.4 · rec SA 15-3 POR 11-6 · last5 SA 4-1 POR 3-2"
        },
        {
-        "who": "The Grinder",
-        "v": "H_L2e1",
+        "who": "The Simulator",
+        "v": "Sim",
         "with": true,
-        "pick": "PHI ML",
-        "p": 0.486,
+        "pick": "SA ML",
+        "p": 0.521,
         "official": false,
-        "note": "picked team over-performing its scoring (Pythagorean) · picked team won 4+ of its last 5 · picked team trails the head-to-head series · avg MIA 120.7-119.4 PHI 115.3-113.4 · rec MIA 10-6 PHI 14-4 · last5 MIA 5-0 PHI 4-1"
+        "note": "road favorite · picked team won 4+ of its last 5 · me with SA ml 15-2 · picked team leads the head-to-head series · me vs POR ml 5-3 · avg SA 117.6-105.4 POR 116.8-110.4 · rec SA 15-3 POR 11-6 · last5 SA 4-1 POR 3-2"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "SA ML",
+        "p": 0.515,
+        "official": false,
+        "note": "road favorite · picked team won 4+ of its last 5 · me vs POR ml 2-3 · picked team leads the head-to-head series · avg SA 117.6-105.4 POR 116.8-110.4 · rec SA 15-3 POR 11-6 · last5 SA 4-1 POR 3-2"
        },
        {
         "who": "Covers",
         "v": "Covers",
         "with": true,
-        "pick": "PHI ML",
-        "p": 0.349,
+        "pick": "SA ML",
+        "p": 0.494,
         "official": false,
-        "note": "picked team over-performing its scoring (Pythagorean) · picked team won 4+ of its last 5 · me vs MIA ml 0-2 · picked team trails the head-to-head series · me with PHI ml 2-1 · avg MIA 120.7-119.4 PHI 115.3-113.4 · rec MIA 10-6 PHI 14-4 · last5 MIA 5-0 PHI 4-1"
+        "note": "road favorite · picked team won 4+ of its last 5 · me with SA ml 3-1 · picked team leads the head-to-head series · me vs POR ml 1-1 · avg SA 117.6-105.4 POR 116.8-110.4 · rec SA 15-3 POR 11-6 · last5 SA 4-1 POR 3-2"
        },
        {
-        "who": "The Brain",
-        "v": "Brain",
-        "with": false,
-        "pick": "MIA ML",
-        "p": 0.46,
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "SA ML",
+        "p": 0.488,
         "official": false,
-        "note": "edge +8.2% — his 46% vs the price's 42% · the exchanges 48% vs the book's 41% · me with MIA ml 3-2 · the outside consensus 44% · me vs PHI ml 2-3 · avg MIA 120.7-119.4 PHI 115.3-113.4 · rec MIA 10-6 PHI 14-4 · last5 MIA 5-0 PHI 4-1"
+        "note": "road favorite · picked team won 4+ of its last 5 · me with SA ml 8-1 · picked team leads the head-to-head series · avg SA 117.6-105.4 POR 116.8-110.4 · rec SA 15-3 POR 11-6 · last5 SA 4-1 POR 3-2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Closer",
+    "v": "H_L3e1",
+    "skill": true,
+    "px": false,
+    "price": "+268",
+    "p": 0.447,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "KENN@COFC",
+      "gl": "#158 KENN@#134 COFC",
+      "pick": "KENN +1.5",
+      "price": -108,
+      "p": 0.669,
+      "q": null,
+      "start": "2026-11-25T23:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Closer"
+      ],
+      "voices": [
+       {
+        "who": "The Closer",
+        "v": "H_L3e1",
+        "with": true,
+        "pick": "KENN +1.5",
+        "p": 0.618,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "KENN +1.5",
+        "p": 0.509,
+        "official": false,
+        "note": "his final KENN 81 – 79 COFC · 76 possessions · me with KENN ats 2-1 · KENN: 8.0 threes, 20.4 twos, 16.4 FT · COFC: 6.4 threes, 19.2 twos, 21.3 FT · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "KENN +1.5",
+        "p": 0.486,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "KENN +1.5",
+        "p": 0.469,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with KENN ats 2-2 · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "KENN +1.5",
+        "p": 0.459,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with KENN ats 2-2 · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "COFC -1.5",
+        "p": 0.453,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
+       },
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": false,
+        "pick": "COFC -1.5",
+        "p": 0.402,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
+       }
+      ]
+     },
+     {
+      "sp": "ncaab",
+      "game": "UALB@SYR",
+      "gl": "#575 UALB@#50 SYR",
+      "pick": "UALB +26",
+      "price": -110,
+      "p": 0.669,
+      "q": null,
+      "start": "2026-11-25T23:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Closer"
+      ],
+      "voices": [
+       {
+        "who": "The Coach",
+        "v": "Coach",
+        "with": true,
+        "pick": "UALB +26",
+        "p": 0.655,
+        "official": false,
+        "note": "his score UALB 72 – 78 SYR vs the line -26 · me with UALB ats 1-1 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
+       },
+       {
+        "who": "The Closer",
+        "v": "H_L3e1",
+        "with": true,
+        "pick": "UALB +26",
+        "p": 0.601,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
+       },
+       {
+        "who": "The Scorekeeper",
+        "v": "Most common",
+        "with": true,
+        "pick": "UALB +26",
+        "p": 0.56,
+        "official": false,
+        "note": "his final UALB 70 – 80 SYR · 69 possessions · me with UALB ats 3-0 · UALB: 6.3 threes, 19.9 twos, 12.7 FT · SYR: 7.2 threes, 20.0 twos, 16.5 FT · me vs SYR ats 1-2 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "UALB +26",
+        "p": 0.553,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · me with UALB ats 3-0 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "UALB +26",
+        "p": 0.553,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "UALB +26",
+        "p": 0.518,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "UALB +26",
+        "p": 0.497,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · me with UALB ats 3-1 · me vs SYR ats 1-2 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "UALB +26",
+        "p": 0.469,
+        "official": false,
+        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · me with UALB ats 3-1 · me vs SYR ats 1-2 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Underdog Spotter",
+    "v": "Dog",
+    "skill": true,
+    "px": false,
+    "price": "+918",
+    "p": 0.43,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "BELL@NKU",
+      "gl": "#255 BELL@#256 NKU",
+      "pick": "BELL ML",
+      "price": 256,
+      "p": 0.679,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Underdog Spotter"
+      ],
+      "voices": [
+       {
+        "who": "The Underdog Spotter",
+        "v": "Dog",
+        "with": true,
+        "pick": "BELL ML",
+        "p": 0.713,
+        "official": false,
+        "note": "+15 power says NKU by -4.5, the line says 7.5 · -8 BELL on a back-to-back · me vs NKU ml 1-1 · +7 NKU as a favorite: 1-2 · +6 BELL last 3: Lc Wc Wc · +4.3 BELL as a dog: 5-2 against the spread · avg BELL 71.5-79.8 NKU 77.9-84.6 · rec BELL 3-5 NKU 3-4 · last5 BELL 3-2 NKU 1-3"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "BELL ML",
+        "p": 0.588,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team over-performing its scoring (Pythagorean) · me vs NKU ml 2-0 · picked team has the clear talent edge (Scout) · avg BELL 71.5-79.8 NKU 77.9-84.6 · rec BELL 3-5 NKU 3-4 · last5 BELL 3-2 NKU 1-3"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "BELL ML",
+        "p": 0.202,
+        "official": false,
+        "note": "picked team on 2nd night of back-to-back · picked team over-performing its scoring (Pythagorean) · me vs NKU ml 3-1 · picked team has the clear talent edge (Scout) · avg BELL 71.5-79.8 NKU 77.9-84.6 · rec BELL 3-5 NKU 3-4 · last5 BELL 3-2 NKU 1-3"
+       },
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": false,
+        "pick": "NKU ML",
+        "p": 0.657,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · opponent has the clear talent edge (Scout) · avg BELL 71.5-79.8 NKU 77.9-84.6 · rec BELL 3-5 NKU 3-4 · last5 BELL 3-2 NKU 1-3"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": false,
+        "pick": "NKU ML",
+        "p": 0.554,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · opponent has the clear talent edge (Scout) · avg BELL 71.5-79.8 NKU 77.9-84.6 · rec BELL 3-5 NKU 3-4 · last5 BELL 3-2 NKU 1-3"
+       },
+       {
+        "who": "The Closer",
+        "v": "H_L3e1",
+        "with": false,
+        "pick": "NKU ML",
+        "p": 0.514,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · opponent has the clear talent edge (Scout) · avg BELL 71.5-79.8 NKU 77.9-84.6 · rec BELL 3-5 NKU 3-4 · last5 BELL 3-2 NKU 1-3"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "NKU ML",
+        "p": 0.493,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · me vs BELL ml 4-2 · opponent has the clear talent edge (Scout) · me with NKU ml 0-2 · avg BELL 71.5-79.8 NKU 77.9-84.6 · rec BELL 3-5 NKU 3-4 · last5 BELL 3-2 NKU 1-3"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "NKU ML",
+        "p": 0.45,
+        "official": false,
+        "note": "opponent on back-to-back · picked team rested, opponent on back-to-back · me vs BELL ml 5-2 · opponent has the clear talent edge (Scout) · me with NKU ml 2-0 · avg BELL 71.5-79.8 NKU 77.9-84.6 · rec BELL 3-5 NKU 3-4 · last5 BELL 3-2 NKU 1-3"
+       }
+      ]
+     },
+     {
+      "sp": "ncaab",
+      "game": "STMN@UNCW",
+      "gl": "#61 STMN@#97 UNCW",
+      "pick": "STMN ML",
+      "price": 186,
+      "p": 0.633,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Underdog Spotter"
+      ],
+      "voices": [
+       {
+        "who": "The Underdog Spotter",
+        "v": "Dog",
+        "with": true,
+        "pick": "STMN ML",
+        "p": 0.701,
+        "official": false,
+        "note": "+12.5 power says UNCW by -4.4, the line says 5.0 · +6 STMN last 3: Wc Wc Wc · +5.2 STMN as a dog: 2-0 against the spread · +3.8 STMN as a dog: 1-1 outright · +3.4 UNCW covers as a favorite: 1-3 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "STMN ML",
+        "p": 0.193,
+        "official": false,
+        "note": "picked team under-performing its scoring (Pythagorean) · picked team on its 3rd straight road game · me with STMN ml 3-1 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": false,
+        "pick": "UNCW ML",
+        "p": 0.619,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": false,
+        "pick": "UNCW ML",
+        "p": 0.56,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · me with UNCW ml 3-0 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": false,
+        "pick": "UNCW ML",
+        "p": 0.544,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": false,
+        "pick": "UNCW ML",
+        "p": 0.525,
+        "official": false,
+        "note": "picked team won 4+ of its last 5 · me with UNCW ml 2-0 · me vs STMN ml 0-2 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Commissioner",
+    "v": "Power",
+    "skill": true,
+    "px": false,
+    "price": "+175",
+    "p": 0.427,
+    "legs": [
+     {
+      "sp": "nfl",
+      "game": "GB@LAR",
+      "gl": "#12 GB@#7 LAR",
+      "pick": "LAR ML",
+      "price": -140,
+      "p": 0.677,
+      "q": null,
+      "start": "2026-11-26T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Commissioner"
+      ],
+      "voices": [
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.626,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.546,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 5-1 · conference game (not division) · me vs GB ml 1-1 · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.522,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 4-1 · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.515,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.512,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 5-1 · conference game (not division) · me vs GB ml 1-2 · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.495,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       }
+      ]
+     },
+     {
+      "sp": "nba",
+      "game": "CHI@CHA",
+      "gl": "#25 CHI@#22 CHA",
+      "pick": "CHA ML",
+      "price": -165,
+      "p": 0.631,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Commissioner"
+      ],
+      "voices": [
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "CHA ML",
+        "p": 0.556,
+        "official": false,
+        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team trails the head-to-head series · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CHA ML",
+        "p": 0.536,
+        "official": false,
+        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 10-3 · picked team trails the head-to-head series · me with CHA ml 3-1 · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "CHA ML",
+        "p": 0.522,
+        "official": false,
+        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 10-3 · picked team trails the head-to-head series · me with CHA ml 2-2 · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "CHA ML",
+        "p": 0.515,
+        "official": false,
+        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me with CHA ml 2-0 · picked team trails the head-to-head series · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
+       },
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": true,
+        "pick": "CHA ML",
+        "p": 0.494,
+        "official": false,
+        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 3-1 · picked team trails the head-to-head series · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "CHI ML",
+        "p": 0.193,
+        "official": false,
+        "note": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ml 8-1 · conference game (not division) · me with CHI ml 0-2 · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "Covers",
+    "v": "Covers",
+    "skill": true,
+    "px": false,
+    "price": "+191",
+    "p": 0.359,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "MEM@PSU",
+      "gl": "#115 MEM@#150 PSU",
+      "pick": "MEM ML",
+      "price": -170,
+      "p": 0.631,
+      "q": null,
+      "start": "2026-11-25T22:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "Covers"
+      ],
+      "voices": [
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.577,
+        "official": false,
+        "note": "road favorite · opponent has the clear talent edge (Scout) · avg MEM 86-81.8 PSU 84.8-69.2 · rec MEM 4-1 PSU 5-1 · last5 MEM 3-1 PSU 3-1"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.551,
+        "official": false,
+        "note": "road favorite · opponent has the clear talent edge (Scout) · avg MEM 86-81.8 PSU 84.8-69.2 · rec MEM 4-1 PSU 5-1 · last5 MEM 3-1 PSU 3-1"
+       },
+       {
+        "who": "The Closer",
+        "v": "H_L3e1",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.513,
+        "official": false,
+        "note": "road favorite · opponent has the clear talent edge (Scout) · avg MEM 86-81.8 PSU 84.8-69.2 · rec MEM 4-1 PSU 5-1 · last5 MEM 3-1 PSU 3-1"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.495,
+        "official": false,
+        "note": "road favorite · opponent has the clear talent edge (Scout) · me vs PSU ml 1-2 · avg MEM 86-81.8 PSU 84.8-69.2 · rec MEM 4-1 PSU 5-1 · last5 MEM 3-1 PSU 3-1"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.473,
+        "official": false,
+        "note": "road favorite · opponent has the clear talent edge (Scout) · me with MEM ml 2-0 · avg MEM 86-81.8 PSU 84.8-69.2 · rec MEM 4-1 PSU 5-1 · last5 MEM 3-1 PSU 3-1"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.446,
+        "official": false,
+        "note": "road favorite · opponent has the clear talent edge (Scout) · avg MEM 86-81.8 PSU 84.8-69.2 · rec MEM 4-1 PSU 5-1 · last5 MEM 3-1 PSU 3-1"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "MEM ML",
+        "p": 0.441,
+        "official": false,
+        "note": "road favorite · opponent has the clear talent edge (Scout) · avg MEM 86-81.8 PSU 84.8-69.2 · rec MEM 4-1 PSU 5-1 · last5 MEM 3-1 PSU 3-1"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": false,
+        "pick": "PSU ML",
+        "p": 0.576,
+        "official": false,
+        "note": "home underdog · picked team has the clear talent edge (Scout) · me with PSU ml 2-0 · avg MEM 86-81.8 PSU 84.8-69.2 · rec MEM 4-1 PSU 5-1 · last5 MEM 3-1 PSU 3-1"
+       }
+      ]
+     },
+     {
+      "sp": "ncaab",
+      "game": "CONN@DUKE",
+      "gl": "#91 CONN@#129 DUKE",
+      "pick": "CONN ML",
+      "price": -120,
+      "p": 0.57,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "Covers"
+      ],
+      "voices": [
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "CONN ML",
+        "p": 0.505,
+        "official": false,
+        "note": "road favorite · me with CONN ml 3-0 · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
+       },
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": true,
+        "pick": "CONN ML",
+        "p": 0.495,
+        "official": false,
+        "note": "road favorite · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "CONN ML",
+        "p": 0.485,
+        "official": false,
+        "note": "road favorite · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "CONN ML",
+        "p": 0.476,
+        "official": false,
+        "note": "road favorite · me with CONN ml 2-0 · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "CONN ML",
+        "p": 0.476,
+        "official": false,
+        "note": "road favorite · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": false,
+        "pick": "DUKE ML",
+        "p": 0.543,
+        "official": false,
+        "note": "home underdog · me with DUKE ml 5-2 · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
        }
       ]
      }
@@ -1967,123 +2665,16 @@
     "v": "Most common",
     "skill": true,
     "px": false,
-    "price": "+452",
-    "p": 0.419,
+    "price": "+466",
+    "p": 0.325,
     "legs": [
-     {
-      "sp": "ncaab",
-      "game": "MISS@ARIZ",
-      "gl": "#65 MISS@#39 ARIZ",
-      "pick": "MISS +6",
-      "price": -114,
-      "p": 0.779,
-      "q": 0.779,
-      "start": "2026-11-25T19:30Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Scorekeeper"
-      ],
-      "voices": [
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.56,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Scorekeeper",
-        "v": "Most common",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.558,
-        "official": false,
-        "note": "his final MISS 78 – 73 ARIZ · 71 possessions · me vs ARIZ ats 4-2 · MISS: 8.3 threes, 19.9 twos, 13.4 FT · ARIZ: 7.2 threes, 17.4 twos, 16.1 FT · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.557,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 1-1 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.525,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "MISS +6",
-        "p": 0.518,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 2-2 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Coach",
-        "v": "Coach",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.503,
-        "official": false,
-        "note": "-2.32 MISS on a back-to-back · -2.22 ARIZ on a back-to-back · me vs ARIZ ats 2-2 · his score MISS 75 – 72 ARIZ vs the line -5 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.496,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with MISS ats 2-0 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.478,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 2-2 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.469,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 3-1 · picked team playing its 3rd game in 4 nights · me with MISS ats 2-0 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.459,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 4-2 · picked team playing its 3rd game in 4 nights · me with MISS ats 2-0 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       }
-      ]
-     },
      {
       "sp": "ncaab",
       "game": "WASH@VCU",
       "gl": "#180 WASH@#101 VCU",
-      "pick": "WASH +4.5",
+      "pick": "WASH +4",
       "price": -110,
-      "p": 0.769,
+      "p": 0.742,
       "q": null,
       "start": "2026-11-26T03:00Z",
       "hit": null,
@@ -2181,7 +2772,7 @@
       "gl": "#109 PAC@#233 JXST",
       "pick": "PAC ML",
       "price": -185,
-      "p": 0.7,
+      "p": 0.705,
       "q": null,
       "start": "2026-11-26T03:30Z",
       "hit": null,
@@ -2263,201 +2854,334 @@
         "note": "road favorite · picked team has the clear talent edge (Scout) · me vs JXST ml 4-0 · picked team owns a top-vs-bottom unit mismatch · avg PAC 79.3-55.5 JXST 77.5-74.5 · rec PAC 5-1 JXST 3-3 · last5 PAC 3-1 JXST 2-3"
        }
       ]
-     }
-    ]
-   },
-   {
-    "who": "The Underdog Spotter",
-    "v": "Dog",
-    "skill": true,
-    "px": false,
-    "price": "+433",
-    "p": 0.387,
-    "legs": [
-     {
-      "sp": "ncaab",
-      "game": "STMN@UNCW",
-      "gl": "#61 STMN@#97 UNCW",
-      "pick": "STMN ML",
-      "price": 185,
-      "p": 0.631,
-      "q": null,
-      "start": "2026-11-26T00:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Underdog Spotter"
-      ],
-      "voices": [
-       {
-        "who": "The Underdog Spotter",
-        "v": "Dog",
-        "with": true,
-        "pick": "STMN ML",
-        "p": 0.701,
-        "official": false,
-        "note": "+12.5 power says UNCW by -4.4, the line says 5.0 · +6 STMN last 3: Wc Wc Wc · +5.2 STMN as a dog: 2-0 against the spread · +3.8 STMN as a dog: 1-1 outright · +3.4 UNCW covers as a favorite: 1-3 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "STMN ML",
-        "p": 0.193,
-        "official": false,
-        "note": "picked team under-performing its scoring (Pythagorean) · picked team on its 3rd straight road game · me with STMN ml 3-1 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": false,
-        "pick": "UNCW ML",
-        "p": 0.619,
-        "official": false,
-        "note": "picked team won 4+ of its last 5 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": false,
-        "pick": "UNCW ML",
-        "p": 0.56,
-        "official": false,
-        "note": "picked team won 4+ of its last 5 · me with UNCW ml 3-0 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": false,
-        "pick": "UNCW ML",
-        "p": 0.544,
-        "official": false,
-        "note": "picked team won 4+ of its last 5 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": false,
-        "pick": "UNCW ML",
-        "p": 0.525,
-        "official": false,
-        "note": "picked team won 4+ of its last 5 · me with UNCW ml 2-0 · me vs STMN ml 0-2 · avg STMN 85.3-74 UNCW 95.5-74.8 · rec STMN 5-3 UNCW 5-1 · last5 STMN 3-2 UNCW 4-0"
-       }
-      ]
      },
      {
       "sp": "ncaab",
-      "game": "NE@WIS",
-      "gl": "#546 NE@#102 WIS",
-      "pick": "NE +20.5",
-      "price": -115,
-      "p": 0.614,
+      "game": "KENN@COFC",
+      "gl": "#158 KENN@#134 COFC",
+      "pick": "KENN +1.5",
+      "price": -108,
+      "p": 0.621,
       "q": null,
-      "start": "2026-11-26T00:00Z",
+      "start": "2026-11-25T23:00Z",
       "hit": null,
       "push": false,
       "by": [
-       "The Underdog Spotter"
+       "The Scorekeeper"
       ],
       "voices": [
        {
-        "who": "The Coach",
-        "v": "Coach",
+        "who": "The Closer",
+        "v": "H_L3e1",
         "with": true,
-        "pick": "NE +20.5",
-        "p": 0.637,
+        "pick": "KENN +1.5",
+        "p": 0.618,
         "official": false,
-        "note": "his score NE 73 – 79 WIS vs the line -20.5 · me with NE ats 2-0 · me vs WIS ats 2-1 · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
        },
        {
         "who": "The Scorekeeper",
         "v": "Most common",
         "with": true,
-        "pick": "NE +20.5",
-        "p": 0.558,
+        "pick": "KENN +1.5",
+        "p": 0.509,
         "official": false,
-        "note": "his final NE 71 – 81 WIS · 71 possessions · me with NE ats 2-0 · NE: 7.6 threes, 18.2 twos, 13.1 FT · WIS: 8.8 threes, 19.0 twos, 14.5 FT · me vs WIS ats 2-1 · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
+        "note": "his final KENN 81 – 79 COFC · 76 possessions · me with KENN ats 2-1 · KENN: 8.0 threes, 20.4 twos, 16.4 FT · COFC: 6.4 threes, 19.2 twos, 21.3 FT · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
        },
        {
         "who": "The Grinder",
         "v": "H_L2e1",
         "with": true,
-        "pick": "NE +20.5",
-        "p": 0.552,
+        "pick": "KENN +1.5",
+        "p": 0.486,
         "official": false,
-        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "NE +20.5",
-        "p": 0.544,
-        "official": false,
-        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · me with NE ats 2-0 · me vs WIS ats 2-1 · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
-       },
-       {
-        "who": "The Underdog Spotter",
-        "v": "Dog",
-        "with": true,
-        "pick": "NE +20.5",
-        "p": 0.519,
-        "official": false,
-        "note": "+6 WIS covers as a favorite: 1-5 · +6 power says WIS by 15.6, the line says 20.5 · +5.4 NE as a dog: 4-1 against the spread · +4.3 NE as a dog: 2-3 outright · -2.6 NE's offense (79.0 a game) vs WIS's defense (allows 66.5) · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "NE +20.5",
-        "p": 0.518,
-        "official": false,
-        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · me with NE ats 2-0 · me vs WIS ats 2-1 · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
-       },
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "NE +20.5",
-        "p": 0.514,
-        "official": false,
-        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
        },
        {
         "who": "The Judge",
         "v": "Judge",
         "with": true,
-        "pick": "NE +20.5",
+        "pick": "KENN +1.5",
         "p": 0.469,
         "official": false,
-        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · me with NE ats 2-1 · me vs WIS ats 2-1 · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with KENN ats 2-2 · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
        },
        {
         "who": "The Simulator",
         "v": "Sim",
         "with": true,
-        "pick": "NE +20.5",
+        "pick": "KENN +1.5",
         "p": 0.459,
         "official": false,
-        "note": "big spread (10+) · opponent has the clear talent edge (Scout) · me vs WIS ats 2-1 · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with KENN ats 2-2 · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
        },
        {
-        "who": "The Scout",
-        "v": "Scout",
+        "who": "The Commissioner",
+        "v": "Power",
         "with": false,
-        "pick": "WIS -20.5",
-        "p": 0.435,
+        "pick": "COFC -1.5",
+        "p": 0.453,
         "official": false,
-        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
        },
        {
         "who": "Covers",
         "v": "Covers",
         "with": false,
-        "pick": "WIS -20.5",
+        "pick": "COFC -1.5",
         "p": 0.402,
         "official": false,
-        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · avg NE 79-85.3 WIS 74.7-66.5 · rec NE 2-4 WIS 4-2 · last5 NE 2-1 WIS 2-1"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "skill": true,
+    "px": false,
+    "price": "+314",
+    "p": 0.323,
+    "legs": [
+     {
+      "sp": "nfl",
+      "game": "GB@LAR",
+      "gl": "#12 GB@#7 LAR",
+      "pick": "LAR ML",
+      "price": -140,
+      "p": 0.677,
+      "q": null,
+      "start": "2026-11-26T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.626,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.546,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 5-1 · conference game (not division) · me vs GB ml 1-1 · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.522,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 4-1 · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.515,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.512,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 5-1 · conference game (not division) · me vs GB ml 1-2 · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       },
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": true,
+        "pick": "LAR ML",
+        "p": 0.495,
+        "official": false,
+        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "VAN@DET",
+      "gl": "#32 VAN@#21 DET",
+      "pick": "DET ML",
+      "price": -224,
+      "p": 0.703,
+      "q": null,
+      "start": "2026-11-26T00:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "Covers",
+        "v": "Covers",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.641,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 0-2 · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.625,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
+       },
+       {
+        "who": "The Closer",
+        "v": "H_L3e1",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.623,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.616,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 2-1 · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.615,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 18-3 · picked team's main goalie is bottom 20% · me with DET ml 3-3 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.573,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 10-3 · picked team's main goalie is bottom 20% · me with DET ml 1-1 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.562,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 15-3 · picked team's main goalie is bottom 20% · me with DET ml 3-2 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "DET ML",
+        "p": 0.538,
+        "official": false,
+        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 17-3 · picked team's main goalie is bottom 20% · me with DET ml 3-5 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
+       }
+      ]
+     },
+     {
+      "sp": "nhl",
+      "game": "NJ@CBJ",
+      "gl": "#8 NJ@#25 CBJ",
+      "pick": "NJ ML",
+      "price": -149,
+      "p": 0.678,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": [
+       {
+        "who": "The Closer",
+        "v": "H_L3e1",
+        "with": true,
+        "pick": "NJ ML",
+        "p": 0.615,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · division game · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
+       },
+       {
+        "who": "The Grinder",
+        "v": "H_L2e1",
+        "with": true,
+        "pick": "NJ ML",
+        "p": 0.561,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · division game · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
+       },
+       {
+        "who": "The Judge",
+        "v": "Judge",
+        "with": true,
+        "pick": "NJ ML",
+        "p": 0.546,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · me with NJ ml 11-2 · division game · me vs CBJ ml 7-7 · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
+       },
+       {
+        "who": "The Scout",
+        "v": "Scout",
+        "with": true,
+        "pick": "NJ ML",
+        "p": 0.544,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · me vs CBJ ml 3-4 · division game · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
+       },
+       {
+        "who": "The Commissioner",
+        "v": "Power",
+        "with": true,
+        "pick": "NJ ML",
+        "p": 0.522,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · me with NJ ml 10-1 · division game · me vs CBJ ml 7-6 · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
+       },
+       {
+        "who": "The Banker",
+        "v": "Banker",
+        "with": true,
+        "pick": "NJ ML",
+        "p": 0.515,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · me vs CBJ ml 3-0 · division game · me with NJ ml 3-1 · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
+       },
+       {
+        "who": "The Simulator",
+        "v": "Sim",
+        "with": true,
+        "pick": "NJ ML",
+        "p": 0.512,
+        "official": false,
+        "note": "road favorite · picked team has the clear talent edge (Scout) · me with NJ ml 9-2 · division game · me vs CBJ ml 8-7 · avg NJ 3.8-3.1 CBJ 2.5-3.2 · rec NJ 16-8 CBJ 9-13 · last5 NJ 3-2 CBJ 1-4"
        }
       ]
      }
@@ -2468,123 +3192,16 @@
     "v": "Coach",
     "skill": true,
     "px": false,
-    "price": "+594",
-    "p": 0.377,
+    "price": "+606",
+    "p": 0.322,
     "legs": [
-     {
-      "sp": "ncaab",
-      "game": "MISS@ARIZ",
-      "gl": "#65 MISS@#39 ARIZ",
-      "pick": "MISS +6",
-      "price": -114,
-      "p": 0.764,
-      "q": 0.764,
-      "start": "2026-11-25T19:30Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Coach"
-      ],
-      "voices": [
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.56,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Scorekeeper",
-        "v": "Most common",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.558,
-        "official": false,
-        "note": "his final MISS 78 – 73 ARIZ · 71 possessions · me vs ARIZ ats 4-2 · MISS: 8.3 threes, 19.9 twos, 13.4 FT · ARIZ: 7.2 threes, 17.4 twos, 16.1 FT · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.557,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 1-1 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.525,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "MISS +6",
-        "p": 0.518,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 2-2 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Coach",
-        "v": "Coach",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.503,
-        "official": false,
-        "note": "-2.32 MISS on a back-to-back · -2.22 ARIZ on a back-to-back · me vs ARIZ ats 2-2 · his score MISS 75 – 72 ARIZ vs the line -5 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.496,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with MISS ats 2-0 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.478,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 2-2 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.469,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 3-1 · picked team playing its 3rd game in 4 nights · me with MISS ats 2-0 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.459,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 4-2 · picked team playing its 3rd game in 4 nights · me with MISS ats 2-0 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       }
-      ]
-     },
      {
       "sp": "ncaab",
       "game": "AKR@APP",
       "gl": "#67 AKR@#183 APP",
-      "pick": "APP +6.5",
+      "pick": "APP +5.5",
       "price": -112,
-      "p": 0.705,
+      "p": 0.74,
       "q": null,
       "start": "2026-11-25T20:00Z",
       "hit": null,
@@ -2728,701 +3345,102 @@
         "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs CLEM ats 4-1 · home underdog · avg CLEM 78.4-72 CSU 77.4-75.6 · rec CLEM 4-3 CSU 4-3 · last5 CLEM 2-3 CSU 1-3"
        }
       ]
-     }
-    ]
-   },
-   {
-    "who": "The Judge",
-    "v": "Judge",
-    "skill": true,
-    "px": false,
-    "price": "+242",
-    "p": 0.374,
-    "legs": [
+     },
      {
-      "sp": "nba",
-      "game": "SAC@GS",
-      "gl": "#28 SAC@#20 GS",
-      "pick": "GS ML",
-      "price": -265,
-      "p": 0.783,
+      "sp": "ncaab",
+      "game": "WASH@VCU",
+      "gl": "#180 WASH@#101 VCU",
+      "pick": "WASH +4",
+      "price": -110,
+      "p": 0.621,
       "q": null,
       "start": "2026-11-26T03:00Z",
       "hit": null,
       "push": false,
       "by": [
-       "The Judge"
+       "The Coach"
       ],
       "voices": [
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.67,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 13-2 · division game · me with GS ml 7-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.657,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 13-2 · division game · me with GS ml 6-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.643,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 14-2 · division game · me with GS ml 7-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.643,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
        {
         "who": "The Closer",
         "v": "H_L3e1",
         "with": true,
-        "pick": "GS ML",
-        "p": 0.632,
+        "pick": "WASH +4",
+        "p": 0.561,
         "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.583,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 9-2 · division game · me with GS ml 4-2 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.577,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me with GS ml 0-2 · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.574,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 2-0 · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       }
-      ]
-     },
-     {
-      "sp": "nfl",
-      "game": "GB@LAR",
-      "gl": "#12 GB@#7 LAR",
-      "pick": "LAR ML",
-      "price": -140,
-      "p": 0.686,
-      "q": null,
-      "start": "2026-11-26T01:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Judge"
-      ],
-      "voices": [
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.626,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.546,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 5-1 · conference game (not division) · me vs GB ml 1-1 · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.522,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 4-1 · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.515,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.512,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 5-1 · conference game (not division) · me vs GB ml 1-2 · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.495,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       }
-      ]
-     },
-     {
-      "sp": "nhl",
-      "game": "VAN@DET",
-      "gl": "#32 VAN@#21 DET",
-      "pick": "DET ML",
-      "price": -224,
-      "p": 0.697,
-      "q": null,
-      "start": "2026-11-26T00:30Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Judge"
-      ],
-      "voices": [
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "DET ML",
-        "p": 0.641,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 0-2 · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "DET ML",
-        "p": 0.625,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-       },
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "DET ML",
-        "p": 0.623,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "DET ML",
-        "p": 0.616,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 2-1 · picked team's main goalie is bottom 20% · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "DET ML",
-        "p": 0.615,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 18-3 · picked team's main goalie is bottom 20% · me with DET ml 3-3 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-       },
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": true,
-        "pick": "DET ML",
-        "p": 0.573,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 10-3 · picked team's main goalie is bottom 20% · me with DET ml 1-1 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "DET ML",
-        "p": 0.562,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 15-3 · picked team's main goalie is bottom 20% · me with DET ml 3-2 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "DET ML",
-        "p": 0.538,
-        "official": false,
-        "note": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me vs VAN ml 17-3 · picked team's main goalie is bottom 20% · me with DET ml 3-5 · avg VAN 2.8-4.4 DET 2.6-3.1 · rec VAN 6-19 DET 8-12 · last5 VAN 2-3 DET 1-4"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "who": "Covers",
-    "v": "Covers",
-    "skill": true,
-    "px": false,
-    "price": "+247",
-    "p": 0.341,
-    "legs": [
-     {
-      "sp": "ncaab",
-      "game": "JKST@OKST",
-      "gl": "#595 JKST@#15 OKST",
-      "pick": "JKST +35.5",
-      "price": -110,
-      "p": 0.595,
-      "q": null,
-      "start": "2026-11-25T20:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "Covers"
-      ],
-      "voices": [
-       {
-        "who": "The Coach",
-        "v": "Coach",
-        "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.661,
-        "official": false,
-        "note": "his score JKST 72 – 83 OKST vs the line -35.5 · me with JKST ats 1-1 · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · picked team playing its 3rd game in 4 nights · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        },
        {
         "who": "The Scorekeeper",
         "v": "Most common",
         "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.559,
+        "pick": "WASH +4",
+        "p": 0.555,
         "official": false,
-        "note": "his final JKST 68 – 92 OKST · 73 possessions · me with JKST ats 1-1 · JKST: 8.2 threes, 16.1 twos, 13.1 FT · OKST: 9.7 threes, 21.1 twos, 19.0 FT · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.559,
-        "official": false,
-        "note": "big spread (10+) · picked team on its 3rd straight road game · opponent has the clear talent edge (Scout) · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.552,
-        "official": false,
-        "note": "big spread (10+) · picked team on its 3rd straight road game · opponent has the clear talent edge (Scout) · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
+        "note": "his final WASH 76 – 75 VCU · 68 possessions · me with WASH ats 2-0 · WASH: 8.8 threes, 17.6 twos, 14.8 FT · VCU: 8.3 threes, 16.4 twos, 17.7 FT · me vs VCU ats 2-1 · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        },
        {
         "who": "The Commissioner",
         "v": "Power",
         "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.543,
+        "pick": "WASH +4.5",
+        "p": 0.548,
         "official": false,
-        "note": "big spread (10+) · picked team on its 3rd straight road game · me vs OKST ats 1-1 · opponent has the clear talent edge (Scout) · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs VCU ats 2-1 · picked team playing its 3rd game in 4 nights · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        },
        {
         "who": "The Banker",
         "v": "Banker",
         "with": true,
-        "pick": "JKST +35.5",
+        "pick": "WASH +4.5",
         "p": 0.518,
         "official": false,
-        "note": "big spread (10+) · picked team on its 3rd straight road game · me with JKST ats 1-1 · opponent has the clear talent edge (Scout) · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
-       },
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.514,
-        "official": false,
-        "note": "big spread (10+) · picked team on its 3rd straight road game · opponent has the clear talent edge (Scout) · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.469,
-        "official": false,
-        "note": "big spread (10+) · picked team on its 3rd straight road game · me vs OKST ats 1-2 · opponent has the clear talent edge (Scout) · me with JKST ats 1-1 · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.459,
-        "official": false,
-        "note": "big spread (10+) · picked team on its 3rd straight road game · me vs OKST ats 1-2 · opponent has the clear talent edge (Scout) · me with JKST ats 1-1 · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
-       },
-       {
-        "who": "The Oracle",
-        "v": "Pred",
-        "with": true,
-        "pick": "JKST +35.5",
-        "p": 0.454,
-        "official": false,
-        "note": "outside consensus OKST by 31.4 vs the line -35.5 · ESPN FPI/BPI OKST 99% · Kalshi OKST 99% · DRatings OKST 99% · OddsShark computer JKST 63.5–94.44 OKST · 12 rating systems (Prediction Tracker): OKST by 31.2 · 11 rating systems with records vote OKST · avg JKST 66.2-86.5 OKST 92.2-74.5"
-       },
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": false,
-        "pick": "OKST -35.5",
-        "p": 0.435,
-        "official": false,
-        "note": "big spread (10+) · picked team has the clear talent edge (Scout) · picked team owns a top-vs-bottom unit mismatch · avg JKST 66.2-86.5 OKST 92.2-74.5 · rec JKST 2-4 OKST 4-2 · last5 JKST 2-2 OKST 2-2"
-       }
-      ]
-     },
-     {
-      "sp": "ncaab",
-      "game": "CONN@DUKE",
-      "gl": "#91 CONN@#129 DUKE",
-      "pick": "CONN ML",
-      "price": -122,
-      "p": 0.572,
-      "q": null,
-      "start": "2026-11-26T00:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "Covers"
-      ],
-      "voices": [
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "CONN ML",
-        "p": 0.505,
-        "official": false,
-        "note": "road favorite · me with CONN ml 3-0 · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs VCU ats 3-1 · picked team playing its 3rd game in 4 nights · me with WASH ats 2-0 · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        },
        {
         "who": "Covers",
         "v": "Covers",
         "with": true,
-        "pick": "CONN ML",
-        "p": 0.495,
+        "pick": "WASH +4",
+        "p": 0.496,
         "official": false,
-        "note": "road favorite · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · picked team playing its 3rd game in 4 nights · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        },
        {
         "who": "The Grinder",
         "v": "H_L2e1",
         "with": true,
-        "pick": "CONN ML",
+        "pick": "WASH +4",
         "p": 0.485,
         "official": false,
-        "note": "road favorite · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with WASH ats 2-0 · picked team playing its 3rd game in 4 nights · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        },
        {
-        "who": "The Commissioner",
-        "v": "Power",
+        "who": "The Coach",
+        "v": "Coach",
         "with": true,
-        "pick": "CONN ML",
-        "p": 0.476,
+        "pick": "WASH +4",
+        "p": 0.477,
         "official": false,
-        "note": "road favorite · me with CONN ml 2-0 · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "CONN ML",
-        "p": 0.476,
-        "official": false,
-        "note": "road favorite · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": false,
-        "pick": "DUKE ML",
-        "p": 0.543,
-        "official": false,
-        "note": "home underdog · me with DUKE ml 5-2 · avg CONN 83.4-63.4 DUKE 86-66.8 · rec CONN 4-1 DUKE 4-2"
-       }
-      ]
-     }
-    ]
-   },
-   {
-    "who": "The Commissioner",
-    "v": "Power",
-    "skill": true,
-    "px": false,
-    "price": "+286",
-    "p": 0.337,
-    "legs": [
-     {
-      "sp": "nba",
-      "game": "SAC@GS",
-      "gl": "#28 SAC@#20 GS",
-      "pick": "GS ML",
-      "price": -265,
-      "p": 0.781,
-      "q": null,
-      "start": "2026-11-26T03:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Commissioner"
-      ],
-      "voices": [
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.67,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 13-2 · division game · me with GS ml 7-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
+        "note": "-2.28 WASH on a back-to-back · -2.26 VCU on a back-to-back · me with WASH ats 2-0 · his score WASH 74 – 73 VCU vs the line -4 · me vs VCU ats 1-1 · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        },
        {
         "who": "The Judge",
         "v": "Judge",
         "with": true,
-        "pick": "GS ML",
-        "p": 0.657,
+        "pick": "WASH +4",
+        "p": 0.469,
         "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 13-2 · division game · me with GS ml 6-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs VCU ats 1-1 · picked team playing its 3rd game in 4 nights · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        },
        {
         "who": "The Simulator",
         "v": "Sim",
         "with": true,
-        "pick": "GS ML",
-        "p": 0.643,
+        "pick": "WASH +4",
+        "p": 0.459,
         "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 14-2 · division game · me with GS ml 7-1 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.643,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.632,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.583,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 9-2 · division game · me with GS ml 4-2 · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.577,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me with GS ml 0-2 · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "GS ML",
-        "p": 0.574,
-        "official": false,
-        "note": "picked team has the clear talent edge (Scout) · picked team leads the head-to-head series · me vs SAC ml 2-0 · division game · avg SAC 106.8-119.4 GS 111.2-112.1 · rec SAC 2-15 GS 9-8 · last5 SAC 1-4 GS 2-3"
-       }
-      ]
-     },
-     {
-      "sp": "nfl",
-      "game": "GB@LAR",
-      "gl": "#12 GB@#7 LAR",
-      "pick": "LAR ML",
-      "price": -140,
-      "p": 0.685,
-      "q": null,
-      "start": "2026-11-26T01:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Commissioner"
-      ],
-      "voices": [
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.626,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.546,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 5-1 · conference game (not division) · me vs GB ml 1-1 · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.522,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 4-1 · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.515,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.512,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · me with LAR ml 5-1 · conference game (not division) · me vs GB ml 1-2 · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "LAR ML",
-        "p": 0.495,
-        "official": false,
-        "note": "opponent owns a top-vs-bottom unit mismatch · picked team trails the head-to-head series · conference game (not division) · avg GB 22.6-22.1 LAR 24.8-18.7 · rec GB 6-4 LAR 6-4 · last5 GB 2-1 LAR 3-0"
-       }
-      ]
-     },
-     {
-      "sp": "nba",
-      "game": "CHI@CHA",
-      "gl": "#25 CHI@#22 CHA",
-      "pick": "CHA ML",
-      "price": -158,
-      "p": 0.629,
-      "q": null,
-      "start": "2026-11-26T00:00Z",
-      "hit": null,
-      "push": false,
-      "by": [
-       "The Commissioner"
-      ],
-      "voices": [
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "CHA ML",
-        "p": 0.556,
-        "official": false,
-        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team trails the head-to-head series · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "CHA ML",
-        "p": 0.536,
-        "official": false,
-        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 10-3 · picked team trails the head-to-head series · me with CHA ml 3-1 · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "CHA ML",
-        "p": 0.522,
-        "official": false,
-        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 10-3 · picked team trails the head-to-head series · me with CHA ml 2-2 · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "CHA ML",
-        "p": 0.515,
-        "official": false,
-        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me with CHA ml 2-0 · picked team trails the head-to-head series · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "CHA ML",
-        "p": 0.494,
-        "official": false,
-        "note": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 3-1 · picked team trails the head-to-head series · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": false,
-        "pick": "CHI ML",
-        "p": 0.193,
-        "official": false,
-        "note": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ml 8-1 · conference game (not division) · me with CHI ml 0-2 · avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4"
+        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with WASH ats 2-0 · picked team playing its 3rd game in 4 nights · me vs VCU ats 1-1 · avg WASH 81-69 VCU 81.7-73.3 · rec WASH 5-1 VCU 4-2 · last5 WASH 2-1 VCU 2-2"
        }
       ]
      }
@@ -3433,7 +3451,7 @@
     "v": "H_L2e1",
     "skill": true,
     "px": false,
-    "price": "+248",
+    "price": "+257",
     "p": 0.312,
     "legs": [
      {
@@ -3503,8 +3521,8 @@
       "game": "WASH@VCU",
       "gl": "#180 WASH@#101 VCU",
       "pick": "VCU ML",
-      "price": -200,
-      "p": 0.677,
+      "price": -185,
+      "p": 0.675,
       "q": null,
       "start": "2026-11-26T03:00Z",
       "hit": null,
@@ -3679,331 +3697,255 @@
     ]
    },
    {
-    "who": "The Closer",
-    "v": "H_L3e1",
-    "skill": true,
-    "px": false,
-    "price": "+600",
-    "p": 0.302,
+    "who": "The Scorekeeper",
+    "v": "Most common",
+    "skill": false,
+    "px": true,
+    "price": "-1227",
+    "p": 0.854,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "CONN@DUKE",
+      "gl": "#91 CONN@#129 DUKE",
+      "pick": "Joaquim Boumtje Boumtje 10+ REB",
+      "price": -3233,
+      "p": 0.936,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "UPST@CIT",
+      "gl": "#264 UPST@#259 CIT",
+      "pick": "Amont'e Allen-Johnson 7+ AST",
+      "price": -2040,
+      "p": 0.912,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Scorekeeper"
+      ],
+      "voices": []
+     }
+    ]
+   },
+   {
+    "who": "The Simulator",
+    "v": "Sim",
+    "skill": false,
+    "px": true,
+    "price": "-1205",
+    "p": 0.846,
     "legs": [
      {
       "sp": "ncaab",
       "game": "UALB@SYR",
       "gl": "#575 UALB@#50 SYR",
-      "pick": "UALB +26",
-      "price": -110,
-      "p": 0.673,
+      "pick": "Ollie Engen 7+ AST",
+      "price": -2624,
+      "p": 0.922,
       "q": null,
       "start": "2026-11-25T23:00Z",
       "hit": null,
       "push": false,
       "by": [
-       "The Closer"
+       "The Simulator"
       ],
-      "voices": [
-       {
-        "who": "The Coach",
-        "v": "Coach",
-        "with": true,
-        "pick": "UALB +26",
-        "p": 0.655,
-        "official": false,
-        "note": "his score UALB 72 – 78 SYR vs the line -26 · me with UALB ats 1-1 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
-       },
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "UALB +26",
-        "p": 0.601,
-        "official": false,
-        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
-       },
-       {
-        "who": "The Scorekeeper",
-        "v": "Most common",
-        "with": true,
-        "pick": "UALB +26",
-        "p": 0.56,
-        "official": false,
-        "note": "his final UALB 70 – 80 SYR · 69 possessions · me with UALB ats 3-0 · UALB: 6.3 threes, 19.9 twos, 12.7 FT · SYR: 7.2 threes, 20.0 twos, 16.5 FT · me vs SYR ats 1-2 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "UALB +26",
-        "p": 0.553,
-        "official": false,
-        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · me with UALB ats 3-0 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "UALB +26",
-        "p": 0.553,
-        "official": false,
-        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "UALB +26",
-        "p": 0.518,
-        "official": false,
-        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "UALB +26",
-        "p": 0.497,
-        "official": false,
-        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · me with UALB ats 3-1 · me vs SYR ats 1-2 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "UALB +26",
-        "p": 0.469,
-        "official": false,
-        "note": "big spread (10+) · picked team over-performing its scoring (Pythagorean) · me with UALB ats 3-1 · me vs SYR ats 1-2 · avg UALB 70.6-72.8 SYR 82.2-72 · rec UALB 4-4 SYR 4-2 · last5 UALB 2-3 SYR 2-2"
-       }
-      ]
+      "voices": []
      },
      {
       "sp": "ncaab",
-      "game": "KENN@COFC",
-      "gl": "#158 KENN@#134 COFC",
-      "pick": "KENN +1",
-      "price": -105,
-      "p": 0.673,
+      "game": "CONN@DUKE",
+      "gl": "#91 CONN@#129 DUKE",
+      "pick": "Joaquim Boumtje Boumtje 10+ REB",
+      "price": -2312,
+      "p": 0.917,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Simulator"
+      ],
+      "voices": []
+     }
+    ]
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "skill": false,
+    "px": true,
+    "price": "-1048",
+    "p": 0.836,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "UALB@SYR",
+      "gl": "#575 UALB@#50 SYR",
+      "pick": "Ollie Engen 7+ AST",
+      "price": -2624,
+      "p": 0.922,
       "q": null,
       "start": "2026-11-25T23:00Z",
       "hit": null,
       "push": false,
       "by": [
-       "The Closer"
+       "The Historian"
       ],
-      "voices": [
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "KENN +1.5",
-        "p": 0.618,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
-       },
-       {
-        "who": "The Scorekeeper",
-        "v": "Most common",
-        "with": true,
-        "pick": "KENN +1.5",
-        "p": 0.509,
-        "official": false,
-        "note": "his final KENN 81 – 79 COFC · 76 possessions · me with KENN ats 2-1 · KENN: 8.0 threes, 20.4 twos, 16.4 FT · COFC: 6.4 threes, 19.2 twos, 21.3 FT · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "KENN +1.5",
-        "p": 0.486,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "KENN +1.5",
-        "p": 0.469,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with KENN ats 2-2 · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "KENN +1.5",
-        "p": 0.459,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with KENN ats 2-2 · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": false,
-        "pick": "COFC -1.5",
-        "p": 0.453,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": false,
-        "pick": "COFC -1.5",
-        "p": 0.402,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · avg KENN 89.3-69.6 COFC 90.5-72.3 · rec KENN 5-2 COFC 4-2 · last5 KENN 3-2 COFC 2-1"
-       }
-      ]
+      "voices": []
      },
      {
       "sp": "ncaab",
-      "game": "MISS@ARIZ",
-      "gl": "#65 MISS@#39 ARIZ",
-      "pick": "MISS +6",
-      "price": -114,
-      "p": 0.667,
-      "q": 0.667,
-      "start": "2026-11-25T19:30Z",
+      "game": "CSUB@PEPP",
+      "gl": "#106 CSUB@#66 PEPP",
+      "pick": "Alex Constanza 10+ REB",
+      "price": -1811,
+      "p": 0.907,
+      "q": null,
+      "start": "2026-11-26T01:00Z",
       "hit": null,
       "push": false,
       "by": [
-       "The Closer"
+       "The Historian"
       ],
-      "voices": [
-       {
-        "who": "The Closer",
-        "v": "H_L3e1",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.56,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Scorekeeper",
-        "v": "Most common",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.558,
-        "official": false,
-        "note": "his final MISS 78 – 73 ARIZ · 71 possessions · me vs ARIZ ats 4-2 · MISS: 8.3 threes, 19.9 twos, 13.4 FT · ARIZ: 7.2 threes, 17.4 twos, 16.1 FT · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Grinder",
-        "v": "H_L2e1",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.557,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 1-1 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Scout",
-        "v": "Scout",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.525,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Banker",
-        "v": "Banker",
-        "with": true,
-        "pick": "MISS +6",
-        "p": 0.518,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 2-2 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Coach",
-        "v": "Coach",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.503,
-        "official": false,
-        "note": "-2.32 MISS on a back-to-back · -2.22 ARIZ on a back-to-back · me vs ARIZ ats 2-2 · his score MISS 75 – 72 ARIZ vs the line -5 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "Covers",
-        "v": "Covers",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.496,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me with MISS ats 2-0 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Commissioner",
-        "v": "Power",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.478,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 2-2 · picked team playing its 3rd game in 4 nights · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Judge",
-        "v": "Judge",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.469,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 3-1 · picked team playing its 3rd game in 4 nights · me with MISS ats 2-0 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       },
-       {
-        "who": "The Simulator",
-        "v": "Sim",
-        "with": true,
-        "pick": "MISS +5",
-        "p": 0.459,
-        "official": false,
-        "note": "picked team on 2nd night of back-to-back · opponent on back-to-back · me vs ARIZ ats 4-2 · picked team playing its 3rd game in 4 nights · me with MISS ats 2-0 · avg MISS 85.5-55.8 ARIZ 87.7-74.9 · rec MISS 6-0 ARIZ 6-1 · last5 MISS 4-0 ARIZ 5-0"
-       }
-      ]
+      "voices": []
+     }
+    ]
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "skill": false,
+    "px": true,
+    "price": "-976",
+    "p": 0.831,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "SC@USC",
+      "gl": "#162 SC@#13 USC",
+      "pick": "Shane Blakeney 7+ REB",
+      "price": -2040,
+      "p": 0.912,
+      "q": null,
+      "start": "2026-11-25T21:30Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "UPST@CIT",
+      "gl": "#264 UPST@#259 CIT",
+      "pick": "Amont'e Allen-Johnson 7+ AST",
+      "price": -1960,
+      "p": 0.91,
+      "q": null,
+      "start": "2026-11-26T00:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Coach"
+      ],
+      "voices": []
+     }
+    ]
+   },
+   {
+    "who": "The Judge",
+    "v": "Judge",
+    "skill": false,
+    "px": true,
+    "price": "-898",
+    "p": 0.824,
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "MEM@PSU",
+      "gl": "#115 MEM@#150 PSU",
+      "pick": "Rihards Vavers 20+ PTS",
+      "price": -1919,
+      "p": 0.909,
+      "q": null,
+      "start": "2026-11-25T22:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": []
+     },
+     {
+      "sp": "ncaab",
+      "game": "CSUB@PEPP",
+      "gl": "#106 CSUB@#66 PEPP",
+      "pick": "Alex Constanza 10+ REB",
+      "price": -1776,
+      "p": 0.906,
+      "q": null,
+      "start": "2026-11-26T01:00Z",
+      "hit": null,
+      "push": false,
+      "by": [
+       "The Judge"
+      ],
+      "voices": []
      }
     ]
    }
   ],
   "props": [
    {
-    "who": "The Coach",
-    "v": "Coach",
-    "sp": "nfl",
-    "pick": "Tyrod Taylor 25+ pass att (GB · GB@LAR · 7:00 PM CT)",
-    "p": 0.91,
-    "star": false
-   },
-   {
     "who": "The Scorekeeper",
     "v": "Most common",
-    "sp": "nfl",
-    "pick": "Kyren Williams 100+ rush yds (LAR · GB@LAR · 7:00 PM CT)",
-    "p": 0.895,
-    "star": false
-   },
-   {
-    "who": "The Historian",
-    "v": "Trends",
-    "sp": "nfl",
-    "pick": "Evan Williams 4+ tackles (GB · GB@LAR · 7:00 PM CT)",
-    "p": 0.882,
+    "sp": "ncaab",
+    "pick": "Joaquim Boumtje Boumtje 10+ REB (DUKE · CONN@DUKE · 6:00 PM CT)",
+    "p": 0.936,
     "star": false
    },
    {
     "who": "The Simulator",
     "v": "Sim",
-    "sp": "nfl",
-    "pick": "Javon Bullard 8+ tackles (GB · GB@LAR · 7:00 PM CT)",
-    "p": 0.879,
+    "sp": "ncaab",
+    "pick": "Ollie Engen 7+ AST (UALB · UALB@SYR · 5:00 PM CT)",
+    "p": 0.922,
+    "star": false
+   },
+   {
+    "who": "The Coach",
+    "v": "Coach",
+    "sp": "ncaab",
+    "pick": "Shane Blakeney 7+ REB (SC · SC@USC · 3:30 PM CT)",
+    "p": 0.912,
     "star": false
    },
    {
     "who": "The Judge",
     "v": "Judge",
-    "sp": "nfl",
-    "pick": "Matthew Stafford 15+ completions (LAR · GB@LAR · 7:00 PM CT)",
-    "p": 0.872,
+    "sp": "ncaab",
+    "pick": "Rihards Vavers 20+ PTS (MEM · MEM@PSU · 4:00 PM CT)",
+    "p": 0.91,
+    "star": false
+   },
+   {
+    "who": "The Historian",
+    "v": "Trends",
+    "sp": "ncaab",
+    "pick": "Alex Constanza 10+ REB (PEPP · CSUB@PEPP · 7:00 PM CT)",
+    "p": 0.907,
     "star": false
    }
   ]
@@ -108423,6 +108365,6 @@
    }
   ]
  },
- "betaSig": "[[\"ncaab|joaquimboumtjeboumtje|reb|10|under5\",\"ncaab|alexconstanza|reb|10|under5\",\"ncaab|amonteallenjohnson|ast|7|under5\",\"ncaab|michaelbelle|pr|20|under5\",\"ncaab|masonfalslev|ast|7|under5\",\"ncaab|milesbyrd|stl|1|over5\",\"ncaab|turkbrowniii|ast|7|under5\",\"ncaab|xavierabreu|pts|20|under5\",\"ncaab|johnblackwell|fg3|1|over5\",\"ncaab|isaacondekane|pra|20|under5\",\"ncaab|aaronmcbride|pr|20|under5\",\"ncaab|aidenargabright|pr|20|under5\",\"ncaab|rihardsvavers|reb|7|under5\",\"ncaab|dallinhall|fg3|1|over5\",\"ncaab|jonnyjordanjr|pra|20|under5\",\"ncaab|jaylencolon|fg3|1|over5\",\"ncaab|shaneblakeney|reb|7|under5\",\"ncaab|kjaybradley|ast|7|under5\",\"ncaab|chrishowell|pra|20|under5\",\"ncaab|braedencarrington|fg3|1|over5\",\"ncaab|landonclark|pra|20|under5\",\"ncaab|isaacbruns|reb|7|under5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jacobcofie|pts|15|under5\",\"ncaab|zionsensley|fg3|1|over5\",\"ncaab|nickjones|ra|10|under5\",\"ncaab|tylikweeks|reb|7|under5\",\"ncaab|rihardsvavers|fg3|1|over5\",\"ncaab|marsaimason|pts|20|under5\",\"ncaab|marcusbanks|ast|7|under5\",\"ncaab|jaelongermany|ast|5|under5\",\"ncaab|carterevanson|pra|20|under5\",\"ncaab|austinherro|pra|20|under5\",\"ncaab|mjwilliams|fg3|1|over5\",\"ncaab|michaelbelle|ra|10|under5\",\"ncaab|isaacondekane|reb|10|under5\",\"ncaab|landonclark|ra|10|under5\",\"ncaab|aidenargabright|pa|20|under5\",\"ncaab|jacobcofie|reb|10|under5\",\"ncaab|patrickwessler|pts|10|over5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|andrewball|pr|20|under5\",\"ncaab|soloball|pa|20|under5\",\"ncaab|braedencarrington|pra|25|under5\",\"ncaab|michaelbelle|pra|20|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|aaronmcbride|pra|20|under5\",\"ncaab|joaquimboumtjeboumtje|pts|20|under5\",\"ncaab|malikabdullahi|pts|15|under5\",\"ncaab|adamclark|stl|1|over5\",\"ncaab|colecerta|fg3|1|over5\",\"ncaab|josiahdotzler|pts|20|under5\",\"ncaab|willshortt|pr|20|under5\",\"ncaab|ariusalijosius|pra|20|under5\",\"ncaab|aydencarter|pra|25|under5\",\"ncaab|rihardsvavers|pa|20|under5\",\"ncaab|dramanecamara|pa|12|under5\",\"ncaab|tylerjones|ra|10|under5\",\"ncaab|brucebranchiii|pts|20|under5\",\"ncaab|jeremiahdavis|pra|25|under5\",\"ncaab|lazardjokovic|ra|10|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|stevieelam|ra|10|under5\",\"ncaab|nyklewis|pr|20|under5\",\"ncaab|carterbjerke|ra|8|under5\",\"ncaab|chasedegraffenried|pr|15|under5\",\"ncaab|grantstubblefield|pra|25|under5\",\"ncaab|boldengdit|pa|20|under5\",\"ncaab|christiangibson|fg3|1|over5\",\"ncaab|elijahbrooks|pra|25|under5\",\"ncaab|buddyhammerjr|pr|15|under5\",\"ncaab|justinmenard|pts|20|under5\",\"ncaab|donovandent|stl|1|over5\",\"ncaab|brycecofield|pra|25|under5\",\"ncaab|spencerelliott|pra|15|under5\",\"ncaab|carterevanson|ra|10|under5\",\"ncaab|dramanecamara|pr|15|under5\",\"ncaab|joshreed|pr|20|under5\",\"ncaab|aaronmcbride|reb|7|under5\",\"ncaab|carterbjerke|fg3|1|over5\",\"ncaab|tylikweeks|pts|10|over5\",\"ncaab|joaquimboumtjeboumtje|pa|20|under5\",\"ncaab|masonblazer|pr|20|under5\",\"ncaab|andysigiscar|pr|20|under5\",\"ncaab|patrickwessler|reb|7|over5\",\"ncaab|jaelongermany|pra|20|under5\",\"ncaab|marsaimason|pa|20|under5\",\"ncaab|eianelmer|pts|20|under5\",\"ncaab|treybeamer|ast|5|under5\",\"ncaab|tayshawncomer|pra|20|under5\",\"ncaab|jaylencolon|reb|7|under5\",\"ncaab|jalencox|reb|7|under5\",\"ncaab|marcusbanks|pts|20|under5\",\"ncaab|jordanbrown|pra|15|under5\",\"ncaab|rihardsvavers|pra|25|under5\",\"ncaab|malikabdullahi|ra|10|under5\",\"ncaab|makhaivalentine|pa|20|under5\",\"ncaab|joahchappelle|pa|12|under5\",\"ncaab|joshpascarelli|pr|20|under5\",\"ncaab|anthonybreland|pa|20|under5\",\"ncaab|elijahbrooks|ra|10|under5\",\"ncaab|williamkermoury|ra|10|under5\",\"ncaab|noahotshudi|pra|15|over5\",\"ncaab|solomoncallaghan|pra|25|under5\",\"ncaab|christianking|fg3|1|over5\",\"ncaab|uzziahbuntyn|pra|25|under5\",\"ncaab|juanfernandez|ra|10|under5\",\"ncaab|shamieregreen|pa|20|under5\",\"ncaab|josiahdavis|pa|15|over5\",\"ncaab|malekarchie|pra|25|under5\",\"ncaab|abdoulayefall|pr|20|under5\",\"ncaab|connoramundsen|pts|15|under5\",\"ncaab|dallinhall|pts|25|under5\",\"ncaab|jacobcofie|pra|25|under5\",\"ncaab|cadehornecker|pra|15|under5\",\"ncaab|grantstubblefield|pa|20|under5\",\"ncaab|xabilopez|pr|15|under5\",\"ncaab|domclay|pra|20|under5\",\"ncaab|davidbolden|fg3|1|over5\",\"ncaab|abdibashirjr|pra|25|under5\",\"ncaab|skyyclark|fg3|1|over5\",\"ncaab|calebsmith|reb|7|under5\",\"ncaab|jeremiahdavis|pa|20|under5\",\"ncaab|grantstubblefield|pr|20|under5\",\"ncaab|andrewball|pra|20|under5\",\"ncaab|silasdemaryjr|ast|3|over5\",\"ncaab|barakaokojie|pts|10|over5\",\"ncaab|davidbolden|pra|25|under5\",\"ncaab|elijahbrooks|pa|20|under5\",\"ncaab|nyklewis|reb|7|under5\",\"ncaab|jaelongermany|pr|15|under5\",\"ncaab|tariquefoster|pra|15|under5\",\"ncaab|xavierspencer|pra|25|under5\",\"ncaab|nyklewis|ra|10|under5\",\"ncaab|milesbyrd|pa|20|under5\",\"ncaab|shamieregreen|pra|25|under5\",\"ncaab|soloball|pr|20|under5\",\"ncaab|donovandent|pra|15|over5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|yourifritz|pra|20|under5\",\"ncaab|umiergraham|pts|15|under5\",\"ncaab|tjrobinson|pts|15|under5\",\"ncaab|cavinholden|fg3|1|over5\",\"ncaab|zachkraft|fg3|1|over5\",\"ncaab|jahkigupton|reb|7|under5\",\"ncaab|barakaokojie|pa|15|over5\",\"ncaab|coreycaulker|ra|10|under5\",\"ncaab|noahotshudi|pts|10|over5\",\"ncaab|victoryimgamoukouri|pra|15|under5\"],[\"lost:h7h3m1m8h5m6mhmhh8h8h13h14m1m3h17\"],[[0,[],19],[0,[],16],[0,[],19],[0,[],12],[2,[\"supreme*\",\"value\"],19],[1,[\"strong\"],24],[1,[\"strong\"],19],[0,[],24],[1,[\"supreme*\"],15],[2,[\"supreme*\",\"strong\"],25],[0,[],19],[0,[],16],[1,[\"value\"],16],[0,[],18],[3,[\"supreme\",\"strong\",\"value\"],18],[1,[\"value\"],24],[0,[],14],[1,[\"strong\"],23],[0,[],26],[0,[],18],[2,[\"supreme*\",\"strong\"],19],[0,[],19],[1,[\"supreme\"],20],[0,[],20],[1,[\"supreme*\"],13],[1,[\"supreme\"],21],[0,[],21],[0,[],13],[1,[\"supreme*\"],24],[1,[\"value\"],14],[1,[\"strong\"],16],[2,[\"supreme\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],21],[1,[\"strong\"],19],[0,[],18],[1,[\"strong\"],18],[0,[],12],[0,[],20],[1,[\"value\"],17],[0,[],22],[0,[],24],[1,[\"supreme\"],24],[0,[],17],[0,[],15],[1,[\"strong\"],24],[1,[\"supreme*\"],13],[0,[],17],[1,[\"supreme\"],17],[1,[\"supreme*\"],21],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[2,[\"supreme*\",\"strong\"],15],[2,[\"supreme*\",\"strong\"],21],[2,[\"supreme*\",\"strong\"],17],[1,[\"supreme*\"],19],[1,[\"value\"],25],[2,[\"strong\",\"strong\"],23],[1,[\"strong\"],22],[0,[],21],[1,[\"value\"],16],[2,[\"supreme\",\"strong\"],20],[1,[\"value\"],20],[3,[\"strong\",\"strong\",\"value\"],18],[2,[\"supreme*\",\"strong\"],17],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[1,[\"strong\"],21],[1,[\"supreme*\"],15],[3,[\"supreme\",\"strong\",\"strong\"],18],[1,[\"supreme\"],16],[1,[\"strong\"],24],[2,[\"supreme\",\"value\"],21],[1,[\"strong\"],21],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme*\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],11],[0,[],17],[3,[\"strong\",\"value\",\"value\"],16],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],23],[1,[\"strong\"],17],[0,[],18],[1,[\"value\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"strong\",\"value\"],20],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],21],[0,[],20],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme\",\"strong\"],19],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],19],[2,[\"supreme*\",\"strong\"],22],[0,[],16],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"value\"],11],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],19],[1,[\"supreme*\"],13],[1,[\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],18],[1,[\"strong\"],23],[2,[\"strong\",\"strong\"],20],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],11],[3,[\"supreme\",\"strong\",\"strong\"],15],[1,[\"supreme*\"],21],[2,[\"supreme\",\"strong\"],21],[0,[],15],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],24],[2,[\"strong\",\"strong\"],21],[0,[],12],[1,[\"strong\"],22],[0,[],20],[2,[\"strong\",\"strong\"],22],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[0,[],13],[2,[\"strong\",\"strong\"],22],[1,[\"supreme\"],22],[2,[\"strong\",\"value\"],21],[1,[\"value\"],19],[1,[\"supreme\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],15],[0,[],16],[1,[\"strong\"],18],[1,[\"value\"],10],[2,[\"value\",\"value\"],13],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],16],[2,[\"strong\",\"value\"],13],[0,[],16],[1,[\"value\"],18],[2,[\"strong\",\"strong\"],13]],[0,10,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[1,[null],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[3,[null,null,null],[\"1-10-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"ncaab|joaquimboumtjeboumtje|reb|10|under5\",\"ncaab|alexconstanza|reb|10|under5\",\"ncaab|amonteallenjohnson|ast|7|under5\",\"ncaab|michaelbelle|pr|20|under5\",\"ncaab|masonfalslev|ast|7|under5\",\"ncaab|milesbyrd|stl|1|over5\",\"ncaab|turkbrowniii|ast|7|under5\",\"ncaab|xavierabreu|pts|20|under5\",\"ncaab|johnblackwell|fg3|1|over5\",\"ncaab|isaacondekane|pra|20|under5\",\"ncaab|aaronmcbride|pr|20|under5\",\"ncaab|aidenargabright|pr|20|under5\",\"ncaab|rihardsvavers|reb|7|under5\",\"ncaab|dallinhall|fg3|1|over5\",\"ncaab|jonnyjordanjr|pra|20|under5\",\"ncaab|jaylencolon|fg3|1|over5\",\"ncaab|shaneblakeney|reb|7|under5\",\"ncaab|kjaybradley|ast|7|under5\",\"ncaab|chrishowell|pra|20|under5\",\"ncaab|braedencarrington|fg3|1|over5\",\"ncaab|landonclark|pra|20|under5\",\"ncaab|isaacbruns|reb|7|under5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jacobcofie|pts|15|under5\",\"ncaab|zionsensley|fg3|1|over5\",\"ncaab|nickjones|ra|10|under5\",\"ncaab|tylikweeks|reb|7|under5\",\"ncaab|rihardsvavers|fg3|1|over5\",\"ncaab|marsaimason|pts|20|under5\",\"ncaab|marcusbanks|ast|7|under5\",\"ncaab|jaelongermany|ast|5|under5\",\"ncaab|carterevanson|pra|20|under5\",\"ncaab|austinherro|pra|20|under5\",\"ncaab|mjwilliams|fg3|1|over5\",\"ncaab|michaelbelle|ra|10|under5\",\"ncaab|isaacondekane|reb|10|under5\",\"ncaab|landonclark|ra|10|under5\",\"ncaab|aidenargabright|pa|20|under5\",\"ncaab|jacobcofie|reb|10|under5\",\"ncaab|patrickwessler|pts|10|over5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|andrewball|pr|20|under5\",\"ncaab|soloball|pa|20|under5\",\"ncaab|braedencarrington|pra|25|under5\",\"ncaab|michaelbelle|pra|20|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|aaronmcbride|pra|20|under5\",\"ncaab|joaquimboumtjeboumtje|pts|20|under5\",\"ncaab|malikabdullahi|pts|15|under5\",\"ncaab|adamclark|stl|1|over5\",\"ncaab|colecerta|fg3|1|over5\",\"ncaab|josiahdotzler|pts|20|under5\",\"ncaab|willshortt|pr|20|under5\",\"ncaab|ariusalijosius|pra|20|under5\",\"ncaab|aydencarter|pra|25|under5\",\"ncaab|rihardsvavers|pa|20|under5\",\"ncaab|dramanecamara|pa|12|under5\",\"ncaab|tylerjones|ra|10|under5\",\"ncaab|brucebranchiii|pts|20|under5\",\"ncaab|jeremiahdavis|pra|25|under5\",\"ncaab|lazardjokovic|ra|10|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|stevieelam|ra|10|under5\",\"ncaab|nyklewis|pr|20|under5\",\"ncaab|carterbjerke|ra|8|under5\",\"ncaab|chasedegraffenried|pr|15|under5\",\"ncaab|grantstubblefield|pra|25|under5\",\"ncaab|boldengdit|pa|20|under5\",\"ncaab|christiangibson|fg3|1|over5\",\"ncaab|elijahbrooks|pra|25|under5\",\"ncaab|buddyhammerjr|pr|15|under5\",\"ncaab|justinmenard|pts|20|under5\",\"ncaab|donovandent|stl|1|over5\",\"ncaab|brycecofield|pra|25|under5\",\"ncaab|spencerelliott|pra|15|under5\",\"ncaab|carterevanson|ra|10|under5\",\"ncaab|dramanecamara|pr|15|under5\",\"ncaab|joshreed|pr|20|under5\",\"ncaab|aaronmcbride|reb|7|under5\",\"ncaab|carterbjerke|fg3|1|over5\",\"ncaab|tylikweeks|pts|10|over5\",\"ncaab|joaquimboumtjeboumtje|pa|20|under5\",\"ncaab|masonblazer|pr|20|under5\",\"ncaab|andysigiscar|pr|20|under5\",\"ncaab|patrickwessler|reb|7|over5\",\"ncaab|jaelongermany|pra|20|under5\",\"ncaab|marsaimason|pa|20|under5\",\"ncaab|eianelmer|pts|20|under5\",\"ncaab|treybeamer|ast|5|under5\",\"ncaab|tayshawncomer|pra|20|under5\",\"ncaab|jaylencolon|reb|7|under5\",\"ncaab|jalencox|reb|7|under5\",\"ncaab|marcusbanks|pts|20|under5\",\"ncaab|jordanbrown|pra|15|under5\",\"ncaab|rihardsvavers|pra|25|under5\",\"ncaab|malikabdullahi|ra|10|under5\",\"ncaab|makhaivalentine|pa|20|under5\",\"ncaab|joahchappelle|pa|12|under5\",\"ncaab|joshpascarelli|pr|20|under5\",\"ncaab|anthonybreland|pa|20|under5\",\"ncaab|elijahbrooks|ra|10|under5\",\"ncaab|williamkermoury|ra|10|under5\",\"ncaab|noahotshudi|pra|15|over5\",\"ncaab|solomoncallaghan|pra|25|under5\",\"ncaab|christianking|fg3|1|over5\",\"ncaab|uzziahbuntyn|pra|25|under5\",\"ncaab|juanfernandez|ra|10|under5\",\"ncaab|shamieregreen|pa|20|under5\",\"ncaab|josiahdavis|pa|15|over5\",\"ncaab|malekarchie|pra|25|under5\",\"ncaab|abdoulayefall|pr|20|under5\",\"ncaab|connoramundsen|pts|15|under5\",\"ncaab|dallinhall|pts|25|under5\",\"ncaab|jacobcofie|pra|25|under5\",\"ncaab|cadehornecker|pra|15|under5\",\"ncaab|grantstubblefield|pa|20|under5\",\"ncaab|xabilopez|pr|15|under5\",\"ncaab|domclay|pra|20|under5\",\"ncaab|davidbolden|fg3|1|over5\",\"ncaab|abdibashirjr|pra|25|under5\",\"ncaab|skyyclark|fg3|1|over5\",\"ncaab|calebsmith|reb|7|under5\",\"ncaab|jeremiahdavis|pa|20|under5\",\"ncaab|grantstubblefield|pr|20|under5\",\"ncaab|andrewball|pra|20|under5\",\"ncaab|silasdemaryjr|ast|3|over5\",\"ncaab|barakaokojie|pts|10|over5\",\"ncaab|davidbolden|pra|25|under5\",\"ncaab|elijahbrooks|pa|20|under5\",\"ncaab|nyklewis|reb|7|under5\",\"ncaab|jaelongermany|pr|15|under5\",\"ncaab|tariquefoster|pra|15|under5\",\"ncaab|xavierspencer|pra|25|under5\",\"ncaab|nyklewis|ra|10|under5\",\"ncaab|milesbyrd|pa|20|under5\",\"ncaab|shamieregreen|pra|25|under5\",\"ncaab|soloball|pr|20|under5\",\"ncaab|donovandent|pra|15|over5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|yourifritz|pra|20|under5\",\"ncaab|umiergraham|pts|15|under5\",\"ncaab|tjrobinson|pts|15|under5\",\"ncaab|cavinholden|fg3|1|over5\",\"ncaab|zachkraft|fg3|1|over5\",\"ncaab|jahkigupton|reb|7|under5\",\"ncaab|barakaokojie|pa|15|over5\",\"ncaab|coreycaulker|ra|10|under5\",\"ncaab|noahotshudi|pts|10|over5\",\"ncaab|victoryimgamoukouri|pra|15|under5\"],[\"lost:h7h3m1m8h5m6mhmhh8h8h13h14m1m3h17\"],[[0,[],19],[0,[],16],[0,[],19],[0,[],12],[2,[\"supreme*\",\"value\"],19],[1,[\"strong\"],24],[1,[\"strong\"],19],[0,[],24],[1,[\"supreme*\"],15],[2,[\"supreme*\",\"strong\"],25],[0,[],19],[0,[],16],[1,[\"value\"],16],[0,[],18],[3,[\"supreme\",\"strong\",\"value\"],18],[1,[\"value\"],24],[0,[],14],[1,[\"strong\"],23],[0,[],26],[0,[],18],[2,[\"supreme*\",\"strong\"],19],[0,[],19],[1,[\"supreme\"],20],[0,[],20],[1,[\"supreme*\"],13],[1,[\"supreme\"],21],[0,[],21],[0,[],13],[1,[\"supreme*\"],24],[1,[\"value\"],14],[1,[\"strong\"],16],[2,[\"supreme\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],21],[1,[\"strong\"],19],[0,[],18],[1,[\"strong\"],18],[0,[],12],[0,[],20],[1,[\"value\"],17],[0,[],22],[0,[],24],[1,[\"supreme\"],24],[0,[],17],[0,[],15],[1,[\"strong\"],24],[1,[\"supreme*\"],13],[0,[],17],[1,[\"supreme\"],17],[1,[\"supreme*\"],21],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[2,[\"supreme*\",\"strong\"],15],[2,[\"supreme*\",\"strong\"],21],[2,[\"supreme*\",\"strong\"],17],[1,[\"supreme*\"],19],[1,[\"value\"],25],[2,[\"strong\",\"strong\"],23],[1,[\"strong\"],22],[0,[],21],[1,[\"value\"],16],[2,[\"supreme\",\"strong\"],20],[1,[\"value\"],20],[3,[\"strong\",\"strong\",\"value\"],18],[2,[\"supreme*\",\"strong\"],17],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[1,[\"strong\"],21],[1,[\"supreme*\"],15],[3,[\"supreme\",\"strong\",\"strong\"],18],[1,[\"supreme\"],16],[1,[\"strong\"],24],[2,[\"supreme\",\"value\"],21],[1,[\"strong\"],21],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme*\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],11],[0,[],17],[3,[\"strong\",\"value\",\"value\"],16],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],23],[1,[\"strong\"],17],[0,[],18],[1,[\"value\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"strong\",\"value\"],20],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],21],[0,[],20],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme\",\"strong\"],19],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],19],[2,[\"supreme*\",\"strong\"],22],[0,[],16],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"value\"],11],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],19],[1,[\"supreme*\"],13],[1,[\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],18],[1,[\"strong\"],23],[2,[\"strong\",\"strong\"],20],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],11],[3,[\"supreme\",\"strong\",\"strong\"],15],[1,[\"supreme*\"],21],[2,[\"supreme\",\"strong\"],21],[0,[],15],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],24],[2,[\"strong\",\"strong\"],21],[0,[],12],[1,[\"strong\"],22],[0,[],20],[2,[\"strong\",\"strong\"],22],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[0,[],13],[2,[\"strong\",\"strong\"],22],[1,[\"supreme\"],22],[2,[\"strong\",\"value\"],21],[1,[\"value\"],19],[1,[\"supreme\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],15],[0,[],16],[1,[\"strong\"],18],[1,[\"value\"],10],[2,[\"value\",\"value\"],13],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],16],[2,[\"strong\",\"value\"],13],[0,[],16],[1,[\"value\"],18],[2,[\"strong\",\"strong\"],13]],[0,15,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[1,[null],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[3,[null,null,null],[\"1-10-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
