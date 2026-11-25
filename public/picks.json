@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795587124622,
+ "generated": 1795587215173,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -16,7 +16,7 @@
   "w": 55,
   "l": 38,
   "pu": 0,
-  "u": 4.16,
+  "u": 4.1589588676479305,
   "first": "2026-10-06",
   "be": 0.5791005010601569,
   "ap": -138
@@ -537,7 +537,12 @@
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": true,
+  "commit": {
+   "alg": "sha256",
+   "hash": "945ab720e5d48f6109f5e19c8a4314e267e4134cd235bc449d93a9a20a5a92f1",
+   "salt": "9d5d1578afbcfbc3b902e86a067ba4e1"
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -68078,8 +68083,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.5,
-      "q": 0.849,
-      "detail": "ORE 58–76 SJU (live) · total 134 so far",
+      "q": 0.748,
+      "detail": "ORE 64–78 SJU (live) · total 142 so far",
       "prog": null,
       "prop": false
      },
@@ -68092,8 +68097,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.5,
-      "q": 0.172,
-      "detail": "ORE 58–76 SJU (live) · margin -18",
+      "q": 0.575,
+      "detail": "ORE 64–78 SJU (live) · margin -14",
       "prog": null,
       "prop": false
      },
@@ -68125,9 +68130,9 @@
       "st": "hit",
       "p": 0.5,
       "q": 1,
-      "detail": "Quinn Ellis 8 so far",
+      "detail": "Quinn Ellis 9 so far",
       "prog": {
-       "v": 8,
+       "v": 9,
        "t": 5,
        "d": "atleast"
       },
@@ -68161,9 +68166,9 @@
       "st": "hit",
       "p": 0.5,
       "q": 1,
-      "detail": "Quinn Ellis 8 so far",
+      "detail": "Quinn Ellis 10 so far",
       "prog": {
-       "v": 8,
+       "v": 10,
        "t": 8,
        "d": "atleast"
       },
@@ -68228,7 +68233,7 @@
     "res": "live",
     "hit": 5,
     "p0": 0.00001,
-    "now": 0.00003
+    "now": 0.0001
    },
    {
     "id": "fl66w07",
@@ -68244,8 +68249,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.614,
-      "q": 0.997,
-      "detail": "ORE 58–76 SJU (live) · margin +18",
+      "q": 0.971,
+      "detail": "ORE 64–78 SJU (live) · margin +14",
       "prog": null,
       "prop": false
      },
@@ -68258,8 +68263,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.574,
-      "q": 0.673,
-      "detail": "ORE 58–76 SJU (live) · total 134 so far",
+      "q": 0.482,
+      "detail": "ORE 64–78 SJU (live) · total 142 so far",
       "prog": null,
       "prop": false
      },
@@ -68328,8 +68333,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.6,
-      "q": 0.338,
-      "detail": "GONZ 23–13 KSU (live) · margin -10",
+      "q": 0.324,
+      "detail": "GONZ 30–19 KSU (live) · margin -11",
       "prog": null,
       "prop": false
      },
@@ -68342,8 +68347,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.583,
-      "q": 0.606,
-      "detail": "GONZ 23–13 KSU (live) · total 36 so far",
+      "q": 0.477,
+      "detail": "GONZ 30–19 KSU (live) · total 49 so far",
       "prog": null,
       "prop": false
      }
@@ -68396,8 +68401,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.598,
-      "q": 0.046,
-      "detail": "ORE 58–76 SJU (live) · margin -18",
+      "q": 0.236,
+      "detail": "ORE 64–78 SJU (live) · margin -14",
       "prog": null,
       "prop": false
      },
@@ -68410,8 +68415,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.574,
-      "q": 0.673,
-      "detail": "ORE 58–76 SJU (live) · total 134 so far",
+      "q": 0.482,
+      "detail": "ORE 64–78 SJU (live) · total 142 so far",
       "prog": null,
       "prop": false
      },
@@ -68452,8 +68457,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.6,
-      "q": 0.338,
-      "detail": "GONZ 23–13 KSU (live) · margin -10",
+      "q": 0.324,
+      "detail": "GONZ 30–19 KSU (live) · margin -11",
       "prog": null,
       "prop": false
      },
@@ -68466,8 +68471,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.583,
-      "q": 0.606,
-      "detail": "GONZ 23–13 KSU (live) · total 36 so far",
+      "q": 0.477,
+      "detail": "GONZ 30–19 KSU (live) · total 49 so far",
       "prog": null,
       "prop": false
      },
@@ -68521,7 +68526,7 @@
       "st": "live",
       "p": 0.857,
       "q": 1,
-      "detail": "ORE 58–76 SJU (live)",
+      "detail": "ORE 64–78 SJU (live)",
       "prog": null,
       "prop": false
      },
@@ -68548,8 +68553,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.099,
-      "q": 0.014,
-      "detail": "GONZ 23–13 KSU (live)",
+      "q": 0.011,
+      "detail": "GONZ 30–19 KSU (live)",
       "prog": null,
       "prop": false
      },
@@ -68618,8 +68623,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.592,
-      "q": 0.616,
-      "detail": "ORE 58–76 SJU (live) · total 134 so far",
+      "q": 0.809,
+      "detail": "ORE 64–78 SJU (live) · total 142 so far",
       "prog": null,
       "prop": false
      },
@@ -68646,8 +68651,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.583,
-      "q": 0.567,
-      "detail": "GONZ 23–13 KSU (live) · total 36 so far",
+      "q": 0.692,
+      "detail": "GONZ 30–19 KSU (live) · total 49 so far",
       "prog": null,
       "prop": false
      }
@@ -68686,8 +68691,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.099,
-      "q": 0.014,
-      "detail": "GONZ 23–13 KSU (live)",
+      "q": 0.011,
+      "detail": "GONZ 30–19 KSU (live)",
       "prog": null,
       "prop": false
      },
@@ -68700,8 +68705,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.583,
-      "q": 0.606,
-      "detail": "GONZ 23–13 KSU (live) · total 36 so far",
+      "q": 0.477,
+      "detail": "GONZ 30–19 KSU (live) · total 49 so far",
       "prog": null,
       "prop": false
      },
@@ -68728,8 +68733,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.574,
-      "q": 0.673,
-      "detail": "ORE 58–76 SJU (live) · total 134 so far",
+      "q": 0.482,
+      "detail": "ORE 64–78 SJU (live) · total 142 so far",
       "prog": null,
       "prop": false
      },
@@ -68798,8 +68803,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.598,
-      "q": 0.046,
-      "detail": "ORE 58–76 SJU (live) · margin -18",
+      "q": 0.236,
+      "detail": "ORE 64–78 SJU (live) · margin -14",
       "prog": null,
       "prop": false
      }
@@ -68853,7 +68858,7 @@
       "st": "live",
       "p": 0.857,
       "q": 1,
-      "detail": "ORE 58–76 SJU (live)",
+      "detail": "ORE 64–78 SJU (live)",
       "prog": null,
       "prop": false
      },
@@ -68866,8 +68871,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.574,
-      "q": 0.673,
-      "detail": "ORE 58–76 SJU (live) · total 134 so far",
+      "q": 0.482,
+      "detail": "ORE 64–78 SJU (live) · total 142 so far",
       "prog": null,
       "prop": false
      },
@@ -68936,8 +68941,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.6,
-      "q": 0.338,
-      "detail": "GONZ 23–13 KSU (live) · margin -10",
+      "q": 0.324,
+      "detail": "GONZ 30–19 KSU (live) · margin -11",
       "prog": null,
       "prop": false
      },
@@ -68950,8 +68955,8 @@
       "day": "2026-11-24",
       "st": "live",
       "p": 0.583,
-      "q": 0.606,
-      "detail": "GONZ 23–13 KSU (live) · total 36 so far",
+      "q": 0.477,
+      "detail": "GONZ 30–19 KSU (live) · total 49 so far",
       "prog": null,
       "prop": false
      }
@@ -79597,7 +79602,6 @@
    }
   ]
  },
- "betaSig": "[[\"ncaab|tyreekcoleman|pra|25|under5\",\"ncaab|tyreekcoleman|pa|20|under5\",\"ncaab|bearcherry|pts|20|under5\",\"ncaab|bearcherry|reb|10|under5\",\"ncaab|massambadiop|reb|10|under5\",\"ncaab|bearcherry|pra|15|over5\",\"ncaab|kaelcombs|pra|20|under5\",\"ncaab|tyreekcoleman|ast|5|under5\",\"ncaab|kaelcombs|ra|10|under5\",\"ncaab|kaelcombs|pr|15|under5\",\"ncaab|bearcherry|blk|1|over5\",\"ncaab|tyreekcoleman|ra|10|under5\",\"ncaab|bearcherry|pa|20|under5\",\"ncaab|dylanbordon|ast|7|under5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|ajdancler|fg3|1|over5\",\"ncaab|keyshawnhall|reb|10|under5\",\"ncaab|quinnellis|reb|7|under5\",\"ncaab|buddyhammerjr|pr|15|under5\",\"ncaab|pharaohcompton|pra|15|under5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|quinnellis|stl|1|over5\",\"ncaab|landrenblocker|pra|15|under5\",\"ncaab|marcusallen|pra|15|under5\",\"ncaab|tarrisbouie|pra|20|under5\",\"ncaab|gideonekukwai|pra|15|under5\",\"ncaab|tomislavbuljan|pra|15|over5\",\"ncaab|kadenhouse|pts|20|under5\",\"ncaab|keyshawnhall|pts|10|over5\",\"ncaab|keyshawnhall|pr|15|over5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|taylorbolbowen|pra|15|under5\",\"ncaab|donniefreeman|pra|15|over5\",\"ncaab|massambadiop|pa|20|under5\",\"ncaab|tomislavbuljan|pts|20|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jordanbrown|pra|15|under5\",\"ncaab|kaelcombs|ast|5|under5\",\"ncaab|kaelcombs|pa|15|under5\",\"ncaab|jacobhudson|pr|20|under5\",\"ncaab|elzieharrington|pra|20|under5\",\"ncaab|adramediongue|ra|8|under5\",\"ncaab|taesimmons|pa|12|under5\",\"ncaab|ajdancler|pra|15|over5\",\"ncaab|bobbycannon|pra|15|under5\",\"ncaab|maxburton|reb|7|under5\",\"ncaab|tedneal|pr|12|under5\",\"ncaab|jacobhudson|reb|5|under5\",\"ncaab|jacobhudson|pts|15|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|cooperkoch|reb|10|under5\",\"ncaab|chancegladden|reb|5|under5\",\"ncaab|buddyhammerjr|pra|15|under5\",\"ncaab|camcarroll|ra|8|under5\",\"ncaab|troycicerojr|pr|12|under5\",\"ncaab|tomislavbuljan|pr|15|over5\",\"ncaab|tomislavbuljan|ra|8|over5\",\"ncaab|donniefreeman|pr|15|over5\",\"ncaab|reedbailey|pra|15|under5\",\"ncaab|quinnellis|ast|3|over5\",\"ncaab|trevaunclark|pra|15|under5\",\"ncaab|dylanbordon|pts|20|under5\",\"ncaab|chancegladden|pts|20|under5\",\"ncaab|ajcasey|pr|15|over5\",\"ncaab|zacfoster|pr|15|under5\",\"ncaab|javonbennett|pra|25|under5\",\"ncaab|grgurbrcic|reb|7|under5\",\"ncaab|jaevianalston|pra|15|under5\",\"ncaab|jaylenalexander|stl|1|over5\",\"ncaab|isaiahsy|pra|25|under5\",\"ncaab|maxburton|ra|8|under5\",\"ncaab|jeraldcolonel|blk|1|over5\",\"ncaab|jordanbrown|pr|12|under5\",\"ncaab|grgurbrcic|ra|8|under5\",\"ncaab|quinnellis|pts|15|under5\",\"ncaab|quinnellis|pr|20|under5\",\"ncaab|marcusallen|pr|12|under5\",\"ncaab|tarrisbouie|pa|15|under5\",\"ncaab|jacobhudson|pra|20|under5\",\"ncaab|kadenhouse|ra|8|under5\",\"ncaab|donniefreeman|ra|6|over5\",\"ncaab|reedbailey|pts|10|under5\",\"ncaab|tomislavbuljan|reb|7|over5\",\"ncaab|kadenhouse|pra|25|under5\",\"ncaab|keyshawnhall|ra|6|over5\",\"ncaab|javonbennett|fg3|1|over5\",\"ncaab|marcusallen|reb|5|under5\",\"ncaab|bishopboswell|ast|5|under5\",\"ncaab|stoneyhadnot|pts|10|under5\",\"ncaab|eliellis|pa|15|under5\",\"ncaab|milesgoodman|pr|12|under5\",\"ncaab|donniefreeman|reb|5|over5\",\"ncaab|jaylenalexander|pa|12|under5\",\"ncaab|peytonmccollum|pr|12|under5\",\"ncaab|adramediongue|reb|7|under5\",\"ncaab|adramediongue|pr|12|under5\",\"ncaab|massambadiop|ra|10|under5\",\"ncaab|colebowser|pr|15|under5\",\"ncaab|quinnellis|ra|8|over5\",\"ncaab|demarionburch|pa|15|under5\",\"ncaab|ajdancler|pts|10|over5\",\"ncaab|ajdancler|pa|12|over5\",\"ncaab|ajcasey|pts|10|over5\",\"ncaab|stoneyhadnot|pr|15|under5\",\"ncaab|isaiahsy|fg3|1|over5\",\"ncaab|jaylenalexander|ra|6|under5\",\"ncaab|erenbanks|pa|15|under5\",\"ncaab|isaiahsy|pts|15|under5\",\"ncaab|tomislavbuljan|pa|20|under5\",\"ncaab|zacfoster|ra|8|under5\",\"ncaab|chancegladden|pa|12|over5\",\"ncaab|isaiahsy|ra|10|under5\",\"ncaab|cooperkoch|fg3|1|over5\",\"ncaab|chancegladden|pra|15|over5\",\"ncaab|massambadiop|blk|1|over5\",\"ncaab|ajdancler|pr|15|over5\",\"ncaab|dylanbordon|pra|30|under5\",\"ncaab|bishopboswell|pa|12|under5\",\"ncaab|bishopboswell|ra|10|under5\",\"ncaab|jordanwatford|pa|12|over5\",\"ncaab|pharaohcompton|pts|10|under5\",\"ncaab|cooperkoch|pts|20|under5\",\"ncaab|cooperkoch|pr|12|over5\",\"ncaab|chancegladden|ast|3|over5\",\"ncaab|keyshawnhall|pa|15|over5\",\"ncaab|stoneyhadnot|pra|15|under5\",\"ncaab|kylecuffejr|pr|12|under5\",\"ncaab|ajcasey|reb|5|over5\",\"ncaab|colebowser|pra|15|under5\",\"ncaab|camcarroll|to|3|under5\",\"ncaab|dylanbordon|to|4|under5\",\"ncaab|donniefreeman|pa|12|over5\",\"ncaab|jaidyncoon|pr|12|under5\",\"ncaab|jordanwatford|pra|15|over5\",\"ncaab|elzieharrington|pr|15|under5\",\"ncaab|gideonekukwai|ra|6|under5\",\"ncaab|carterbergmclean|reb|5|under5\",\"ncaab|jermaurhiyunanderson|pr|12|under5\",\"ncaab|donniefreeman|pts|10|over5\",\"ncaab|keyshawnhall|pra|20|over5\",\"ncaab|cooperkoch|pra|15|over5\",\"ncaab|quinnellis|pra|15|over5\",\"ncaab|quinnellis|pa|12|over5\",\"ncaab|keyshawnhall|fg3|1|over5\",\"ncaab|demarionburch|pr|15|under5\",\"ncaab|tomislavbuljan|to|3|under5\",\"ncaab|taylorbolbowen|pr|12|under5\",\"ncaab|benkopetzki|pts|20|under5\",\"ncaab|javonbennett|stl|1|over5\"],[\"live:l~5l~5l~5l~5l~5l~5l~4l~1l~8l~2h7h8h11h8l1~5l3~5h13\",\"lost:l~10l~7hml~2l~5l~3l~6\",\"lost:hml~0l~7l~2l~7l~3l~6hm\",\"lost:l~10l~9l~0mmhhl~6l~5l~6\",\"lost:ml~0l~6hl~7l~9l~7mhl~0\",\"lost:hml~10l~7hhl~9l~7l~3l~6\",\"lost:mmmm\",\"lost:mmmhmmhmhl~9\"],[[2,[\"strong\",\"value\"],14],[2,[\"supreme\",\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],22],[1,[\"strong\"],21],[0,[],18],[1,[\"value\"],15],[1,[\"strong\"],18],[0,[],18],[1,[\"supreme\"],22],[1,[\"value\"],20],[1,[\"supreme*\"],18],[0,[],20],[1,[\"strong\"],22],[0,[],22],[1,[\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],20],[0,[],18],[2,[\"supreme\",\"strong\"],23],[0,[],16],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[2,[\"supreme\",\"value\"],20],[1,[\"strong\"],23],[0,[],22],[1,[\"strong\"],18],[2,[\"strong\",\"strong\"],19],[0,[],16],[1,[\"strong\"],20],[1,[\"strong\"],15],[0,[],15],[2,[\"strong\",\"value\"],13],[1,[\"supreme\"],20],[0,[],16],[1,[\"strong\"],15],[1,[\"strong\"],17],[1,[\"strong\"],16],[0,[],18],[0,[],16],[1,[\"value\"],17],[0,[],12],[1,[\"strong\"],21],[1,[\"strong\"],21],[1,[\"strong\"],20],[1,[\"value\"],10],[0,[],16],[1,[\"strong\"],13],[1,[\"supreme\"],16],[1,[\"supreme\"],18],[3,[\"strong\",\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],22],[1,[\"value\"],13],[1,[\"supreme\"],21],[0,[],21],[0,[],15],[2,[\"strong\",\"strong\"],22],[0,[],14],[2,[\"supreme\",\"strong\"],13],[0,[],18],[2,[\"strong\",\"strong\"],18],[1,[\"strong\"],18],[0,[],16],[1,[\"strong\"],15],[0,[],18],[0,[],15],[2,[\"supreme*\",\"value\"],18],[1,[\"supreme\"],18],[1,[\"value\"],15],[0,[],22],[1,[\"strong\"],20],[0,[],15],[0,[],14],[0,[],14],[1,[\"value\"],13],[0,[],17],[2,[\"supreme*\",\"strong\"],17],[0,[],23],[2,[\"supreme\",\"value\"],22],[1,[\"supreme\"],19],[3,[\"strong\",\"strong\",\"value\"],17],[3,[\"strong\",\"strong\",\"strong\"],20],[0,[],14],[0,[],23],[3,[\"strong\",\"strong\",\"value\"],16],[1,[\"supreme*\"],10],[2,[\"strong\",\"value\"],14],[1,[\"value\"],12],[3,[\"supreme\",\"strong\",\"value\"],16],[2,[\"strong\",\"strong\"],20],[0,[],16],[2,[\"supreme\",\"strong\"],13],[2,[\"supreme\",\"strong\"],18],[1,[\"value\"],19],[1,[\"value\"],14],[2,[\"supreme\",\"strong\"],16],[2,[\"supreme\",\"value\"],11],[1,[\"value\"],11],[2,[\"strong\",\"value\"],15],[1,[\"strong\"],16],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],19],[1,[\"value\"],14],[3,[\"strong\",\"value\",\"value\"],17],[1,[\"strong\"],19],[2,[\"strong\",\"value\"],17],[2,[\"strong\",\"strong\"],14],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],18],[3,[\"strong\",\"value\",\"value\"],13],[3,[\"strong\",\"value\",\"value\"],16],[2,[\"strong\",\"value\"],16],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],17],[1,[\"value\"],15],[3,[\"supreme\",\"strong\",\"value\"],12],[1,[\"strong\"],16],[1,[\"strong\"],18],[2,[\"supreme\",\"strong\"],18],[1,[\"strong\"],20],[1,[\"value\"],13],[1,[\"strong\"],15],[2,[\"supreme*\",\"value\"],18],[0,[],11],[1,[\"value\"],19],[1,[\"supreme\"],16],[1,[\"strong\"],19],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"value\"],14],[3,[\"strong\",\"strong\",\"value\"],13],[2,[\"strong\",\"value\"],16],[0,[],11],[2,[\"strong\",\"value\"],19],[2,[\"supreme\",\"value\"],19],[2,[\"strong\",\"value\"],18],[1,[\"value\"],17],[2,[\"supreme\",\"value\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],15]],[0,15,null],[[6,[null,true,false,null,null,false],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,false,true,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[14,[true,true,false,false,true,false,true,false,null,false,true,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[8,[true,false,null,null,false,null,null,false],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[0,[],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,true,false,null,false,true],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[4,[false,true,false,true],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[7,[false,false,true,true,true,true,true],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[1,[false],[\"1-10-0\",\"1-6-0\",\"0-0-0\"]],[1,[false],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[9,[false,false,false,true,false,true,true,true,false],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[1,[false],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
- "simple": 1,
- "by": "worker"
+ "betaSig": "[[\"ncaab|tyreekcoleman|pra|25|under5\",\"ncaab|tyreekcoleman|pa|20|under5\",\"ncaab|bearcherry|pts|20|under5\",\"ncaab|bearcherry|reb|10|under5\",\"ncaab|massambadiop|reb|10|under5\",\"ncaab|bearcherry|pra|15|over5\",\"ncaab|kaelcombs|pra|20|under5\",\"ncaab|tyreekcoleman|ast|5|under5\",\"ncaab|kaelcombs|ra|10|under5\",\"ncaab|kaelcombs|pr|15|under5\",\"ncaab|bearcherry|blk|1|over5\",\"ncaab|tyreekcoleman|ra|10|under5\",\"ncaab|bearcherry|pa|20|under5\",\"ncaab|dylanbordon|ast|7|under5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|ajdancler|fg3|1|over5\",\"ncaab|keyshawnhall|reb|10|under5\",\"ncaab|quinnellis|reb|7|under5\",\"ncaab|buddyhammerjr|pr|15|under5\",\"ncaab|pharaohcompton|pra|15|under5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|quinnellis|stl|1|over5\",\"ncaab|landrenblocker|pra|15|under5\",\"ncaab|marcusallen|pra|15|under5\",\"ncaab|tarrisbouie|pra|20|under5\",\"ncaab|gideonekukwai|pra|15|under5\",\"ncaab|tomislavbuljan|pra|15|over5\",\"ncaab|kadenhouse|pts|20|under5\",\"ncaab|keyshawnhall|pts|10|over5\",\"ncaab|keyshawnhall|pr|15|over5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|taylorbolbowen|pra|15|under5\",\"ncaab|donniefreeman|pra|15|over5\",\"ncaab|massambadiop|pa|20|under5\",\"ncaab|tomislavbuljan|pts|20|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jordanbrown|pra|15|under5\",\"ncaab|kaelcombs|ast|5|under5\",\"ncaab|kaelcombs|pa|15|under5\",\"ncaab|jacobhudson|pr|20|under5\",\"ncaab|elzieharrington|pra|20|under5\",\"ncaab|adramediongue|ra|8|under5\",\"ncaab|taesimmons|pa|12|under5\",\"ncaab|ajdancler|pra|15|over5\",\"ncaab|bobbycannon|pra|15|under5\",\"ncaab|maxburton|reb|7|under5\",\"ncaab|tedneal|pr|12|under5\",\"ncaab|jacobhudson|reb|5|under5\",\"ncaab|jacobhudson|pts|15|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|cooperkoch|reb|10|under5\",\"ncaab|chancegladden|reb|5|under5\",\"ncaab|buddyhammerjr|pra|15|under5\",\"ncaab|camcarroll|ra|8|under5\",\"ncaab|troycicerojr|pr|12|under5\",\"ncaab|tomislavbuljan|pr|15|over5\",\"ncaab|tomislavbuljan|ra|8|over5\",\"ncaab|donniefreeman|pr|15|over5\",\"ncaab|reedbailey|pra|15|under5\",\"ncaab|quinnellis|ast|3|over5\",\"ncaab|trevaunclark|pra|15|under5\",\"ncaab|dylanbordon|pts|20|under5\",\"ncaab|chancegladden|pts|20|under5\",\"ncaab|ajcasey|pr|15|over5\",\"ncaab|zacfoster|pr|15|under5\",\"ncaab|javonbennett|pra|25|under5\",\"ncaab|grgurbrcic|reb|7|under5\",\"ncaab|jaevianalston|pra|15|under5\",\"ncaab|jaylenalexander|stl|1|over5\",\"ncaab|isaiahsy|pra|25|under5\",\"ncaab|maxburton|ra|8|under5\",\"ncaab|jeraldcolonel|blk|1|over5\",\"ncaab|jordanbrown|pr|12|under5\",\"ncaab|grgurbrcic|ra|8|under5\",\"ncaab|quinnellis|pts|15|under5\",\"ncaab|quinnellis|pr|20|under5\",\"ncaab|marcusallen|pr|12|under5\",\"ncaab|tarrisbouie|pa|15|under5\",\"ncaab|jacobhudson|pra|20|under5\",\"ncaab|kadenhouse|ra|8|under5\",\"ncaab|donniefreeman|ra|6|over5\",\"ncaab|reedbailey|pts|10|under5\",\"ncaab|tomislavbuljan|reb|7|over5\",\"ncaab|kadenhouse|pra|25|under5\",\"ncaab|keyshawnhall|ra|6|over5\",\"ncaab|javonbennett|fg3|1|over5\",\"ncaab|marcusallen|reb|5|under5\",\"ncaab|bishopboswell|ast|5|under5\",\"ncaab|stoneyhadnot|pts|10|under5\",\"ncaab|eliellis|pa|15|under5\",\"ncaab|milesgoodman|pr|12|under5\",\"ncaab|donniefreeman|reb|5|over5\",\"ncaab|jaylenalexander|pa|12|under5\",\"ncaab|peytonmccollum|pr|12|under5\",\"ncaab|adramediongue|reb|7|under5\",\"ncaab|adramediongue|pr|12|under5\",\"ncaab|massambadiop|ra|10|under5\",\"ncaab|colebowser|pr|15|under5\",\"ncaab|quinnellis|ra|8|over5\",\"ncaab|demarionburch|pa|15|under5\",\"ncaab|ajdancler|pts|10|over5\",\"ncaab|ajdancler|pa|12|over5\",\"ncaab|ajcasey|pts|10|over5\",\"ncaab|stoneyhadnot|pr|15|under5\",\"ncaab|isaiahsy|fg3|1|over5\",\"ncaab|jaylenalexander|ra|6|under5\",\"ncaab|erenbanks|pa|15|under5\",\"ncaab|isaiahsy|pts|15|under5\",\"ncaab|tomislavbuljan|pa|20|under5\",\"ncaab|zacfoster|ra|8|under5\",\"ncaab|chancegladden|pa|12|over5\",\"ncaab|isaiahsy|ra|10|under5\",\"ncaab|cooperkoch|fg3|1|over5\",\"ncaab|chancegladden|pra|15|over5\",\"ncaab|massambadiop|blk|1|over5\",\"ncaab|ajdancler|pr|15|over5\",\"ncaab|dylanbordon|pra|30|under5\",\"ncaab|bishopboswell|pa|12|under5\",\"ncaab|bishopboswell|ra|10|under5\",\"ncaab|jordanwatford|pa|12|over5\",\"ncaab|pharaohcompton|pts|10|under5\",\"ncaab|cooperkoch|pts|20|under5\",\"ncaab|cooperkoch|pr|12|over5\",\"ncaab|chancegladden|ast|3|over5\",\"ncaab|keyshawnhall|pa|15|over5\",\"ncaab|stoneyhadnot|pra|15|under5\",\"ncaab|kylecuffejr|pr|12|under5\",\"ncaab|ajcasey|reb|5|over5\",\"ncaab|colebowser|pra|15|under5\",\"ncaab|camcarroll|to|3|under5\",\"ncaab|dylanbordon|to|4|under5\",\"ncaab|donniefreeman|pa|12|over5\",\"ncaab|jaidyncoon|pr|12|under5\",\"ncaab|jordanwatford|pra|15|over5\",\"ncaab|elzieharrington|pr|15|under5\",\"ncaab|gideonekukwai|ra|6|under5\",\"ncaab|carterbergmclean|reb|5|under5\",\"ncaab|jermaurhiyunanderson|pr|12|under5\",\"ncaab|donniefreeman|pts|10|over5\",\"ncaab|keyshawnhall|pra|20|over5\",\"ncaab|cooperkoch|pra|15|over5\",\"ncaab|quinnellis|pra|15|over5\",\"ncaab|quinnellis|pa|12|over5\",\"ncaab|keyshawnhall|fg3|1|over5\",\"ncaab|demarionburch|pr|15|under5\",\"ncaab|tomislavbuljan|to|3|under5\",\"ncaab|taylorbolbowen|pr|12|under5\",\"ncaab|benkopetzki|pts|20|under5\",\"ncaab|javonbennett|stl|1|over5\"],[\"live:l~5l~5l~5l~5l~5l~5l~4l~1l~7l~6h7h9h11h10l1~5l3~5h13\",\"lost:l~10l~5hml~2l~5l~3l~5\",\"lost:hml~2l~5l~2l~7l~3l~5hm\",\"lost:l~10l~9l~0mmhhl~8l~5l~7\",\"lost:ml~0l~5hl~5l~9l~7mhl~2\",\"lost:hml~10l~5hhl~9l~7l~3l~5\",\"lost:mmmm\",\"lost:mmmhmmhmhl~9\"],[[2,[\"strong\",\"value\"],14],[2,[\"supreme\",\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],22],[1,[\"strong\"],21],[0,[],18],[1,[\"value\"],15],[1,[\"strong\"],18],[0,[],18],[1,[\"supreme\"],22],[1,[\"value\"],20],[1,[\"supreme*\"],18],[0,[],20],[1,[\"strong\"],22],[0,[],22],[1,[\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],20],[0,[],18],[2,[\"supreme\",\"strong\"],23],[0,[],16],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[2,[\"supreme\",\"value\"],20],[1,[\"strong\"],23],[0,[],22],[1,[\"strong\"],18],[2,[\"strong\",\"strong\"],19],[0,[],16],[1,[\"strong\"],20],[1,[\"strong\"],15],[0,[],15],[2,[\"strong\",\"value\"],13],[1,[\"supreme\"],20],[0,[],16],[1,[\"strong\"],15],[1,[\"strong\"],17],[1,[\"strong\"],16],[0,[],18],[0,[],16],[1,[\"value\"],17],[0,[],12],[1,[\"strong\"],21],[1,[\"strong\"],21],[1,[\"strong\"],20],[1,[\"value\"],10],[0,[],16],[1,[\"strong\"],13],[1,[\"supreme\"],16],[1,[\"supreme\"],18],[3,[\"strong\",\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],11],[2,[\"strong\",\"strong\"],22],[1,[\"value\"],13],[1,[\"supreme\"],21],[0,[],21],[0,[],15],[2,[\"strong\",\"strong\"],22],[0,[],14],[2,[\"supreme\",\"strong\"],13],[0,[],18],[2,[\"strong\",\"strong\"],18],[1,[\"strong\"],18],[0,[],16],[1,[\"strong\"],15],[0,[],18],[0,[],15],[2,[\"supreme*\",\"value\"],18],[1,[\"supreme\"],18],[1,[\"value\"],15],[0,[],22],[1,[\"strong\"],20],[0,[],15],[0,[],14],[0,[],14],[1,[\"value\"],13],[0,[],17],[2,[\"supreme*\",\"strong\"],17],[0,[],23],[2,[\"supreme\",\"value\"],22],[1,[\"supreme\"],19],[3,[\"strong\",\"strong\",\"value\"],17],[3,[\"strong\",\"strong\",\"strong\"],20],[0,[],14],[0,[],23],[3,[\"strong\",\"strong\",\"value\"],16],[1,[\"supreme*\"],10],[2,[\"strong\",\"value\"],14],[1,[\"value\"],12],[3,[\"supreme\",\"strong\",\"value\"],16],[2,[\"strong\",\"strong\"],20],[0,[],16],[2,[\"supreme\",\"strong\"],13],[2,[\"supreme\",\"strong\"],18],[1,[\"value\"],19],[1,[\"value\"],14],[2,[\"supreme\",\"strong\"],16],[2,[\"supreme\",\"value\"],11],[1,[\"value\"],11],[2,[\"strong\",\"value\"],15],[1,[\"strong\"],16],[1,[\"strong\"],14],[1,[\"strong\"],11],[1,[\"value\"],19],[1,[\"value\"],14],[3,[\"strong\",\"value\",\"value\"],17],[1,[\"strong\"],19],[2,[\"strong\",\"value\"],17],[2,[\"strong\",\"strong\"],14],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],18],[3,[\"strong\",\"value\",\"value\"],13],[3,[\"strong\",\"value\",\"value\"],16],[2,[\"strong\",\"value\"],16],[1,[\"strong\"],11],[2,[\"strong\",\"value\"],17],[1,[\"value\"],15],[3,[\"supreme\",\"strong\",\"value\"],12],[1,[\"strong\"],16],[1,[\"strong\"],18],[2,[\"supreme\",\"strong\"],18],[1,[\"strong\"],20],[1,[\"value\"],13],[1,[\"strong\"],15],[2,[\"supreme*\",\"value\"],18],[0,[],11],[1,[\"value\"],19],[1,[\"supreme\"],16],[1,[\"strong\"],19],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"value\"],14],[3,[\"strong\",\"strong\",\"value\"],13],[2,[\"strong\",\"value\"],16],[0,[],11],[2,[\"strong\",\"value\"],19],[2,[\"supreme\",\"value\"],19],[2,[\"strong\",\"value\"],18],[1,[\"value\"],17],[2,[\"supreme\",\"value\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[2,[\"strong\",\"value\"],15]],[0,15,null],[[6,[null,true,false,null,null,false],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,false,true,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[14,[true,true,false,false,true,false,true,false,null,false,true,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[8,[true,false,null,null,false,null,null,false],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[0,[],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,true,false,null,false,true],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[4,[false,true,false,true],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[7,[false,false,true,true,true,true,true],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[1,[false],[\"1-10-0\",\"1-6-0\",\"0-0-0\"]],[1,[false],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[9,[false,false,false,true,false,true,true,true,false],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[1,[false],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "simple": 1
 }
