@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795650100219,
+ "generated": 1795650591414,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -1708,7 +1708,7 @@
       "pick": "UWF ML",
       "price": -102,
       "p": 0.511,
-      "q": 0.204,
+      "q": 0.099,
       "start": "2026-11-25T23:00Z",
       "hit": null,
       "push": false,
@@ -2004,7 +2004,7 @@
       "pick": "KENN +1.5",
       "price": -108,
       "p": 0.669,
-      "q": 0.532,
+      "q": 0.477,
       "start": "2026-11-25T23:00Z",
       "hit": null,
       "push": false,
@@ -2084,7 +2084,7 @@
       "pick": "UALB +26",
       "price": -110,
       "p": 0.669,
-      "q": 0.901,
+      "q": 0.975,
       "start": "2026-11-25T23:00Z",
       "hit": null,
       "push": false,
@@ -2871,7 +2871,7 @@
       "pick": "KENN +1.5",
       "price": -108,
       "p": 0.621,
-      "q": 0.489,
+      "q": 0.436,
       "start": "2026-11-25T23:00Z",
       "hit": null,
       "push": false,
@@ -4011,7 +4011,7 @@
     "u": -6.52
    },
    "props": {
-    "w": 1,
+    "w": 0,
     "l": 0
    },
    "par": {
@@ -5903,13 +5903,6 @@
    ],
    "recent": [
     {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Ozgur Cengiz under 4.5 AST",
-     "r": "win"
-    },
-    {
      "d": "2026-11-22",
      "kind": "game",
      "sp": "nfl",
@@ -6006,6 +5999,15 @@
      "pick": "JAX ML",
      "price": -575,
      "gl": "#2 JAX@#31 TEN",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-15",
+     "kind": "game",
+     "sp": "nfl",
+     "pick": "BUF ML",
+     "price": -440,
+     "gl": "#1 BUF@#29 NYJ",
      "r": "win"
     }
    ],
@@ -6311,21 +6313,7 @@
      }
     }
    ],
-   "players": [
-    {
-     "sp": "ncaab",
-     "player": "Ozgur Cengiz",
-     "team": "STBK",
-     "over": {
-      "w": 0,
-      "l": 0
-     },
-     "under": {
-      "w": 1,
-      "l": 0
-     }
-    }
-   ]
+   "players": []
   },
   {
    "v": "Judge",
@@ -21811,13 +21799,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 2,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 390,
-     "days": 8,
-     "z": -0.23,
-     "bar": 2
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21828,13 +21810,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 897,
-     "days": 38,
-     "z": -1.55,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21845,13 +21821,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 2,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 25,
-     "days": 0,
-     "z": -1.11,
-     "bar": 2
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21862,13 +21832,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 21",
-     "n": 894,
-     "days": 38,
-     "z": -1.18,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21879,13 +21843,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.35",
-     "n": 108,
-     "days": 1,
-     "z": -2.78,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21896,13 +21854,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 21",
-     "n": 144,
-     "days": 18,
-     "z": -0.32,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21913,13 +21865,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.08",
-     "n": 666,
-     "days": 38,
-     "z": -0.79,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21930,13 +21876,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 102,
-     "days": 2,
-     "z": 0.78,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21947,13 +21887,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it leans on the market: 0.4 → 0.2",
-     "n": 664,
-     "days": 38,
-     "z": -0.17,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21964,13 +21898,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 668,
-     "days": 18,
-     "z": -0.58,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21981,13 +21909,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 317,
-     "days": 38,
-     "z": -0.18,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -21998,13 +21920,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 314,
-     "days": 38,
-     "z": -0.67,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22015,13 +21931,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 314,
-     "days": 38,
-     "z": -1.51,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22032,13 +21942,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 139,
-     "days": 38,
-     "z": -1.58,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22049,13 +21953,7 @@
     "champ": "how much it leans on the market: 0.4 → 0.2",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it leans on the market: 0.4 → 0.65",
-     "n": 81,
-     "days": 2,
-     "z": 0.28,
-     "bar": 2
-    },
+    "best": null,
     "hist": [
      {
       "gen": 1,
@@ -22079,13 +21977,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 21",
-     "n": 682,
-     "days": 38,
-     "z": -0.9,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22096,13 +21988,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it leans on the market: 0.4 → 0.65",
-     "n": 133,
-     "days": 38,
-     "z": -1.01,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22113,13 +21999,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 437,
-     "days": 38,
-     "z": 1.06,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22130,13 +22010,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 230,
-     "days": 38,
-     "z": -1.9,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22147,13 +22021,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 1,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 106,
-     "days": 1,
-     "z": -0.03,
-     "bar": 1.9
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22164,13 +22032,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 55,
-     "days": 38,
-     "z": 1.48,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22181,13 +22043,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 200,
-     "days": 38,
-     "z": -1.19,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22198,13 +22054,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it trusts its own read: 0.6 → 0.85",
-     "n": 175,
-     "days": 38,
-     "z": -0.33,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22215,13 +22065,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 262,
-     "days": 38,
-     "z": -0.13,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22232,13 +22076,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 264,
-     "days": 38,
-     "z": -0.96,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22249,13 +22087,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 265,
-     "days": 38,
-     "z": -0.24,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22266,13 +22098,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 381,
-     "days": 38,
-     "z": 0.05,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22283,13 +22109,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how strongly it holds its starting beliefs: 1 → 2",
-     "n": 574,
-     "days": 38,
-     "z": -0.19,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22300,13 +22120,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how much it leans on the market: 0.4 → 0.65",
-     "n": 443,
-     "days": 38,
-     "z": -0.51,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22317,13 +22131,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 120",
-     "n": 335,
-     "days": 38,
-     "z": -0.96,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22334,13 +22142,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 315,
-     "days": 38,
-     "z": -1.95,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22351,13 +22153,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.02",
-     "n": 312,
-     "days": 38,
-     "z": -0.75,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22368,13 +22164,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 21",
-     "n": 7,
-     "days": 38,
-     "z": -1,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22385,13 +22175,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 7,
-     "days": 38,
-     "z": -0.83,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22402,13 +22186,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it learns: 0.04 → 0.08",
-     "n": 1,
-     "days": 38,
-     "z": 0.15,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22419,13 +22197,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 16,
-     "days": 38,
-     "z": -0.6,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22436,13 +22208,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 12,
-     "days": 38,
-     "z": 0.87,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22453,13 +22219,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "the worldview: its own read first, the market as the check",
-     "n": 22,
-     "days": 38,
-     "z": 1.66,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22470,13 +22230,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 120",
-     "n": 455,
-     "days": 38,
-     "z": -0.32,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    },
    {
@@ -22487,13 +22241,7 @@
     "champ": "the original confidence",
     "heirs": 2,
     "retired": 0,
-    "best": {
-     "lab": "how fast it forgets old results: 45 → 120",
-     "n": 12,
-     "days": 38,
-     "z": -1.02,
-     "bar": 1.75
-    },
+    "best": null,
     "hist": []
    }
   ],
@@ -47243,10 +46991,830 @@
     }
    },
    {
+    "sp": "nba",
+    "game": "CHI@CHA",
+    "gl": "#25 CHI@#22 CHA",
+    "start": "2026-11-26T00:00:00.000Z",
+    "day": "2026-11-25",
+    "st": "pre",
+    "picks": [],
+    "calls": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "CHI ML",
+       "price": 145,
+       "p": 0.178,
+       "o": 0,
+       "r": {
+        "lab": "NBA ML dogs",
+        "rk": 2,
+        "of": 3,
+        "w": 5,
+        "l": 9,
+        "u": -2.3,
+        "say": ""
+       },
+       "hit": null,
+       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ml 8-1 · conference game (not division)"
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "CHA ML",
+       "price": -165,
+       "p": 0.537,
+       "o": 0,
+       "r": {
+        "lab": "NBA ML favorites",
+        "rk": 1,
+        "of": 11,
+        "w": 127,
+        "l": 47,
+        "u": 3.6,
+        "say": "top"
+       },
+       "hit": null,
+       "q": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 10-3 · picked team trails the head-to-head series · me with CHA ml 3-1"
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "CHA ML",
+       "price": -165,
+       "p": 0.49,
+       "o": 0,
+       "r": {
+        "lab": "NBA ML favorites",
+        "rk": 9,
+        "of": 11,
+        "w": 29,
+        "l": 15,
+        "u": -3.8,
+        "say": ""
+       },
+       "hit": null,
+       "q": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 3-1 · picked team trails the head-to-head series"
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "CHA ML",
+       "price": -165,
+       "p": 0.521,
+       "o": 0,
+       "r": {
+        "lab": "NBA ML favorites",
+        "rk": 4,
+        "of": 11,
+        "w": 127,
+        "l": 51,
+        "u": 0.2,
+        "say": ""
+       },
+       "hit": null,
+       "q": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 10-3 · picked team trails the head-to-head series"
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "CHA ML",
+       "price": -165,
+       "p": 0.556,
+       "o": 0,
+       "r": {
+        "lab": "NBA ML favorites",
+        "rk": 11,
+        "of": 11,
+        "w": 8,
+        "l": 5,
+        "u": -2.1,
+        "say": "worst"
+       },
+       "hit": null,
+       "q": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team trails the head-to-head series"
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "CHI +3.5",
+       "price": -105,
+       "p": 0.444,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "rk": 12,
+        "of": 12,
+        "w": 27,
+        "l": 31,
+        "u": -6.3,
+        "say": "worst"
+       },
+       "hit": null,
+       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ats 5-2 · conference game (not division)"
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "CHI +3.5",
+       "price": -105,
+       "p": 0.447,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "rk": 7,
+        "of": 12,
+        "w": 36,
+        "l": 36,
+        "u": -3.2,
+        "say": ""
+       },
+       "hit": null,
+       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ats 8-2 · conference game (not division)"
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "CHI +3.5",
+       "price": -105,
+       "p": 0.529,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "rk": 6,
+        "of": 12,
+        "w": 31,
+        "l": 31,
+        "u": -2.6,
+        "say": ""
+       },
+       "hit": null,
+       "q": "his final CHI 116 – 111 CHA · 103 possessions · me vs CHA ats 5-1 · CHI: 15.8 threes, 26.1 twos, 17.2 FT · CHA: 13.7 threes, 25.8 twos, 17.4 FT"
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "CHI +3.5",
+       "price": -105,
+       "p": 0.501,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "rk": 1,
+        "of": 12,
+        "w": 15,
+        "l": 11,
+        "u": 2.8,
+        "say": "top"
+       },
+       "hit": null,
+       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · conference game (not division)"
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "CHI +3.5",
+       "price": -105,
+       "p": 0.473,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "rk": 5,
+        "of": 12,
+        "w": 50,
+        "l": 47,
+        "u": -1.6,
+        "say": ""
+       },
+       "hit": null,
+       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ats 5-1 · conference game (not division)"
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "CHI +3.5",
+       "price": -105,
+       "p": 0.522,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "rk": 9,
+        "of": 12,
+        "w": 15,
+        "l": 17,
+        "u": -3.3,
+        "say": ""
+       },
+       "hit": null,
+       "q": "+9.8 power says CHA by -2.9, the line says 3.5 · +5.7 CHI as a dog: 10-5 against the spread · +4 CHA as a favorite: 2-2 · +2 CHI last 3: Lx Lc Wc · +1.5 CHI as a dog: 5-10 outright"
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "CHI +3.5",
+       "price": -105,
+       "p": 0.47,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "of": 12
+       },
+       "hit": null,
+       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · conference game (not division)"
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "CHI +3.5",
+       "price": -105,
+       "p": 0.515,
+       "o": 0,
+       "r": {
+        "lab": "NBA spread dogs",
+        "of": 12
+       },
+       "hit": null,
+       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · conference game (not division)"
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "Over 220.5",
+       "price": -105,
+       "p": 0.437,
+       "o": 0,
+       "r": {
+        "lab": "NBA overs",
+        "rk": 5,
+        "of": 9,
+        "w": 65,
+        "l": 74,
+        "u": -15.3,
+        "say": ""
+       },
+       "hit": null,
+       "q": "conference game (not division) · me on CHA over 2-7 · me on CHI over 5-8"
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "Over 220.5",
+       "price": -105,
+       "p": 0.41,
+       "o": 0,
+       "r": {
+        "lab": "NBA overs",
+        "rk": 2,
+        "of": 9,
+        "w": 52,
+        "l": 55,
+        "u": -8.1,
+        "say": ""
+       },
+       "hit": null,
+       "q": "conference game (not division) · me on CHI over 2-8"
+      },
+      {
+       "v": "Most common",
+       "s": "over",
+       "pick": "Over 220.5",
+       "price": -105,
+       "p": 0.455,
+       "o": 0,
+       "r": {
+        "lab": "NBA overs",
+        "rk": 9,
+        "of": 9,
+        "w": 35,
+        "l": 45,
+        "u": -13.5,
+        "say": "worst"
+       },
+       "hit": null,
+       "q": "his total 227.0 vs 220.5 · 103 possessions · me on CHA over 1-6 · CHI: 15.8 threes, 26.1 twos, 17.2 FT · CHA: 13.7 threes, 25.8 twos, 17.4 FT · me on CHI over 3-1"
+      },
+      {
+       "v": "Covers",
+       "s": "over",
+       "pick": "Over 220.5",
+       "price": -105,
+       "p": 0.484,
+       "o": 0,
+       "r": {
+        "lab": "NBA overs",
+        "rk": 7,
+        "of": 9,
+        "w": 8,
+        "l": 12,
+        "u": -4.7,
+        "say": ""
+       },
+       "hit": null,
+       "q": "conference game (not division) · me on CHA over 1-3"
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "Over 220.5",
+       "price": -105,
+       "p": 0.453,
+       "o": 0,
+       "r": {
+        "lab": "NBA overs",
+        "rk": 4,
+        "of": 9,
+        "w": 15,
+        "l": 18,
+        "u": -4.4,
+        "say": ""
+       },
+       "hit": null,
+       "q": "his total 223.7 vs 220.5 · me on CHA over 3-1"
+      },
+      {
+       "v": "H_L2e1",
+       "s": "under",
+       "pick": "Under 220.5",
+       "price": -115,
+       "p": 0.464,
+       "o": 0,
+       "r": {
+        "lab": "NBA unders",
+        "of": 8
+       },
+       "hit": null,
+       "q": "conference game (not division)"
+      },
+      {
+       "v": "H_L3e1",
+       "s": "under",
+       "pick": "Under 220.5",
+       "price": -115,
+       "p": 0.512,
+       "o": 0,
+       "r": {
+        "lab": "NBA unders",
+        "of": 8
+       },
+       "hit": null,
+       "q": "conference game (not division)"
+      }
+     ]
+    },
+    "sc": {
+     "Sim": [
+      114,
+      112
+     ],
+     "Judge": [
+      109,
+      112
+     ],
+     "Covers": [
+      111,
+      114
+     ],
+     "Power": [
+      113,
+      114
+     ],
+     "H_L2e1": [
+      109,
+      110
+     ],
+     "Most common": [
+      116,
+      111
+     ],
+     "Dog": [
+      110,
+      111
+     ],
+     "H_L3e1": [
+      112,
+      107
+     ],
+     "Coach": [
+      110,
+      114
+     ]
+    },
+    "fx": "avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4 · past 220.5: CHI 7/8 CHA 2/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": null,
+       "o": 0,
+       "w": 43,
+       "l": 28,
+       "u": -5.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "1H CHA ML",
+       "price": -148,
+       "p": null,
+       "o": 0,
+       "w": 38,
+       "l": 31,
+       "u": -3,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": 0.43,
+       "o": 0,
+       "w": 37,
+       "l": 24,
+       "u": -5.2,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": null,
+       "o": 0,
+       "w": 41,
+       "l": 31,
+       "u": -10,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": null,
+       "o": 0,
+       "w": 44,
+       "l": 27,
+       "u": -4.3,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": 0.438,
+       "o": 0,
+       "w": 40,
+       "l": 30,
+       "u": -9.4,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": 0.43,
+       "o": 0,
+       "w": 43,
+       "l": 26,
+       "u": -3.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": 0.43,
+       "o": 0,
+       "w": 17,
+       "l": 12,
+       "u": -3.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": 0.438,
+       "o": 0,
+       "w": 37,
+       "l": 35,
+       "u": 5.6,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": 0.438,
+       "o": 0,
+       "w": 7,
+       "l": 2,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "1H CHI ML",
+       "price": 124,
+       "p": null,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "1H CHI +1.5",
+       "price": -110,
+       "p": null,
+       "o": 0,
+       "w": 32,
+       "l": 39,
+       "u": -9.7,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "1H CHA -1.5",
+       "price": -110,
+       "p": null,
+       "o": 0,
+       "w": 39,
+       "l": 30,
+       "u": 5.7,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "1H CHA -1.5",
+       "price": -110,
+       "p": 0.502,
+       "o": 0,
+       "w": 27,
+       "l": 25,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "1H CHI +1.5",
+       "price": -110,
+       "p": null,
+       "o": 0,
+       "w": 30,
+       "l": 38,
+       "u": -10.7,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "1H CHA -1.5",
+       "price": -110,
+       "p": 0.502,
+       "o": 0,
+       "w": 31,
+       "l": 36,
+       "u": -7.6,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "1H CHI +1.5",
+       "price": -110,
+       "p": null,
+       "o": 0,
+       "w": 26,
+       "l": 42,
+       "u": -18.4,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "1H CHA -1.5",
+       "price": -110,
+       "p": 0.502,
+       "o": 0,
+       "w": 15,
+       "l": 8,
+       "u": 5.7,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "1H CHI +1.5",
+       "price": -110,
+       "p": null,
+       "o": 0,
+       "w": 33,
+       "l": 39,
+       "u": -8.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "1H CHI +1.5",
+       "price": -110,
+       "p": null,
+       "o": 0,
+       "w": 6,
+       "l": 2,
+       "u": 3.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "1H CHI +1.5",
+       "price": -110,
+       "p": null,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "1H CHA -1.5",
+       "price": -110,
+       "p": 0.502,
+       "o": 0,
+       "w": 28,
+       "l": 28,
+       "u": -3.2,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.537,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.522,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.522,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.522,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.532,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.529,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.54,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.535,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.54,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.516,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "over",
+       "pick": "1H Over 106.5",
+       "price": -108,
+       "p": 0.516,
+       "o": 0,
+       "w": 0,
+       "l": 0,
+       "u": 0,
+       "hit": null
+      }
+     ]
+    }
+   },
+   {
     "sp": "ncaab",
     "game": "MEM@PSU",
     "gl": "#115 MEM@#150 PSU",
-    "start": "2026-11-25T23:35:00.000Z",
+    "start": "2026-11-26T00:00:00.000Z",
     "day": "2026-11-25",
     "st": "pre",
     "picks": [
@@ -48211,826 +48779,6 @@
        "w": 5,
        "l": 4,
        "u": 0.3,
-       "hit": null
-      }
-     ]
-    }
-   },
-   {
-    "sp": "nba",
-    "game": "CHI@CHA",
-    "gl": "#25 CHI@#22 CHA",
-    "start": "2026-11-26T00:00:00.000Z",
-    "day": "2026-11-25",
-    "st": "pre",
-    "picks": [],
-    "calls": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "away",
-       "pick": "CHI ML",
-       "price": 145,
-       "p": 0.178,
-       "o": 0,
-       "r": {
-        "lab": "NBA ML dogs",
-        "rk": 2,
-        "of": 3,
-        "w": 5,
-        "l": 9,
-        "u": -2.3,
-        "say": ""
-       },
-       "hit": null,
-       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ml 8-1 · conference game (not division)"
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "CHA ML",
-       "price": -165,
-       "p": 0.537,
-       "o": 0,
-       "r": {
-        "lab": "NBA ML favorites",
-        "rk": 1,
-        "of": 11,
-        "w": 127,
-        "l": 47,
-        "u": 3.6,
-        "say": "top"
-       },
-       "hit": null,
-       "q": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 10-3 · picked team trails the head-to-head series · me with CHA ml 3-1"
-      },
-      {
-       "v": "Covers",
-       "s": "home",
-       "pick": "CHA ML",
-       "price": -165,
-       "p": 0.49,
-       "o": 0,
-       "r": {
-        "lab": "NBA ML favorites",
-        "rk": 9,
-        "of": 11,
-        "w": 29,
-        "l": 15,
-        "u": -3.8,
-        "say": ""
-       },
-       "hit": null,
-       "q": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 3-1 · picked team trails the head-to-head series"
-      },
-      {
-       "v": "Power",
-       "s": "home",
-       "pick": "CHA ML",
-       "price": -165,
-       "p": 0.521,
-       "o": 0,
-       "r": {
-        "lab": "NBA ML favorites",
-        "rk": 4,
-        "of": 11,
-        "w": 127,
-        "l": 51,
-        "u": 0.2,
-        "say": ""
-       },
-       "hit": null,
-       "q": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · me vs CHI ml 10-3 · picked team trails the head-to-head series"
-      },
-      {
-       "v": "H_L2e1",
-       "s": "home",
-       "pick": "CHA ML",
-       "price": -165,
-       "p": 0.556,
-       "o": 0,
-       "r": {
-        "lab": "NBA ML favorites",
-        "rk": 11,
-        "of": 11,
-        "w": 8,
-        "l": 5,
-        "u": -2.1,
-        "say": "worst"
-       },
-       "hit": null,
-       "q": "opponent on its 3rd game in 4 nights · picked team won 1 or fewer of its last 5 · picked team trails the head-to-head series"
-      }
-     ],
-     "spread": [
-      {
-       "v": "Sim",
-       "s": "away",
-       "pick": "CHI +3.5",
-       "price": -105,
-       "p": 0.444,
-       "o": 0,
-       "r": {
-        "lab": "NBA spread dogs",
-        "rk": 12,
-        "of": 12,
-        "w": 27,
-        "l": 31,
-        "u": -6.3,
-        "say": "worst"
-       },
-       "hit": null,
-       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ats 5-2 · conference game (not division)"
-      },
-      {
-       "v": "Judge",
-       "s": "away",
-       "pick": "CHI +3.5",
-       "price": -105,
-       "p": 0.447,
-       "o": 0,
-       "r": {
-        "lab": "NBA spread dogs",
-        "rk": 7,
-        "of": 12,
-        "w": 36,
-        "l": 36,
-        "u": -3.2,
-        "say": ""
-       },
-       "hit": null,
-       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ats 8-2 · conference game (not division)"
-      },
-      {
-       "v": "Most common",
-       "s": "away",
-       "pick": "CHI +3.5",
-       "price": -105,
-       "p": 0.529,
-       "o": 0,
-       "r": {
-        "lab": "NBA spread dogs",
-        "rk": 6,
-        "of": 12,
-        "w": 31,
-        "l": 31,
-        "u": -2.6,
-        "say": ""
-       },
-       "hit": null,
-       "q": "his final CHI 116 – 111 CHA · 103 possessions · me vs CHA ats 5-1 · CHI: 15.8 threes, 26.1 twos, 17.2 FT · CHA: 13.7 threes, 25.8 twos, 17.4 FT"
-      },
-      {
-       "v": "Covers",
-       "s": "away",
-       "pick": "CHI +3.5",
-       "price": -105,
-       "p": 0.501,
-       "o": 0,
-       "r": {
-        "lab": "NBA spread dogs",
-        "rk": 1,
-        "of": 12,
-        "w": 15,
-        "l": 11,
-        "u": 2.8,
-        "say": "top"
-       },
-       "hit": null,
-       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · conference game (not division)"
-      },
-      {
-       "v": "Power",
-       "s": "away",
-       "pick": "CHI +3.5",
-       "price": -105,
-       "p": 0.473,
-       "o": 0,
-       "r": {
-        "lab": "NBA spread dogs",
-        "rk": 5,
-        "of": 12,
-        "w": 50,
-        "l": 47,
-        "u": -1.6,
-        "say": ""
-       },
-       "hit": null,
-       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · me vs CHA ats 5-1 · conference game (not division)"
-      },
-      {
-       "v": "Dog",
-       "s": "away",
-       "pick": "CHI +3.5",
-       "price": -105,
-       "p": 0.522,
-       "o": 0,
-       "r": {
-        "lab": "NBA spread dogs",
-        "rk": 9,
-        "of": 12,
-        "w": 15,
-        "l": 17,
-        "u": -3.3,
-        "say": ""
-       },
-       "hit": null,
-       "q": "+9.8 power says CHA by -2.9, the line says 3.5 · +5.7 CHI as a dog: 10-5 against the spread · +4 CHA as a favorite: 2-2 · +2 CHI last 3: Lx Lc Wc · +1.5 CHI as a dog: 5-10 outright"
-      },
-      {
-       "v": "H_L2e1",
-       "s": "away",
-       "pick": "CHI +3.5",
-       "price": -105,
-       "p": 0.47,
-       "o": 0,
-       "r": {
-        "lab": "NBA spread dogs",
-        "of": 12
-       },
-       "hit": null,
-       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · conference game (not division)"
-      },
-      {
-       "v": "H_L3e1",
-       "s": "away",
-       "pick": "CHI +3.5",
-       "price": -105,
-       "p": 0.515,
-       "o": 0,
-       "r": {
-        "lab": "NBA spread dogs",
-        "of": 12
-       },
-       "hit": null,
-       "q": "picked team playing its 3rd game in 4 nights · picked team leads the head-to-head series · conference game (not division)"
-      }
-     ],
-     "total": [
-      {
-       "v": "Sim",
-       "s": "over",
-       "pick": "Over 220.5",
-       "price": -105,
-       "p": 0.437,
-       "o": 0,
-       "r": {
-        "lab": "NBA overs",
-        "rk": 5,
-        "of": 9,
-        "w": 65,
-        "l": 74,
-        "u": -15.3,
-        "say": ""
-       },
-       "hit": null,
-       "q": "conference game (not division) · me on CHA over 2-7 · me on CHI over 5-8"
-      },
-      {
-       "v": "Judge",
-       "s": "over",
-       "pick": "Over 220.5",
-       "price": -105,
-       "p": 0.41,
-       "o": 0,
-       "r": {
-        "lab": "NBA overs",
-        "rk": 2,
-        "of": 9,
-        "w": 52,
-        "l": 55,
-        "u": -8.1,
-        "say": ""
-       },
-       "hit": null,
-       "q": "conference game (not division) · me on CHI over 2-8"
-      },
-      {
-       "v": "Most common",
-       "s": "over",
-       "pick": "Over 220.5",
-       "price": -105,
-       "p": 0.455,
-       "o": 0,
-       "r": {
-        "lab": "NBA overs",
-        "rk": 9,
-        "of": 9,
-        "w": 35,
-        "l": 45,
-        "u": -13.5,
-        "say": "worst"
-       },
-       "hit": null,
-       "q": "his total 227.0 vs 220.5 · 103 possessions · me on CHA over 1-6 · CHI: 15.8 threes, 26.1 twos, 17.2 FT · CHA: 13.7 threes, 25.8 twos, 17.4 FT · me on CHI over 3-1"
-      },
-      {
-       "v": "Covers",
-       "s": "over",
-       "pick": "Over 220.5",
-       "price": -105,
-       "p": 0.484,
-       "o": 0,
-       "r": {
-        "lab": "NBA overs",
-        "rk": 7,
-        "of": 9,
-        "w": 8,
-        "l": 12,
-        "u": -4.7,
-        "say": ""
-       },
-       "hit": null,
-       "q": "conference game (not division) · me on CHA over 1-3"
-      },
-      {
-       "v": "Coach",
-       "s": "over",
-       "pick": "Over 220.5",
-       "price": -105,
-       "p": 0.453,
-       "o": 0,
-       "r": {
-        "lab": "NBA overs",
-        "rk": 4,
-        "of": 9,
-        "w": 15,
-        "l": 18,
-        "u": -4.4,
-        "say": ""
-       },
-       "hit": null,
-       "q": "his total 223.7 vs 220.5 · me on CHA over 3-1"
-      },
-      {
-       "v": "H_L2e1",
-       "s": "under",
-       "pick": "Under 220.5",
-       "price": -115,
-       "p": 0.464,
-       "o": 0,
-       "r": {
-        "lab": "NBA unders",
-        "of": 8
-       },
-       "hit": null,
-       "q": "conference game (not division)"
-      },
-      {
-       "v": "H_L3e1",
-       "s": "under",
-       "pick": "Under 220.5",
-       "price": -115,
-       "p": 0.512,
-       "o": 0,
-       "r": {
-        "lab": "NBA unders",
-        "of": 8
-       },
-       "hit": null,
-       "q": "conference game (not division)"
-      }
-     ]
-    },
-    "sc": {
-     "Sim": [
-      114,
-      112
-     ],
-     "Judge": [
-      109,
-      112
-     ],
-     "Covers": [
-      111,
-      114
-     ],
-     "Power": [
-      113,
-      114
-     ],
-     "H_L2e1": [
-      109,
-      110
-     ],
-     "Most common": [
-      116,
-      111
-     ],
-     "Dog": [
-      110,
-      111
-     ],
-     "H_L3e1": [
-      112,
-      107
-     ],
-     "Coach": [
-      110,
-      114
-     ]
-    },
-    "fx": "avg CHI 116.9-123.6 CHA 100.6-110.9 · rec CHI 5-12 CHA 4-12 · last5 CHI 2-3 CHA 1-4 · past 220.5: CHI 7/8 CHA 2/8",
-    "half": {
-     "ml": [
-      {
-       "v": "Sim",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": null,
-       "o": 0,
-       "w": 43,
-       "l": 28,
-       "u": -5.5,
-       "hit": null
-      },
-      {
-       "v": "Coach",
-       "s": "home",
-       "pick": "1H CHA ML",
-       "price": -148,
-       "p": null,
-       "o": 0,
-       "w": 38,
-       "l": 31,
-       "u": -3,
-       "hit": null
-      },
-      {
-       "v": "Pred",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": 0.43,
-       "o": 0,
-       "w": 37,
-       "l": 24,
-       "u": -5.2,
-       "hit": null
-      },
-      {
-       "v": "Most common",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": null,
-       "o": 0,
-       "w": 41,
-       "l": 31,
-       "u": -10,
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": null,
-       "o": 0,
-       "w": 44,
-       "l": 27,
-       "u": -4.3,
-       "hit": null
-      },
-      {
-       "v": "Dog",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": 0.438,
-       "o": 0,
-       "w": 40,
-       "l": 30,
-       "u": -9.4,
-       "hit": null
-      },
-      {
-       "v": "Trends",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": 0.43,
-       "o": 0,
-       "w": 43,
-       "l": 26,
-       "u": -3.6,
-       "hit": null
-      },
-      {
-       "v": "Covers",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": 0.43,
-       "o": 0,
-       "w": 17,
-       "l": 12,
-       "u": -3.2,
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": 0.438,
-       "o": 0,
-       "w": 37,
-       "l": 35,
-       "u": 5.6,
-       "hit": null
-      },
-      {
-       "v": "H_L2e1",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": 0.438,
-       "o": 0,
-       "w": 7,
-       "l": 2,
-       "u": 2.7,
-       "hit": null
-      },
-      {
-       "v": "H_L3e1",
-       "s": "away",
-       "pick": "1H CHI ML",
-       "price": 124,
-       "p": null,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      }
-     ],
-     "spread": [
-      {
-       "v": "Sim",
-       "s": "away",
-       "pick": "1H CHI +1.5",
-       "price": -110,
-       "p": null,
-       "o": 0,
-       "w": 32,
-       "l": 39,
-       "u": -9.7,
-       "hit": null
-      },
-      {
-       "v": "Coach",
-       "s": "home",
-       "pick": "1H CHA -1.5",
-       "price": -110,
-       "p": null,
-       "o": 0,
-       "w": 39,
-       "l": 30,
-       "u": 5.7,
-       "hit": null
-      },
-      {
-       "v": "Pred",
-       "s": "home",
-       "pick": "1H CHA -1.5",
-       "price": -110,
-       "p": 0.502,
-       "o": 0,
-       "w": 27,
-       "l": 25,
-       "u": -0.7,
-       "hit": null
-      },
-      {
-       "v": "Most common",
-       "s": "away",
-       "pick": "1H CHI +1.5",
-       "price": -110,
-       "p": null,
-       "o": 0,
-       "w": 30,
-       "l": 38,
-       "u": -10.7,
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "home",
-       "pick": "1H CHA -1.5",
-       "price": -110,
-       "p": 0.502,
-       "o": 0,
-       "w": 31,
-       "l": 36,
-       "u": -7.6,
-       "hit": null
-      },
-      {
-       "v": "Dog",
-       "s": "away",
-       "pick": "1H CHI +1.5",
-       "price": -110,
-       "p": null,
-       "o": 0,
-       "w": 26,
-       "l": 42,
-       "u": -18.4,
-       "hit": null
-      },
-      {
-       "v": "Covers",
-       "s": "home",
-       "pick": "1H CHA -1.5",
-       "price": -110,
-       "p": 0.502,
-       "o": 0,
-       "w": 15,
-       "l": 8,
-       "u": 5.7,
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "away",
-       "pick": "1H CHI +1.5",
-       "price": -110,
-       "p": null,
-       "o": 0,
-       "w": 33,
-       "l": 39,
-       "u": -8.8,
-       "hit": null
-      },
-      {
-       "v": "H_L2e1",
-       "s": "away",
-       "pick": "1H CHI +1.5",
-       "price": -110,
-       "p": null,
-       "o": 0,
-       "w": 6,
-       "l": 2,
-       "u": 3.6,
-       "hit": null
-      },
-      {
-       "v": "H_L3e1",
-       "s": "away",
-       "pick": "1H CHI +1.5",
-       "price": -110,
-       "p": null,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Trends",
-       "s": "home",
-       "pick": "1H CHA -1.5",
-       "price": -110,
-       "p": 0.502,
-       "o": 0,
-       "w": 28,
-       "l": 28,
-       "u": -3.2,
-       "hit": null
-      }
-     ],
-     "total": [
-      {
-       "v": "Sim",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.537,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Judge",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.522,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Dog",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.522,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Trends",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.522,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Coach",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.532,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Pred",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.529,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Most common",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.54,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Covers",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.535,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "Power",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.54,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "H_L2e1",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.516,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
-       "hit": null
-      },
-      {
-       "v": "H_L3e1",
-       "s": "over",
-       "pick": "1H Over 106.5",
-       "price": -108,
-       "p": 0.516,
-       "o": 0,
-       "w": 0,
-       "l": 0,
-       "u": 0,
        "hit": null
       }
      ]
@@ -113160,7 +112908,7 @@
       "st": "live",
       "p": 0.519,
       "q": 0.931,
-      "detail": "MIA 63–74 PHI (live)",
+      "detail": "MIA 72–82 PHI (live)",
       "prog": null,
       "prop": false
      },
@@ -113253,7 +113001,7 @@
     "res": "live",
     "hit": 0,
     "p0": 0.0036,
-    "now": 0.00645
+    "now": 0.00646
    },
    {
     "id": "fmfb9fi",
@@ -113297,8 +113045,8 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.603,
-      "q": 0.502,
-      "detail": "KENN 23–26 COFC (live) · margin -3",
+      "q": 0.457,
+      "detail": "KENN 29–33 COFC (live) · margin -4",
       "prog": null,
       "prop": false
      },
@@ -113405,7 +113153,7 @@
     "res": "live",
     "hit": 0,
     "p0": 0.00407,
-    "now": 0.00338
+    "now": 0.00308
    },
    {
     "id": "fmeka0m",
@@ -113492,9 +113240,9 @@
       "st": "live",
       "p": 0.5,
       "q": 0.5,
-      "detail": "Miles Byrd 7 so far",
+      "detail": "Miles Byrd 13 so far",
       "prog": {
-       "v": 7,
+       "v": 13,
        "t": 25,
        "d": "atleast"
       },
@@ -113507,12 +113255,12 @@
       "price": null,
       "start": "2026-11-25T22:30Z",
       "day": "2026-11-25",
-      "st": "live",
+      "st": "hit",
       "p": 0.5,
-      "q": 0.5,
-      "detail": "Tyler Betsey 12 so far",
+      "q": 1,
+      "detail": "Tyler Betsey 18 so far",
       "prog": {
-       "v": 12,
+       "v": 18,
        "t": 14,
        "d": "atleast"
       },
@@ -113528,9 +113276,9 @@
       "st": "live",
       "p": 0.5,
       "q": 0.5,
-      "detail": "Bruce Branch III 2 so far",
+      "detail": "Bruce Branch III 3 so far",
       "prog": {
-       "v": 2,
+       "v": 3,
        "t": 7,
        "d": "atleast"
       },
@@ -113563,8 +113311,8 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.5,
-      "q": 0.338,
-      "detail": "BYU 46–43 PROV (live) · total 89 so far",
+      "q": 0.181,
+      "detail": "BYU 58–56 PROV (live) · total 114 so far",
       "prog": null,
       "prop": false
      },
@@ -113577,8 +113325,8 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.5,
-      "q": 0.884,
-      "detail": "BYU 46–43 PROV (live) · total 89 so far",
+      "q": 0.98,
+      "detail": "BYU 58–56 PROV (live) · total 114 so far",
       "prog": null,
       "prop": false
      },
@@ -113591,17 +113339,17 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.5,
-      "q": 0.74,
-      "detail": "BYU 46–43 PROV (live) · margin +3",
+      "q": 0.748,
+      "detail": "BYU 58–56 PROV (live) · margin +2",
       "prog": null,
       "prop": false
      }
     ],
     "dec": 1139,
     "res": "live",
-    "hit": 0,
+    "hit": 1,
     "p0": 0.00024,
-    "now": 0.00043
+    "now": 0.00052
    },
    {
     "id": "fmfbdkx",
@@ -114073,8 +113821,8 @@
       "day": "2026-11-25",
       "st": "live",
       "p": 0.592,
-      "q": 0.052,
-      "detail": "PRST 58–50 UCR (live)",
+      "q": 0.016,
+      "detail": "PRST 65–58 UCR (live)",
       "prog": null,
       "prop": false
      }
@@ -114763,7 +114511,7 @@
     "side": "under",
     "opp": "MEM",
     "home": true,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      9,
      16,
@@ -115393,7 +115141,7 @@
     "side": "under",
     "opp": "PSU",
     "home": false,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      4,
      6,
@@ -116301,7 +116049,7 @@
     "side": "under",
     "opp": "PSU",
     "home": false,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      6,
      5,
@@ -116373,7 +116121,7 @@
     "side": "over",
     "opp": "PSU",
     "home": false,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      5,
      2,
@@ -117917,7 +117665,7 @@
     "side": "under",
     "opp": "MEM",
     "home": true,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      2,
      13,
@@ -118125,7 +117873,7 @@
     "side": "under",
     "opp": "PSU",
     "home": false,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      23,
      12,
@@ -119259,7 +119007,7 @@
     "side": "under",
     "opp": "MEM",
     "home": true,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      6,
      3,
@@ -119539,7 +119287,7 @@
     "side": "over",
     "opp": "PSU",
     "home": false,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      19,
      31,
@@ -120163,7 +119911,7 @@
     "side": "under",
     "opp": "PSU",
     "home": false,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      27,
      18,
@@ -120767,7 +120515,7 @@
     "by": [
      {
       "v": "Coach",
-      "p": 0.85
+      "p": 0.849
      },
      {
       "v": "Sim",
@@ -120788,7 +120536,7 @@
     ],
     "votes": 5,
     "p": 0.828,
-    "fair": -482
+    "fair": -481
    },
    {
     "id": "ncaab|josiahdavis|pa|15|over",
@@ -122123,150 +121871,6 @@
     "fair": -452
    },
    {
-    "id": "ncaab|tjrobinson|pts|15|under",
-    "sp": "ncaab",
-    "player": "TJ Robinson",
-    "team": "LONG",
-    "k": "pts",
-    "lab": "PTS",
-    "thr": 15,
-    "side": "under",
-    "opp": "GMU",
-    "home": false,
-    "start": "2026-11-26T00:00Z",
-    "last": [
-     13,
-     7,
-     8,
-     10,
-     13,
-     10,
-     10,
-     11,
-     15,
-     8
-    ],
-    "dates": [
-     "260227",
-     "260301",
-     "260306",
-     "261102",
-     "261104",
-     "261107",
-     "261110",
-     "261114",
-     "261118",
-     "261121"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 1,
-    "avg10": 10.5,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.837
-     },
-     {
-      "v": "Most common",
-      "p": 0.827
-     },
-     {
-      "v": "Judge",
-      "p": 0.815
-     },
-     {
-      "v": "Sim",
-      "p": 0.814
-     },
-     {
-      "v": "Trends",
-      "p": 0.798
-     }
-    ],
-    "votes": 5,
-    "p": 0.818,
-    "fair": -450
-   },
-   {
-    "id": "ncaab|cavinholden|fg3|1|over",
-    "sp": "ncaab",
-    "player": "Cavin Holden",
-    "team": "MTST",
-    "k": "fg3",
-    "lab": "3PM",
-    "thr": 1,
-    "side": "over",
-    "opp": "NWIC",
-    "home": true,
-    "start": "2026-11-26T02:00Z",
-    "last": [
-     1,
-     2,
-     1,
-     3,
-     1,
-     1,
-     0,
-     3,
-     5,
-     4
-    ],
-    "dates": [
-     "251115",
-     "251120",
-     "251121",
-     "251129",
-     "261102",
-     "261107",
-     "261112",
-     "261115",
-     "261117",
-     "261119"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 3,
-    "avg10": 2.1,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.849
-     },
-     {
-      "v": "Coach",
-      "p": 0.841
-     },
-     {
-      "v": "Sim",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.815
-     },
-     {
-      "v": "Most common",
-      "p": 0.769
-     }
-    ],
-    "votes": 5,
-    "p": 0.818,
-    "fair": -449
-   },
-   {
     "id": "ncaab|nyklewis|ra|10|under",
     "sp": "ncaab",
     "player": "Nyk Lewis",
@@ -122829,6 +122433,150 @@
     "votes": 5,
     "p": 0.816,
     "fair": -445
+   },
+   {
+    "id": "ncaab|tjrobinson|pts|15|under",
+    "sp": "ncaab",
+    "player": "TJ Robinson",
+    "team": "LONG",
+    "k": "pts",
+    "lab": "PTS",
+    "thr": 15,
+    "side": "under",
+    "opp": "GMU",
+    "home": false,
+    "start": "2026-11-26T00:00Z",
+    "last": [
+     13,
+     7,
+     8,
+     10,
+     13,
+     10,
+     10,
+     11,
+     15,
+     8
+    ],
+    "dates": [
+     "260227",
+     "260301",
+     "260306",
+     "261102",
+     "261104",
+     "261107",
+     "261110",
+     "261114",
+     "261118",
+     "261121"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 1,
+    "avg10": 10.5,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.837
+     },
+     {
+      "v": "Most common",
+      "p": 0.827
+     },
+     {
+      "v": "Judge",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.798
+     },
+     {
+      "v": "Trends",
+      "p": 0.798
+     }
+    ],
+    "votes": 5,
+    "p": 0.815,
+    "fair": -441
+   },
+   {
+    "id": "ncaab|cavinholden|fg3|1|over",
+    "sp": "ncaab",
+    "player": "Cavin Holden",
+    "team": "MTST",
+    "k": "fg3",
+    "lab": "3PM",
+    "thr": 1,
+    "side": "over",
+    "opp": "NWIC",
+    "home": true,
+    "start": "2026-11-26T02:00Z",
+    "last": [
+     1,
+     2,
+     1,
+     3,
+     1,
+     1,
+     0,
+     3,
+     5,
+     4
+    ],
+    "dates": [
+     "251115",
+     "251120",
+     "251121",
+     "251129",
+     "261102",
+     "261107",
+     "261112",
+     "261115",
+     "261117",
+     "261119"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 3,
+    "avg10": 2.1,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.849
+     },
+     {
+      "v": "Coach",
+      "p": 0.841
+     },
+     {
+      "v": "Judge",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.8
+     },
+     {
+      "v": "Most common",
+      "p": 0.769
+     }
+    ],
+    "votes": 5,
+    "p": 0.815,
+    "fair": -440
    },
    {
     "id": "ncaab|jahkigupton|reb|7|under",
@@ -124521,68 +124269,6 @@
     "fair": -424
    },
    {
-    "id": "ncaab|mattanglo|pa|20|under",
-    "sp": "ncaab",
-    "player": "Matt Anglo",
-    "team": "MVSU",
-    "k": "pa",
-    "lab": "PTS+AST",
-    "thr": 20,
-    "side": "under",
-    "opp": "UNM",
-    "home": false,
-    "start": "2026-11-26T02:00Z",
-    "last": [
-     12,
-     18,
-     10,
-     18,
-     8
-    ],
-    "dates": [
-     "261106",
-     "261109",
-     "261111",
-     "261113",
-     "261120"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     5,
-     5
-    ],
-    "streak": 5,
-    "avg10": 13.2,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.82
-     },
-     {
-      "v": "Sim",
-      "p": 0.815
-     },
-     {
-      "v": "Trends",
-      "p": 0.807
-     },
-     {
-      "v": "Judge",
-      "p": 0.806
-     },
-     {
-      "v": "Most common",
-      "p": 0.795
-     }
-    ],
-    "votes": 5,
-    "p": 0.809,
-    "fair": -422
-   },
-   {
     "id": "ncaab|tylerjones|ast|5|under",
     "sp": "ncaab",
     "player": "Tyler Jones",
@@ -124649,78 +124335,6 @@
     "votes": 5,
     "p": 0.809,
     "fair": -423
-   },
-   {
-    "id": "ncaab|noahbolanga|pa|20|under",
-    "sp": "ncaab",
-    "player": "Noah Bolanga",
-    "team": "ACU",
-    "k": "pa",
-    "lab": "PTS+AST",
-    "thr": 20,
-    "side": "under",
-    "opp": "SDST",
-    "home": false,
-    "start": "2026-11-25T19:00Z",
-    "last": [
-     13,
-     15,
-     20,
-     12,
-     8,
-     15,
-     7,
-     16,
-     15,
-     6
-    ],
-    "dates": [
-     "260205",
-     "260212",
-     "260214",
-     "260219",
-     "260221",
-     "260226",
-     "260228",
-     "260307",
-     "260312",
-     "260313"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 7,
-    "avg10": 12.7,
-    "by": [
-     {
-      "v": "Coach",
-      "p": 0.831
-     },
-     {
-      "v": "Trends",
-      "p": 0.825
-     },
-     {
-      "v": "Sim",
-      "p": 0.807
-     },
-     {
-      "v": "Judge",
-      "p": 0.805
-     },
-     {
-      "v": "Most common",
-      "p": 0.774
-     }
-    ],
-    "votes": 5,
-    "p": 0.808,
-    "fair": -422
    },
    {
     "id": "ncaab|danielculberson|ast|5|under",
@@ -124867,7 +124481,7 @@
     "side": "over",
     "opp": "PSU",
     "home": false,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      1,
      3,
@@ -124939,7 +124553,7 @@
     "side": "under",
     "opp": "MEM",
     "home": true,
-    "start": "2026-11-25T23:35Z",
+    "start": "2026-11-26T00:00Z",
     "last": [
      13,
      13,
@@ -124991,9 +124605,149 @@
     "votes": 5,
     "p": 0.807,
     "fair": -418
+   },
+   {
+    "id": "ncaab|xavierabreu|pa|20|under",
+    "sp": "ncaab",
+    "player": "Xavier Abreu",
+    "team": "COFC",
+    "k": "pa",
+    "lab": "PTS+AST",
+    "thr": 20,
+    "side": "under",
+    "opp": "KENN",
+    "home": true,
+    "start": "2026-11-25T23:00Z",
+    "last": [
+     10,
+     14,
+     21,
+     14,
+     15,
+     9,
+     0,
+     16,
+     16,
+     5
+    ],
+    "dates": [
+     "260228",
+     "260303",
+     "260306",
+     "260307",
+     "261102",
+     "261106",
+     "261111",
+     "261115",
+     "261119",
+     "261124"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 7,
+    "avg10": 12,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.833
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     },
+     {
+      "v": "Coach",
+      "p": 0.805
+     },
+     {
+      "v": "Sim",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.787
+     }
+    ],
+    "votes": 5,
+    "p": 0.807,
+    "fair": -418
+   },
+   {
+    "id": "ncaab|umiergraham|pra|25|under",
+    "sp": "ncaab",
+    "player": "U-Mier Graham",
+    "team": "UALB",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 25,
+    "side": "under",
+    "opp": "SYR",
+    "home": false,
+    "start": "2026-11-25T23:00Z",
+    "last": [
+     10,
+     21,
+     25,
+     13,
+     10,
+     21,
+     24,
+     13
+    ],
+    "dates": [
+     "261102",
+     "261105",
+     "261108",
+     "261111",
+     "261115",
+     "261120",
+     "261121",
+     "261122"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     7,
+     8
+    ],
+    "streak": 5,
+    "avg10": 17.1,
+    "by": [
+     {
+      "v": "Coach",
+      "p": 0.825
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     },
+     {
+      "v": "Trends",
+      "p": 0.803
+     },
+     {
+      "v": "Sim",
+      "p": 0.8
+     },
+     {
+      "v": "Most common",
+      "p": 0.799
+     }
+    ],
+    "votes": 5,
+    "p": 0.807,
+    "fair": -418
    }
   ]
  },
- "betaSig": "[[\"ncaab|jordanmathews|reb|10|under5\",\"ncaab|joaquimboumtjeboumtje|reb|10|under5\",\"ncaab|alexconstanza|reb|10|under5\",\"ncaab|amonteallenjohnson|ast|7|under5\",\"ncaab|dasontebowen|pts|20|under5\",\"ncaab|michaelbelle|pr|20|under5\",\"ncaab|masonfalslev|ast|7|under5\",\"ncaab|milesbyrd|stl|1|over5\",\"ncaab|xavierabreu|pts|20|under5\",\"ncaab|johnblackwell|fg3|1|over5\",\"ncaab|isaacondekane|pra|20|under5\",\"ncaab|aaronmcbride|pr|20|under5\",\"ncaab|aidenargabright|pr|20|under5\",\"ncaab|rihardsvavers|reb|7|under5\",\"ncaab|dallinhall|fg3|1|over5\",\"ncaab|jonnyjordanjr|pra|20|under5\",\"ncaab|shaneblakeney|reb|7|under5\",\"ncaab|kjaybradley|ast|7|under5\",\"ncaab|quentinheady|pr|20|under5\",\"ncaab|chrishowell|pra|20|under5\",\"ncaab|braedencarrington|fg3|1|over5\",\"ncaab|isaacbruns|reb|7|under5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jacobcofie|pts|15|under5\",\"ncaab|zionsensley|fg3|1|over5\",\"ncaab|tylikweeks|reb|7|under5\",\"ncaab|rihardsvavers|fg3|1|over5\",\"ncaab|marcusbanks|ast|7|under5\",\"ncaab|jaelongermany|ast|5|under5\",\"ncaab|austinherro|pra|20|under5\",\"ncaab|mjwilliams|fg3|1|over5\",\"ncaab|michaelbelle|ra|10|under5\",\"ncaab|isaacondekane|reb|10|under5\",\"ncaab|aidenargabright|pa|20|under5\",\"ncaab|jacobcofie|reb|10|under5\",\"ncaab|patrickwessler|pts|10|over5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|andrewball|pr|20|under5\",\"ncaab|camamboree|pa|20|under5\",\"ncaab|soloball|pa|20|under5\",\"ncaab|quentinheady|pts|15|under5\",\"ncaab|braedencarrington|pra|25|under5\",\"ncaab|michaelbelle|pra|20|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|aaronmcbride|pra|20|under5\",\"ncaab|ozgurcengiz|pa|20|under5\",\"ncaab|joaquimboumtjeboumtje|pts|20|under5\",\"ncaab|colecerta|fg3|1|over5\",\"ncaab|brantbyers|pts|20|under5\",\"ncaab|willshortt|pr|20|under5\",\"ncaab|ariusalijosius|pra|20|under5\",\"ncaab|rihardsvavers|pa|20|under5\",\"ncaab|dramanecamara|pa|12|under5\",\"ncaab|tylerjones|ra|10|under5\",\"ncaab|brucebranchiii|pts|20|under5\",\"ncaab|jeremiahdavis|pra|25|under5\",\"ncaab|lazardjokovic|ra|10|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|nyklewis|pr|20|under5\",\"ncaab|carterbjerke|ra|8|under5\",\"ncaab|grantstubblefield|pra|25|under5\",\"ncaab|boldengdit|pa|20|under5\",\"ncaab|justinmenard|pts|20|under5\",\"ncaab|brycecofield|pra|25|under5\",\"ncaab|karmellobranch|pra|25|under5\",\"ncaab|spencerelliott|pra|15|under5\",\"ncaab|dramanecamara|pr|15|under5\",\"ncaab|joshreed|pr|20|under5\",\"ncaab|aaronmcbride|reb|7|under5\",\"ncaab|carterbjerke|fg3|1|over5\",\"ncaab|jordanmathews|ra|10|under5\",\"ncaab|tylikweeks|pts|10|over5\",\"ncaab|joaquimboumtjeboumtje|pa|20|under5\",\"ncaab|andysigiscar|pr|20|under5\",\"ncaab|patrickwessler|reb|7|over5\",\"ncaab|jaelongermany|pra|20|under5\",\"ncaab|eianelmer|pts|20|under5\",\"ncaab|tayshawncomer|pra|20|under5\",\"ncaab|jalencox|reb|7|under5\",\"ncaab|marcusbanks|pts|20|under5\",\"ncaab|rihardsvavers|pra|25|under5\",\"ncaab|makhaivalentine|pa|20|under5\",\"ncaab|joshpascarelli|pr|20|under5\",\"ncaab|williamkermoury|ra|10|under5\",\"ncaab|solomoncallaghan|pra|25|under5\",\"ncaab|christianking|fg3|1|over5\",\"ncaab|uzziahbuntyn|pra|25|under5\",\"ncaab|juanfernandez|ra|10|under5\",\"ncaab|danieljohnson|pts|15|under5\",\"ncaab|josiahdavis|pa|15|over5\",\"ncaab|abdoulayefall|pr|20|under5\",\"ncaab|connoramundsen|pts|15|under5\",\"ncaab|dallinhall|pts|25|under5\",\"ncaab|jacobcofie|pra|25|under5\",\"ncaab|grantstubblefield|pa|20|under5\",\"ncaab|calebsmith|reb|7|under5\",\"ncaab|jeremiahdavis|pa|20|under5\",\"ncaab|grantstubblefield|pr|20|under5\",\"ncaab|camamboree|pts|15|under5\",\"ncaab|anthonyenoh|pr|12|under5\",\"ncaab|andrewball|pra|20|under5\",\"ncaab|silasdemaryjr|ast|3|over5\",\"ncaab|barakaokojie|pts|10|over5\",\"ncaab|antoinealmuttar|pra|15|under5\",\"ncaab|quentinheady|pra|20|under5\",\"ncaab|nyklewis|reb|7|under5\",\"ncaab|jaelongermany|pr|15|under5\",\"ncaab|tariquefoster|pra|15|under5\",\"ncaab|tjrobinson|pts|15|under5\",\"ncaab|cavinholden|fg3|1|over5\",\"ncaab|nyklewis|ra|10|under5\",\"ncaab|milesbyrd|pa|20|under5\",\"ncaab|soloball|pr|20|under5\",\"ncaab|ozgurcengiz|ra|10|under5\",\"ncaab|jadendaughtry|pr|20|under5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|yourifritz|pra|20|under5\",\"ncaab|umiergraham|pts|15|under5\",\"ncaab|jahkigupton|reb|7|under5\",\"ncaab|barakaokojie|pa|15|over5\",\"ncaab|isaiahalexander|pr|15|under5\",\"ncaab|ollieengen|pts|20|under5\",\"ncaab|noahbolanga|ra|6|over5\",\"ncaab|daviddouglasjr|fg3|1|over5\",\"ncaab|amonteallenjohnson|reb|7|under5\",\"ncaab|bobbycannon|pra|15|under5\",\"ncaab|braedencarrington|pa|20|under5\",\"ncaab|antwanedaniels|pr|15|under5\",\"ncaab|masonabittan|pra|25|under5\",\"ncaab|grantstubblefield|pts|15|under5\",\"ncaab|carterbjerke|pr|20|under5\",\"ncaab|tayshawncomer|ra|8|under5\",\"ncaab|johnblackwell|reb|7|under5\",\"ncaab|noahpagotto|reb|5|over5\",\"ncaab|willshortt|pra|20|under5\",\"ncaab|alphonzobillupsiii|pr|20|under5\",\"ncaab|uriahtenette|pra|25|under5\",\"ncaab|connoramundsen|pa|20|under5\",\"ncaab|ryanbeasley|pts|20|under5\",\"ncaab|kanyeclary|pr|20|under5\",\"ncaab|deundraeperteetejr|reb|5|under5\",\"ncaab|aleksasbieliauskas|pra|20|under5\",\"ncaab|mattanglo|pa|20|under5\",\"ncaab|tylerjones|ast|5|under5\",\"ncaab|noahbolanga|pa|20|under5\",\"ncaab|danielculberson|ast|5|under5\",\"ncaab|jakehall|pr|15|over5\",\"ncaab|lukealmodovar|fg3|1|over5\",\"ncaab|thomasallard|pra|20|under5\"],[\"live:oool~9oooooo\",\"live:ool~5ooooooo\",\"live:oooool7~5l12~5l2~5l10~5l~3l~9l~7\",\"open:oooooooooo\",\"open:ooooooo\",\"open:oooooooo\",\"lost:ooomol~1\",\"lost:mhmmhh\",\"lost:h7h3m1m8h5m6mhmhh8h8h13h14m1m3h17\"],[[0,[],19],[0,[],16],[0,[],19],[0,[],12],[2,[\"supreme*\",\"value\"],19],[1,[\"strong\"],24],[1,[\"strong\"],19],[0,[],24],[1,[\"supreme*\"],15],[2,[\"supreme*\",\"strong\"],25],[0,[],19],[0,[],16],[1,[\"value\"],16],[0,[],18],[3,[\"supreme\",\"strong\",\"value\"],18],[1,[\"value\"],24],[1,[\"strong\"],23],[0,[],26],[0,[],18],[2,[\"supreme*\",\"strong\"],19],[0,[],19],[2,[\"supreme\",\"value\"],20],[0,[],20],[1,[\"supreme*\"],13],[0,[],14],[0,[],21],[0,[],13],[1,[\"value\"],14],[1,[\"strong\"],16],[2,[\"supreme\",\"strong\"],23],[1,[\"supreme\"],21],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],21],[1,[\"strong\"],21],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],20],[0,[],13],[1,[\"supreme*\"],24],[0,[],20],[1,[\"value\"],17],[0,[],22],[0,[],25],[2,[\"supreme\",\"value\"],24],[0,[],17],[0,[],15],[1,[\"strong\"],24],[1,[\"supreme*\"],13],[0,[],17],[1,[\"supreme\"],17],[1,[\"supreme*\"],21],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[2,[\"supreme*\",\"strong\"],15],[2,[\"supreme*\",\"strong\"],21],[2,[\"supreme*\",\"strong\"],17],[1,[\"supreme*\"],19],[1,[\"value\"],25],[2,[\"strong\",\"strong\"],23],[1,[\"strong\"],22],[0,[],21],[1,[\"value\"],16],[2,[\"supreme\",\"strong\"],20],[1,[\"value\"],20],[3,[\"strong\",\"strong\",\"value\"],18],[2,[\"supreme*\",\"strong\"],17],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[1,[\"strong\"],21],[1,[\"supreme*\"],15],[3,[\"supreme\",\"strong\",\"strong\"],20],[3,[\"supreme\",\"value\",\"value\"],16],[1,[\"strong\"],24],[2,[\"supreme\",\"value\"],21],[1,[\"strong\"],21],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme*\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],13],[0,[],20],[3,[\"strong\",\"value\",\"value\"],19],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],23],[1,[\"strong\"],17],[0,[],18],[1,[\"value\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"strong\",\"value\"],20],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],21],[0,[],20],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme\",\"strong\"],19],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],19],[2,[\"supreme*\",\"strong\"],22],[0,[],16],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"value\"],11],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],19],[1,[\"supreme*\"],13],[1,[\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],18],[1,[\"strong\"],23],[2,[\"strong\",\"strong\"],20],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],11],[3,[\"supreme\",\"strong\",\"strong\"],15],[1,[\"supreme*\"],21],[2,[\"supreme\",\"strong\"],21],[0,[],15],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],24],[2,[\"strong\",\"strong\"],21],[0,[],12],[1,[\"strong\"],22],[0,[],20],[2,[\"strong\",\"strong\"],22],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[0,[],13],[2,[\"strong\",\"strong\"],22],[1,[\"supreme\"],22],[2,[\"strong\",\"value\"],21],[1,[\"value\"],19],[1,[\"supreme\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],15],[0,[],16],[1,[\"strong\"],18],[1,[\"value\"],10],[2,[\"value\",\"value\"],13],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],16],[2,[\"strong\",\"value\"],13],[0,[],16],[1,[\"value\"],18],[2,[\"strong\",\"strong\"],13]],[0,15,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[1,[null],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[1,[false],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[3,[false,false,null],[\"1-11-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"ncaab|jordanmathews|reb|10|under5\",\"ncaab|joaquimboumtjeboumtje|reb|10|under5\",\"ncaab|alexconstanza|reb|10|under5\",\"ncaab|amonteallenjohnson|ast|7|under5\",\"ncaab|dasontebowen|pts|20|under5\",\"ncaab|michaelbelle|pr|20|under5\",\"ncaab|masonfalslev|ast|7|under5\",\"ncaab|milesbyrd|stl|1|over5\",\"ncaab|xavierabreu|pts|20|under5\",\"ncaab|johnblackwell|fg3|1|over5\",\"ncaab|isaacondekane|pra|20|under5\",\"ncaab|aaronmcbride|pr|20|under5\",\"ncaab|aidenargabright|pr|20|under5\",\"ncaab|rihardsvavers|reb|7|under5\",\"ncaab|dallinhall|fg3|1|over5\",\"ncaab|jonnyjordanjr|pra|20|under5\",\"ncaab|shaneblakeney|reb|7|under5\",\"ncaab|kjaybradley|ast|7|under5\",\"ncaab|quentinheady|pr|20|under5\",\"ncaab|chrishowell|pra|20|under5\",\"ncaab|braedencarrington|fg3|1|over5\",\"ncaab|isaacbruns|reb|7|under5\",\"ncaab|jeraldcolonel|pra|20|under5\",\"ncaab|zacfoster|pra|20|under5\",\"ncaab|jacobcofie|pts|15|under5\",\"ncaab|zionsensley|fg3|1|over5\",\"ncaab|tylikweeks|reb|7|under5\",\"ncaab|rihardsvavers|fg3|1|over5\",\"ncaab|marcusbanks|ast|7|under5\",\"ncaab|jaelongermany|ast|5|under5\",\"ncaab|austinherro|pra|20|under5\",\"ncaab|mjwilliams|fg3|1|over5\",\"ncaab|michaelbelle|ra|10|under5\",\"ncaab|isaacondekane|reb|10|under5\",\"ncaab|aidenargabright|pa|20|under5\",\"ncaab|jacobcofie|reb|10|under5\",\"ncaab|patrickwessler|pts|10|over5\",\"ncaab|grgurbrcic|pra|15|under5\",\"ncaab|andrewball|pr|20|under5\",\"ncaab|camamboree|pa|20|under5\",\"ncaab|soloball|pa|20|under5\",\"ncaab|quentinheady|pts|15|under5\",\"ncaab|braedencarrington|pra|25|under5\",\"ncaab|michaelbelle|pra|20|under5\",\"ncaab|eliellis|pra|20|under5\",\"ncaab|aaronmcbride|pra|20|under5\",\"ncaab|ozgurcengiz|pa|20|under5\",\"ncaab|joaquimboumtjeboumtje|pts|20|under5\",\"ncaab|colecerta|fg3|1|over5\",\"ncaab|brantbyers|pts|20|under5\",\"ncaab|willshortt|pr|20|under5\",\"ncaab|ariusalijosius|pra|20|under5\",\"ncaab|rihardsvavers|pa|20|under5\",\"ncaab|dramanecamara|pa|12|under5\",\"ncaab|tylerjones|ra|10|under5\",\"ncaab|brucebranchiii|pts|20|under5\",\"ncaab|jeremiahdavis|pra|25|under5\",\"ncaab|lazardjokovic|ra|10|under5\",\"ncaab|maxburton|pra|15|under5\",\"ncaab|nyklewis|pr|20|under5\",\"ncaab|carterbjerke|ra|8|under5\",\"ncaab|grantstubblefield|pra|25|under5\",\"ncaab|boldengdit|pa|20|under5\",\"ncaab|justinmenard|pts|20|under5\",\"ncaab|brycecofield|pra|25|under5\",\"ncaab|karmellobranch|pra|25|under5\",\"ncaab|spencerelliott|pra|15|under5\",\"ncaab|dramanecamara|pr|15|under5\",\"ncaab|joshreed|pr|20|under5\",\"ncaab|aaronmcbride|reb|7|under5\",\"ncaab|carterbjerke|fg3|1|over5\",\"ncaab|jordanmathews|ra|10|under5\",\"ncaab|tylikweeks|pts|10|over5\",\"ncaab|joaquimboumtjeboumtje|pa|20|under5\",\"ncaab|andysigiscar|pr|20|under5\",\"ncaab|patrickwessler|reb|7|over5\",\"ncaab|jaelongermany|pra|20|under5\",\"ncaab|eianelmer|pts|20|under5\",\"ncaab|tayshawncomer|pra|20|under5\",\"ncaab|jalencox|reb|7|under5\",\"ncaab|marcusbanks|pts|20|under5\",\"ncaab|rihardsvavers|pra|25|under5\",\"ncaab|makhaivalentine|pa|20|under5\",\"ncaab|joshpascarelli|pr|20|under5\",\"ncaab|williamkermoury|ra|10|under5\",\"ncaab|solomoncallaghan|pra|25|under5\",\"ncaab|christianking|fg3|1|over5\",\"ncaab|uzziahbuntyn|pra|25|under5\",\"ncaab|juanfernandez|ra|10|under5\",\"ncaab|danieljohnson|pts|15|under5\",\"ncaab|josiahdavis|pa|15|over5\",\"ncaab|abdoulayefall|pr|20|under5\",\"ncaab|connoramundsen|pts|15|under5\",\"ncaab|dallinhall|pts|25|under5\",\"ncaab|jacobcofie|pra|25|under5\",\"ncaab|grantstubblefield|pa|20|under5\",\"ncaab|calebsmith|reb|7|under5\",\"ncaab|jeremiahdavis|pa|20|under5\",\"ncaab|grantstubblefield|pr|20|under5\",\"ncaab|camamboree|pts|15|under5\",\"ncaab|anthonyenoh|pr|12|under5\",\"ncaab|andrewball|pra|20|under5\",\"ncaab|silasdemaryjr|ast|3|over5\",\"ncaab|barakaokojie|pts|10|over5\",\"ncaab|antoinealmuttar|pra|15|under5\",\"ncaab|quentinheady|pra|20|under5\",\"ncaab|nyklewis|reb|7|under5\",\"ncaab|jaelongermany|pr|15|under5\",\"ncaab|tariquefoster|pra|15|under5\",\"ncaab|nyklewis|ra|10|under5\",\"ncaab|milesbyrd|pa|20|under5\",\"ncaab|soloball|pr|20|under5\",\"ncaab|ozgurcengiz|ra|10|under5\",\"ncaab|jadendaughtry|pr|20|under5\",\"ncaab|zacfoster|pa|15|under5\",\"ncaab|yourifritz|pra|20|under5\",\"ncaab|umiergraham|pts|15|under5\",\"ncaab|tjrobinson|pts|15|under5\",\"ncaab|cavinholden|fg3|1|over5\",\"ncaab|jahkigupton|reb|7|under5\",\"ncaab|barakaokojie|pa|15|over5\",\"ncaab|isaiahalexander|pr|15|under5\",\"ncaab|ollieengen|pts|20|under5\",\"ncaab|noahbolanga|ra|6|over5\",\"ncaab|daviddouglasjr|fg3|1|over5\",\"ncaab|amonteallenjohnson|reb|7|under5\",\"ncaab|bobbycannon|pra|15|under5\",\"ncaab|braedencarrington|pa|20|under5\",\"ncaab|antwanedaniels|pr|15|under5\",\"ncaab|masonabittan|pra|25|under5\",\"ncaab|grantstubblefield|pts|15|under5\",\"ncaab|carterbjerke|pr|20|under5\",\"ncaab|tayshawncomer|ra|8|under5\",\"ncaab|johnblackwell|reb|7|under5\",\"ncaab|noahpagotto|reb|5|over5\",\"ncaab|willshortt|pra|20|under5\",\"ncaab|alphonzobillupsiii|pr|20|under5\",\"ncaab|uriahtenette|pra|25|under5\",\"ncaab|connoramundsen|pa|20|under5\",\"ncaab|ryanbeasley|pts|20|under5\",\"ncaab|kanyeclary|pr|20|under5\",\"ncaab|deundraeperteetejr|reb|5|under5\",\"ncaab|aleksasbieliauskas|pra|20|under5\",\"ncaab|tylerjones|ast|5|under5\",\"ncaab|danielculberson|ast|5|under5\",\"ncaab|jakehall|pr|15|over5\",\"ncaab|lukealmodovar|fg3|1|over5\",\"ncaab|thomasallard|pra|20|under5\",\"ncaab|xavierabreu|pa|20|under5\",\"ncaab|umiergraham|pra|25|under5\"],[\"live:oool~9oooooo\",\"live:ool~5ooooooo\",\"live:oooool13~5h18l3~5l10~5l~2l~10l~7\",\"open:oooooooooo\",\"open:ooooooo\",\"open:oooooooo\",\"lost:ooomol~0\",\"lost:mhmmhh\",\"lost:h7h3m1m8h5m6mhmhh8h8h13h14m1m3h17\"],[[0,[],19],[0,[],16],[0,[],19],[0,[],12],[2,[\"supreme*\",\"value\"],19],[1,[\"strong\"],24],[1,[\"strong\"],19],[0,[],24],[1,[\"supreme*\"],15],[2,[\"supreme*\",\"strong\"],25],[0,[],19],[0,[],16],[1,[\"value\"],16],[0,[],18],[3,[\"supreme\",\"strong\",\"value\"],18],[1,[\"value\"],24],[1,[\"strong\"],23],[0,[],26],[0,[],18],[2,[\"supreme*\",\"strong\"],19],[0,[],19],[2,[\"supreme\",\"value\"],20],[0,[],20],[1,[\"supreme*\"],13],[0,[],14],[0,[],21],[0,[],13],[1,[\"value\"],14],[1,[\"strong\"],16],[2,[\"supreme\",\"strong\"],23],[1,[\"supreme\"],21],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],21],[1,[\"strong\"],21],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],20],[0,[],13],[0,[],20],[1,[\"supreme*\"],24],[1,[\"value\"],17],[0,[],22],[0,[],25],[2,[\"supreme\",\"value\"],24],[0,[],17],[0,[],15],[1,[\"strong\"],24],[1,[\"supreme*\"],13],[0,[],17],[1,[\"supreme\"],17],[1,[\"supreme*\"],21],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[2,[\"supreme*\",\"strong\"],15],[2,[\"supreme*\",\"strong\"],21],[2,[\"supreme*\",\"strong\"],17],[1,[\"supreme*\"],19],[1,[\"value\"],25],[2,[\"strong\",\"strong\"],23],[1,[\"strong\"],22],[0,[],21],[1,[\"value\"],16],[2,[\"supreme\",\"strong\"],20],[1,[\"value\"],20],[3,[\"strong\",\"strong\",\"value\"],18],[2,[\"supreme*\",\"strong\"],17],[1,[\"strong\"],20],[1,[\"supreme*\"],24],[1,[\"strong\"],21],[1,[\"supreme*\"],15],[3,[\"supreme\",\"strong\",\"strong\"],20],[3,[\"supreme\",\"value\",\"value\"],16],[1,[\"strong\"],24],[2,[\"supreme\",\"value\"],21],[1,[\"strong\"],21],[2,[\"supreme*\",\"strong\"],16],[2,[\"supreme*\",\"strong\"],23],[2,[\"strong\",\"strong\"],22],[1,[\"strong\"],20],[1,[\"strong\"],13],[0,[],20],[3,[\"strong\",\"value\",\"value\"],19],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],23],[1,[\"strong\"],17],[0,[],18],[1,[\"value\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"strong\",\"value\"],20],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],21],[0,[],20],[2,[\"supreme*\",\"strong\"],24],[2,[\"supreme\",\"strong\"],19],[2,[\"supreme\",\"strong\"],16],[2,[\"strong\",\"value\"],19],[2,[\"supreme*\",\"strong\"],22],[0,[],16],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"value\"],11],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],19],[1,[\"supreme*\"],13],[1,[\"strong\"],17],[1,[\"value\"],19],[2,[\"supreme\",\"value\"],18],[1,[\"strong\"],23],[2,[\"strong\",\"strong\"],20],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],11],[3,[\"supreme\",\"strong\",\"strong\"],15],[1,[\"supreme*\"],21],[2,[\"supreme\",\"strong\"],21],[0,[],15],[2,[\"strong\",\"value\"],18],[1,[\"strong\"],24],[2,[\"strong\",\"strong\"],21],[0,[],12],[1,[\"strong\"],22],[0,[],20],[2,[\"strong\",\"strong\"],22],[3,[\"strong\",\"strong\",\"value\"],15],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[0,[],13],[2,[\"strong\",\"strong\"],22],[1,[\"supreme\"],22],[2,[\"strong\",\"value\"],21],[1,[\"value\"],19],[1,[\"supreme\"],10],[1,[\"strong\"],16],[1,[\"strong\"],16],[1,[\"strong\"],13],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],15],[0,[],16],[1,[\"strong\"],18],[1,[\"value\"],10],[2,[\"value\",\"value\"],13],[1,[\"value\"],15],[2,[\"strong\",\"strong\"],16],[2,[\"strong\",\"value\"],13],[0,[],16],[1,[\"value\"],18],[2,[\"strong\",\"strong\"],13]],[0,15,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-13-0\",\"11-18-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"1-10-0\",\"11-14-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"3-1-0\",\"7-19-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-7-0\",\"9-23-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[1,[null],[\"1-1-0\",\"1-3-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"12-12-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[1,[false],[\"1-7-0\",\"4-12-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-0-0\",\"0-0-0\"]],[3,[false,false,null],[\"1-11-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-1-0\",\"0-0-0\"]],[1,[null],[\"0-1-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
