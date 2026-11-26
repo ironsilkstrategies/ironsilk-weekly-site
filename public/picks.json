@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795717740747,
+ "generated": 1795717781900,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -16,7 +16,7 @@
   "w": 58,
   "l": 39,
   "pu": 0,
-  "u": 5.45,
+  "u": 5.45347643062187,
   "first": "2026-10-06",
   "be": 0.5792939449449924,
   "ap": -138
@@ -667,7 +667,12 @@
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "6cace9a5ae9b90584b6228a62de08db85a0a7a47a76f63a49af20ff678845662",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -12469,16 +12474,16 @@
    "origin": "Built a network before she built a following. Believes the crowd of the best is smarter than any one genius, and has the receipts.",
    "best": [
     {
+     "lane": "College hoops overs",
+     "w": 49,
+     "l": 39,
+     "u": 5.3
+    },
+    {
      "lane": "College hoops unders",
      "w": 24,
      "l": 19,
      "u": 2.9
-    },
-    {
-     "lane": "College hoops overs",
-     "w": 48,
-     "l": 39,
-     "u": 4.4
     }
    ],
    "still": [
@@ -13328,9 +13333,9 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 42,
+     "w": 43,
      "l": 17,
-     "u": 21.2
+     "u": 22.1
     },
     {
      "lane": "College football overs",
@@ -13339,10 +13344,10 @@
      "u": 6.3
     },
     {
-     "lane": "NBA underdogs on the spread",
-     "w": 18,
-     "l": 12,
-     "u": 4.7
+     "lane": "College hoops overs",
+     "w": 38,
+     "l": 27,
+     "u": 7.5
     }
    ],
    "still": [
@@ -22602,7 +22607,7 @@
       76
      ]
     },
-    "fx": "avg UGA 87-70.8 CIN 80.8-62.3 · rec UGA 6-0 CIN 5-1 · last5 UGA 4-0 CIN 3-1 · past 154.5: UGA 2/4 CIN 1/4",
+    "fx": "avg UGA 87-70.8 CIN 80.8-62.3 · rec UGA 6-0 CIN 5-1 · last5 UGA 4-1 CIN 4-1 · past 154.5: UGA 3/5 CIN 2/5",
     "half": {
      "ml": [
       {
@@ -46117,7 +46122,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "outside consensus DEN by 3.1 vs the line +4 · ESPN FPI/BPI PIT 52% · Kalshi DEN 67% · OddsShark computer DEN 18.2–17.43 PIT · 56 rating systems (Prediction Tracker): DEN by 2.8"
+       "q": "outside consensus DEN by 3.1 vs the line +4 · ESPN FPI/BPI PIT 52% · Kalshi DEN 67% · OddsShark computer DEN 18.13–17.64 PIT · 56 rating systems (Prediction Tracker): DEN by 2.8"
       },
       {
        "v": "Coach",
@@ -70518,7 +70523,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "outside consensus NYJ by 4.2 vs the line +5 · ESPN FPI/BPI NYJ 70% · Kalshi NYJ 69% · OddsShark computer NYJ 22.44–16.42 MIA · 56 rating systems (Prediction Tracker): MIA by 0.1"
+       "q": "outside consensus NYJ by 4.2 vs the line +5 · ESPN FPI/BPI NYJ 70% · Kalshi NYJ 69% · OddsShark computer NYJ 22.43–16.41 MIA · 56 rating systems (Prediction Tracker): MIA by 0.1"
       },
       {
        "v": "Coach",
@@ -70954,7 +70959,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "outside consensus HOU by 8.5 vs the line -7 · ESPN FPI/BPI HOU 83% · me with HOU ats 0-3 · Kalshi HOU 74% · OddsShark computer BAL 20.77–27.98 HOU"
+       "q": "outside consensus HOU by 8.5 vs the line -7 · ESPN FPI/BPI HOU 83% · me with HOU ats 0-3 · Kalshi HOU 74% · OddsShark computer BAL 20.77–27.97 HOU"
       }
      ],
      "total": [
@@ -71268,7 +71273,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "outside consensus JAX by 15.6 vs the line -14.5 · ESPN FPI/BPI JAX 89% · Kalshi JAX 90% · OddsShark computer TEN 16.48–29.92 JAX · 47 rating systems with records vote JAX"
+       "q": "outside consensus JAX by 15.6 vs the line -14.5 · ESPN FPI/BPI JAX 89% · Kalshi JAX 90% · OddsShark computer TEN 16.47–29.92 JAX · 47 rating systems with records vote JAX"
       }
      ],
      "total": [
@@ -72993,7 +72998,7 @@
      ],
      "Covers": [
       18,
-      20
+      19
      ],
      "Most common": [
       17,
@@ -74062,7 +74067,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "outside consensus CLE by 5.0 vs the line -4.5 · ESPN FPI/BPI CLE 68% · Kalshi CLE 68% · OddsShark computer LV 16.95–21.51 CLE · 56 rating systems (Prediction Tracker): CLE by 4.1"
+       "q": "outside consensus CLE by 5.0 vs the line -4.5 · ESPN FPI/BPI CLE 68% · Kalshi CLE 68% · OddsShark computer LV 16.96–21.5 CLE · 56 rating systems (Prediction Tracker): CLE by 4.1"
       }
      ],
      "total": [
@@ -75378,7 +75383,7 @@
       "day": "2026-11-26",
       "st": "live",
       "p": 0.5,
-      "q": 0.5,
+      "q": 0.63,
       "detail": "CHI 0–3 DET (live) · margin +3",
       "prog": null,
       "prop": false
@@ -75446,7 +75451,7 @@
       "day": "2026-11-26",
       "st": "live",
       "p": 0.5,
-      "q": 0.5,
+      "q": 0.72,
       "detail": "CHI 0–3 DET (live) · total 3 so far",
       "prog": null,
       "prop": false
@@ -75457,6 +75462,310 @@
     "hit": 0,
     "p0": 0,
     "now": 0
+   },
+   {
+    "id": "f12l09tn",
+    "name": null,
+    "date": "2026-11-26",
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "BAY@GONZ",
+      "pick": "BAY +6",
+      "price": -151,
+      "start": "2026-11-27T04:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.602,
+      "q": 0.602,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TTU@ORE",
+      "pick": "ORE +12",
+      "price": -149,
+      "start": "2026-11-27T04:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.598,
+      "q": 0.598,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "LOU@SJU",
+      "pick": "SJU ML",
+      "price": -125,
+      "start": "2026-11-27T02:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.556,
+      "q": 0.556,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "UGA@CIN",
+      "pick": "UGA +4",
+      "price": -154,
+      "start": "2026-11-26T16:00:00Z",
+      "day": "2026-11-26",
+      "st": "hit",
+      "p": 0.606,
+      "q": 1,
+      "detail": "UGA 81–83 CIN · margin -2",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "UGA@CIN",
+      "pick": "Over 154",
+      "price": -140,
+      "start": "2026-11-26T16:00:00Z",
+      "day": "2026-11-26",
+      "st": "hit",
+      "p": 0.583,
+      "q": 1,
+      "detail": "UGA 81–83 CIN · total 164",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MD@SDSU",
+      "pick": "SDSU +6.5",
+      "price": -152,
+      "start": "2026-11-26T18:00:00Z",
+      "day": "2026-11-26",
+      "st": "live",
+      "p": 0.603,
+      "q": 0.753,
+      "detail": "MD 6–9 SDSU (live) · margin +3",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MD@SDSU",
+      "pick": "Under 154.5",
+      "price": -140,
+      "start": "2026-11-26T18:00:00Z",
+      "day": "2026-11-26",
+      "st": "live",
+      "p": 0.583,
+      "q": 0.918,
+      "detail": "MD 6–9 SDSU (live) · total 15 so far",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "BC@UCF",
+      "pick": "Over 144.5",
+      "price": -145,
+      "start": "2026-11-26T18:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.592,
+      "q": 0.592,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MIA@MICH",
+      "pick": "MICH +4",
+      "price": -151,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.602,
+      "q": 0.602,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TENN@ISU",
+      "pick": "TENN +5.5",
+      "price": -149,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.598,
+      "q": 0.598,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 188.12,
+    "res": "live",
+    "hit": 2,
+    "p0": 0.0053,
+    "now": 0.02943
+   },
+   {
+    "id": "f12l0310",
+    "name": null,
+    "date": "2026-11-26",
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "UGA@CIN",
+      "pick": "UGA +4",
+      "price": -154,
+      "start": "2026-11-26T16:00:00Z",
+      "day": "2026-11-26",
+      "st": "hit",
+      "p": 0.606,
+      "q": 1,
+      "detail": "UGA 81–83 CIN · margin -2",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MD@SDSU",
+      "pick": "SDSU +6.5",
+      "price": -152,
+      "start": "2026-11-26T18:00:00Z",
+      "day": "2026-11-26",
+      "st": "live",
+      "p": 0.603,
+      "q": 0.753,
+      "detail": "MD 6–9 SDSU (live) · margin +3",
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MIA@MICH",
+      "pick": "MICH +4",
+      "price": -149,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.598,
+      "q": 0.598,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TENN@ISU",
+      "pick": "TENN +5.5",
+      "price": -149,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.598,
+      "q": 0.598,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "USU@USC",
+      "pick": "USU +4.5",
+      "price": -154,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "PHI@DAL",
+      "pick": "DAL -7",
+      "price": -155,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.608,
+      "q": 0.608,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ARK@MSU",
+      "pick": "ARK +7",
+      "price": -152,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.603,
+      "q": 0.603,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SMC@UCLA",
+      "pick": "SMC +9",
+      "price": -153,
+      "start": "2026-11-26T22:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.605,
+      "q": 0.605,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SMU@LSU",
+      "pick": "SMU +9",
+      "price": -150,
+      "start": "2026-11-27T00:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.6,
+      "q": 0.6,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ALA@KSU",
+      "pick": "KSU +16",
+      "price": -150,
+      "start": "2026-11-27T02:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.6,
+      "q": 0.6,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 157.78,
+    "res": "live",
+    "hit": 1,
+    "p0": 0.00634,
+    "now": 0.01304
    },
    {
     "id": "f12kh1a7",
@@ -75470,10 +75779,10 @@
       "price": -205,
       "start": "2026-11-26T17:00:00Z",
       "day": "2026-11-26",
-      "st": "open",
+      "st": "live",
       "p": 0.672,
-      "q": 0.672,
-      "detail": null,
+      "q": 0.276,
+      "detail": "OU 50–45 PUR (live)",
       "prog": null,
       "prop": false
      },
@@ -75486,7 +75795,7 @@
       "day": "2026-11-26",
       "st": "live",
       "p": 0.507,
-      "q": 0.507,
+      "q": 0.603,
       "detail": "CHI 0–3 DET (live)",
       "prog": null,
       "prop": false
@@ -75498,10 +75807,10 @@
       "price": -152,
       "start": "2026-11-26T18:00:00Z",
       "day": "2026-11-26",
-      "st": "open",
+      "st": "live",
       "p": 0.603,
-      "q": 0.603,
-      "detail": null,
+      "q": 0.753,
+      "detail": "MD 6–9 SDSU (live) · margin +3",
       "prog": null,
       "prop": false
      },
@@ -75608,7 +75917,7 @@
     "res": "live",
     "hit": 0,
     "p0": 0.00984,
-    "now": 0.00984
+    "now": 0.006
    },
    {
     "id": "f12kg5ef",
@@ -75678,10 +75987,10 @@
       "price": -135,
       "start": "2026-11-26T17:00:00Z",
       "day": "2026-11-26",
-      "st": "open",
+      "st": "live",
       "p": 0.574,
-      "q": 0.574,
-      "detail": null,
+      "q": 0.477,
+      "detail": "OU 50–45 PUR (live) · total 95 so far",
       "prog": null,
       "prop": false
      },
@@ -75694,7 +76003,7 @@
       "day": "2026-11-26",
       "st": "live",
       "p": 0.623,
-      "q": 0.623,
+      "q": 0.715,
       "detail": "CHI 0–3 DET (live) · margin +3",
       "prog": null,
       "prop": false
@@ -75746,7 +76055,7 @@
     "res": "live",
     "hit": 0,
     "p0": 0.01897,
-    "now": 0.01897
+    "now": 0.0181
    },
    {
     "id": "f12nz592",
@@ -76050,310 +76359,6 @@
     "res": "open",
     "hit": 0,
     "p0": 0.00541,
-    "now": null
-   },
-   {
-    "id": "f12l09tn",
-    "name": null,
-    "date": "2026-11-26",
-    "legs": [
-     {
-      "sp": "ncaab",
-      "game": "BAY@GONZ",
-      "pick": "BAY +6",
-      "price": -151,
-      "start": "2026-11-27T04:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.602,
-      "q": 0.602,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "TTU@ORE",
-      "pick": "ORE +12",
-      "price": -149,
-      "start": "2026-11-27T04:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.598,
-      "q": 0.598,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "LOU@SJU",
-      "pick": "SJU ML",
-      "price": -125,
-      "start": "2026-11-27T02:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.556,
-      "q": 0.556,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "UGA@CIN",
-      "pick": "UGA +4",
-      "price": -154,
-      "start": "2026-11-26T16:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.606,
-      "q": 0.606,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "UGA@CIN",
-      "pick": "Over 154",
-      "price": -140,
-      "start": "2026-11-26T16:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.583,
-      "q": 0.583,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "MD@SDSU",
-      "pick": "SDSU +6.5",
-      "price": -152,
-      "start": "2026-11-26T18:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.603,
-      "q": 0.603,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "MD@SDSU",
-      "pick": "Under 154.5",
-      "price": -140,
-      "start": "2026-11-26T18:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.583,
-      "q": 0.583,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "BC@UCF",
-      "pick": "Over 144.5",
-      "price": -145,
-      "start": "2026-11-26T18:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.592,
-      "q": 0.592,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "MIA@MICH",
-      "pick": "MICH +4",
-      "price": -151,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.602,
-      "q": 0.602,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "TENN@ISU",
-      "pick": "TENN +5.5",
-      "price": -149,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.598,
-      "q": 0.598,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     }
-    ],
-    "dec": 188.12,
-    "res": "open",
-    "hit": 0,
-    "p0": 0.0053,
-    "now": null
-   },
-   {
-    "id": "f12l0310",
-    "name": null,
-    "date": "2026-11-26",
-    "legs": [
-     {
-      "sp": "ncaab",
-      "game": "UGA@CIN",
-      "pick": "UGA +4",
-      "price": -154,
-      "start": "2026-11-26T16:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.606,
-      "q": 0.606,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "MD@SDSU",
-      "pick": "SDSU +6.5",
-      "price": -152,
-      "start": "2026-11-26T18:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.603,
-      "q": 0.603,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "MIA@MICH",
-      "pick": "MICH +4",
-      "price": -149,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.598,
-      "q": 0.598,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "TENN@ISU",
-      "pick": "TENN +5.5",
-      "price": -149,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.598,
-      "q": 0.598,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "USU@USC",
-      "pick": "USU +4.5",
-      "price": -154,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.606,
-      "q": 0.606,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "PHI@DAL",
-      "pick": "DAL -7",
-      "price": -155,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.608,
-      "q": 0.608,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "ARK@MSU",
-      "pick": "ARK +7",
-      "price": -152,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.603,
-      "q": 0.603,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "SMC@UCLA",
-      "pick": "SMC +9",
-      "price": -153,
-      "start": "2026-11-26T22:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.605,
-      "q": 0.605,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "SMU@LSU",
-      "pick": "SMU +9",
-      "price": -150,
-      "start": "2026-11-27T00:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.6,
-      "q": 0.6,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "ALA@KSU",
-      "pick": "KSU +16",
-      "price": -150,
-      "start": "2026-11-27T02:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.6,
-      "q": 0.6,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     }
-    ],
-    "dec": 157.78,
-    "res": "open",
-    "hit": 0,
-    "p0": 0.00634,
     "now": null
    },
    {
@@ -83618,74 +83623,6 @@
     "fair": -459
    },
    {
-    "id": "ncaab|kanoncatchings|fg3|1|over",
-    "sp": "ncaab",
-    "player": "Kanon Catchings",
-    "team": "UGA",
-    "k": "fg3",
-    "lab": "3PM",
-    "thr": 1,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     7,
-     5,
-     4,
-     0,
-     2,
-     1,
-     0,
-     5,
-     1,
-     1
-    ],
-    "dates": [
-     "260303",
-     "260307",
-     "260312",
-     "260319",
-     "261102",
-     "261106",
-     "261109",
-     "261113",
-     "261116",
-     "261120"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 3,
-    "avg10": 2.6,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.858
-     },
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Trends",
-      "p": 0.806
-     },
-     {
-      "v": "Sim",
-      "p": 0.805
-     }
-    ],
-    "votes": 4,
-    "p": 0.821,
-    "fair": -459
-   },
-   {
     "id": "ncaab|bjedwards|fg3|1|over",
     "sp": "ncaab",
     "player": "B.J. Edwards",
@@ -84393,74 +84330,6 @@
     ],
     "streak": 4,
     "avg10": 9.2,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.817,
-    "fair": -446
-   },
-   {
-    "id": "ncaab|bluecain|pra|15|over",
-    "sp": "ncaab",
-    "player": "Blue Cain",
-    "team": "UGA",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     20,
-     26,
-     11,
-     10,
-     22,
-     27,
-     20,
-     29,
-     25,
-     19
-    ],
-    "dates": [
-     "260303",
-     "260307",
-     "260312",
-     "260319",
-     "261102",
-     "261106",
-     "261109",
-     "261113",
-     "261116",
-     "261120"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 6,
-    "avg10": 20.9,
     "by": [
      {
       "v": "Most common",
@@ -85906,74 +85775,6 @@
     "fair": -429
    },
    {
-    "id": "ncaab|mjcollinsjr|pts|10|over",
-    "sp": "ncaab",
-    "player": "MJ Collins Jr.",
-    "team": "CIN",
-    "k": "pts",
-    "lab": "PTS",
-    "thr": 10,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     12,
-     20,
-     20,
-     12,
-     13,
-     11,
-     6,
-     12,
-     14,
-     15
-    ],
-    "dates": [
-     "260313",
-     "260314",
-     "260320",
-     "260322",
-     "261102",
-     "261105",
-     "261109",
-     "261114",
-     "261118",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 3,
-    "avg10": 13.5,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Most common",
-      "p": 0.786
-     }
-    ],
-    "votes": 4,
-    "p": 0.811,
-    "fair": -429
-   },
-   {
     "id": "ncaab|robbieavila|pr|12|over",
     "sp": "ncaab",
     "player": "Robbie Avila",
@@ -86380,74 +86181,6 @@
     "votes": 4,
     "p": 0.809,
     "fair": -424
-   },
-   {
-    "id": "ncaab|mjcollinsjr|pr|12|over",
-    "sp": "ncaab",
-    "player": "MJ Collins Jr.",
-    "team": "CIN",
-    "k": "pr",
-    "lab": "PTS+REB",
-    "thr": 12,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     19,
-     23,
-     24,
-     15,
-     15,
-     14,
-     8,
-     15,
-     16,
-     17
-    ],
-    "dates": [
-     "260313",
-     "260314",
-     "260320",
-     "260322",
-     "261102",
-     "261105",
-     "261109",
-     "261114",
-     "261118",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 3,
-    "avg10": 16.6,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Sim",
-      "p": 0.811
-     },
-     {
-      "v": "Judge",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.786
-     }
-    ],
-    "votes": 4,
-    "p": 0.809,
-    "fair": -423
    },
    {
     "id": "ncaab|dukebrennan|pra|15|over",
@@ -87264,10 +86997,281 @@
     "votes": 4,
     "p": 0.808,
     "fair": -421
+   },
+   {
+    "id": "ncaab|florybidunga|blk|1|over",
+    "sp": "ncaab",
+    "player": "Flory Bidunga",
+    "team": "LOU",
+    "k": "blk",
+    "lab": "BLK",
+    "thr": 1,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     4,
+     3,
+     0,
+     1,
+     3,
+     0,
+     2,
+     0,
+     4,
+     1
+    ],
+    "dates": [
+     "260307",
+     "260312",
+     "260313",
+     "260320",
+     "260322",
+     "261102",
+     "261107",
+     "261115",
+     "261119",
+     "261124"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 2,
+    "avg10": 1.8,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.816
+     },
+     {
+      "v": "Trends",
+      "p": 0.806
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.803
+     }
+    ],
+    "votes": 4,
+    "p": 0.807,
+    "fair": -419
+   },
+   {
+    "id": "ncaab|joshuadent|fg3|1|over",
+    "sp": "ncaab",
+    "player": "Joshua Dent",
+    "team": "SMC",
+    "k": "fg3",
+    "lab": "3PM",
+    "thr": 1,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     4,
+     0,
+     4,
+     0,
+     5,
+     5,
+     3,
+     1,
+     1,
+     2
+    ],
+    "dates": [
+     "260228",
+     "260309",
+     "260319",
+     "261102",
+     "261104",
+     "261108",
+     "261113",
+     "261116",
+     "261120",
+     "261122"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 6,
+    "avg10": 2.5,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.816
+     },
+     {
+      "v": "Trends",
+      "p": 0.806
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.803
+     }
+    ],
+    "votes": 4,
+    "p": 0.807,
+    "fair": -419
+   },
+   {
+    "id": "ncaab|elliotcadeau|ast|3|over",
+    "sp": "ncaab",
+    "player": "Elliot Cadeau",
+    "team": "MICH",
+    "k": "ast",
+    "lab": "AST",
+    "thr": 3,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     7,
+     10,
+     10,
+     2,
+     6,
+     3,
+     10,
+     11,
+     5,
+     2
+    ],
+    "dates": [
+     "260327",
+     "260329",
+     "260404",
+     "260406",
+     "261102",
+     "261106",
+     "261111",
+     "261115",
+     "261121",
+     "261124"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": -1,
+    "avg10": 6.6,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.816
+     },
+     {
+      "v": "Trends",
+      "p": 0.807
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.803
+     }
+    ],
+    "votes": 4,
+    "p": 0.807,
+    "fair": -419
+   },
+   {
+    "id": "ncaab|tomislavbuljan|pra|15|over",
+    "sp": "ncaab",
+    "player": "Tomislav Buljan",
+    "team": "MD",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     38,
+     24,
+     40,
+     17,
+     17,
+     15,
+     14,
+     21,
+     11,
+     26
+    ],
+    "dates": [
+     "260318",
+     "260322",
+     "260324",
+     "260402",
+     "261102",
+     "261107",
+     "261113",
+     "261116",
+     "261120",
+     "261124"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 1,
+    "avg10": 22.3,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.816
+     },
+     {
+      "v": "Trends",
+      "p": 0.805
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.803
+     }
+    ],
+    "votes": 4,
+    "p": 0.807,
+    "fair": -418
    }
   ]
  },
- "betaSig": "[[\"nfl|patrickmahomes|cmp|15|over5\",\"nfl|tylerbass|fgm|1|over5\",\"nfl|jaredgoff|cmp|15|over5\",\"nfl|javontewilliams|car|10|over5\",\"nfl|dandreswift|car|10|over5\",\"nfl|brandonaubrey|kpts|5|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|saquonbarkley|car|10|over5\",\"nfl|jeremiahtrotterjr|tkl|4|over5\",\"nfl|jakebates|kpts|5|over5\",\"nfl|druetranquill|tkl|4|over5\",\"nfl|jamescookiii|ry|50|over5\",\"nfl|patrickmahomes|py|200|over5\",\"nfl|jalenhurts|ptd|1|over5\",\"nfl|amonrastbrown|wy|40|over5\",\"nfl|jaredgoff|att|25|over5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|georgepickens|rec|4|over5\",\"nfl|ceedeelamb|wy|40|over5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|jamesonwilliams|lwy|20|over5\",\"nfl|dillonthieneman|tkl|4|over5\",\"nfl|calebdowns|tkl|4|over5\",\"nfl|jahmyrgibbs|rry|80|over5\",\"nfl|jihaadcampbell|tkl|4|over5\",\"nfl|jakebates|fgm|1|over5\",\"nfl|calebwilliams|att|25|over5\",\"nfl|calebwilliams|cmp|15|over5\",\"nfl|lutherburdeniii|lwy|15|over5\",\"nfl|jackcampbell|tkl|4|over5\",\"nfl|brandonaubrey|fgm|1|over5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|amonrastbrown|lwy|15|over5\",\"nfl|samlaporta|lwy|15|over5\",\"nfl|dakprescott|py|200|over5\",\"nfl|georgepickens|wy|40|over5\",\"nfl|calebwilliams|ptd|1|over5\",\"nfl|cairosantos|kpts|5|over5\",\"nfl|cairosantos|fgm|1|over5\",\"nfl|romeodunze|lwy|15|over5\",\"nfl|jahmyrgibbs|lry|10|over5\",\"nfl|harrisonbutker|kpts|5|over5\",\"nfl|traviskelce|lwy|15|over5\",\"nfl|kylemonangai|lry|10|over5\",\"nfl|khalilshakir|lwy|15|over5\",\"nfl|amanihooker|tkl|4|over5\",\"nfl|tylerbass|kpts|7|over5\",\"nfl|joshallen|cmp|15|over5\",\"nfl|jamescookiii|car|15|over5\",\"nfl|daltonkincaid|lwy|15|over5\",\"ncaaf|jkobywilliams|ry|50|over5\",\"nfl|terrelbernard|tkl|4|over5\",\"nfl|dorianwilliams|tkl|4|over5\",\"ncaaf|thomascastellanos|ptd|1|over5\",\"nfl|ceedeelamb|rry|60|over5\",\"nfl|georgepickens|lwy|20|over5\",\"nfl|harrisonbutker|fgm|1|over5\",\"nfl|amonrastbrown|rec|5|over5\",\"nfl|ceedeelamb|lwy|20|over5\",\"nfl|dariuscooper|lwy|15|over5\",\"nfl|devinbush|tkl|4|over5\",\"nfl|dakprescott|att|30|over5\",\"nfl|jamesonwilliams|wy|40|over5\",\"nfl|kylemonangai|car|10|over5\",\"nfl|dakprescott|pry|220|over5\",\"ncaab|dallinhall|ast|3|over4\",\"ncaab|dallinhall|fg3|1|over4\",\"ncaab|dallinhall|ra|6|over4\",\"ncaab|willhornseth|pts|10|over4\",\"ncaab|willhornseth|pa|12|over4\",\"ncaab|willhornseth|pra|15|over4\",\"ncaab|willhornseth|ra|6|over4\",\"ncaab|javontaecampbell|stl|1|over4\",\"ncaab|javontaecampbell|ast|3|over4\",\"ncaab|latrelldavis|fg3|1|over4\",\"nfl|patrickmahomes|att|25|over4\",\"ncaab|joelfoxwell|ast|3|over4\",\"ncaab|masonfalslev|pts|10|over4\",\"ncaab|masonfalslev|ra|8|over4\",\"ncaab|bearcherry|blk|1|over4\",\"ncaab|chancegladden|ast|3|over4\",\"ncaab|daidaiames|pts|10|over4\",\"ncaab|elliotcadeau|pra|15|over4\",\"ncaab|ericdaileyjr|pra|15|over4\",\"ncaab|billyrichmondiii|ra|6|over4\",\"ncaab|cruzdavis|ast|3|over4\",\"ncaab|keyshawnhall|pra|20|over4\",\"ncaab|keyshawnhall|pa|15|over4\",\"ncaab|javontaecampbell|to|2|over4\",\"ncaab|joelfoxwell|pra|20|over4\",\"ncaab|joelfoxwell|pr|15|over4\",\"ncaab|xavieredmonds|pts|10|over4\",\"ncaab|latrelldavis|pa|15|over4\",\"ncaab|amariallen|fg3|1|over4\",\"ncaab|davionthompson|pa|12|over4\",\"ncaab|kanoncatchings|fg3|1|over4\",\"ncaab|bjedwards|fg3|1|over4\",\"ncaab|wesenis|pr|15|over4\",\"ncaab|donovandent|stl|1|over4\",\"ncaab|masonfalslev|pra|20|over4\",\"ncaab|skyyclark|fg3|1|over4\",\"ncaaf|jordandwyer|lwy|15|over4\",\"ncaab|florybidunga|ra|8|over4\",\"ncaab|masonfalslev|pa|15|over4\",\"ncaab|jeremiahwilkinson|pr|12|over4\",\"ncaab|jeremiahwilkinson|pa|12|over4\",\"ncaab|davionthompson|ra|6|over4\",\"ncaab|bluecain|pra|15|over4\",\"ncaab|nickanderson|pra|15|over4\",\"ncaaf|jadencraig|py|200|over4\",\"ncaab|naithangeorge|stl|1|over4\",\"ncaab|billyrichmondiii|pr|15|over4\",\"ncaab|masonfalslev|reb|5|over4\",\"ncaab|masonfalslev|ast|3|over4\",\"ncaab|naithangeorge|pra|15|over4\",\"ncaab|billyrichmondiii|pts|10|over4\",\"ncaab|isaiahchappell|fg3|1|over4\",\"ncaab|lukeertel|fg3|1|over4\",\"ncaab|alijaharenas|pra|15|over4\",\"ncaab|jeremiahwilkinson|pts|10|over4\",\"ncaab|nickanderson|pts|10|over4\",\"ncaab|rowanbrumbaugh|pra|15|over4\",\"ncaab|laydenblocker|stl|1|over4\",\"ncaab|donovanatwell|fg3|2|over4\",\"ncaab|cruzdavis|stl|1|over4\",\"ncaab|javonbennett|fg3|1|over4\",\"ncaab|vinceiwuchukwu|pra|15|over4\",\"ncaab|cruzdavis|pts|10|over4\",\"ncaab|donniefreeman|pts|10|over4\",\"ncaab|mjcollinsjr|pts|10|over4\",\"ncaab|robbieavila|pr|12|over4\",\"ncaab|brentbland|fg3|1|over4\",\"ncaab|ryancurry|fg3|1|over4\",\"ncaab|cruzdavis|pr|15|over4\",\"ncaab|cruzdavis|pa|15|over4\",\"ncaab|malachibrown|fg3|1|over4\",\"ncaab|mjcollinsjr|pr|12|over4\",\"ncaab|dukebrennan|pra|15|over4\",\"ncaab|bjedwards|stl|1|over4\",\"ncaab|robbieavila|fg3|1|over4\",\"ncaab|robbieavila|pra|15|over4\",\"ncaab|robbieavila|ra|6|over4\",\"ncaab|koreecotton|pra|15|over4\",\"nfl|devontasmith|lwy|15|over4\",\"ncaab|joshuadent|ast|3|over4\",\"ncaab|javontaecampbell|pr|15|over4\",\"ncaab|dukebrennan|pr|15|over4\",\"ncaab|bjedwards|pra|15|over4\",\"ncaab|xavieredmonds|pra|15|over4\"],[\"live:oooooooooooooooooooooool26~5l44~5l2~5l1~5l13~5l~5l4~5l46~5l5~5l~5\",\"live:ol~5oooooooo\",\"live:oooool~6ooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"lost:hh8mhhh35h1m11h12h3h10m19m5h19m11h28hmm1h4m0h30\"],[[2,[\"strong\",\"value\"],15],[3,[\"strong\",\"strong\",\"strong\"],11],[1,[\"supreme*\"],18],[0,[],17],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],18],[1,[\"supreme\"],21],[2,[\"supreme*\",\"strong\"],22],[0,[],23],[1,[\"supreme*\"],17],[0,[],22],[0,[],21],[1,[\"strong\"],22],[0,[],16],[1,[\"supreme*\"],23],[0,[],19],[0,[],18],[0,[],23],[1,[\"strong!\"],17],[0,[],22],[0,[],18],[2,[\"strong\",\"strong\"],19],[1,[\"supreme\"],20],[3,[\"supreme*\",\"strong\",\"value\"],23],[0,[],18],[1,[\"strong\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"supreme*\",\"value\"],21],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],22],[0,[],20],[1,[\"supreme*\"],17],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"strong\"],16],[3,[\"strong\",\"value\",\"value\"],19],[2,[\"strong\",\"strong\"],22],[0,[],16],[1,[\"supreme*\"],14],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"supreme\",\"strong\"],20],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],19],[1,[\"value\"],19],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],17],[1,[\"strong\"],19],[1,[\"strong\"],23],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],20],[1,[\"value\"],22],[0,[],22],[0,[],19],[2,[\"strong\",\"strong\"],21],[2,[\"strong\",\"value\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[1,[\"strong\"],11],[0,[],19],[0,[],20],[3,[\"supreme\",\"strong\",\"strong\"],15],[0,[],15],[1,[\"strong\"],22],[1,[\"strong\"],24],[2,[\"strong\",\"value\"],18],[2,[\"supreme\",\"strong\"],21],[1,[\"strong\"],20],[1,[\"supreme*\"],21],[0,[],17],[2,[\"strong\",\"strong\"],21],[0,[],12],[0,[],20],[2,[\"strong\",\"strong\"],16],[1,[\"strong\"],23],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[2,[\"strong\",\"strong\"],22],[1,[\"value\"],14],[1,[\"strong\"],21],[1,[\"value\"],19],[1,[\"supreme\"],22],[1,[\"supreme\"],14],[1,[\"strong\"],20],[1,[\"strong\"],16],[1,[\"strong\"],19],[1,[\"strong\"],17],[2,[\"strong\",\"strong\"],15],[1,[\"strong\"],23],[1,[\"strong\"],17],[2,[\"strong\",\"value\"],13],[0,[],20],[0,[],18],[2,[\"strong\",\"value\"],21],[0,[],21],[2,[\"strong\",\"strong\"],17],[0,[],19],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],13]],[0,12,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-14-0\",\"18-13-0\"]],[7,[null,null,null,null,null,null,null],[\"3-16-0\",\"2-10-0\",\"19-7-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"4-1-0\",\"11-16-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-8-0\",\"15-18-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[0,[],[\"1-1-0\",\"1-4-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"16-10-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[2,[null,null],[\"1-7-0\",\"4-13-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-1-0\",\"0-0-0\"]],[1,[null],[\"1-11-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-2-0\",\"0-0-0\"]],[2,[null,null],[\"0-1-0\",\"0-1-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
- "simple": 1,
- "by": "worker"
+ "betaSig": "[[\"nfl|patrickmahomes|cmp|15|over5\",\"nfl|tylerbass|fgm|1|over5\",\"nfl|jaredgoff|cmp|15|over5\",\"nfl|javontewilliams|car|10|over5\",\"nfl|dandreswift|car|10|over5\",\"nfl|brandonaubrey|kpts|5|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|saquonbarkley|car|10|over5\",\"nfl|jeremiahtrotterjr|tkl|4|over5\",\"nfl|jakebates|kpts|5|over5\",\"nfl|druetranquill|tkl|4|over5\",\"nfl|jamescookiii|ry|50|over5\",\"nfl|patrickmahomes|py|200|over5\",\"nfl|jalenhurts|ptd|1|over5\",\"nfl|amonrastbrown|wy|40|over5\",\"nfl|jaredgoff|att|25|over5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|georgepickens|rec|4|over5\",\"nfl|ceedeelamb|wy|40|over5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|jamesonwilliams|lwy|20|over5\",\"nfl|dillonthieneman|tkl|4|over5\",\"nfl|calebdowns|tkl|4|over5\",\"nfl|jahmyrgibbs|rry|80|over5\",\"nfl|jihaadcampbell|tkl|4|over5\",\"nfl|jakebates|fgm|1|over5\",\"nfl|calebwilliams|att|25|over5\",\"nfl|calebwilliams|cmp|15|over5\",\"nfl|lutherburdeniii|lwy|15|over5\",\"nfl|jackcampbell|tkl|4|over5\",\"nfl|brandonaubrey|fgm|1|over5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|amonrastbrown|lwy|15|over5\",\"nfl|samlaporta|lwy|15|over5\",\"nfl|dakprescott|py|200|over5\",\"nfl|georgepickens|wy|40|over5\",\"nfl|calebwilliams|ptd|1|over5\",\"nfl|cairosantos|kpts|5|over5\",\"nfl|cairosantos|fgm|1|over5\",\"nfl|romeodunze|lwy|15|over5\",\"nfl|jahmyrgibbs|lry|10|over5\",\"nfl|harrisonbutker|kpts|5|over5\",\"nfl|traviskelce|lwy|15|over5\",\"nfl|kylemonangai|lry|10|over5\",\"nfl|khalilshakir|lwy|15|over5\",\"nfl|amanihooker|tkl|4|over5\",\"nfl|tylerbass|kpts|7|over5\",\"nfl|joshallen|cmp|15|over5\",\"nfl|jamescookiii|car|15|over5\",\"nfl|daltonkincaid|lwy|15|over5\",\"ncaaf|jkobywilliams|ry|50|over5\",\"nfl|terrelbernard|tkl|4|over5\",\"nfl|dorianwilliams|tkl|4|over5\",\"ncaaf|thomascastellanos|ptd|1|over5\",\"nfl|ceedeelamb|rry|60|over5\",\"nfl|georgepickens|lwy|20|over5\",\"nfl|harrisonbutker|fgm|1|over5\",\"nfl|amonrastbrown|rec|5|over5\",\"nfl|ceedeelamb|lwy|20|over5\",\"nfl|dariuscooper|lwy|15|over5\",\"nfl|devinbush|tkl|4|over5\",\"nfl|dakprescott|att|30|over5\",\"nfl|jamesonwilliams|wy|40|over5\",\"nfl|kylemonangai|car|10|over5\",\"nfl|dakprescott|pry|220|over5\",\"ncaab|dallinhall|ast|3|over4\",\"ncaab|dallinhall|fg3|1|over4\",\"ncaab|dallinhall|ra|6|over4\",\"ncaab|willhornseth|pts|10|over4\",\"ncaab|willhornseth|pa|12|over4\",\"ncaab|willhornseth|pra|15|over4\",\"ncaab|willhornseth|ra|6|over4\",\"ncaab|javontaecampbell|stl|1|over4\",\"ncaab|javontaecampbell|ast|3|over4\",\"ncaab|latrelldavis|fg3|1|over4\",\"nfl|patrickmahomes|att|25|over4\",\"ncaab|joelfoxwell|ast|3|over4\",\"ncaab|masonfalslev|pts|10|over4\",\"ncaab|masonfalslev|ra|8|over4\",\"ncaab|bearcherry|blk|1|over4\",\"ncaab|chancegladden|ast|3|over4\",\"ncaab|daidaiames|pts|10|over4\",\"ncaab|elliotcadeau|pra|15|over4\",\"ncaab|ericdaileyjr|pra|15|over4\",\"ncaab|billyrichmondiii|ra|6|over4\",\"ncaab|cruzdavis|ast|3|over4\",\"ncaab|keyshawnhall|pra|20|over4\",\"ncaab|keyshawnhall|pa|15|over4\",\"ncaab|javontaecampbell|to|2|over4\",\"ncaab|joelfoxwell|pra|20|over4\",\"ncaab|joelfoxwell|pr|15|over4\",\"ncaab|xavieredmonds|pts|10|over4\",\"ncaab|latrelldavis|pa|15|over4\",\"ncaab|amariallen|fg3|1|over4\",\"ncaab|davionthompson|pa|12|over4\",\"ncaab|bjedwards|fg3|1|over4\",\"ncaab|wesenis|pr|15|over4\",\"ncaab|donovandent|stl|1|over4\",\"ncaab|masonfalslev|pra|20|over4\",\"ncaab|skyyclark|fg3|1|over4\",\"ncaaf|jordandwyer|lwy|15|over4\",\"ncaab|florybidunga|ra|8|over4\",\"ncaab|masonfalslev|pa|15|over4\",\"ncaab|jeremiahwilkinson|pr|12|over4\",\"ncaab|jeremiahwilkinson|pa|12|over4\",\"ncaab|davionthompson|ra|6|over4\",\"ncaab|nickanderson|pra|15|over4\",\"ncaaf|jadencraig|py|200|over4\",\"ncaab|naithangeorge|stl|1|over4\",\"ncaab|billyrichmondiii|pr|15|over4\",\"ncaab|masonfalslev|reb|5|over4\",\"ncaab|masonfalslev|ast|3|over4\",\"ncaab|naithangeorge|pra|15|over4\",\"ncaab|billyrichmondiii|pts|10|over4\",\"ncaab|isaiahchappell|fg3|1|over4\",\"ncaab|lukeertel|fg3|1|over4\",\"ncaab|alijaharenas|pra|15|over4\",\"ncaab|jeremiahwilkinson|pts|10|over4\",\"ncaab|nickanderson|pts|10|over4\",\"ncaab|rowanbrumbaugh|pra|15|over4\",\"ncaab|laydenblocker|stl|1|over4\",\"ncaab|donovanatwell|fg3|2|over4\",\"ncaab|cruzdavis|stl|1|over4\",\"ncaab|javonbennett|fg3|1|over4\",\"ncaab|vinceiwuchukwu|pra|15|over4\",\"ncaab|cruzdavis|pts|10|over4\",\"ncaab|donniefreeman|pts|10|over4\",\"ncaab|robbieavila|pr|12|over4\",\"ncaab|brentbland|fg3|1|over4\",\"ncaab|ryancurry|fg3|1|over4\",\"ncaab|cruzdavis|pr|15|over4\",\"ncaab|cruzdavis|pa|15|over4\",\"ncaab|malachibrown|fg3|1|over4\",\"ncaab|dukebrennan|pra|15|over4\",\"ncaab|bjedwards|stl|1|over4\",\"ncaab|robbieavila|fg3|1|over4\",\"ncaab|robbieavila|pra|15|over4\",\"ncaab|robbieavila|ra|6|over4\",\"ncaab|koreecotton|pra|15|over4\",\"nfl|devontasmith|lwy|15|over4\",\"ncaab|joshuadent|ast|3|over4\",\"ncaab|javontaecampbell|pr|15|over4\",\"ncaab|dukebrennan|pr|15|over4\",\"ncaab|bjedwards|pra|15|over4\",\"ncaab|xavieredmonds|pra|15|over4\",\"ncaab|florybidunga|blk|1|over4\",\"ncaab|joshuadent|fg3|1|over4\",\"ncaab|elliotcadeau|ast|3|over4\",\"ncaab|tomislavbuljan|pra|15|over4\"],[\"live:oooooooooooooooooooooool26~5l44~5l2~5l1~5l13~5l~6l4~5l46~5l5~5l~7\",\"live:ooohhl~8l~9ooo\",\"live:hl~8oooooooo\",\"live:l~3l~6l~8ooooooo\",\"live:ooool~5l~7ooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"lost:hh8mhhh35h1m11h12h3h10m19m5h19m11h28hmm1h4m0h30\"],[[2,[\"strong\",\"value\"],15],[3,[\"strong\",\"strong\",\"strong\"],11],[1,[\"supreme*\"],18],[0,[],17],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],18],[1,[\"supreme\"],21],[2,[\"supreme*\",\"strong\"],22],[0,[],23],[1,[\"supreme*\"],17],[0,[],22],[0,[],21],[1,[\"strong\"],22],[0,[],16],[1,[\"supreme*\"],23],[0,[],19],[0,[],18],[0,[],23],[1,[\"strong!\"],17],[0,[],22],[0,[],18],[2,[\"strong\",\"strong\"],19],[1,[\"supreme\"],20],[3,[\"supreme*\",\"strong\",\"value\"],23],[0,[],18],[1,[\"strong\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"supreme*\",\"value\"],21],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],22],[0,[],20],[1,[\"supreme*\"],17],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"strong\"],16],[3,[\"strong\",\"value\",\"value\"],19],[2,[\"strong\",\"strong\"],22],[0,[],16],[1,[\"supreme*\"],14],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"supreme\",\"strong\"],20],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],19],[1,[\"value\"],19],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],17],[1,[\"strong\"],19],[1,[\"strong\"],23],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],20],[1,[\"value\"],22],[0,[],22],[0,[],19],[2,[\"strong\",\"strong\"],21],[2,[\"strong\",\"value\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[1,[\"strong\"],11],[0,[],19],[0,[],20],[3,[\"supreme\",\"strong\",\"strong\"],15],[0,[],15],[1,[\"strong\"],22],[1,[\"strong\"],24],[2,[\"strong\",\"value\"],18],[2,[\"supreme\",\"strong\"],21],[1,[\"strong\"],20],[1,[\"supreme*\"],21],[0,[],17],[2,[\"strong\",\"strong\"],21],[0,[],12],[0,[],20],[2,[\"strong\",\"strong\"],16],[1,[\"strong\"],23],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[2,[\"strong\",\"strong\"],22],[1,[\"value\"],14],[1,[\"strong\"],21],[1,[\"value\"],19],[1,[\"supreme\"],22],[1,[\"supreme\"],14],[1,[\"strong\"],20],[1,[\"strong\"],16],[1,[\"strong\"],19],[1,[\"strong\"],17],[2,[\"strong\",\"strong\"],15],[1,[\"strong\"],23],[1,[\"strong\"],17],[2,[\"strong\",\"value\"],13],[0,[],20],[0,[],18],[2,[\"strong\",\"value\"],21],[0,[],21],[2,[\"strong\",\"strong\"],17],[0,[],19],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],13]],[0,12,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-14-0\",\"18-13-0\"]],[7,[null,null,null,null,null,null,null],[\"3-16-0\",\"2-10-0\",\"19-7-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"4-1-0\",\"11-16-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-8-0\",\"15-18-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[0,[],[\"1-1-0\",\"1-4-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"16-10-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[2,[null,null],[\"1-7-0\",\"4-13-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-1-0\",\"0-0-0\"]],[1,[null],[\"1-11-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-2-0\",\"0-0-0\"]],[2,[null,null],[\"0-1-0\",\"0-1-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "simple": 1
 }
