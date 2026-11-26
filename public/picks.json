@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795725182771,
+ "generated": 1795725685240,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -16,7 +16,7 @@
   "w": 58,
   "l": 39,
   "pu": 0,
-  "u": 5.45,
+  "u": 5.45347643062187,
   "first": "2026-10-06",
   "be": 0.5792939449449924,
   "ap": -138
@@ -556,7 +556,7 @@
       "text": "Watch the players, not the logos. I watch the talent, and the talent edge is Detroit's. The worry: Detroit is missing DJ Wonnum (LB) and Chuck Clark (S) — that's the hole. Jahmyr Gibbs is on a heater: 113 rushing yards a game recently, against a season mark of 91. Chicago is without Case Keenum (QB, out) and Isaac Yiadom (CB, out). The sims land on Detroit 47% of the time. My record on NFL favorites on the moneyline: 32-9. I'm 4-0 backing Detroit to win — only 4 games, so it's a footnote, not the reason. What it costs: -104 needs 51%. I'm at 69%, so the price pays more than the risk. (The sim by itself: 47%.)"
      }
     },
-    "q": 0.706,
+    "q": 0.69,
     "unlockAt": 1795714200000
    },
    {
@@ -659,7 +659,7 @@
      "read": {
       "who": "The Closer",
       "take": "Here's my ruling.",
-      "text": "Here's my ruling. Where it goes wrong: Baylor is on its third straight road game. Don't skip past this: Baylor has the clear talent edge. Everybody's on the same page, all 4 of us. I'm 38-29 on CBB underdogs against the spread. The book is pricing this like it happens 52% of the time. I say 62%. Translation: the price pays more than the risk."
+      "text": "Here's my ruling. Where it goes wrong: Baylor is on its third straight road game. Don't skip past this: Baylor has the clear talent edge. Everybody's on the same page, all 4 of us. I'm 39-29 on CBB underdogs against the spread. The book is pricing this like it happens 52% of the time. I say 62%. Translation: the price pays more than the risk."
      }
     },
     "q": null,
@@ -667,7 +667,12 @@
    }
   ],
   "props": [],
-  "allStarted": true
+  "allStarted": false,
+  "commit": {
+   "alg": "sha256",
+   "hash": "6cace9a5ae9b90584b6228a62de08db85a0a7a47a76f63a49af20ff678845662",
+   "salt": null
+  }
  },
  "parlay": null,
  "parlayRecord": null,
@@ -2086,7 +2091,7 @@
       "pick": "CHI ML",
       "price": -116,
       "p": 0.561,
-      "q": 0.426,
+      "q": 0.561,
       "start": "2026-11-26T18:00Z",
       "hit": null,
       "push": false,
@@ -2176,7 +2181,7 @@
       "pick": "SC +3.5",
       "price": -110,
       "p": 0.615,
-      "q": 0.989,
+      "q": 0.615,
       "start": "2026-11-26T19:00Z",
       "hit": null,
       "push": false,
@@ -2570,7 +2575,7 @@
       "pick": "DET ML",
       "price": -104,
       "p": 0.633,
-      "q": 0.676,
+      "q": 0.633,
       "start": "2026-11-26T18:00Z",
       "hit": null,
       "push": false,
@@ -2650,7 +2655,7 @@
       "pick": "BC ML",
       "price": 100,
       "p": 0.559,
-      "q": 0.889,
+      "q": 0.559,
       "start": "2026-11-26T18:30Z",
       "hit": null,
       "push": false,
@@ -2838,7 +2843,7 @@
       "pick": "DET ML",
       "price": -104,
       "p": 0.559,
-      "q": 0.637,
+      "q": 0.559,
       "start": "2026-11-26T18:00Z",
       "hit": null,
       "push": false,
@@ -3179,21 +3184,21 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 88,
+     "w": 89,
      "l": 59,
-     "u": 21.2
+     "u": 22.1
+    },
+    {
+     "lane": "College hoops underdogs on the moneyline",
+     "w": 20,
+     "l": 19,
+     "u": 6
     },
     {
      "lane": "College football unders",
      "w": 72,
      "l": 53,
      "u": 12.5
-    },
-    {
-     "lane": "College hoops underdogs on the moneyline",
-     "w": 19,
-     "l": 19,
-     "u": 4.1
     }
    ],
    "still": [
@@ -3206,9 +3211,9 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     88,
+     89,
      59,
-     21.2,
+     22.1,
      7,
      12
     ],
@@ -3230,9 +3235,9 @@
     ],
     [
      "ncaab|ml|dog",
+     20,
      19,
-     19,
-     4.1,
+     6,
      5,
      5
     ],
@@ -3374,9 +3379,9 @@
     ],
     [
      "ncaab|total|under",
-     51,
+     52,
      57,
-     -10.5,
+     -9.6,
      9,
      10
     ],
@@ -3401,7 +3406,7 @@
      141,
      66,
      -16.1,
-     8,
+     7,
      9
     ],
     [
@@ -3428,8 +3433,8 @@
     "u": -6.97
    },
    "props": {
-    "w": 1020,
-    "l": 226
+    "w": 1022,
+    "l": 228
    },
    "par": {
     "game": {
@@ -5299,6 +5304,34 @@
    ],
    "recent": [
     {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Chance Gladden 3+ AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Chance Gladden 15+ PTS+REB+AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bear Cherry 1+ BLK",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bear Cherry 15+ PTS+REB+AST",
+     "r": "win"
+    },
+    {
      "d": "2026-11-25",
      "kind": "prop",
      "sp": "ncaab",
@@ -5352,34 +5385,6 @@
      "kind": "prop",
      "sp": "ncaab",
      "pick": "Baraka Okojie 20+ PTS+REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 15+ PTS+REB",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 15+ PTS+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 6+ REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 1+ STL",
      "r": "win"
     }
    ],
@@ -5656,31 +5661,31 @@
     },
     {
      "sp": "ncaab",
-     "team": "VAN",
+     "team": "SDSU",
      "ml": [
       8,
       0,
-      0,
+      1,
       0
      ],
      "ats": [
       2,
-      1,
+      2,
       1,
       4
      ],
      "ou": [
-      0,
-      6,
+      4,
+      2,
       1,
-      1
+      2
      ],
      "for": {
       "w": 10,
-      "l": 1
+      "l": 2
      },
      "vs": {
-      "w": 1,
+      "w": 2,
       "l": 4
      }
     }
@@ -5803,9 +5808,9 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 76,
+     "w": 77,
      "l": 52,
-     "u": 17.1
+     "u": 18
     },
     {
      "lane": "College football unders",
@@ -5830,9 +5835,9 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     76,
+     77,
      52,
-     17.1,
+     18,
      8,
      12
     ],
@@ -6023,8 +6028,8 @@
     [
      "ncaab|ml|fav",
      154,
-     72,
-     -14.8,
+     73,
+     -15.8,
      4,
      9
     ],
@@ -6053,7 +6058,7 @@
    },
    "props": {
     "w": 1020,
-    "l": 223
+    "l": 224
    },
    "par": {
     "game": {
@@ -7957,6 +7962,13 @@
    ],
    "recent": [
     {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Tomislav Buljan 15+ PTS+REB+AST",
+     "r": "loss"
+    },
+    {
      "d": "2026-11-25",
      "kind": "prop",
      "sp": "ncaab",
@@ -8031,13 +8043,6 @@
      "kind": "prop",
      "sp": "ncaab",
      "pick": "Baraka Okojie 15+ PTS+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 6+ REB+AST",
      "r": "win"
     }
    ],
@@ -8463,9 +8468,9 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 112,
+     "w": 113,
      "l": 70,
-     "u": 31.5
+     "u": 32.5
     },
     {
      "lane": "NBA underdogs on the spread",
@@ -8490,9 +8495,9 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     112,
+     113,
      70,
-     31.5,
+     32.5,
      4,
      12
     ],
@@ -8616,8 +8621,8 @@
     "u": 5.47
    },
    "props": {
-    "w": 270,
-    "l": 75
+    "w": 272,
+    "l": 76
    },
    "par": {
     "game": {
@@ -10091,6 +10096,27 @@
    ],
    "recent": [
     {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Tomislav Buljan 8+ REB+AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Isaiah Sy 1+ 3PM",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bear Cherry 12+ PTS+REB",
+     "r": "win"
+    },
+    {
      "d": "2026-11-25",
      "kind": "prop",
      "sp": "ncaab",
@@ -10151,27 +10177,6 @@
      "kind": "prop",
      "sp": "ncaab",
      "pick": "Baraka Okojie 15+ PTS+REB",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 15+ PTS+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 6+ REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 1+ STL",
      "r": "win"
     }
    ],
@@ -10535,9 +10540,9 @@
     },
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 85,
+     "w": 86,
      "l": 55,
-     "u": 21.8
+     "u": 22.8
     },
     {
      "lane": "College football unders",
@@ -10556,9 +10561,9 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     85,
+     86,
      55,
-     21.8,
+     22.8,
      5,
      12
     ],
@@ -10623,7 +10628,7 @@
      27,
      23,
      1.7,
-     2,
+     3,
      10
     ],
     [
@@ -10762,8 +10767,8 @@
     "u": -3.25
    },
    "props": {
-    "w": 1021,
-    "l": 237
+    "w": 1022,
+    "l": 239
    },
    "par": {
     "game": {
@@ -12727,8 +12732,29 @@
      "d": "2026-11-26",
      "kind": "prop",
      "sp": "ncaab",
+     "pick": "Bear Cherry 15+ PTS+REB+AST",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
      "pick": "Luke Ertel 1+ 3PM",
      "r": "win"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Chance Gladden 3+ AST",
+     "r": "loss"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Chance Gladden 6+ REB+AST",
+     "r": "loss"
     },
     {
      "d": "2026-11-25",
@@ -12786,27 +12812,6 @@
      "kind": "prop",
      "sp": "ncaab",
      "pick": "Baraka Okojie 3+ AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 20+ PTS+REB+AST",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 15+ PTS+REB",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Baraka Okojie 15+ PTS+AST",
      "r": "win"
     }
    ],
@@ -13230,9 +13235,9 @@
    "best": [
     {
      "lane": "College hoops unders",
-     "w": 24,
+     "w": 25,
      "l": 19,
-     "u": 2.9
+     "u": 3.8
     },
     {
      "lane": "College hoops overs",
@@ -13259,9 +13264,9 @@
     ],
     [
      "ncaab|total|under",
-     24,
+     25,
      19,
-     2.9,
+     3.8,
      1,
      10
     ],
@@ -14178,9 +14183,9 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 43,
+     "w": 44,
      "l": 17,
-     "u": 22.1
+     "u": 23
     },
     {
      "lane": "College football overs",
@@ -14205,9 +14210,9 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     43,
+     44,
      17,
-     22.1,
+     23,
      1,
      12
     ],
@@ -14292,20 +14297,20 @@
      9
     ],
     [
+     "ncaab|total|under",
+     25,
+     25,
+     -2.2,
+     5,
+     10
+    ],
+    [
      "nba|total|under",
      11,
      13,
      -2.9,
      5,
      8
-    ],
-    [
-     "ncaab|total|under",
-     24,
-     25,
-     -3.1,
-     5,
-     10
     ],
     [
      "nhl|total|under",
@@ -14356,20 +14361,20 @@
      12
     ],
     [
-     "ncaab|ml|fav",
-     70,
-     34,
-     -7.6,
-     6,
-     9
-    ],
-    [
      "nba|total|over",
      11,
      18,
      -7.9,
      10,
      10
+    ],
+    [
+     "ncaab|ml|fav",
+     70,
+     35,
+     -8.6,
+     6,
+     9
     ],
     [
      "ncaab|spread|fav",
@@ -15004,8 +15009,8 @@
     "u": -1.31
    },
    "props": {
-    "w": 1032,
-    "l": 221
+    "w": 1033,
+    "l": 222
    },
    "par": {
     "game": {
@@ -16034,6 +16039,20 @@
    ],
    "recent": [
     {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Bear Cherry 1+ BLK",
+     "r": "win"
+    },
+    {
+     "d": "2026-11-26",
+     "kind": "prop",
+     "sp": "ncaab",
+     "pick": "Chance Gladden 3+ AST",
+     "r": "loss"
+    },
+    {
      "d": "2026-11-25",
      "kind": "prop",
      "sp": "ncaab",
@@ -16101,20 +16120,6 @@
      "kind": "prop",
      "sp": "ncaab",
      "pick": "Baraka Okojie 1+ STL",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Brayden O'Connor under 6.5 REB",
-     "r": "win"
-    },
-    {
-     "d": "2026-11-25",
-     "kind": "prop",
-     "sp": "ncaab",
-     "pick": "Brayden O'Connor under 24.5 PTS+REB+AST",
      "r": "win"
     }
    ],
@@ -16943,9 +16948,9 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 63,
+     "w": 64,
      "l": 43,
-     "u": 14
+     "u": 14.9
     },
     {
      "lane": "NFL favorites on the moneyline",
@@ -16964,9 +16969,9 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     63,
+     64,
      43,
-     14,
+     14.9,
      9,
      12
     ],
@@ -17085,8 +17090,8 @@
     [
      "ncaab|ml|fav",
      154,
-     72,
-     -14.9,
+     73,
+     -15.9,
      5,
      9
     ]
@@ -19402,7 +19407,7 @@
      32,
      36,
      -6.6,
-     7,
+     8,
      10
     ],
     [
@@ -20563,9 +20568,9 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 58,
+     "w": 59,
      "l": 45,
-     "u": 7.7
+     "u": 8.7
     }
    ],
    "still": [
@@ -20578,10 +20583,10 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     58,
+     59,
      45,
-     7.7,
-     10,
+     8.7,
+     11,
      12
     ],
     [
@@ -20633,6 +20638,14 @@
      11
     ],
     [
+     "ncaab|total|under",
+     35,
+     38,
+     -6.3,
+     7,
+     10
+    ],
+    [
      "ncaab|spread|fav",
      33,
      37,
@@ -20641,18 +20654,10 @@
      9
     ],
     [
-     "ncaab|total|under",
-     34,
-     38,
-     -7.2,
-     8,
-     10
-    ],
-    [
      "ncaab|ml|fav",
      111,
-     50,
-     -10,
+     51,
+     -11,
      3,
      9
     ],
@@ -21196,9 +21201,9 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 38,
+     "w": 39,
      "l": 29,
-     "u": 5.4
+     "u": 6.3
     }
    ],
    "still": [
@@ -21211,10 +21216,10 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     38,
+     39,
      29,
-     5.4,
-     11,
+     6.3,
+     10,
      12
     ],
     [
@@ -21822,9 +21827,9 @@
    "best": [
     {
      "lane": "College hoops underdogs on the spread",
-     "w": 86,
+     "w": 87,
      "l": 52,
-     "u": 25.2
+     "u": 26.1
     }
    ],
    "still": [
@@ -21837,11 +21842,19 @@
    "lanes": [
     [
      "ncaab|spread|dog",
-     86,
+     87,
      52,
-     25.2,
+     26.1,
      3,
      12
+    ],
+    [
+     "ncaab|total|under",
+     17,
+     14,
+     1.5,
+     2,
+     10
     ],
     [
      "ncaaf|ml|fav",
@@ -21865,14 +21878,6 @@
      11,
      0.7,
      1,
-     10
-    ],
-    [
-     "ncaab|total|under",
-     16,
-     14,
-     0.6,
-     3,
      10
     ],
     [
@@ -22004,20 +22009,20 @@
      2
     ],
     [
-     "ncaab|ml|fav",
-     70,
-     51,
-     -9.9,
-     7,
-     9
-    ],
-    [
      "ncaaf|ml|dog",
      8,
      27,
      -10.6,
      4,
      4
+    ],
+    [
+     "ncaab|ml|fav",
+     70,
+     52,
+     -10.9,
+     8,
+     9
     ]
    ],
    "record": {
@@ -26836,7 +26841,7 @@
       77
      ]
     },
-    "fx": "avg SDSU 84.2-68.7 MD 82.7-69 · rec SDSU 5-1 MD 3-3 · last5 SDSU 3-1 MD 2-3 · past 152.5: SDSU 1/4 MD 3/5",
+    "fx": "avg SDSU 84.2-68.7 MD 82.7-69 · rec SDSU 5-1 MD 3-3 · last5 SDSU 4-1 MD 2-3 · past 152.5: SDSU 1/5 MD 3/6",
     "half": {
      "ml": [
       {
@@ -30818,7 +30823,7 @@
     "gl": "#85 TENN@#55 ISU",
     "start": "2026-11-26T20:30:00.000Z",
     "day": "2026-11-26",
-    "st": "pre",
+    "st": "in",
     "picks": [
      {
       "m": "spread",
@@ -31785,7 +31790,7 @@
     "gl": "#83 MIA@#183 MICH",
     "start": "2026-11-26T20:30:00.000Z",
     "day": "2026-11-26",
-    "st": "pre",
+    "st": "in",
     "picks": [],
     "calls": {
      "ml": [
@@ -78780,158 +78785,6 @@
  "founder": {
   "tix": [
    {
-    "id": "f12nz592",
-    "name": null,
-    "date": "2026-11-26",
-    "legs": [
-     {
-      "sp": "ncaab",
-      "game": "BC@UCF",
-      "pick": "BC ML",
-      "price": 110,
-      "start": "2026-11-26T18:30:00Z",
-      "day": "2026-11-26",
-      "st": "live",
-      "p": 0.476,
-      "q": 0.868,
-      "detail": "BC 45–39 UCF (live)",
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "ASU@SC",
-      "pick": "SC +7",
-      "price": -154,
-      "start": "2026-11-26T19:00:00Z",
-      "day": "2026-11-26",
-      "st": "live",
-      "p": 0.606,
-      "q": 0.996,
-      "detail": "ASU 39–50 SC (live) · margin +11",
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "MIA@MICH",
-      "pick": "MIA ML",
-      "price": -115,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.535,
-      "q": 0.535,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "ARK@MSU",
-      "pick": "ARK +7",
-      "price": -150,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.6,
-      "q": 0.6,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "USU@USC",
-      "pick": "USC ML",
-      "price": -119,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.543,
-      "q": 0.543,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "SMC@UCLA",
-      "pick": "UCLA ML",
-      "price": -325,
-      "start": "2026-11-26T22:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.765,
-      "q": 0.765,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "KC@BUF",
-      "pick": "BUF ML",
-      "price": -161,
-      "start": "2026-11-27T01:20:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.617,
-      "q": 0.617,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "LOU@SJU",
-      "pick": "SJU ML",
-      "price": -123,
-      "start": "2026-11-27T02:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.552,
-      "q": 0.552,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "PAC@OMA",
-      "pick": "PAC -5.5",
-      "price": -154,
-      "start": "2026-11-27T03:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.606,
-      "q": 0.606,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "PHI@DAL",
-      "pick": "DAL -6.5",
-      "price": -160,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.615,
-      "q": 0.615,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     }
-    ],
-    "dec": 204.55,
-    "res": "live",
-    "hit": 0,
-    "p0": 0.00489,
-    "now": 0.01464
-   },
-   {
     "id": "f12nunx7",
     "name": null,
     "date": "2026-11-26",
@@ -79265,12 +79118,12 @@
       "price": null,
       "start": "2026-11-26T18:00Z",
       "day": "2026-11-26",
-      "st": "live",
+      "st": "hit",
       "p": 0.5,
-      "q": 0.5,
-      "detail": "Jahmyr Gibbs 62 rushing yds so far",
+      "q": 1,
+      "detail": "Jahmyr Gibbs 94 rushing yds so far",
       "prog": {
-       "v": 62,
+       "v": 94,
        "t": 70,
        "d": "atleast"
       },
@@ -79357,8 +79210,8 @@
       "day": "2026-11-26",
       "st": "live",
       "p": 0.5,
-      "q": 0.811,
-      "detail": "CHI 24–26 DET (live) · margin +2",
+      "q": 0.5,
+      "detail": "CHI 24–29 DET (live) · margin +5",
       "prog": null,
       "prop": false
      },
@@ -79425,169 +79278,17 @@
       "day": "2026-11-26",
       "st": "live",
       "p": 0.5,
-      "q": 0.169,
-      "detail": "CHI 24–26 DET (live) · total 50 so far",
+      "q": 0.5,
+      "detail": "CHI 24–29 DET (live) · total 53 so far",
       "prog": null,
       "prop": false
      }
     ],
     "dec": 2194.5,
     "res": "live",
-    "hit": 2,
+    "hit": 3,
     "p0": 0,
     "now": 0
-   },
-   {
-    "id": "f12l5mzf",
-    "name": null,
-    "date": "2026-11-26",
-    "legs": [
-     {
-      "sp": "nfl",
-      "game": "KC@BUF",
-      "pick": "BUF ML",
-      "price": -163,
-      "start": "2026-11-27T01:20:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.62,
-      "q": 0.62,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "BC@UCF",
-      "pick": "BC ML",
-      "price": 100,
-      "start": "2026-11-26T18:30:00Z",
-      "day": "2026-11-26",
-      "st": "live",
-      "p": 0.5,
-      "q": 0.874,
-      "detail": "BC 45–39 UCF (live)",
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "TENN@ISU",
-      "pick": "TENN +5.5",
-      "price": -154,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.606,
-      "q": 0.606,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "ARK@MSU",
-      "pick": "ARK +7",
-      "price": -151,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.602,
-      "q": 0.602,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "SMU@LSU",
-      "pick": "SMU +9",
-      "price": -150,
-      "start": "2026-11-27T00:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.6,
-      "q": 0.6,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "ASU@SC",
-      "pick": "SC +7",
-      "price": -154,
-      "start": "2026-11-26T19:00:00Z",
-      "day": "2026-11-26",
-      "st": "live",
-      "p": 0.606,
-      "q": 0.996,
-      "detail": "ASU 39–50 SC (live) · margin +11",
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "nfl",
-      "game": "PHI@DAL",
-      "pick": "DAL -7",
-      "price": -155,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.608,
-      "q": 0.608,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaaf",
-      "game": "TCU@TTU",
-      "pick": "Under 48.5",
-      "price": -145,
-      "start": "2026-11-27T01:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.592,
-      "q": 0.592,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "DEP@PITT",
-      "pick": "DEP +2",
-      "price": -154,
-      "start": "2026-11-27T00:00:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.606,
-      "q": 0.606,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "BAY@GONZ",
-      "pick": "BAY +6",
-      "price": -152,
-      "start": "2026-11-27T04:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.603,
-      "q": 0.603,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     }
-    ],
-    "dec": 184.4,
-    "res": "live",
-    "hit": 0,
-    "p0": 0.00541,
-    "now": 0.01554
    },
    {
     "id": "f12l09tn",
@@ -79699,10 +79400,10 @@
       "price": -145,
       "start": "2026-11-26T18:30:00Z",
       "day": "2026-11-26",
-      "st": "live",
+      "st": "open",
       "p": 0.592,
-      "q": 0,
-      "detail": "BC 45–39 UCF (live) · total 84 so far",
+      "q": 0.592,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -79739,7 +79440,7 @@
     "res": "live",
     "hit": 4,
     "p0": 0.0053,
-    "now": 0.00002
+    "now": 0.04261
    },
    {
     "id": "f12l0310",
@@ -79892,6 +79593,158 @@
     "hit": 2,
     "p0": 0.00634,
     "now": 0.01733
+   },
+   {
+    "id": "f136z7eb",
+    "name": null,
+    "date": "2026-11-26",
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "TENN@ISU",
+      "pick": "TENN +7",
+      "price": -149,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.598,
+      "q": 0.598,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "USU@USC",
+      "pick": "USC ML",
+      "price": -125,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.556,
+      "q": 0.556,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ARK@MSU",
+      "pick": "ARK +7",
+      "price": -153,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.605,
+      "q": 0.605,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SMC@UCLA",
+      "pick": "UCLA ML",
+      "price": -340,
+      "start": "2026-11-26T22:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.773,
+      "q": 0.773,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "DEP@PITT",
+      "pick": "DEP +2",
+      "price": -154,
+      "start": "2026-11-27T00:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SMU@LSU",
+      "pick": "LSU ML",
+      "price": -300,
+      "start": "2026-11-27T00:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.75,
+      "q": 0.75,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "JXST@UCD",
+      "pick": "JXST -1",
+      "price": -154,
+      "start": "2026-11-27T01:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "LOU@SJU",
+      "pick": "SJU ML",
+      "price": -123,
+      "start": "2026-11-27T02:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.552,
+      "q": 0.552,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ALA@KSU",
+      "pick": "KSU +15",
+      "price": -149,
+      "start": "2026-11-27T02:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.598,
+      "q": 0.598,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TTU@ORE",
+      "pick": "ORE +12",
+      "price": -149,
+      "start": "2026-11-27T04:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.598,
+      "q": 0.598,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 118.21,
+    "res": "open",
+    "hit": 0,
+    "p0": 0.00846,
+    "now": null
    },
    {
     "id": "f135l5uc",
@@ -80198,6 +80051,462 @@
     "now": null
    },
    {
+    "id": "f135iys5",
+    "name": null,
+    "date": "2026-11-26",
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "ARK@MSU",
+      "pick": "ARK 1H +3",
+      "price": -115,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.535,
+      "q": 0.535,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ARK@MSU",
+      "pick": "1H Over 69.5",
+      "price": -110,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.524,
+      "q": 0.524,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TENN@ISU",
+      "pick": "TENN 1H +2.5",
+      "price": -110,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.524,
+      "q": 0.524,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TENN@ISU",
+      "pick": "1H Under 65",
+      "price": -105,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.512,
+      "q": 0.512,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "GTWN@TEX",
+      "pick": "GTWN 1H +4.5",
+      "price": -110,
+      "start": "2026-11-26T19:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.524,
+      "q": 0.524,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "GTWN@TEX",
+      "pick": "1H Over 73",
+      "price": -105,
+      "start": "2026-11-26T19:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.512,
+      "q": 0.512,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "USU@USC",
+      "pick": "USU 1H +0.5",
+      "price": -110,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.524,
+      "q": 0.524,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "USU@USC",
+      "pick": "1H Under 74.5",
+      "price": -105,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.512,
+      "q": 0.512,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MIA@MICH",
+      "pick": "MIA 1H +0",
+      "price": -115,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.535,
+      "q": 0.535,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MIA@MICH",
+      "pick": "1H Over 74.5",
+      "price": -110,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.524,
+      "q": 0.524,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 659.56,
+    "res": "open",
+    "hit": 0,
+    "p0": 0.00152,
+    "now": null
+   },
+   {
+    "id": "f12nz592",
+    "name": null,
+    "date": "2026-11-26",
+    "legs": [
+     {
+      "sp": "ncaab",
+      "game": "BC@UCF",
+      "pick": "BC ML",
+      "price": 110,
+      "start": "2026-11-26T18:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.476,
+      "q": 0.476,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ASU@SC",
+      "pick": "SC +7",
+      "price": -154,
+      "start": "2026-11-26T19:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "MIA@MICH",
+      "pick": "MIA ML",
+      "price": -115,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.535,
+      "q": 0.535,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ARK@MSU",
+      "pick": "ARK +7",
+      "price": -150,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.6,
+      "q": 0.6,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "USU@USC",
+      "pick": "USC ML",
+      "price": -119,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.543,
+      "q": 0.543,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SMC@UCLA",
+      "pick": "UCLA ML",
+      "price": -325,
+      "start": "2026-11-26T22:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.765,
+      "q": 0.765,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "KC@BUF",
+      "pick": "BUF ML",
+      "price": -161,
+      "start": "2026-11-27T01:20:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.617,
+      "q": 0.617,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "LOU@SJU",
+      "pick": "SJU ML",
+      "price": -123,
+      "start": "2026-11-27T02:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.552,
+      "q": 0.552,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "PAC@OMA",
+      "pick": "PAC -5.5",
+      "price": -154,
+      "start": "2026-11-27T03:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "PHI@DAL",
+      "pick": "DAL -6.5",
+      "price": -160,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.615,
+      "q": 0.615,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 204.55,
+    "res": "open",
+    "hit": 0,
+    "p0": 0.00489,
+    "now": null
+   },
+   {
+    "id": "f12l5mzf",
+    "name": null,
+    "date": "2026-11-26",
+    "legs": [
+     {
+      "sp": "nfl",
+      "game": "KC@BUF",
+      "pick": "BUF ML",
+      "price": -163,
+      "start": "2026-11-27T01:20:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.62,
+      "q": 0.62,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "BC@UCF",
+      "pick": "BC ML",
+      "price": 100,
+      "start": "2026-11-26T18:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.5,
+      "q": 0.5,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "TENN@ISU",
+      "pick": "TENN +5.5",
+      "price": -154,
+      "start": "2026-11-26T20:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ARK@MSU",
+      "pick": "ARK +7",
+      "price": -151,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.602,
+      "q": 0.602,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "SMU@LSU",
+      "pick": "SMU +9",
+      "price": -150,
+      "start": "2026-11-27T00:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.6,
+      "q": 0.6,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "ASU@SC",
+      "pick": "SC +7",
+      "price": -154,
+      "start": "2026-11-26T19:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "nfl",
+      "game": "PHI@DAL",
+      "pick": "DAL -7",
+      "price": -155,
+      "start": "2026-11-26T21:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.608,
+      "q": 0.608,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaaf",
+      "game": "TCU@TTU",
+      "pick": "Under 48.5",
+      "price": -145,
+      "start": "2026-11-27T01:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.592,
+      "q": 0.592,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "DEP@PITT",
+      "pick": "DEP +2",
+      "price": -154,
+      "start": "2026-11-27T00:00:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.606,
+      "q": 0.606,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     },
+     {
+      "sp": "ncaab",
+      "game": "BAY@GONZ",
+      "pick": "BAY +6",
+      "price": -152,
+      "start": "2026-11-27T04:30:00Z",
+      "day": "2026-11-26",
+      "st": "open",
+      "p": 0.603,
+      "q": 0.603,
+      "detail": null,
+      "prog": null,
+      "prop": false
+     }
+    ],
+    "dec": 184.4,
+    "res": "open",
+    "hit": 0,
+    "p0": 0.00541,
+    "now": null
+   },
+   {
     "id": "f12kzh1z",
     "name": null,
     "date": "2026-11-26",
@@ -80350,158 +80659,6 @@
     "now": null
    },
    {
-    "id": "f135iys5",
-    "name": null,
-    "date": "2026-11-26",
-    "legs": [
-     {
-      "sp": "ncaab",
-      "game": "ARK@MSU",
-      "pick": "ARK 1H +3",
-      "price": -115,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.535,
-      "q": 0.535,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "ARK@MSU",
-      "pick": "1H Over 69.5",
-      "price": -110,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.524,
-      "q": 0.524,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "TENN@ISU",
-      "pick": "TENN 1H +2.5",
-      "price": -110,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.524,
-      "q": 0.524,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "TENN@ISU",
-      "pick": "1H Under 65",
-      "price": -105,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.512,
-      "q": 0.512,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "GTWN@TEX",
-      "pick": "GTWN 1H +4.5",
-      "price": -110,
-      "start": "2026-11-26T19:30:00Z",
-      "day": "2026-11-26",
-      "st": "miss",
-      "p": 0.524,
-      "q": 0.524,
-      "detail": "1H 30–41",
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "GTWN@TEX",
-      "pick": "1H Over 73",
-      "price": -105,
-      "start": "2026-11-26T19:30:00Z",
-      "day": "2026-11-26",
-      "st": "miss",
-      "p": 0.512,
-      "q": 0.999,
-      "detail": "1H 30–41 · total 71",
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "USU@USC",
-      "pick": "USU 1H +0.5",
-      "price": -110,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.524,
-      "q": 0.524,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "USU@USC",
-      "pick": "1H Under 74.5",
-      "price": -105,
-      "start": "2026-11-26T21:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.512,
-      "q": 0.512,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "MIA@MICH",
-      "pick": "MIA 1H +0",
-      "price": -115,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.535,
-      "q": 0.535,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     },
-     {
-      "sp": "ncaab",
-      "game": "MIA@MICH",
-      "pick": "1H Over 74.5",
-      "price": -110,
-      "start": "2026-11-26T20:30:00Z",
-      "day": "2026-11-26",
-      "st": "open",
-      "p": 0.524,
-      "q": 0.524,
-      "detail": null,
-      "prog": null,
-      "prop": false
-     }
-    ],
-    "dec": 659.56,
-    "res": "lost",
-    "hit": 0,
-    "p0": 0.00152,
-    "now": 0.00296
-   },
-   {
     "id": "f12kh1a7",
     "name": null,
     "date": "2026-11-26",
@@ -80529,8 +80686,8 @@
       "day": "2026-11-26",
       "st": "live",
       "p": 0.507,
-      "q": 0.61,
-      "detail": "CHI 24–26 DET (live)",
+      "q": 0.507,
+      "detail": "CHI 24–29 DET (live)",
       "prog": null,
       "prop": false
      },
@@ -80555,10 +80712,10 @@
       "price": -154,
       "start": "2026-11-26T18:30:00Z",
       "day": "2026-11-26",
-      "st": "live",
+      "st": "open",
       "p": 0.606,
-      "q": 0.963,
-      "detail": "BC 45–39 UCF (live) · margin +6",
+      "q": 0.606,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -80569,10 +80726,10 @@
       "price": -149,
       "start": "2026-11-26T19:00:00Z",
       "day": "2026-11-26",
-      "st": "live",
+      "st": "open",
       "p": 0.598,
-      "q": 0.996,
-      "detail": "ASU 39–50 SC (live) · margin +11",
+      "q": 0.598,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -80583,10 +80740,10 @@
       "price": -350,
       "start": "2026-11-26T19:30:00Z",
       "day": "2026-11-26",
-      "st": "live",
+      "st": "open",
       "p": 0.778,
-      "q": 0.976,
-      "detail": "GTWN 30–41 TEX (live)",
+      "q": 0.778,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -80737,8 +80894,8 @@
       "day": "2026-11-26",
       "st": "live",
       "p": 0.623,
-      "q": 0.765,
-      "detail": "CHI 24–26 DET (live) · margin +2",
+      "q": 0.623,
+      "detail": "CHI 24–29 DET (live) · margin +5",
       "prog": null,
       "prop": false
      },
@@ -80749,10 +80906,10 @@
       "price": -350,
       "start": "2026-11-26T19:30:00Z",
       "day": "2026-11-26",
-      "st": "live",
+      "st": "open",
       "p": 0.778,
-      "q": 0.976,
-      "detail": "GTWN 30–41 TEX (live)",
+      "q": 0.778,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -81178,7 +81335,7 @@
   ],
   "rec": {
    "cashed": 1,
-   "lost": 21
+   "lost": 20
   }
  },
  "props": {
@@ -81745,7 +81902,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.817
+      "p": 0.813
      },
      {
       "v": "Trends",
@@ -81757,8 +81914,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.845,
-    "fair": -544
+    "p": 0.844,
+    "fair": -540
    },
    {
     "id": "nfl|jeremiahtrotterjr|tkl|4|over",
@@ -81809,7 +81966,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.816
+      "p": 0.812
      },
      {
       "v": "Trends",
@@ -81825,8 +81982,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.83,
-    "fair": -489
+    "p": 0.829,
+    "fair": -486
    },
    {
     "id": "nfl|jakebates|kpts|5|over",
@@ -81885,7 +82042,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.817
+      "p": 0.813
      },
      {
       "v": "Trends",
@@ -81897,8 +82054,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.825,
-    "fair": -472
+    "p": 0.824,
+    "fair": -469
    },
    {
     "id": "nfl|druetranquill|tkl|4|over",
@@ -81957,7 +82114,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.817
+      "p": 0.813
      },
      {
       "v": "Most common",
@@ -81969,8 +82126,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.824,
-    "fair": -467
+    "p": 0.823,
+    "fair": -464
    },
    {
     "id": "nfl|jamescookiii|ry|50|over",
@@ -82029,7 +82186,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.817
+      "p": 0.813
      },
      {
       "v": "Most common",
@@ -82041,8 +82198,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.824,
-    "fair": -467
+    "p": 0.823,
+    "fair": -464
    },
    {
     "id": "nfl|patrickmahomes|py|200|over",
@@ -82101,7 +82258,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.816
+      "p": 0.812
      },
      {
       "v": "Most common",
@@ -82113,142 +82270,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.822,
-    "fair": -462
-   },
-   {
-    "id": "nfl|jalenhurts|ptd|1|over",
-    "sp": "nfl",
-    "player": "Jalen Hurts",
-    "team": "PHI",
-    "k": "ptd",
-    "lab": "pass TD",
-    "thr": 1,
-    "side": "over",
-    "opp": "DAL",
-    "home": false,
-    "start": "2026-11-26T21:30Z",
-    "last": [
-     3,
-     2,
-     0,
-     2,
-     1
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260928",
-     "261004",
-     "261011"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     4,
-     5
-    ],
-    "streak": 2,
-    "avg10": 1.6,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Coach",
-      "p": 0.783
-     }
-    ],
-    "votes": 5,
-    "p": 0.814,
-    "fair": -437
-   },
-   {
-    "id": "nfl|amonrastbrown|wy|40|over",
-    "sp": "nfl",
-    "player": "Amon-Ra St. Brown",
-    "team": "DET",
-    "k": "wy",
-    "lab": "rec yds",
-    "thr": 40,
-    "side": "over",
-    "opp": "CHI",
-    "home": true,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     67,
-     142,
-     19,
-     75,
-     69,
-     153,
-     46,
-     86,
-     98,
-     37
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261108",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": -1,
-    "avg10": 79.2,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Coach",
-      "p": 0.775
-     }
-    ],
-    "votes": 5,
-    "p": 0.813,
-    "fair": -434
+    "p": 0.821,
+    "fair": -459
    },
    {
     "id": "nfl|jaredgoff|att|25|over",
@@ -82303,7 +82326,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.816
+      "p": 0.812
      },
      {
       "v": "Trends",
@@ -82320,7 +82343,141 @@
     ],
     "votes": 5,
     "p": 0.811,
-    "fair": -430
+    "fair": -428
+   },
+   {
+    "id": "nfl|amonrastbrown|wy|40|over",
+    "sp": "nfl",
+    "player": "Amon-Ra St. Brown",
+    "team": "DET",
+    "k": "wy",
+    "lab": "rec yds",
+    "thr": 40,
+    "side": "over",
+    "opp": "CHI",
+    "home": true,
+    "start": "2026-11-26T18:00Z",
+    "last": [
+     67,
+     142,
+     19,
+     75,
+     69,
+     153,
+     46,
+     86,
+     98,
+     37
+    ],
+    "dates": [
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": -1,
+    "avg10": 79.2,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.833
+     },
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     },
+     {
+      "v": "Coach",
+      "p": 0.775
+     }
+    ],
+    "votes": 5,
+    "p": 0.811,
+    "fair": -428
+   },
+   {
+    "id": "nfl|jalenhurts|ptd|1|over",
+    "sp": "nfl",
+    "player": "Jalen Hurts",
+    "team": "PHI",
+    "k": "ptd",
+    "lab": "pass TD",
+    "thr": 1,
+    "side": "over",
+    "opp": "DAL",
+    "home": false,
+    "start": "2026-11-26T21:30Z",
+    "last": [
+     3,
+     2,
+     0,
+     2,
+     1
+    ],
+    "dates": [
+     "260913",
+     "260920",
+     "260928",
+     "261004",
+     "261011"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     4,
+     5
+    ],
+    "streak": 2,
+    "avg10": 1.6,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.813
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     },
+     {
+      "v": "Coach",
+      "p": 0.78
+     }
+    ],
+    "votes": 5,
+    "p": 0.811,
+    "fair": -429
    },
    {
     "id": "nfl|patrickmahomes|ptd|1|over",
@@ -82375,7 +82532,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.816
+      "p": 0.813
      },
      {
       "v": "Sim",
@@ -82388,78 +82545,6 @@
      {
       "v": "Coach",
       "p": 0.774
-     }
-    ],
-    "votes": 5,
-    "p": 0.811,
-    "fair": -428
-   },
-   {
-    "id": "nfl|georgepickens|rec|4|over",
-    "sp": "nfl",
-    "player": "George Pickens",
-    "team": "DAL",
-    "k": "rec",
-    "lab": "rec",
-    "thr": 4,
-    "side": "over",
-    "opp": "PHI",
-    "home": true,
-    "start": "2026-11-26T21:30Z",
-    "last": [
-     3,
-     6,
-     7,
-     2,
-     9,
-     6,
-     4,
-     2,
-     11,
-     7
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261008",
-     "261018",
-     "261026",
-     "261101",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 2,
-    "avg10": 5.7,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.816
-     },
-     {
-      "v": "Judge",
-      "p": 0.803
-     },
-     {
-      "v": "Coach",
-      "p": 0.784
      }
     ],
     "votes": 5,
@@ -82515,15 +82600,15 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
+      "p": 0.824
      },
      {
       "v": "Trends",
       "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
      },
      {
       "v": "Judge",
@@ -82531,12 +82616,12 @@
      },
      {
       "v": "Coach",
-      "p": 0.783
+      "p": 0.779
      }
     ],
     "votes": 5,
-    "p": 0.81,
-    "fair": -427
+    "p": 0.808,
+    "fair": -420
    },
    {
     "id": "nfl|jahmyrgibbs|ry|50|over",
@@ -82587,7 +82672,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Trends",
@@ -82603,46 +82688,46 @@
      },
      {
       "v": "Coach",
-      "p": 0.786
+      "p": 0.782
      }
     ],
     "votes": 5,
-    "p": 0.809,
-    "fair": -424
+    "p": 0.807,
+    "fair": -419
    },
    {
-    "id": "nfl|jamesonwilliams|lwy|20|over",
+    "id": "nfl|georgepickens|rec|4|over",
     "sp": "nfl",
-    "player": "Jameson Williams",
-    "team": "DET",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 20,
+    "player": "George Pickens",
+    "team": "DAL",
+    "k": "rec",
+    "lab": "rec",
+    "thr": 4,
     "side": "over",
-    "opp": "CHI",
+    "opp": "PHI",
     "home": true,
-    "start": "2026-11-26T18:00Z",
+    "start": "2026-11-26T21:30Z",
     "last": [
-     22,
-     17,
-     21,
-     49,
-     39,
-     30,
-     46,
-     31,
-     19,
-     57
+     3,
+     6,
+     7,
+     2,
+     9,
+     6,
+     4,
+     2,
+     11,
+     7
     ],
     "dates": [
      "260913",
-     "260917",
+     "260920",
      "260927",
      "261004",
-     "261011",
-     "261025",
+     "261008",
+     "261018",
+     "261026",
      "261101",
-     "261108",
      "261115",
      "261122"
     ],
@@ -82651,36 +82736,36 @@
      5
     ],
     "l10": [
-     8,
+     7,
      10
     ],
-    "streak": 1,
-    "avg10": 33.1,
+    "streak": 2,
+    "avg10": 5.7,
     "by": [
      {
       "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
+      "p": 0.824
      },
      {
       "v": "Trends",
-      "p": 0.815
+      "p": 0.816
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
      },
      {
       "v": "Judge",
-      "p": 0.807
+      "p": 0.803
      },
      {
       "v": "Coach",
-      "p": 0.773
+      "p": 0.78
      }
     ],
     "votes": 5,
-    "p": 0.808,
-    "fair": -421
+    "p": 0.807,
+    "fair": -419
    },
    {
     "id": "nfl|dillonthieneman|tkl|4|over",
@@ -82731,15 +82816,15 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
+      "p": 0.823
      },
      {
       "v": "Trends",
       "p": 0.816
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
      },
      {
       "v": "Judge",
@@ -82751,40 +82836,40 @@
      }
     ],
     "votes": 5,
-    "p": 0.808,
-    "fair": -422
+    "p": 0.807,
+    "fair": -417
    },
    {
-    "id": "nfl|calebdowns|tkl|4|over",
+    "id": "nfl|jamesonwilliams|lwy|20|over",
     "sp": "nfl",
-    "player": "Caleb Downs",
-    "team": "DAL",
-    "k": "tkl",
-    "lab": "tackles",
-    "thr": 4,
+    "player": "Jameson Williams",
+    "team": "DET",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 20,
     "side": "over",
-    "opp": "PHI",
+    "opp": "CHI",
     "home": true,
-    "start": "2026-11-26T21:30Z",
+    "start": "2026-11-26T18:00Z",
     "last": [
-     9,
-     3,
-     7,
-     4,
-     12,
-     5,
-     4,
-     3,
-     11,
-     7
+     22,
+     17,
+     21,
+     49,
+     39,
+     30,
+     46,
+     31,
+     19,
+     57
     ],
     "dates": [
-     "260920",
+     "260913",
+     "260917",
      "260927",
      "261004",
-     "261008",
-     "261018",
-     "261026",
+     "261011",
+     "261025",
      "261101",
      "261108",
      "261115",
@@ -82798,33 +82883,33 @@
      8,
      10
     ],
-    "streak": 2,
-    "avg10": 6.5,
+    "streak": 1,
+    "avg10": 33.1,
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.811
+      "p": 0.823
      },
      {
       "v": "Trends",
-      "p": 0.805
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
      },
      {
       "v": "Judge",
-      "p": 0.803
+      "p": 0.807
      },
      {
       "v": "Coach",
-      "p": 0.786
+      "p": 0.773
      }
     ],
     "votes": 5,
-    "p": 0.807,
-    "fair": -418
+    "p": 0.806,
+    "fair": -417
    },
    {
     "id": "nfl|jahmyrgibbs|rry|80|over",
@@ -82875,7 +82960,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Trends",
@@ -82895,8 +82980,80 @@
      }
     ],
     "votes": 5,
-    "p": 0.806,
-    "fair": -417
+    "p": 0.805,
+    "fair": -414
+   },
+   {
+    "id": "nfl|calebdowns|tkl|4|over",
+    "sp": "nfl",
+    "player": "Caleb Downs",
+    "team": "DAL",
+    "k": "tkl",
+    "lab": "tackles",
+    "thr": 4,
+    "side": "over",
+    "opp": "PHI",
+    "home": true,
+    "start": "2026-11-26T21:30Z",
+    "last": [
+     9,
+     3,
+     7,
+     4,
+     12,
+     5,
+     4,
+     3,
+     11,
+     7
+    ],
+    "dates": [
+     "260920",
+     "260927",
+     "261004",
+     "261008",
+     "261018",
+     "261026",
+     "261101",
+     "261108",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 2,
+    "avg10": 6.5,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Trends",
+      "p": 0.805
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     },
+     {
+      "v": "Coach",
+      "p": 0.782
+     }
+    ],
+    "votes": 5,
+    "p": 0.805,
+    "fair": -413
    },
    {
     "id": "nfl|jihaadcampbell|tkl|4|over",
@@ -82943,7 +83100,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Trends",
@@ -82963,8 +83120,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.806,
-    "fair": -416
+    "p": 0.805,
+    "fair": -413
    },
    {
     "id": "nfl|jakebates|fgm|1|over",
@@ -83015,7 +83172,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.835
+      "p": 0.833
      },
      {
       "v": "Sim",
@@ -83031,294 +83188,12 @@
      },
      {
       "v": "Coach",
-      "p": 0.784
-     }
-    ],
-    "votes": 5,
-    "p": 0.804,
-    "fair": -410
-   },
-   {
-    "id": "nfl|calebwilliams|att|25|over",
-    "sp": "nfl",
-    "player": "Caleb Williams",
-    "team": "CHI",
-    "k": "att",
-    "lab": "pass att",
-    "thr": 25,
-    "side": "over",
-    "opp": "DET",
-    "home": false,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     33,
-     48,
-     42,
-     29,
-     26,
-     36,
-     33,
-     34,
-     37,
-     23
-    ],
-    "dates": [
-     "260104",
-     "260110",
-     "260118",
-     "260913",
-     "260920",
-     "261018",
-     "261022",
-     "261102",
-     "261108",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": -1,
-    "avg10": 34.1,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.815
-     },
-     {
-      "v": "Trends",
-      "p": 0.805
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.803
-     },
-     {
-      "v": "Coach",
-      "p": 0.786
+      "p": 0.78
      }
     ],
     "votes": 5,
     "p": 0.803,
     "fair": -407
-   },
-   {
-    "id": "nfl|calebwilliams|cmp|15|over",
-    "sp": "nfl",
-    "player": "Caleb Williams",
-    "team": "CHI",
-    "k": "cmp",
-    "lab": "completions",
-    "thr": 15,
-    "side": "over",
-    "opp": "DET",
-    "home": false,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     20,
-     24,
-     23,
-     21,
-     15,
-     30,
-     22,
-     24,
-     22,
-     15
-    ],
-    "dates": [
-     "260104",
-     "260110",
-     "260118",
-     "260913",
-     "260920",
-     "261018",
-     "261022",
-     "261102",
-     "261108",
-     "261122"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     10,
-     10
-    ],
-    "streak": 10,
-    "avg10": 21.6,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.815
-     },
-     {
-      "v": "Trends",
-      "p": 0.805
-     },
-     {
-      "v": "Sim",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.801
-     },
-     {
-      "v": "Coach",
-      "p": 0.786
-     }
-    ],
-    "votes": 5,
-    "p": 0.802,
-    "fair": -405
-   },
-   {
-    "id": "nfl|lutherburdeniii|lwy|15|over",
-    "sp": "nfl",
-    "player": "Luther Burden III",
-    "team": "CHI",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 15,
-    "side": "over",
-    "opp": "DET",
-    "home": false,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     24,
-     18,
-     25,
-     22,
-     23,
-     25,
-     58,
-     23,
-     56,
-     6
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260928",
-     "261004",
-     "261011",
-     "261018",
-     "261022",
-     "261102",
-     "261108",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": -1,
-    "avg10": 28,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Sim",
-      "p": 0.811
-     },
-     {
-      "v": "Judge",
-      "p": 0.802
-     },
-     {
-      "v": "Most common",
-      "p": 0.786
-     },
-     {
-      "v": "Coach",
-      "p": 0.776
-     }
-    ],
-    "votes": 5,
-    "p": 0.802,
-    "fair": -405
-   },
-   {
-    "id": "nfl|jackcampbell|tkl|4|over",
-    "sp": "nfl",
-    "player": "Jack Campbell",
-    "team": "DET",
-    "k": "tkl",
-    "lab": "tackles",
-    "thr": 4,
-    "side": "over",
-    "opp": "CHI",
-    "home": true,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     7,
-     6,
-     6,
-     13,
-     11,
-     11,
-     3
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     6,
-     7
-    ],
-    "streak": -1,
-    "avg10": 8.1,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.814
-     },
-     {
-      "v": "Trends",
-      "p": 0.805
-     },
-     {
-      "v": "Sim",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.801
-     },
-     {
-      "v": "Coach",
-      "p": 0.787
-     }
-    ],
-    "votes": 5,
-    "p": 0.802,
-    "fair": -405
    },
    {
     "id": "nfl|brandonaubrey|fgm|1|over",
@@ -83393,111 +83268,39 @@
     "fair": -403
    },
    {
-    "id": "nfl|jaredgoff|py|200|over",
+    "id": "nfl|calebwilliams|att|25|over",
     "sp": "nfl",
-    "player": "Jared Goff",
-    "team": "DET",
-    "k": "py",
-    "lab": "pass yds",
-    "thr": 200,
+    "player": "Caleb Williams",
+    "team": "CHI",
+    "k": "att",
+    "lab": "pass att",
+    "thr": 25,
     "side": "over",
-    "opp": "CHI",
-    "home": true,
+    "opp": "DET",
+    "home": false,
     "start": "2026-11-26T18:00Z",
     "last": [
-     206,
-     327,
-     269,
-     412,
-     271,
-     303,
-     176,
-     170,
-     303,
-     279
+     33,
+     48,
+     42,
+     29,
+     26,
+     36,
+     33,
+     34,
+     37,
+     23
     ],
     "dates": [
+     "260104",
+     "260110",
+     "260118",
      "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
+     "260920",
+     "261018",
+     "261022",
+     "261102",
      "261108",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 2,
-    "avg10": 271.6,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.815
-     },
-     {
-      "v": "Trends",
-      "p": 0.806
-     },
-     {
-      "v": "Sim",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.803
-     },
-     {
-      "v": "Coach",
-      "p": 0.771
-     }
-    ],
-    "votes": 5,
-    "p": 0.8,
-    "fair": -399
-   },
-   {
-    "id": "nfl|jaredgoff|ptd|1|over",
-    "sp": "nfl",
-    "player": "Jared Goff",
-    "team": "DET",
-    "k": "ptd",
-    "lab": "pass TD",
-    "thr": 1,
-    "side": "over",
-    "opp": "CHI",
-    "home": true,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     2,
-     4,
-     2,
-     1,
-     3,
-     2,
-     1,
-     0,
-     3,
-     2
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261108",
-     "261115",
      "261122"
     ],
     "l5": [
@@ -83508,12 +83311,12 @@
      9,
      10
     ],
-    "streak": 2,
-    "avg10": 2,
+    "streak": -1,
+    "avg10": 34.1,
     "by": [
      {
       "v": "Judge",
-      "p": 0.815
+      "p": 0.812
      },
      {
       "v": "Trends",
@@ -83521,155 +83324,11 @@
      },
      {
       "v": "Sim",
-      "p": 0.803
+      "p": 0.804
      },
      {
       "v": "Most common",
-      "p": 0.802
-     },
-     {
-      "v": "Coach",
-      "p": 0.773
-     }
-    ],
-    "votes": 5,
-    "p": 0.8,
-    "fair": -399
-   },
-   {
-    "id": "nfl|amonrastbrown|lwy|15|over",
-    "sp": "nfl",
-    "player": "Amon-Ra St. Brown",
-    "team": "DET",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 15,
-    "side": "over",
-    "opp": "CHI",
-    "home": true,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     19,
-     34,
-     16,
-     19,
-     36,
-     40,
-     13,
-     17,
-     56,
-     14
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261108",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": -1,
-    "avg10": 26.4,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.816
-     },
-     {
-      "v": "Sim",
-      "p": 0.811
-     },
-     {
-      "v": "Judge",
       "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.786
-     },
-     {
-      "v": "Coach",
-      "p": 0.785
-     }
-    ],
-    "votes": 5,
-    "p": 0.8,
-    "fair": -401
-   },
-   {
-    "id": "nfl|samlaporta|lwy|15|over",
-    "sp": "nfl",
-    "player": "Sam LaPorta",
-    "team": "DET",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 15,
-    "side": "over",
-    "opp": "CHI",
-    "home": true,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     19,
-     18,
-     28,
-     25,
-     38,
-     18,
-     19,
-     11,
-     16,
-     47
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261011",
-     "261025",
-     "261101",
-     "261108",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 2,
-    "avg10": 23.9,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.816
-     },
-     {
-      "v": "Sim",
-      "p": 0.811
-     },
-     {
-      "v": "Judge",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.786
      },
      {
       "v": "Coach",
@@ -83677,43 +83336,43 @@
      }
     ],
     "votes": 5,
-    "p": 0.8,
-    "fair": -400
+    "p": 0.801,
+    "fair": -404
    },
    {
-    "id": "nfl|dakprescott|py|200|over",
+    "id": "nfl|lutherburdeniii|lwy|15|over",
     "sp": "nfl",
-    "player": "Dak Prescott",
-    "team": "DAL",
-    "k": "py",
-    "lab": "pass yds",
-    "thr": 200,
+    "player": "Luther Burden III",
+    "team": "CHI",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 15,
     "side": "over",
-    "opp": "PHI",
-    "home": true,
-    "start": "2026-11-26T21:30Z",
+    "opp": "DET",
+    "home": false,
+    "start": "2026-11-26T18:00Z",
     "last": [
-     279,
-     276,
-     335,
-     316,
-     258,
-     212,
-     195,
-     335,
-     343,
-     325
+     24,
+     18,
+     25,
+     22,
+     23,
+     25,
+     58,
+     23,
+     56,
+     6
     ],
     "dates": [
+     "260913",
      "260920",
-     "260927",
+     "260928",
      "261004",
-     "261008",
+     "261011",
      "261018",
-     "261026",
-     "261101",
+     "261022",
+     "261102",
      "261108",
-     "261115",
      "261122"
     ],
     "l5": [
@@ -83724,12 +83383,78 @@
      9,
      10
     ],
-    "streak": 3,
-    "avg10": 287.4,
+    "streak": -1,
+    "avg10": 28,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.802
+     },
+     {
+      "v": "Most common",
+      "p": 0.786
+     },
+     {
+      "v": "Coach",
+      "p": 0.776
+     }
+    ],
+    "votes": 5,
+    "p": 0.801,
+    "fair": -404
+   },
+   {
+    "id": "nfl|jackcampbell|tkl|4|over",
+    "sp": "nfl",
+    "player": "Jack Campbell",
+    "team": "DET",
+    "k": "tkl",
+    "lab": "tackles",
+    "thr": 4,
+    "side": "over",
+    "opp": "CHI",
+    "home": true,
+    "start": "2026-11-26T18:00Z",
+    "last": [
+     7,
+     6,
+     6,
+     13,
+     11,
+     11,
+     3
+    ],
+    "dates": [
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     6,
+     7
+    ],
+    "streak": -1,
+    "avg10": 8.1,
     "by": [
      {
       "v": "Judge",
-      "p": 0.815
+      "p": 0.811
      },
      {
       "v": "Trends",
@@ -83745,12 +83470,12 @@
      },
      {
       "v": "Coach",
-      "p": 0.775
+      "p": 0.783
      }
     ],
     "votes": 5,
-    "p": 0.8,
-    "fair": -400
+    "p": 0.801,
+    "fair": -402
    },
    {
     "id": "nfl|georgepickens|wy|40|over",
@@ -83817,12 +83542,516 @@
      },
      {
       "v": "Coach",
-      "p": 0.786
+      "p": 0.783
+     }
+    ],
+    "votes": 5,
+    "p": 0.8,
+    "fair": -400
+   },
+   {
+    "id": "nfl|calebwilliams|cmp|15|over",
+    "sp": "nfl",
+    "player": "Caleb Williams",
+    "team": "CHI",
+    "k": "cmp",
+    "lab": "completions",
+    "thr": 15,
+    "side": "over",
+    "opp": "DET",
+    "home": false,
+    "start": "2026-11-26T18:00Z",
+    "last": [
+     20,
+     24,
+     23,
+     21,
+     15,
+     30,
+     22,
+     24,
+     22,
+     15
+    ],
+    "dates": [
+     "260104",
+     "260110",
+     "260118",
+     "260913",
+     "260920",
+     "261018",
+     "261022",
+     "261102",
+     "261108",
+     "261122"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 21.6,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.811
+     },
+     {
+      "v": "Trends",
+      "p": 0.805
+     },
+     {
+      "v": "Sim",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.801
+     },
+     {
+      "v": "Coach",
+      "p": 0.782
      }
     ],
     "votes": 5,
     "p": 0.8,
     "fair": -401
+   },
+   {
+    "id": "nfl|cairosantos|kpts|5|over",
+    "sp": "nfl",
+    "player": "Cairo Santos",
+    "team": "CHI",
+    "k": "kpts",
+    "lab": "kicking pts",
+    "thr": 5,
+    "side": "over",
+    "opp": "DET",
+    "home": false,
+    "start": "2026-11-26T18:00Z",
+    "last": [
+     11,
+     3,
+     9,
+     11,
+     1,
+     7,
+     12,
+     10,
+     9,
+     7
+    ],
+    "dates": [
+     "260913",
+     "260920",
+     "260928",
+     "261004",
+     "261011",
+     "261018",
+     "261022",
+     "261102",
+     "261108",
+     "261122"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 5,
+    "avg10": 8,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.812
+     },
+     {
+      "v": "Trends",
+      "p": 0.806
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.803
+     },
+     {
+      "v": "Coach",
+      "p": 0.773
+     }
+    ],
+    "votes": 5,
+    "p": 0.8,
+    "fair": -399
+   },
+   {
+    "id": "nfl|jaredgoff|py|200|over",
+    "sp": "nfl",
+    "player": "Jared Goff",
+    "team": "DET",
+    "k": "py",
+    "lab": "pass yds",
+    "thr": 200,
+    "side": "over",
+    "opp": "CHI",
+    "home": true,
+    "start": "2026-11-26T18:00Z",
+    "last": [
+     206,
+     327,
+     269,
+     412,
+     271,
+     303,
+     176,
+     170,
+     303,
+     279
+    ],
+    "dates": [
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 2,
+    "avg10": 271.6,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.812
+     },
+     {
+      "v": "Trends",
+      "p": 0.806
+     },
+     {
+      "v": "Sim",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.803
+     },
+     {
+      "v": "Coach",
+      "p": 0.771
+     }
+    ],
+    "votes": 5,
+    "p": 0.799,
+    "fair": -398
+   },
+   {
+    "id": "nfl|jaredgoff|ptd|1|over",
+    "sp": "nfl",
+    "player": "Jared Goff",
+    "team": "DET",
+    "k": "ptd",
+    "lab": "pass TD",
+    "thr": 1,
+    "side": "over",
+    "opp": "CHI",
+    "home": true,
+    "start": "2026-11-26T18:00Z",
+    "last": [
+     2,
+     4,
+     2,
+     1,
+     3,
+     2,
+     1,
+     0,
+     3,
+     2
+    ],
+    "dates": [
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 2,
+    "avg10": 2,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.812
+     },
+     {
+      "v": "Trends",
+      "p": 0.805
+     },
+     {
+      "v": "Sim",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
+     },
+     {
+      "v": "Coach",
+      "p": 0.773
+     }
+    ],
+    "votes": 5,
+    "p": 0.799,
+    "fair": -398
+   },
+   {
+    "id": "nfl|amonrastbrown|lwy|15|over",
+    "sp": "nfl",
+    "player": "Amon-Ra St. Brown",
+    "team": "DET",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 15,
+    "side": "over",
+    "opp": "CHI",
+    "home": true,
+    "start": "2026-11-26T18:00Z",
+    "last": [
+     19,
+     34,
+     16,
+     19,
+     36,
+     40,
+     13,
+     17,
+     56,
+     14
+    ],
+    "dates": [
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": -1,
+    "avg10": 26.4,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.816
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.786
+     },
+     {
+      "v": "Coach",
+      "p": 0.781
+     }
+    ],
+    "votes": 5,
+    "p": 0.799,
+    "fair": -399
+   },
+   {
+    "id": "nfl|samlaporta|lwy|15|over",
+    "sp": "nfl",
+    "player": "Sam LaPorta",
+    "team": "DET",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 15,
+    "side": "over",
+    "opp": "CHI",
+    "home": true,
+    "start": "2026-11-26T18:00Z",
+    "last": [
+     19,
+     18,
+     28,
+     25,
+     38,
+     18,
+     19,
+     11,
+     16,
+     47
+    ],
+    "dates": [
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261011",
+     "261025",
+     "261101",
+     "261108",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 2,
+    "avg10": 23.9,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.816
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.786
+     },
+     {
+      "v": "Coach",
+      "p": 0.78
+     }
+    ],
+    "votes": 5,
+    "p": 0.799,
+    "fair": -398
+   },
+   {
+    "id": "nfl|dakprescott|py|200|over",
+    "sp": "nfl",
+    "player": "Dak Prescott",
+    "team": "DAL",
+    "k": "py",
+    "lab": "pass yds",
+    "thr": 200,
+    "side": "over",
+    "opp": "PHI",
+    "home": true,
+    "start": "2026-11-26T21:30Z",
+    "last": [
+     279,
+     276,
+     335,
+     316,
+     258,
+     212,
+     195,
+     335,
+     343,
+     325
+    ],
+    "dates": [
+     "260920",
+     "260927",
+     "261004",
+     "261008",
+     "261018",
+     "261026",
+     "261101",
+     "261108",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 3,
+    "avg10": 287.4,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.811
+     },
+     {
+      "v": "Trends",
+      "p": 0.805
+     },
+     {
+      "v": "Sim",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.801
+     },
+     {
+      "v": "Coach",
+      "p": 0.775
+     }
+    ],
+    "votes": 5,
+    "p": 0.799,
+    "fair": -398
    },
    {
     "id": "nfl|calebwilliams|ptd|1|over",
@@ -83889,84 +84118,12 @@
      },
      {
       "v": "Coach",
-      "p": 0.784
+      "p": 0.78
      }
     ],
     "votes": 5,
-    "p": 0.8,
-    "fair": -400
-   },
-   {
-    "id": "nfl|cairosantos|kpts|5|over",
-    "sp": "nfl",
-    "player": "Cairo Santos",
-    "team": "CHI",
-    "k": "kpts",
-    "lab": "kicking pts",
-    "thr": 5,
-    "side": "over",
-    "opp": "DET",
-    "home": false,
-    "start": "2026-11-26T18:00Z",
-    "last": [
-     11,
-     3,
-     9,
-     11,
-     1,
-     7,
-     12,
-     10,
-     9,
-     7
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260928",
-     "261004",
-     "261011",
-     "261018",
-     "261022",
-     "261102",
-     "261108",
-     "261122"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 5,
-    "avg10": 8,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Trends",
-      "p": 0.806
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.803
-     },
-     {
-      "v": "Coach",
-      "p": 0.773
-     }
-    ],
-    "votes": 5,
-    "p": 0.8,
-    "fair": -401
+    "p": 0.799,
+    "fair": -398
    },
    {
     "id": "nfl|cairosantos|fgm|1|over",
@@ -84033,12 +84190,12 @@
      },
      {
       "v": "Coach",
-      "p": 0.784
+      "p": 0.78
      }
     ],
     "votes": 5,
-    "p": 0.8,
-    "fair": -400
+    "p": 0.799,
+    "fair": -398
    },
    {
     "id": "nfl|romeodunze|lwy|15|over",
@@ -84105,12 +84262,12 @@
      },
      {
       "v": "Coach",
-      "p": 0.784
+      "p": 0.78
      }
     ],
     "votes": 5,
-    "p": 0.8,
-    "fair": -401
+    "p": 0.799,
+    "fair": -399
    },
    {
     "id": "nfl|jahmyrgibbs|lry|10|over",
@@ -84249,84 +84406,12 @@
      },
      {
       "v": "Coach",
-      "p": 0.783
+      "p": 0.78
      }
     ],
     "votes": 5,
     "p": 0.798,
-    "fair": -396
-   },
-   {
-    "id": "nfl|traviskelce|lwy|15|over",
-    "sp": "nfl",
-    "player": "Travis Kelce",
-    "team": "KC",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 15,
-    "side": "over",
-    "opp": "BUF",
-    "home": false,
-    "start": "2026-11-27T01:20Z",
-    "last": [
-     59,
-     18,
-     48,
-     10,
-     24,
-     19,
-     32,
-     38,
-     23,
-     22
-    ],
-    "dates": [
-     "260914",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261025",
-     "261101",
-     "261108",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 6,
-    "avg10": 29.3,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Coach",
-      "p": 0.7
-     }
-    ],
-    "votes": 5,
-    "p": 0.798,
-    "fair": -395
+    "fair": -394
    },
    {
     "id": "nfl|kylemonangai|lry|10|over",
@@ -84388,148 +84473,6 @@
     ],
     "votes": 5,
     "p": 0.798,
-    "fair": -394
-   },
-   {
-    "id": "nfl|khalilshakir|lwy|15|over",
-    "sp": "nfl",
-    "player": "Khalil Shakir",
-    "team": "BUF",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 15,
-    "side": "over",
-    "opp": "KC",
-    "home": true,
-    "start": "2026-11-27T01:20Z",
-    "last": [
-     19,
-     16,
-     6,
-     51,
-     57,
-     16,
-     26,
-     22,
-     13,
-     38
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261012",
-     "261018",
-     "261101",
-     "261109",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 1,
-    "avg10": 26.4,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.806
-     },
-     {
-      "v": "Coach",
-      "p": 0.698
-     }
-    ],
-    "votes": 5,
-    "p": 0.797,
-    "fair": -392
-   },
-   {
-    "id": "nfl|amanihooker|tkl|4|over",
-    "sp": "nfl",
-    "player": "Amani Hooker",
-    "team": "BUF",
-    "k": "tkl",
-    "lab": "tackles",
-    "thr": 4,
-    "side": "over",
-    "opp": "KC",
-    "home": true,
-    "start": "2026-11-27T01:20Z",
-    "last": [
-     10,
-     6,
-     6,
-     6,
-     13,
-     5,
-     6,
-     7,
-     2
-    ],
-    "dates": [
-     "260913",
-     "260920",
-     "260927",
-     "261004",
-     "261018",
-     "261025",
-     "261101",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     9
-    ],
-    "streak": -1,
-    "avg10": 6.8,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Coach",
-      "p": 0.698
-     }
-    ],
-    "votes": 5,
-    "p": 0.797,
     "fair": -394
    },
    {
@@ -84603,6 +84546,220 @@
     "votes": 5,
     "p": 0.796,
     "fair": -391
+   },
+   {
+    "id": "nfl|traviskelce|lwy|15|over",
+    "sp": "nfl",
+    "player": "Travis Kelce",
+    "team": "KC",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 15,
+    "side": "over",
+    "opp": "BUF",
+    "home": false,
+    "start": "2026-11-27T01:20Z",
+    "last": [
+     59,
+     18,
+     48,
+     10,
+     24,
+     19,
+     32,
+     38,
+     23,
+     22
+    ],
+    "dates": [
+     "260914",
+     "260920",
+     "260927",
+     "261004",
+     "261018",
+     "261025",
+     "261101",
+     "261108",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 6,
+    "avg10": 29.3,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     },
+     {
+      "v": "Coach",
+      "p": 0.7
+     }
+    ],
+    "votes": 5,
+    "p": 0.795,
+    "fair": -389
+   },
+   {
+    "id": "nfl|khalilshakir|lwy|15|over",
+    "sp": "nfl",
+    "player": "Khalil Shakir",
+    "team": "BUF",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 15,
+    "side": "over",
+    "opp": "KC",
+    "home": true,
+    "start": "2026-11-27T01:20Z",
+    "last": [
+     19,
+     16,
+     6,
+     51,
+     57,
+     16,
+     26,
+     22,
+     13,
+     38
+    ],
+    "dates": [
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261012",
+     "261018",
+     "261101",
+     "261109",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 1,
+    "avg10": 26.4,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.806
+     },
+     {
+      "v": "Coach",
+      "p": 0.698
+     }
+    ],
+    "votes": 5,
+    "p": 0.795,
+    "fair": -387
+   },
+   {
+    "id": "nfl|amanihooker|tkl|4|over",
+    "sp": "nfl",
+    "player": "Amani Hooker",
+    "team": "BUF",
+    "k": "tkl",
+    "lab": "tackles",
+    "thr": 4,
+    "side": "over",
+    "opp": "KC",
+    "home": true,
+    "start": "2026-11-27T01:20Z",
+    "last": [
+     10,
+     6,
+     6,
+     6,
+     13,
+     5,
+     6,
+     7,
+     2
+    ],
+    "dates": [
+     "260913",
+     "260920",
+     "260927",
+     "261004",
+     "261018",
+     "261025",
+     "261101",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     9
+    ],
+    "streak": -1,
+    "avg10": 6.8,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.833
+     },
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     },
+     {
+      "v": "Coach",
+      "p": 0.698
+     }
+    ],
+    "votes": 5,
+    "p": 0.795,
+    "fair": -388
    },
    {
     "id": "nfl|joshallen|cmp|15|over",
@@ -84749,150 +84906,6 @@
     "fair": -385
    },
    {
-    "id": "nfl|terrelbernard|tkl|4|over",
-    "sp": "nfl",
-    "player": "Terrel Bernard",
-    "team": "BUF",
-    "k": "tkl",
-    "lab": "tackles",
-    "thr": 4,
-    "side": "over",
-    "opp": "KC",
-    "home": true,
-    "start": "2026-11-27T01:20Z",
-    "last": [
-     12,
-     5,
-     5,
-     7,
-     7,
-     9,
-     6,
-     6,
-     8,
-     2
-    ],
-    "dates": [
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261012",
-     "261018",
-     "261101",
-     "261109",
-     "261115",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": -1,
-    "avg10": 6.7,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Coach",
-      "p": 0.699
-     }
-    ],
-    "votes": 5,
-    "p": 0.794,
-    "fair": -384
-   },
-   {
-    "id": "nfl|daltonkincaid|lwy|15|over",
-    "sp": "nfl",
-    "player": "Dalton Kincaid",
-    "team": "BUF",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 15,
-    "side": "over",
-    "opp": "KC",
-    "home": true,
-    "start": "2026-11-27T01:20Z",
-    "last": [
-     25,
-     40,
-     25,
-     24,
-     7,
-     7,
-     14,
-     40,
-     12,
-     54
-    ],
-    "dates": [
-     "260117",
-     "260913",
-     "260917",
-     "260927",
-     "261004",
-     "261012",
-     "261018",
-     "261101",
-     "261109",
-     "261115"
-    ],
-    "l5": [
-     2,
-     5
-    ],
-    "l10": [
-     6,
-     10
-    ],
-    "streak": 1,
-    "avg10": 24.8,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.816
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Coach",
-      "p": 0.7
-     }
-    ],
-    "votes": 5,
-    "p": 0.794,
-    "fair": -385
-   },
-   {
     "id": "ncaaf|jkobywilliams|ry|50|over",
     "sp": "ncaaf",
     "player": "J'Koby Williams",
@@ -84965,6 +84978,150 @@
     "fair": -386
    },
    {
+    "id": "nfl|terrelbernard|tkl|4|over",
+    "sp": "nfl",
+    "player": "Terrel Bernard",
+    "team": "BUF",
+    "k": "tkl",
+    "lab": "tackles",
+    "thr": 4,
+    "side": "over",
+    "opp": "KC",
+    "home": true,
+    "start": "2026-11-27T01:20Z",
+    "last": [
+     12,
+     5,
+     5,
+     7,
+     7,
+     9,
+     6,
+     6,
+     8,
+     2
+    ],
+    "dates": [
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261012",
+     "261018",
+     "261101",
+     "261109",
+     "261115",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": -1,
+    "avg10": 6.7,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     },
+     {
+      "v": "Coach",
+      "p": 0.699
+     }
+    ],
+    "votes": 5,
+    "p": 0.792,
+    "fair": -380
+   },
+   {
+    "id": "nfl|daltonkincaid|lwy|15|over",
+    "sp": "nfl",
+    "player": "Dalton Kincaid",
+    "team": "BUF",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 15,
+    "side": "over",
+    "opp": "KC",
+    "home": true,
+    "start": "2026-11-27T01:20Z",
+    "last": [
+     25,
+     40,
+     25,
+     24,
+     7,
+     7,
+     14,
+     40,
+     12,
+     54
+    ],
+    "dates": [
+     "260117",
+     "260913",
+     "260917",
+     "260927",
+     "261004",
+     "261012",
+     "261018",
+     "261101",
+     "261109",
+     "261115"
+    ],
+    "l5": [
+     2,
+     5
+    ],
+    "l10": [
+     6,
+     10
+    ],
+    "streak": 1,
+    "avg10": 24.8,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Trends",
+      "p": 0.816
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     },
+     {
+      "v": "Coach",
+      "p": 0.7
+     }
+    ],
+    "votes": 5,
+    "p": 0.792,
+    "fair": -381
+   },
+   {
     "id": "nfl|dorianwilliams|tkl|4|over",
     "sp": "nfl",
     "player": "Dorian Williams",
@@ -85011,7 +85168,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Sim",
@@ -85031,8 +85188,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.789,
-    "fair": -375
+    "p": 0.788,
+    "fair": -373
    },
    {
     "id": "ncaaf|thomascastellanos|ptd|1|over",
@@ -85083,7 +85240,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Sim",
@@ -85103,8 +85260,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.789,
-    "fair": -374
+    "p": 0.788,
+    "fair": -372
    },
    {
     "id": "nfl|ceedeelamb|rry|60|over",
@@ -85155,7 +85312,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Judge",
@@ -85175,8 +85332,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.786,
-    "fair": -367
+    "p": 0.785,
+    "fair": -366
    },
    {
     "id": "nfl|georgepickens|lwy|20|over",
@@ -85227,7 +85384,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Judge",
@@ -85248,7 +85405,7 @@
     ],
     "votes": 5,
     "p": 0.78,
-    "fair": -355
+    "fair": -354
    },
    {
     "id": "nfl|harrisonbutker|fgm|1|over",
@@ -85299,11 +85456,11 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Sim",
-      "p": 0.817
+      "p": 0.813
      },
      {
       "v": "Judge",
@@ -85319,8 +85476,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.777,
-    "fair": -349
+    "p": 0.776,
+    "fair": -346
    },
    {
     "id": "nfl|amonrastbrown|rec|5|over",
@@ -85371,11 +85528,11 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.828
+      "p": 0.823
      },
      {
       "v": "Sim",
-      "p": 0.817
+      "p": 0.813
      },
      {
       "v": "Judge",
@@ -85391,8 +85548,8 @@
      }
     ],
     "votes": 5,
-    "p": 0.776,
-    "fair": -346
+    "p": 0.774,
+    "fair": -343
    },
    {
     "id": "nfl|ceedeelamb|lwy|20|over",
@@ -85583,7 +85740,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Judge",
@@ -85604,7 +85761,7 @@
     ],
     "votes": 5,
     "p": 0.765,
-    "fair": -326
+    "fair": -325
    },
    {
     "id": "nfl|dakprescott|att|30|over",
@@ -85941,7 +86098,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.908
+      "p": 0.907
      },
      {
       "v": "Most common",
@@ -85950,7 +86107,7 @@
     ],
     "votes": 4,
     "p": 0.917,
-    "fair": -1112
+    "fair": -1108
    },
    {
     "id": "ncaab|dallinhall|fg3|1|over",
@@ -86005,7 +86162,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.908
+      "p": 0.906
      },
      {
       "v": "Sim",
@@ -86017,8 +86174,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.908,
-    "fair": -984
+    "p": 0.907,
+    "fair": -978
    },
    {
     "id": "ncaab|dallinhall|ra|6|over",
@@ -86069,7 +86226,7 @@
     "by": [
      {
       "v": "Judge",
-      "p": 0.908
+      "p": 0.906
      },
      {
       "v": "Trends",
@@ -86086,7 +86243,7 @@
     ],
     "votes": 4,
     "p": 0.903,
-    "fair": -936
+    "fair": -931
    },
    {
     "id": "ncaab|willhornseth|pts|10|over",
@@ -86137,11 +86294,11 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.91
+      "p": 0.909
      },
      {
       "v": "Sim",
-      "p": 0.901
+      "p": 0.898
      },
      {
       "v": "Judge",
@@ -86153,8 +86310,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.893,
-    "fair": -837
+    "p": 0.892,
+    "fair": -828
    },
    {
     "id": "ncaab|willhornseth|pa|12|over",
@@ -86205,11 +86362,11 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.91
+      "p": 0.908
      },
      {
       "v": "Sim",
-      "p": 0.9
+      "p": 0.898
      },
      {
       "v": "Judge",
@@ -86221,8 +86378,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.893,
-    "fair": -835
+    "p": 0.892,
+    "fair": -826
    },
    {
     "id": "ncaab|willhornseth|pra|15|over",
@@ -86341,7 +86498,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.909
+      "p": 0.908
      },
      {
       "v": "Judge",
@@ -86358,7 +86515,7 @@
     ],
     "votes": 4,
     "p": 0.881,
-    "fair": -740
+    "fair": -739
    },
    {
     "id": "ncaab|javontaecampbell|stl|1|over",
@@ -86565,74 +86722,6 @@
     "fair": -546
    },
    {
-    "id": "ncaab|joelfoxwell|ast|3|over",
-    "sp": "ncaab",
-    "player": "Joel Foxwell",
-    "team": "ASU",
-    "k": "ast",
-    "lab": "AST",
-    "thr": 3,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     6,
-     8,
-     5,
-     6,
-     5,
-     8,
-     6,
-     9,
-     6,
-     7
-    ],
-    "dates": [
-     "260228",
-     "260305",
-     "260306",
-     "260307",
-     "261102",
-     "261106",
-     "261110",
-     "261113",
-     "261118",
-     "261125"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     10,
-     10
-    ],
-    "streak": 10,
-    "avg10": 6.6,
-    "by": [
-     {
-      "v": "Sim",
-      "p": 0.865
-     },
-     {
-      "v": "Trends",
-      "p": 0.855
-     },
-     {
-      "v": "Judge",
-      "p": 0.817
-     },
-     {
-      "v": "Most common",
-      "p": 0.802
-     }
-    ],
-    "votes": 4,
-    "p": 0.835,
-    "fair": -505
-   },
-   {
     "id": "ncaab|masonfalslev|pts|10|over",
     "sp": "ncaab",
     "player": "Mason Falslev",
@@ -86689,7 +86778,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.825
+      "p": 0.823
      },
      {
       "v": "Most common",
@@ -86698,7 +86787,75 @@
     ],
     "votes": 4,
     "p": 0.834,
-    "fair": -503
+    "fair": -502
+   },
+   {
+    "id": "ncaab|joelfoxwell|ast|3|over",
+    "sp": "ncaab",
+    "player": "Joel Foxwell",
+    "team": "ASU",
+    "k": "ast",
+    "lab": "AST",
+    "thr": 3,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     6,
+     8,
+     5,
+     6,
+     5,
+     8,
+     6,
+     9,
+     6,
+     7
+    ],
+    "dates": [
+     "260228",
+     "260305",
+     "260306",
+     "260307",
+     "261102",
+     "261106",
+     "261110",
+     "261113",
+     "261118",
+     "261125"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 6.6,
+    "by": [
+     {
+      "v": "Sim",
+      "p": 0.865
+     },
+     {
+      "v": "Trends",
+      "p": 0.855
+     },
+     {
+      "v": "Judge",
+      "p": 0.813
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
+     }
+    ],
+    "votes": 4,
+    "p": 0.834,
+    "fair": -502
    },
    {
     "id": "ncaab|masonfalslev|ra|8|over",
@@ -86749,7 +86906,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.831
+      "p": 0.829
      },
      {
       "v": "Trends",
@@ -86765,76 +86922,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.824,
-    "fair": -467
-   },
-   {
-    "id": "ncaab|daidaiames|pts|10|over",
-    "sp": "ncaab",
-    "player": "Dai Dai Ames",
-    "team": "TENN",
-    "k": "pts",
-    "lab": "PTS",
-    "thr": 10,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     31,
-     27,
-     9,
-     16,
-     6,
-     13,
-     11,
-     7,
-     8,
-     24
-    ],
-    "dates": [
-     "260307",
-     "260311",
-     "260318",
-     "260322",
-     "261103",
-     "261109",
-     "261113",
-     "261117",
-     "261120",
-     "261124"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     6,
-     10
-    ],
-    "streak": 1,
-    "avg10": 15.2,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -461
+    "p": 0.823,
+    "fair": -466
    },
    {
     "id": "ncaab|elliotcadeau|pra|15|over",
@@ -86885,15 +86974,15 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.835
+      "p": 0.833
      },
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Sim",
-      "p": 0.818
+      "p": 0.814
      },
      {
       "v": "Judge",
@@ -86901,280 +86990,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.822,
-    "fair": -463
-   },
-   {
-    "id": "ncaab|ericdaileyjr|pra|15|over",
-    "sp": "ncaab",
-    "player": "Eric Dailey Jr.",
-    "team": "UCLA",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     27,
-     24,
-     27,
-     18,
-     23,
-     24,
-     23,
-     31,
-     14,
-     21
-    ],
-    "dates": [
-     "260313",
-     "260314",
-     "260320",
-     "260322",
-     "261102",
-     "261106",
-     "261111",
-     "261116",
-     "261118",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 1,
-    "avg10": 23.2,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -461
-   },
-   {
-    "id": "ncaab|billyrichmondiii|ra|6|over",
-    "sp": "ncaab",
-    "player": "Billy Richmond III",
-    "team": "ARK",
-    "k": "ra",
-    "lab": "REB+AST",
-    "thr": 6,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     4,
-     11,
-     8,
-     8,
-     13,
-     13,
-     10,
-     10,
-     6,
-     6
-    ],
-    "dates": [
-     "261103",
-     "261108",
-     "261111",
-     "261111",
-     "261113",
-     "261113",
-     "261117",
-     "261117",
-     "261120",
-     "261120"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 9,
-    "avg10": 8.9,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -461
-   },
-   {
-    "id": "ncaab|cruzdavis|ast|3|over",
-    "sp": "ncaab",
-    "player": "Cruz Davis",
-    "team": "TTU",
-    "k": "ast",
-    "lab": "AST",
-    "thr": 3,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     5,
-     4,
-     5,
-     6,
-     5,
-     3,
-     5,
-     6,
-     4,
-     1
-    ],
-    "dates": [
-     "260308",
-     "260309",
-     "260310",
-     "260320",
-     "261102",
-     "261105",
-     "261110",
-     "261114",
-     "261118",
-     "261124"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": -1,
-    "avg10": 4.4,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -461
-   },
-   {
-    "id": "ncaab|keyshawnhall|pra|20|over",
-    "sp": "ncaab",
-    "player": "Keyshawn Hall",
-    "team": "SJU",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 20,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     29,
-     22,
-     33,
-     25,
-     37,
-     17,
-     24,
-     30,
-     30,
-     23
-    ],
-    "dates": [
-     "260322",
-     "260325",
-     "260402",
-     "260405",
-     "261102",
-     "261108",
-     "261111",
-     "261115",
-     "261118",
-     "261124"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 4,
-    "avg10": 27,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -462
+    "p": 0.82,
+    "fair": -454
    },
    {
     "id": "ncaab|keyshawnhall|pa|15|over",
@@ -87225,15 +87042,15 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.835
+      "p": 0.833
      },
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Sim",
-      "p": 0.818
+      "p": 0.814
      },
      {
       "v": "Judge",
@@ -87241,76 +87058,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.822,
-    "fair": -463
-   },
-   {
-    "id": "ncaab|javontaecampbell|to|2|over",
-    "sp": "ncaab",
-    "player": "Javontae Campbell",
-    "team": "CIN",
-    "k": "to",
-    "lab": "turnovers",
-    "thr": 2,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     5,
-     0,
-     3,
-     2,
-     3,
-     3,
-     4,
-     3,
-     0,
-     4
-    ],
-    "dates": [
-     "260203",
-     "260207",
-     "260211",
-     "260214",
-     "260217",
-     "260220",
-     "260224",
-     "260228",
-     "260306",
-     "260312"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 1,
-    "avg10": 2.7,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -461
+    "p": 0.82,
+    "fair": -454
    },
    {
     "id": "ncaab|joelfoxwell|pra|20|over",
@@ -87361,419 +87110,19 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.835
+      "p": 0.833
      },
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Sim",
-      "p": 0.818
+      "p": 0.814
      },
      {
       "v": "Judge",
       "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -463
-   },
-   {
-    "id": "ncaab|joelfoxwell|pr|15|over",
-    "sp": "ncaab",
-    "player": "Joel Foxwell",
-    "team": "ASU",
-    "k": "pr",
-    "lab": "PTS+REB",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     19,
-     13,
-     27,
-     18,
-     18,
-     10,
-     20,
-     20,
-     14,
-     32
-    ],
-    "dates": [
-     "260228",
-     "260305",
-     "260306",
-     "260307",
-     "261102",
-     "261106",
-     "261110",
-     "261113",
-     "261118",
-     "261125"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 1,
-    "avg10": 19.1,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -460
-   },
-   {
-    "id": "ncaab|xavieredmonds|pts|10|over",
-    "sp": "ncaab",
-    "player": "Xavier Edmonds",
-    "team": "TCU",
-    "k": "pts",
-    "lab": "PTS",
-    "thr": 10,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     14,
-     5,
-     16,
-     12,
-     9,
-     13,
-     17,
-     18,
-     16,
-     12
-    ],
-    "dates": [
-     "260311",
-     "260312",
-     "260319",
-     "260321",
-     "261102",
-     "261106",
-     "261110",
-     "261113",
-     "261119",
-     "261124"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 5,
-    "avg10": 13.2,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.822,
-    "fair": -463
-   },
-   {
-    "id": "ncaab|amariallen|fg3|1|over",
-    "sp": "ncaab",
-    "player": "Amari Allen",
-    "team": "ALA",
-    "k": "fg3",
-    "lab": "3PM",
-    "thr": 1,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     1,
-     0,
-     0,
-     1,
-     3,
-     3,
-     3,
-     0,
-     1,
-     2
-    ],
-    "dates": [
-     "260320",
-     "260322",
-     "260327",
-     "261103",
-     "261106",
-     "261109",
-     "261113",
-     "261117",
-     "261119",
-     "261124"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 2,
-    "avg10": 1.4,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.806
-     }
-    ],
-    "votes": 4,
-    "p": 0.821,
-    "fair": -459
-   },
-   {
-    "id": "ncaab|davionthompson|pa|12|over",
-    "sp": "ncaab",
-    "player": "Davion Thompson",
-    "team": "ARK",
-    "k": "pa",
-    "lab": "PTS+AST",
-    "thr": 12,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     11,
-     7,
-     22,
-     15,
-     28,
-     24
-    ],
-    "dates": [
-     "261103",
-     "261108",
-     "261111",
-     "261113",
-     "261117",
-     "261120"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     4,
-     6
-    ],
-    "streak": 4,
-    "avg10": 17.8,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.806
-     }
-    ],
-    "votes": 4,
-    "p": 0.821,
-    "fair": -459
-   },
-   {
-    "id": "ncaab|wesenis|pr|15|over",
-    "sp": "ncaab",
-    "player": "Wes Enis",
-    "team": "CREI",
-    "k": "pr",
-    "lab": "PTS+REB",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     27,
-     27,
-     23,
-     5,
-     28,
-     19,
-     20,
-     12,
-     12,
-     34
-    ],
-    "dates": [
-     "260308",
-     "260314",
-     "260315",
-     "260319",
-     "261102",
-     "261105",
-     "261110",
-     "261115",
-     "261118",
-     "261124"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 1,
-    "avg10": 20.7,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.806
-     }
-    ],
-    "votes": 4,
-    "p": 0.821,
-    "fair": -459
-   },
-   {
-    "id": "ncaab|donovandent|stl|1|over",
-    "sp": "ncaab",
-    "player": "Donovan Dent",
-    "team": "LSU",
-    "k": "stl",
-    "lab": "STL",
-    "thr": 1,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     0,
-     6,
-     1,
-     2,
-     3,
-     5,
-     1,
-     2,
-     6,
-     2
-    ],
-    "dates": [
-     "260314",
-     "260320",
-     "260322",
-     "261103",
-     "261106",
-     "261109",
-     "261114",
-     "261118",
-     "261121",
-     "261125"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 9,
-    "avg10": 2.8,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.856
-     },
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.802
      }
     ],
     "votes": 4,
@@ -87828,12 +87177,12 @@
     "avg10": 35.9,
     "by": [
      {
-      "v": "Judge",
-      "p": 0.824
-     },
-     {
       "v": "Sim",
       "p": 0.823
+     },
+     {
+      "v": "Judge",
+      "p": 0.822
      },
      {
       "v": "Trends",
@@ -87846,7 +87195,407 @@
     ],
     "votes": 4,
     "p": 0.819,
+    "fair": -452
+   },
+   {
+    "id": "ncaab|daidaiames|pts|10|over",
+    "sp": "ncaab",
+    "player": "Dai Dai Ames",
+    "team": "TENN",
+    "k": "pts",
+    "lab": "PTS",
+    "thr": 10,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     31,
+     27,
+     9,
+     16,
+     6,
+     13,
+     11,
+     7,
+     8,
+     24
+    ],
+    "dates": [
+     "260307",
+     "260311",
+     "260318",
+     "260322",
+     "261103",
+     "261109",
+     "261113",
+     "261117",
+     "261120",
+     "261124"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     6,
+     10
+    ],
+    "streak": 1,
+    "avg10": 15.2,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Sim",
+      "p": 0.813
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -452
+   },
+   {
+    "id": "ncaab|amariallen|fg3|1|over",
+    "sp": "ncaab",
+    "player": "Amari Allen",
+    "team": "ALA",
+    "k": "fg3",
+    "lab": "3PM",
+    "thr": 1,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     1,
+     0,
+     0,
+     1,
+     3,
+     3,
+     3,
+     0,
+     1,
+     2
+    ],
+    "dates": [
+     "260320",
+     "260322",
+     "260327",
+     "261103",
+     "261106",
+     "261109",
+     "261113",
+     "261117",
+     "261119",
+     "261124"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 2,
+    "avg10": 1.4,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.813
+     },
+     {
+      "v": "Judge",
+      "p": 0.806
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -451
+   },
+   {
+    "id": "ncaab|ericdaileyjr|pra|15|over",
+    "sp": "ncaab",
+    "player": "Eric Dailey Jr.",
+    "team": "UCLA",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     27,
+     24,
+     27,
+     18,
+     23,
+     24,
+     23,
+     31,
+     14,
+     21
+    ],
+    "dates": [
+     "260313",
+     "260314",
+     "260320",
+     "260322",
+     "261102",
+     "261106",
+     "261111",
+     "261116",
+     "261118",
+     "261122"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 1,
+    "avg10": 23.2,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.813
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -452
+   },
+   {
+    "id": "ncaab|billyrichmondiii|ra|6|over",
+    "sp": "ncaab",
+    "player": "Billy Richmond III",
+    "team": "ARK",
+    "k": "ra",
+    "lab": "REB+AST",
+    "thr": 6,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     4,
+     11,
+     8,
+     8,
+     13,
+     13,
+     10,
+     10,
+     6,
+     6
+    ],
+    "dates": [
+     "261103",
+     "261108",
+     "261111",
+     "261111",
+     "261113",
+     "261113",
+     "261117",
+     "261117",
+     "261120",
+     "261120"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 9,
+    "avg10": 8.9,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
     "fair": -453
+   },
+   {
+    "id": "ncaab|davionthompson|pa|12|over",
+    "sp": "ncaab",
+    "player": "Davion Thompson",
+    "team": "ARK",
+    "k": "pa",
+    "lab": "PTS+AST",
+    "thr": 12,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     11,
+     7,
+     22,
+     15,
+     28,
+     24
+    ],
+    "dates": [
+     "261103",
+     "261108",
+     "261111",
+     "261113",
+     "261117",
+     "261120"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     4,
+     6
+    ],
+    "streak": 4,
+    "avg10": 17.8,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.813
+     },
+     {
+      "v": "Judge",
+      "p": 0.806
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -451
+   },
+   {
+    "id": "ncaab|cruzdavis|ast|3|over",
+    "sp": "ncaab",
+    "player": "Cruz Davis",
+    "team": "TTU",
+    "k": "ast",
+    "lab": "AST",
+    "thr": 3,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     5,
+     4,
+     5,
+     6,
+     5,
+     3,
+     5,
+     6,
+     4,
+     1
+    ],
+    "dates": [
+     "260308",
+     "260309",
+     "260310",
+     "260320",
+     "261102",
+     "261105",
+     "261110",
+     "261114",
+     "261118",
+     "261124"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": -1,
+    "avg10": 4.4,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Sim",
+      "p": 0.813
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -452
    },
    {
     "id": "ncaab|skyyclark|fg3|1|over",
@@ -87901,7 +87650,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.816
+      "p": 0.813
      },
      {
       "v": "Sim",
@@ -87914,99 +87663,313 @@
     ],
     "votes": 4,
     "p": 0.819,
-    "fair": -453
+    "fair": -451
    },
    {
-    "id": "ncaaf|jordandwyer|lwy|15|over",
-    "sp": "ncaaf",
-    "player": "Jordan Dwyer",
-    "team": "TCU",
-    "k": "lwy",
-    "lab": "longest rec yds",
-    "thr": 15,
+    "id": "ncaab|donovandent|stl|1|over",
+    "sp": "ncaab",
+    "player": "Donovan Dent",
+    "team": "LSU",
+    "k": "stl",
+    "lab": "STL",
+    "thr": 1,
     "side": "over",
-    "opp": "TTU",
-    "home": false,
-    "start": "2026-11-27T01:00Z",
+    "opp": null,
+    "home": null,
+    "start": null,
     "last": [
-     15,
-     17,
-     69,
-     41,
-     28
+     0,
+     6,
+     1,
+     2,
+     3,
+     5,
+     1,
+     2,
+     6,
+     2
     ],
     "dates": [
-     "251115",
-     "251122",
-     "251129",
+     "260314",
+     "260320",
+     "260322",
+     "261103",
+     "261106",
+     "261109",
      "261114",
-     "261121"
+     "261118",
+     "261121",
+     "261125"
     ],
     "l5": [
      5,
      5
     ],
     "l10": [
-     5,
-     5
+     9,
+     10
     ],
-    "streak": 5,
-    "avg10": 34,
+    "streak": 9,
+    "avg10": 2.8,
     "by": [
      {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
       "v": "Trends",
-      "p": 0.815
+      "p": 0.856
      },
      {
       "v": "Judge",
-      "p": 0.806
+      "p": 0.813
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
      }
     ],
     "votes": 4,
-    "p": 0.817,
-    "fair": -446
+    "p": 0.819,
+    "fair": -452
    },
    {
-    "id": "ncaab|florybidunga|ra|8|over",
+    "id": "ncaab|keyshawnhall|pra|20|over",
     "sp": "ncaab",
-    "player": "Flory Bidunga",
-    "team": "LOU",
-    "k": "ra",
-    "lab": "REB+AST",
-    "thr": 8,
+    "player": "Keyshawn Hall",
+    "team": "SJU",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 20,
     "side": "over",
     "opp": null,
     "home": null,
     "start": null,
     "last": [
-     6,
-     11,
-     12,
-     7,
-     6,
-     10,
+     29,
+     22,
+     33,
+     25,
+     37,
+     17,
+     24,
+     30,
+     30,
+     23
+    ],
+    "dates": [
+     "260322",
+     "260325",
+     "260402",
+     "260405",
+     "261102",
+     "261108",
+     "261111",
+     "261115",
+     "261118",
+     "261124"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 4,
+    "avg10": 27,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -453
+   },
+   {
+    "id": "ncaab|javontaecampbell|to|2|over",
+    "sp": "ncaab",
+    "player": "Javontae Campbell",
+    "team": "CIN",
+    "k": "to",
+    "lab": "turnovers",
+    "thr": 2,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     5,
+     0,
+     3,
+     2,
+     3,
+     3,
+     4,
+     3,
+     0,
+     4
+    ],
+    "dates": [
+     "260203",
+     "260207",
+     "260211",
+     "260214",
+     "260217",
+     "260220",
+     "260224",
+     "260228",
+     "260306",
+     "260312"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
      8,
+     10
+    ],
+    "streak": 1,
+    "avg10": 2.7,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -452
+   },
+   {
+    "id": "ncaab|joelfoxwell|pr|15|over",
+    "sp": "ncaab",
+    "player": "Joel Foxwell",
+    "team": "ASU",
+    "k": "pr",
+    "lab": "PTS+REB",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     19,
+     13,
+     27,
+     18,
+     18,
      10,
-     15,
+     20,
+     20,
+     14,
+     32
+    ],
+    "dates": [
+     "260228",
+     "260305",
+     "260306",
+     "260307",
+     "261102",
+     "261106",
+     "261110",
+     "261113",
+     "261118",
+     "261125"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 1,
+    "avg10": 19.1,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -452
+   },
+   {
+    "id": "ncaab|xavieredmonds|pts|10|over",
+    "sp": "ncaab",
+    "player": "Xavier Edmonds",
+    "team": "TCU",
+    "k": "pts",
+    "lab": "PTS",
+    "thr": 10,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     14,
+     5,
+     16,
+     12,
+     9,
+     13,
+     17,
+     18,
+     16,
      12
     ],
     "dates": [
-     "260307",
+     "260311",
      "260312",
-     "260313",
-     "260320",
-     "260322",
+     "260319",
+     "260321",
      "261102",
-     "261107",
-     "261115",
+     "261106",
+     "261110",
+     "261113",
      "261119",
      "261124"
     ],
@@ -88015,23 +87978,23 @@
      5
     ],
     "l10": [
-     7,
+     8,
      10
     ],
     "streak": 5,
-    "avg10": 9.7,
+    "avg10": 13.2,
     "by": [
      {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
+      "p": 0.814
      },
      {
       "v": "Judge",
@@ -88039,8 +88002,76 @@
      }
     ],
     "votes": 4,
-    "p": 0.817,
-    "fair": -447
+    "p": 0.819,
+    "fair": -453
+   },
+   {
+    "id": "ncaab|wesenis|pr|15|over",
+    "sp": "ncaab",
+    "player": "Wes Enis",
+    "team": "CREI",
+    "k": "pr",
+    "lab": "PTS+REB",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     27,
+     27,
+     23,
+     5,
+     28,
+     19,
+     20,
+     12,
+     12,
+     34
+    ],
+    "dates": [
+     "260308",
+     "260314",
+     "260315",
+     "260319",
+     "261102",
+     "261105",
+     "261110",
+     "261115",
+     "261118",
+     "261124"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 1,
+    "avg10": 20.7,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.813
+     },
+     {
+      "v": "Judge",
+      "p": 0.806
+     }
+    ],
+    "votes": 4,
+    "p": 0.819,
+    "fair": -451
    },
    {
     "id": "ncaab|masonfalslev|pa|15|over",
@@ -88111,338 +88142,6 @@
     "fair": -447
    },
    {
-    "id": "ncaab|jeremiahwilkinson|pr|12|over",
-    "sp": "ncaab",
-    "player": "Jeremiah Wilkinson",
-    "team": "ARK",
-    "k": "pr",
-    "lab": "PTS+REB",
-    "thr": 12,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     29,
-     11,
-     13,
-     13,
-     16,
-     16,
-     2,
-     2,
-     33,
-     33
-    ],
-    "dates": [
-     "261103",
-     "261108",
-     "261111",
-     "261111",
-     "261113",
-     "261113",
-     "261117",
-     "261117",
-     "261120",
-     "261120"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 2,
-    "avg10": 16.8,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.817,
-    "fair": -447
-   },
-   {
-    "id": "ncaab|jeremiahwilkinson|pa|12|over",
-    "sp": "ncaab",
-    "player": "Jeremiah Wilkinson",
-    "team": "ARK",
-    "k": "pa",
-    "lab": "PTS+AST",
-    "thr": 12,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     26,
-     12,
-     14,
-     14,
-     16,
-     16,
-     2,
-     2,
-     32,
-     32
-    ],
-    "dates": [
-     "261103",
-     "261108",
-     "261111",
-     "261111",
-     "261113",
-     "261113",
-     "261117",
-     "261117",
-     "261120",
-     "261120"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 2,
-    "avg10": 16.6,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.817,
-    "fair": -446
-   },
-   {
-    "id": "ncaab|billyrichmondiii|pr|15|over",
-    "sp": "ncaab",
-    "player": "Billy Richmond III",
-    "team": "ARK",
-    "k": "pr",
-    "lab": "PTS+REB",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     10,
-     18,
-     20,
-     20,
-     30,
-     30,
-     23,
-     23,
-     21,
-     21
-    ],
-    "dates": [
-     "261103",
-     "261108",
-     "261111",
-     "261111",
-     "261113",
-     "261113",
-     "261117",
-     "261117",
-     "261120",
-     "261120"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 9,
-    "avg10": 21.6,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.817,
-    "fair": -446
-   },
-   {
-    "id": "ncaab|davionthompson|ra|6|over",
-    "sp": "ncaab",
-    "player": "Davion Thompson",
-    "team": "ARK",
-    "k": "ra",
-    "lab": "REB+AST",
-    "thr": 6,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     5,
-     2,
-     12,
-     11,
-     10,
-     15
-    ],
-    "dates": [
-     "261103",
-     "261108",
-     "261111",
-     "261113",
-     "261117",
-     "261120"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     4,
-     6
-    ],
-    "streak": 4,
-    "avg10": 9.2,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.817,
-    "fair": -447
-   },
-   {
-    "id": "ncaab|nickanderson|pra|15|over",
-    "sp": "ncaab",
-    "player": "Nick Anderson",
-    "team": "SDSU",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     20,
-     32,
-     23,
-     28,
-     13,
-     36,
-     17,
-     30,
-     16,
-     25
-    ],
-    "dates": [
-     "260130",
-     "260204",
-     "260208",
-     "260211",
-     "260214",
-     "260222",
-     "260225",
-     "260301",
-     "260304",
-     "260308"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 5,
-    "avg10": 24,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     }
-    ],
-    "votes": 4,
-    "p": 0.817,
-    "fair": -447
-   },
-   {
     "id": "ncaaf|jadencraig|py|200|over",
     "sp": "ncaaf",
     "player": "Jaden Craig",
@@ -88491,7 +88190,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Trends",
@@ -88507,76 +88206,134 @@
      }
     ],
     "votes": 4,
-    "p": 0.816,
-    "fair": -443
+    "p": 0.815,
+    "fair": -439
    },
    {
-    "id": "ncaab|naithangeorge|stl|1|over",
+    "id": "ncaaf|jordandwyer|lwy|15|over",
+    "sp": "ncaaf",
+    "player": "Jordan Dwyer",
+    "team": "TCU",
+    "k": "lwy",
+    "lab": "longest rec yds",
+    "thr": 15,
+    "side": "over",
+    "opp": "TTU",
+    "home": false,
+    "start": "2026-11-27T01:00Z",
+    "last": [
+     15,
+     17,
+     69,
+     41,
+     28
+    ],
+    "dates": [
+     "251115",
+     "251122",
+     "251129",
+     "261114",
+     "261121"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     5,
+     5
+    ],
+    "streak": 5,
+    "avg10": 34,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.806
+     }
+    ],
+    "votes": 4,
+    "p": 0.815,
+    "fair": -439
+   },
+   {
+    "id": "ncaab|florybidunga|ra|8|over",
     "sp": "ncaab",
-    "player": "Naithan George",
-    "team": "PITT",
-    "k": "stl",
-    "lab": "STL",
-    "thr": 1,
+    "player": "Flory Bidunga",
+    "team": "LOU",
+    "k": "ra",
+    "lab": "REB+AST",
+    "thr": 8,
     "side": "over",
     "opp": null,
     "home": null,
     "start": null,
     "last": [
-     0,
-     2,
-     3,
-     2,
-     2,
-     0,
-     3,
-     4,
-     4,
-     1
+     6,
+     11,
+     12,
+     7,
+     6,
+     10,
+     8,
+     10,
+     15,
+     12
     ],
     "dates": [
-     "260303",
      "260307",
-     "260310",
+     "260312",
+     "260313",
+     "260320",
+     "260322",
      "261102",
-     "261105",
-     "261108",
-     "261113",
-     "261117",
-     "261120",
+     "261107",
+     "261115",
+     "261119",
      "261124"
     ],
     "l5": [
-     4,
+     5,
      5
     ],
     "l10": [
-     8,
+     7,
      10
     ],
-    "streak": 4,
-    "avg10": 2.1,
+    "streak": 5,
+    "avg10": 9.7,
     "by": [
      {
       "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
+      "p": 0.824
      },
      {
       "v": "Trends",
-      "p": 0.816
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
      },
      {
       "v": "Judge",
-      "p": 0.802
+      "p": 0.807
      }
     ],
     "votes": 4,
-    "p": 0.816,
-    "fair": -443
+    "p": 0.815,
+    "fair": -441
    },
    {
     "id": "ncaab|masonfalslev|reb|5|over",
@@ -88715,6 +88472,338 @@
     "fair": -442
    },
    {
+    "id": "ncaab|jeremiahwilkinson|pr|12|over",
+    "sp": "ncaab",
+    "player": "Jeremiah Wilkinson",
+    "team": "ARK",
+    "k": "pr",
+    "lab": "PTS+REB",
+    "thr": 12,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     29,
+     11,
+     13,
+     13,
+     16,
+     16,
+     2,
+     2,
+     33,
+     33
+    ],
+    "dates": [
+     "261103",
+     "261108",
+     "261111",
+     "261111",
+     "261113",
+     "261113",
+     "261117",
+     "261117",
+     "261120",
+     "261120"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 2,
+    "avg10": 16.8,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.815,
+    "fair": -441
+   },
+   {
+    "id": "ncaab|jeremiahwilkinson|pa|12|over",
+    "sp": "ncaab",
+    "player": "Jeremiah Wilkinson",
+    "team": "ARK",
+    "k": "pa",
+    "lab": "PTS+AST",
+    "thr": 12,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     26,
+     12,
+     14,
+     14,
+     16,
+     16,
+     2,
+     2,
+     32,
+     32
+    ],
+    "dates": [
+     "261103",
+     "261108",
+     "261111",
+     "261111",
+     "261113",
+     "261113",
+     "261117",
+     "261117",
+     "261120",
+     "261120"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 2,
+    "avg10": 16.6,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.815,
+    "fair": -440
+   },
+   {
+    "id": "ncaab|billyrichmondiii|pr|15|over",
+    "sp": "ncaab",
+    "player": "Billy Richmond III",
+    "team": "ARK",
+    "k": "pr",
+    "lab": "PTS+REB",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     10,
+     18,
+     20,
+     20,
+     30,
+     30,
+     23,
+     23,
+     21,
+     21
+    ],
+    "dates": [
+     "261103",
+     "261108",
+     "261111",
+     "261111",
+     "261113",
+     "261113",
+     "261117",
+     "261117",
+     "261120",
+     "261120"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 9,
+    "avg10": 21.6,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.815,
+    "fair": -440
+   },
+   {
+    "id": "ncaab|davionthompson|ra|6|over",
+    "sp": "ncaab",
+    "player": "Davion Thompson",
+    "team": "ARK",
+    "k": "ra",
+    "lab": "REB+AST",
+    "thr": 6,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     5,
+     2,
+     12,
+     11,
+     10,
+     15
+    ],
+    "dates": [
+     "261103",
+     "261108",
+     "261111",
+     "261113",
+     "261117",
+     "261120"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     4,
+     6
+    ],
+    "streak": 4,
+    "avg10": 9.2,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.815,
+    "fair": -441
+   },
+   {
+    "id": "ncaab|nickanderson|pra|15|over",
+    "sp": "ncaab",
+    "player": "Nick Anderson",
+    "team": "SDSU",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     20,
+     32,
+     23,
+     28,
+     13,
+     36,
+     17,
+     30,
+     16,
+     25
+    ],
+    "dates": [
+     "260130",
+     "260204",
+     "260208",
+     "260211",
+     "260214",
+     "260222",
+     "260225",
+     "260301",
+     "260304",
+     "260308"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 5,
+    "avg10": 24,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Judge",
+      "p": 0.807
+     }
+    ],
+    "votes": 4,
+    "p": 0.815,
+    "fair": -441
+   },
+   {
     "id": "ncaab|naithangeorge|pra|15|over",
     "sp": "ncaab",
     "player": "Naithan George",
@@ -88763,7 +88852,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Trends",
@@ -88779,144 +88868,76 @@
      }
     ],
     "votes": 4,
-    "p": 0.815,
-    "fair": -440
+    "p": 0.814,
+    "fair": -436
    },
    {
-    "id": "ncaab|alijaharenas|pra|15|over",
+    "id": "ncaab|naithangeorge|stl|1|over",
     "sp": "ncaab",
-    "player": "Alijah Arenas",
-    "team": "USC",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 15,
+    "player": "Naithan George",
+    "team": "PITT",
+    "k": "stl",
+    "lab": "STL",
+    "thr": 1,
     "side": "over",
     "opp": null,
     "home": null,
     "start": null,
     "last": [
-     28,
-     24,
-     14,
-     31,
-     35,
-     27,
-     29,
-     23,
-     20,
-     28
+     0,
+     2,
+     3,
+     2,
+     2,
+     0,
+     3,
+     4,
+     4,
+     1
     ],
     "dates": [
-     "260304",
+     "260303",
      "260307",
-     "260311",
+     "260310",
      "261102",
+     "261105",
      "261108",
-     "261111",
-     "261115",
-     "261119",
-     "261122",
-     "261125"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 7,
-    "avg10": 25.9,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.829
-     },
-     {
-      "v": "Trends",
-      "p": 0.816
-     },
-     {
-      "v": "Sim",
-      "p": 0.81
-     },
-     {
-      "v": "Judge",
-      "p": 0.803
-     }
-    ],
-    "votes": 4,
-    "p": 0.815,
-    "fair": -439
-   },
-   {
-    "id": "ncaab|jeremiahwilkinson|pts|10|over",
-    "sp": "ncaab",
-    "player": "Jeremiah Wilkinson",
-    "team": "ARK",
-    "k": "pts",
-    "lab": "PTS",
-    "thr": 10,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     23,
-     11,
-     10,
-     10,
-     14,
-     14,
-     2,
-     2,
-     28,
-     28
-    ],
-    "dates": [
-     "261103",
-     "261108",
-     "261111",
-     "261111",
      "261113",
-     "261113",
-     "261117",
      "261117",
      "261120",
-     "261120"
+     "261124"
     ],
     "l5": [
-     3,
+     4,
      5
     ],
     "l10": [
      8,
      10
     ],
-    "streak": 2,
-    "avg10": 14.2,
+    "streak": 4,
+    "avg10": 2.1,
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.823
      },
      {
       "v": "Trends",
-      "p": 0.815
+      "p": 0.816
      },
      {
       "v": "Sim",
-      "p": 0.811
+      "p": 0.814
      },
      {
       "v": "Judge",
-      "p": 0.803
+      "p": 0.802
      }
     ],
     "votes": 4,
-    "p": 0.815,
-    "fair": -439
+    "p": 0.814,
+    "fair": -437
    },
    {
     "id": "ncaab|billyrichmondiii|pts|10|over",
@@ -88967,7 +88988,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Trends",
@@ -88983,8 +89004,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.815,
-    "fair": -441
+    "p": 0.814,
+    "fair": -437
    },
    {
     "id": "ncaab|isaiahchappell|fg3|1|over",
@@ -89035,7 +89056,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Trends",
@@ -89051,8 +89072,144 @@
      }
     ],
     "votes": 4,
-    "p": 0.815,
-    "fair": -440
+    "p": 0.814,
+    "fair": -436
+   },
+   {
+    "id": "ncaab|alijaharenas|pra|15|over",
+    "sp": "ncaab",
+    "player": "Alijah Arenas",
+    "team": "USC",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     28,
+     24,
+     14,
+     31,
+     35,
+     27,
+     29,
+     23,
+     20,
+     28
+    ],
+    "dates": [
+     "260304",
+     "260307",
+     "260311",
+     "261102",
+     "261108",
+     "261111",
+     "261115",
+     "261119",
+     "261122",
+     "261125"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 7,
+    "avg10": 25.9,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Trends",
+      "p": 0.816
+     },
+     {
+      "v": "Sim",
+      "p": 0.81
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     }
+    ],
+    "votes": 4,
+    "p": 0.813,
+    "fair": -435
+   },
+   {
+    "id": "ncaab|jeremiahwilkinson|pts|10|over",
+    "sp": "ncaab",
+    "player": "Jeremiah Wilkinson",
+    "team": "ARK",
+    "k": "pts",
+    "lab": "PTS",
+    "thr": 10,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     23,
+     11,
+     10,
+     10,
+     14,
+     14,
+     2,
+     2,
+     28,
+     28
+    ],
+    "dates": [
+     "261103",
+     "261108",
+     "261111",
+     "261111",
+     "261113",
+     "261113",
+     "261117",
+     "261117",
+     "261120",
+     "261120"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 2,
+    "avg10": 14.2,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.824
+     },
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     }
+    ],
+    "votes": 4,
+    "p": 0.813,
+    "fair": -435
    },
    {
     "id": "ncaab|nickanderson|pts|10|over",
@@ -89103,7 +89260,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.823
      },
      {
       "v": "Trends",
@@ -89119,144 +89276,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.814,
-    "fair": -438
-   },
-   {
-    "id": "ncaab|rowanbrumbaugh|pra|15|over",
-    "sp": "ncaab",
-    "player": "Rowan Brumbaugh",
-    "team": "SMU",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     20,
-     23,
-     38,
-     45,
-     29,
-     15,
-     6,
-     17,
-     20,
-     5
-    ],
-    "dates": [
-     "260301",
-     "260305",
-     "260308",
-     "260311",
-     "260312",
-     "261102",
-     "261105",
-     "261110",
-     "261120",
-     "261125"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": -1,
-    "avg10": 21.8,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Sim",
-      "p": 0.811
-     },
-     {
-      "v": "Judge",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.802
-     }
-    ],
-    "votes": 4,
     "p": 0.813,
-    "fair": -433
-   },
-   {
-    "id": "ncaab|laydenblocker|stl|1|over",
-    "sp": "ncaab",
-    "player": "Layden Blocker",
-    "team": "DEP",
-    "k": "stl",
-    "lab": "STL",
-    "thr": 1,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     1,
-     1,
-     2,
-     1,
-     1,
-     0,
-     2,
-     2,
-     5,
-     3
-    ],
-    "dates": [
-     "260301",
-     "260304",
-     "260307",
-     "260311",
-     "261102",
-     "261105",
-     "261109",
-     "261113",
-     "261117",
-     "261124"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 4,
-    "avg10": 1.8,
-    "by": [
-     {
-      "v": "Most common",
-      "p": 0.828
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Trends",
-      "p": 0.805
-     },
-     {
-      "v": "Judge",
-      "p": 0.802
-     }
-    ],
-    "votes": 4,
-    "p": 0.813,
-    "fair": -435
+    "fair": -434
    },
    {
     "id": "ncaab|donovanatwell|fg3|2|over",
@@ -89307,7 +89328,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Sim",
@@ -89324,7 +89345,75 @@
     ],
     "votes": 4,
     "p": 0.812,
-    "fair": -433
+    "fair": -431
+   },
+   {
+    "id": "ncaab|rowanbrumbaugh|pra|15|over",
+    "sp": "ncaab",
+    "player": "Rowan Brumbaugh",
+    "team": "SMU",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     20,
+     23,
+     38,
+     45,
+     29,
+     15,
+     6,
+     17,
+     20,
+     5
+    ],
+    "dates": [
+     "260301",
+     "260305",
+     "260308",
+     "260311",
+     "260312",
+     "261102",
+     "261105",
+     "261110",
+     "261120",
+     "261125"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": -1,
+    "avg10": 21.8,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
+     }
+    ],
+    "votes": 4,
+    "p": 0.812,
+    "fair": -432
    },
    {
     "id": "ncaab|cruzdavis|stl|1|over",
@@ -89375,7 +89464,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.829
+      "p": 0.824
      },
      {
       "v": "Sim",
@@ -89391,8 +89480,76 @@
      }
     ],
     "votes": 4,
-    "p": 0.812,
-    "fair": -432
+    "p": 0.811,
+    "fair": -428
+   },
+   {
+    "id": "ncaab|laydenblocker|stl|1|over",
+    "sp": "ncaab",
+    "player": "Layden Blocker",
+    "team": "DEP",
+    "k": "stl",
+    "lab": "STL",
+    "thr": 1,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     1,
+     1,
+     2,
+     1,
+     1,
+     0,
+     2,
+     2,
+     5,
+     3
+    ],
+    "dates": [
+     "260301",
+     "260304",
+     "260307",
+     "260311",
+     "261102",
+     "261105",
+     "261109",
+     "261113",
+     "261117",
+     "261124"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 4,
+    "avg10": 1.8,
+    "by": [
+     {
+      "v": "Most common",
+      "p": 0.823
+     },
+     {
+      "v": "Sim",
+      "p": 0.814
+     },
+     {
+      "v": "Trends",
+      "p": 0.805
+     },
+     {
+      "v": "Judge",
+      "p": 0.802
+     }
+    ],
+    "votes": 4,
+    "p": 0.811,
+    "fair": -429
    },
    {
     "id": "ncaab|javonbennett|fg3|1|over",
@@ -89443,7 +89600,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Judge",
@@ -89459,8 +89616,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.811,
-    "fair": -428
+    "p": 0.81,
+    "fair": -427
    },
    {
     "id": "ncaab|vinceiwuchukwu|pra|15|over",
@@ -89511,7 +89668,7 @@
     "by": [
      {
       "v": "Most common",
-      "p": 0.828
+      "p": 0.823
      },
      {
       "v": "Sim",
@@ -89527,8 +89684,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.811,
-    "fair": -431
+    "p": 0.81,
+    "fair": -427
    },
    {
     "id": "ncaab|cruzdavis|pts|10|over",
@@ -89582,12 +89739,12 @@
       "p": 0.816
      },
      {
-      "v": "Judge",
-      "p": 0.815
-     },
-     {
       "v": "Sim",
       "p": 0.812
+     },
+     {
+      "v": "Judge",
+      "p": 0.811
      },
      {
       "v": "Most common",
@@ -89595,144 +89752,8 @@
      }
     ],
     "votes": 4,
-    "p": 0.811,
-    "fair": -430
-   },
-   {
-    "id": "ncaab|donniefreeman|pts|10|over",
-    "sp": "ncaab",
-    "player": "Donnie Freeman",
-    "team": "SJU",
-    "k": "pts",
-    "lab": "PTS",
-    "thr": 10,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     23,
-     5,
-     16,
-     18,
-     9,
-     9,
-     28,
-     10,
-     18,
-     7
-    ],
-    "dates": [
-     "260202",
-     "260207",
-     "260211",
-     "260214",
-     "260216",
-     "260221",
-     "260228",
-     "260303",
-     "260307",
-     "260310"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     6,
-     10
-    ],
-    "streak": -1,
-    "avg10": 14.3,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Sim",
-      "p": 0.817
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Most common",
-      "p": 0.786
-     }
-    ],
-    "votes": 4,
-    "p": 0.811,
-    "fair": -429
-   },
-   {
-    "id": "ncaab|robbieavila|pr|12|over",
-    "sp": "ncaab",
-    "player": "Robbie Avila",
-    "team": "TCU",
-    "k": "pr",
-    "lab": "PTS+REB",
-    "thr": 12,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     14,
-     30,
-     18,
-     3,
-     25,
-     23,
-     17,
-     10,
-     14,
-     13
-    ],
-    "dates": [
-     "260224",
-     "260228",
-     "260304",
-     "260307",
-     "260313",
-     "260314",
-     "260319",
-     "260321",
-     "261119",
-     "261124"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 2,
-    "avg10": 16.7,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.834
-     },
-     {
-      "v": "Sim",
-      "p": 0.818
-     },
-     {
-      "v": "Judge",
-      "p": 0.807
-     },
-     {
-      "v": "Most common",
-      "p": 0.786
-     }
-    ],
-    "votes": 4,
-    "p": 0.811,
-    "fair": -430
+    "p": 0.81,
+    "fair": -427
    },
    {
     "id": "ncaab|brentbland|fg3|1|over",
@@ -89787,7 +89808,7 @@
      },
      {
       "v": "Judge",
-      "p": 0.815
+      "p": 0.812
      },
      {
       "v": "Sim",
@@ -89800,66 +89821,66 @@
     ],
     "votes": 4,
     "p": 0.809,
-    "fair": -425
+    "fair": -423
    },
    {
-    "id": "ncaab|cruzdavis|pr|15|over",
+    "id": "ncaab|donniefreeman|pts|10|over",
     "sp": "ncaab",
-    "player": "Cruz Davis",
-    "team": "TTU",
-    "k": "pr",
-    "lab": "PTS+REB",
-    "thr": 15,
+    "player": "Donnie Freeman",
+    "team": "SJU",
+    "k": "pts",
+    "lab": "PTS",
+    "thr": 10,
     "side": "over",
     "opp": null,
     "home": null,
     "start": null,
     "last": [
-     31,
      23,
+     5,
      16,
-     16,
-     21,
-     22,
-     23,
      18,
-     24,
-     14
+     9,
+     9,
+     28,
+     10,
+     18,
+     7
     ],
     "dates": [
-     "260308",
-     "260309",
-     "260310",
-     "260320",
-     "261102",
-     "261105",
-     "261110",
-     "261114",
-     "261118",
-     "261124"
+     "260202",
+     "260207",
+     "260211",
+     "260214",
+     "260216",
+     "260221",
+     "260228",
+     "260303",
+     "260307",
+     "260310"
     ],
     "l5": [
-     4,
+     3,
      5
     ],
     "l10": [
-     9,
+     6,
      10
     ],
     "streak": -1,
-    "avg10": 20.8,
+    "avg10": 14.3,
     "by": [
      {
       "v": "Trends",
-      "p": 0.835
+      "p": 0.832
      },
      {
       "v": "Sim",
-      "p": 0.811
+      "p": 0.813
      },
      {
       "v": "Judge",
-      "p": 0.803
+      "p": 0.807
      },
      {
       "v": "Most common",
@@ -89868,211 +89889,7 @@
     ],
     "votes": 4,
     "p": 0.809,
-    "fair": -423
-   },
-   {
-    "id": "ncaab|cruzdavis|pa|15|over",
-    "sp": "ncaab",
-    "player": "Cruz Davis",
-    "team": "TTU",
-    "k": "pa",
-    "lab": "PTS+AST",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     35,
-     22,
-     17,
-     20,
-     20,
-     18,
-     25,
-     18,
-     24,
-     12
-    ],
-    "dates": [
-     "260308",
-     "260309",
-     "260310",
-     "260320",
-     "261102",
-     "261105",
-     "261110",
-     "261114",
-     "261118",
-     "261124"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": -1,
-    "avg10": 21.1,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.835
-     },
-     {
-      "v": "Sim",
-      "p": 0.811
-     },
-     {
-      "v": "Judge",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.787
-     }
-    ],
-    "votes": 4,
-    "p": 0.809,
-    "fair": -424
-   },
-   {
-    "id": "ncaab|malachibrown|fg3|1|over",
-    "sp": "ncaab",
-    "player": "Malachi Brown",
-    "team": "MICH",
-    "k": "fg3",
-    "lab": "3PM",
-    "thr": 1,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     2,
-     0,
-     2,
-     4,
-     1,
-     0,
-     2,
-     2,
-     0,
-     3
-    ],
-    "dates": [
-     "260303",
-     "261102",
-     "261107",
-     "261111",
-     "261114",
-     "261115",
-     "261117",
-     "261121",
-     "261124",
-     "261125"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 1,
-    "avg10": 1.6,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.816
-     },
-     {
-      "v": "Judge",
-      "p": 0.815
-     },
-     {
-      "v": "Sim",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.802
-     }
-    ],
-    "votes": 4,
-    "p": 0.809,
-    "fair": -424
-   },
-   {
-    "id": "ncaab|dukebrennan|pra|15|over",
-    "sp": "ncaab",
-    "player": "Duke Brennan",
-    "team": "OU",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     23,
-     23,
-     29,
-     35,
-     23,
-     24,
-     14,
-     13,
-     12,
-     17
-    ],
-    "dates": [
-     "260225",
-     "260228",
-     "260304",
-     "260307",
-     "260312",
-     "260320",
-     "261102",
-     "261106",
-     "261109",
-     "261113"
-    ],
-    "l5": [
-     2,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 1,
-    "avg10": 21.3,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.815
-     },
-     {
-      "v": "Judge",
-      "p": 0.815
-     },
-     {
-      "v": "Sim",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.802
-     }
-    ],
-    "votes": 4,
-    "p": 0.809,
-    "fair": -423
+    "fair": -425
    },
    {
     "id": "ncaab|robbieavila|fg3|1|over",
@@ -90123,7 +89940,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.835
+      "p": 0.832
      },
      {
       "v": "Sim",
@@ -90140,7 +89957,7 @@
     ],
     "votes": 4,
     "p": 0.809,
-    "fair": -425
+    "fair": -423
    },
    {
     "id": "ncaab|robbieavila|pra|15|over",
@@ -90191,7 +90008,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Sim",
@@ -90208,31 +90025,31 @@
     ],
     "votes": 4,
     "p": 0.809,
-    "fair": -424
+    "fair": -423
    },
    {
-    "id": "ncaab|robbieavila|ra|6|over",
+    "id": "ncaab|robbieavila|pr|12|over",
     "sp": "ncaab",
     "player": "Robbie Avila",
     "team": "TCU",
-    "k": "ra",
-    "lab": "REB+AST",
-    "thr": 6,
+    "k": "pr",
+    "lab": "PTS+REB",
+    "thr": 12,
     "side": "over",
     "opp": null,
     "home": null,
     "start": null,
     "last": [
-     6,
      14,
+     30,
+     18,
+     3,
+     25,
+     23,
+     17,
      10,
-     1,
-     7,
-     13,
-     10,
-     6,
-     6,
-     3
+     14,
+     13
     ],
     "dates": [
      "260224",
@@ -90254,97 +90071,29 @@
      8,
      10
     ],
-    "streak": -1,
-    "avg10": 7.6,
+    "streak": 2,
+    "avg10": 16.7,
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.831
      },
      {
       "v": "Sim",
-      "p": 0.811
-     },
-     {
-      "v": "Judge",
-      "p": 0.803
-     },
-     {
-      "v": "Most common",
-      "p": 0.787
-     }
-    ],
-    "votes": 4,
-    "p": 0.809,
-    "fair": -423
-   },
-   {
-    "id": "ncaab|koreecotton|pra|15|over",
-    "sp": "ncaab",
-    "player": "Koree Cotton",
-    "team": "DEP",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     23,
-     29,
-     27,
-     36,
-     27,
-     9,
-     20,
-     22,
-     18,
-     15
-    ],
-    "dates": [
-     "260228",
-     "260302",
-     "260309",
-     "260310",
-     "261102",
-     "261105",
-     "261109",
-     "261113",
-     "261117",
-     "261124"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 4,
-    "avg10": 22.6,
-    "by": [
-     {
-      "v": "Trends",
-      "p": 0.816
-     },
-     {
-      "v": "Judge",
       "p": 0.814
      },
      {
-      "v": "Sim",
-      "p": 0.803
+      "v": "Judge",
+      "p": 0.807
      },
      {
       "v": "Most common",
-      "p": 0.802
+      "p": 0.786
      }
     ],
     "votes": 4,
     "p": 0.809,
-    "fair": -423
+    "fair": -425
    },
    {
     "id": "nfl|devontasmith|lwy|15|over",
@@ -90395,7 +90144,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Sim",
@@ -90412,7 +90161,7 @@
     ],
     "votes": 4,
     "p": 0.808,
-    "fair": -422
+    "fair": -421
    },
    {
     "id": "ncaab|joshuadent|ast|3|over",
@@ -90483,6 +90232,210 @@
     "fair": -422
    },
    {
+    "id": "ncaab|cruzdavis|pr|15|over",
+    "sp": "ncaab",
+    "player": "Cruz Davis",
+    "team": "TTU",
+    "k": "pr",
+    "lab": "PTS+REB",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     31,
+     23,
+     16,
+     16,
+     21,
+     22,
+     23,
+     18,
+     24,
+     14
+    ],
+    "dates": [
+     "260308",
+     "260309",
+     "260310",
+     "260320",
+     "261102",
+     "261105",
+     "261110",
+     "261114",
+     "261118",
+     "261124"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": -1,
+    "avg10": 20.8,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.786
+     }
+    ],
+    "votes": 4,
+    "p": 0.808,
+    "fair": -421
+   },
+   {
+    "id": "ncaab|cruzdavis|pa|15|over",
+    "sp": "ncaab",
+    "player": "Cruz Davis",
+    "team": "TTU",
+    "k": "pa",
+    "lab": "PTS+AST",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     35,
+     22,
+     17,
+     20,
+     20,
+     18,
+     25,
+     18,
+     24,
+     12
+    ],
+    "dates": [
+     "260308",
+     "260309",
+     "260310",
+     "260320",
+     "261102",
+     "261105",
+     "261110",
+     "261114",
+     "261118",
+     "261124"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": -1,
+    "avg10": 21.1,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.787
+     }
+    ],
+    "votes": 4,
+    "p": 0.808,
+    "fair": -422
+   },
+   {
+    "id": "ncaab|malachibrown|fg3|1|over",
+    "sp": "ncaab",
+    "player": "Malachi Brown",
+    "team": "MICH",
+    "k": "fg3",
+    "lab": "3PM",
+    "thr": 1,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     2,
+     0,
+     2,
+     4,
+     1,
+     0,
+     2,
+     2,
+     0,
+     3
+    ],
+    "dates": [
+     "260303",
+     "261102",
+     "261107",
+     "261111",
+     "261114",
+     "261115",
+     "261117",
+     "261121",
+     "261124",
+     "261125"
+    ],
+    "l5": [
+     3,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 1,
+    "avg10": 1.6,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.816
+     },
+     {
+      "v": "Judge",
+      "p": 0.811
+     },
+     {
+      "v": "Sim",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
+     }
+    ],
+    "votes": 4,
+    "p": 0.808,
+    "fair": -421
+   },
+   {
     "id": "ncaab|javontaecampbell|pr|15|over",
     "sp": "ncaab",
     "player": "Javontae Campbell",
@@ -90551,6 +90504,74 @@
     "fair": -421
    },
    {
+    "id": "ncaab|dukebrennan|pra|15|over",
+    "sp": "ncaab",
+    "player": "Duke Brennan",
+    "team": "OU",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     23,
+     23,
+     29,
+     35,
+     23,
+     24,
+     14,
+     13,
+     12,
+     17
+    ],
+    "dates": [
+     "260225",
+     "260228",
+     "260304",
+     "260307",
+     "260312",
+     "260320",
+     "261102",
+     "261106",
+     "261109",
+     "261113"
+    ],
+    "l5": [
+     2,
+     5
+    ],
+    "l10": [
+     7,
+     10
+    ],
+    "streak": 1,
+    "avg10": 21.3,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.815
+     },
+     {
+      "v": "Judge",
+      "p": 0.811
+     },
+     {
+      "v": "Sim",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
+     }
+    ],
+    "votes": 4,
+    "p": 0.808,
+    "fair": -420
+   },
+   {
     "id": "ncaab|dukebrennan|pr|15|over",
     "sp": "ncaab",
     "player": "Duke Brennan",
@@ -90599,7 +90620,7 @@
     "by": [
      {
       "v": "Trends",
-      "p": 0.834
+      "p": 0.832
      },
      {
       "v": "Sim",
@@ -90616,13 +90637,81 @@
     ],
     "votes": 4,
     "p": 0.808,
+    "fair": -420
+   },
+   {
+    "id": "ncaab|robbieavila|ra|6|over",
+    "sp": "ncaab",
+    "player": "Robbie Avila",
+    "team": "TCU",
+    "k": "ra",
+    "lab": "REB+AST",
+    "thr": 6,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     6,
+     14,
+     10,
+     1,
+     7,
+     13,
+     10,
+     6,
+     6,
+     3
+    ],
+    "dates": [
+     "260224",
+     "260228",
+     "260304",
+     "260307",
+     "260313",
+     "260314",
+     "260319",
+     "260321",
+     "261119",
+     "261124"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": -1,
+    "avg10": 7.6,
+    "by": [
+     {
+      "v": "Trends",
+      "p": 0.832
+     },
+     {
+      "v": "Sim",
+      "p": 0.811
+     },
+     {
+      "v": "Judge",
+      "p": 0.803
+     },
+     {
+      "v": "Most common",
+      "p": 0.787
+     }
+    ],
+    "votes": 4,
+    "p": 0.808,
     "fair": -422
    },
    {
-    "id": "ncaab|xavieredmonds|pra|15|over",
+    "id": "ncaab|koreecotton|pra|15|over",
     "sp": "ncaab",
-    "player": "Xavier Edmonds",
-    "team": "TCU",
+    "player": "Koree Cotton",
+    "team": "DEP",
     "k": "pra",
     "lab": "PTS+REB+AST",
     "thr": 15,
@@ -90631,196 +90720,60 @@
     "home": null,
     "start": null,
     "last": [
+     23,
      29,
-     9,
      27,
-     14,
-     17,
-     25,
-     30,
-     32,
-     24,
-     22
+     36,
+     27,
+     9,
+     20,
+     22,
+     18,
+     15
     ],
     "dates": [
-     "260311",
-     "260312",
-     "260319",
-     "260321",
+     "260228",
+     "260302",
+     "260309",
+     "260310",
      "261102",
-     "261106",
-     "261110",
+     "261105",
+     "261109",
      "261113",
-     "261119",
+     "261117",
      "261124"
     ],
     "l5": [
-     5,
+     4,
      5
     ],
     "l10": [
-     8,
+     9,
      10
     ],
-    "streak": 6,
-    "avg10": 22.9,
+    "streak": 4,
+    "avg10": 22.6,
     "by": [
      {
-      "v": "Judge",
-      "p": 0.817
+      "v": "Trends",
+      "p": 0.816
      },
      {
-      "v": "Trends",
-      "p": 0.807
+      "v": "Judge",
+      "p": 0.811
      },
      {
       "v": "Sim",
-      "p": 0.805
+      "p": 0.803
      },
      {
       "v": "Most common",
-      "p": 0.803
+      "p": 0.802
      }
     ],
     "votes": 4,
     "p": 0.808,
     "fair": -421
-   },
-   {
-    "id": "ncaab|florybidunga|blk|1|over",
-    "sp": "ncaab",
-    "player": "Flory Bidunga",
-    "team": "LOU",
-    "k": "blk",
-    "lab": "BLK",
-    "thr": 1,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     4,
-     3,
-     0,
-     1,
-     3,
-     0,
-     2,
-     0,
-     4,
-     1
-    ],
-    "dates": [
-     "260307",
-     "260312",
-     "260313",
-     "260320",
-     "260322",
-     "261102",
-     "261107",
-     "261115",
-     "261119",
-     "261124"
-    ],
-    "l5": [
-     3,
-     5
-    ],
-    "l10": [
-     7,
-     10
-    ],
-    "streak": 2,
-    "avg10": 1.8,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Trends",
-      "p": 0.806
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.803
-     }
-    ],
-    "votes": 4,
-    "p": 0.807,
-    "fair": -419
-   },
-   {
-    "id": "ncaab|joshuadent|fg3|1|over",
-    "sp": "ncaab",
-    "player": "Joshua Dent",
-    "team": "SMC",
-    "k": "fg3",
-    "lab": "3PM",
-    "thr": 1,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     4,
-     0,
-     4,
-     0,
-     5,
-     5,
-     3,
-     1,
-     1,
-     2
-    ],
-    "dates": [
-     "260228",
-     "260309",
-     "260319",
-     "261102",
-     "261104",
-     "261108",
-     "261113",
-     "261116",
-     "261120",
-     "261122"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 6,
-    "avg10": 2.5,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Trends",
-      "p": 0.806
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.803
-     }
-    ],
-    "votes": 4,
-    "p": 0.807,
-    "fair": -419
    },
    {
     "id": "ncaab|elliotcadeau|ast|3|over",
@@ -90871,7 +90824,7 @@
     "by": [
      {
       "v": "Judge",
-      "p": 0.816
+      "p": 0.813
      },
      {
       "v": "Trends",
@@ -90888,75 +90841,7 @@
     ],
     "votes": 4,
     "p": 0.807,
-    "fair": -419
-   },
-   {
-    "id": "ncaab|jeremyfearsjr|pts|10|over",
-    "sp": "ncaab",
-    "player": "Jeremy Fears Jr.",
-    "team": "MSU",
-    "k": "pts",
-    "lab": "PTS",
-    "thr": 10,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     21,
-     7,
-     12,
-     13,
-     13,
-     12,
-     18,
-     24,
-     16,
-     17
-    ],
-    "dates": [
-     "260313",
-     "260319",
-     "260321",
-     "260327",
-     "261102",
-     "261105",
-     "261110",
-     "261113",
-     "261117",
-     "261121"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     9,
-     10
-    ],
-    "streak": 8,
-    "avg10": 15.3,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Trends",
-      "p": 0.806
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.802
-     }
-    ],
-    "votes": 4,
-    "p": 0.807,
-    "fair": -418
+    "fair": -417
    },
    {
     "id": "ncaab|keyshawnhall|pts|10|over",
@@ -91007,7 +90892,7 @@
     "by": [
      {
       "v": "Judge",
-      "p": 0.816
+      "p": 0.813
      },
      {
       "v": "Trends",
@@ -91024,75 +90909,7 @@
     ],
     "votes": 4,
     "p": 0.807,
-    "fair": -419
-   },
-   {
-    "id": "ncaab|keyshawnhall|pr|15|over",
-    "sp": "ncaab",
-    "player": "Keyshawn Hall",
-    "team": "SJU",
-    "k": "pr",
-    "lab": "PTS+REB",
-    "thr": 15,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     24,
-     20,
-     30,
-     23,
-     35,
-     17,
-     20,
-     25,
-     25,
-     20
-    ],
-    "dates": [
-     "260322",
-     "260325",
-     "260402",
-     "260405",
-     "261102",
-     "261108",
-     "261111",
-     "261115",
-     "261118",
-     "261124"
-    ],
-    "l5": [
-     5,
-     5
-    ],
-    "l10": [
-     10,
-     10
-    ],
-    "streak": 10,
-    "avg10": 23.9,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Trends",
-      "p": 0.806
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.803
-     }
-    ],
-    "votes": 4,
-    "p": 0.807,
-    "fair": -419
+    "fair": -417
    },
    {
     "id": "ncaab|brandonbenjamin|reb|7|over",
@@ -91143,7 +90960,7 @@
     "by": [
      {
       "v": "Judge",
-      "p": 0.816
+      "p": 0.813
      },
      {
       "v": "Trends",
@@ -91160,99 +90977,31 @@
     ],
     "votes": 4,
     "p": 0.807,
-    "fair": -419
+    "fair": -417
    },
    {
-    "id": "ncaab|brandonbenjamin|pr|15|over",
+    "id": "ncaab|xavieredmonds|pra|15|over",
     "sp": "ncaab",
-    "player": "Brandon Benjamin",
-    "team": "BC",
-    "k": "pr",
-    "lab": "PTS+REB",
+    "player": "Xavier Edmonds",
+    "team": "TCU",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
     "thr": 15,
     "side": "over",
     "opp": null,
     "home": null,
     "start": null,
     "last": [
-     12,
-     24,
-     41,
-     22,
-     18,
-     18,
-     10,
-     15,
-     32,
-     24
-    ],
-    "dates": [
-     "260301",
-     "260305",
-     "260306",
-     "260308",
-     "261103",
-     "261106",
-     "261110",
-     "261115",
-     "261118",
-     "261122"
-    ],
-    "l5": [
-     4,
-     5
-    ],
-    "l10": [
-     8,
-     10
-    ],
-    "streak": 3,
-    "avg10": 21.6,
-    "by": [
-     {
-      "v": "Judge",
-      "p": 0.816
-     },
-     {
-      "v": "Trends",
-      "p": 0.806
-     },
-     {
-      "v": "Sim",
-      "p": 0.804
-     },
-     {
-      "v": "Most common",
-      "p": 0.803
-     }
-    ],
-    "votes": 4,
-    "p": 0.807,
-    "fair": -419
-   },
-   {
-    "id": "ncaab|xavieredmonds|ra|6|over",
-    "sp": "ncaab",
-    "player": "Xavier Edmonds",
-    "team": "TCU",
-    "k": "ra",
-    "lab": "REB+AST",
-    "thr": 6,
-    "side": "over",
-    "opp": null,
-    "home": null,
-    "start": null,
-    "last": [
-     15,
-     4,
-     11,
-     2,
-     8,
-     12,
-     13,
+     29,
+     9,
+     27,
      14,
-     8,
-     10
+     17,
+     25,
+     30,
+     32,
+     24,
+     22
     ],
     "dates": [
      "260311",
@@ -91275,52 +91024,52 @@
      10
     ],
     "streak": 6,
-    "avg10": 9.7,
+    "avg10": 22.9,
     "by": [
      {
       "v": "Judge",
-      "p": 0.815
+      "p": 0.813
      },
      {
       "v": "Trends",
-      "p": 0.806
+      "p": 0.807
      },
      {
       "v": "Sim",
-      "p": 0.804
+      "p": 0.805
      },
      {
       "v": "Most common",
-      "p": 0.802
+      "p": 0.803
      }
     ],
     "votes": 4,
     "p": 0.807,
-    "fair": -417
+    "fair": -418
    },
    {
-    "id": "ncaab|florybidunga|pra|15|over",
+    "id": "ncaab|florybidunga|blk|1|over",
     "sp": "ncaab",
     "player": "Flory Bidunga",
     "team": "LOU",
-    "k": "pra",
-    "lab": "PTS+REB+AST",
-    "thr": 15,
+    "k": "blk",
+    "lab": "BLK",
+    "thr": 1,
     "side": "over",
     "opp": null,
     "home": null,
     "start": null,
     "last": [
-     19,
-     24,
-     17,
-     13,
-     18,
-     26,
-     18,
-     17,
-     40,
-     20
+     4,
+     3,
+     0,
+     1,
+     3,
+     0,
+     2,
+     0,
+     4,
+     1
     ],
     "dates": [
      "260307",
@@ -91335,36 +91084,36 @@
      "261124"
     ],
     "l5": [
-     5,
+     3,
      5
     ],
     "l10": [
-     9,
+     7,
      10
     ],
-    "streak": 6,
-    "avg10": 21.2,
+    "streak": 2,
+    "avg10": 1.8,
     "by": [
      {
       "v": "Judge",
-      "p": 0.815
+      "p": 0.812
      },
      {
       "v": "Trends",
-      "p": 0.805
+      "p": 0.806
      },
      {
       "v": "Sim",
-      "p": 0.803
+      "p": 0.804
      },
      {
       "v": "Most common",
-      "p": 0.801
+      "p": 0.803
      }
     ],
     "votes": 4,
     "p": 0.806,
-    "fair": -415
+    "fair": -416
    },
    {
     "id": "ncaab|quinnellis|ast|3|over",
@@ -91407,7 +91156,7 @@
     "by": [
      {
       "v": "Judge",
-      "p": 0.815
+      "p": 0.812
      },
      {
       "v": "Trends",
@@ -91424,7 +91173,7 @@
     ],
     "votes": 4,
     "p": 0.806,
-    "fair": -417
+    "fair": -415
    },
    {
     "id": "ncaab|quinnellis|stl|1|over",
@@ -91467,7 +91216,7 @@
     "by": [
      {
       "v": "Judge",
-      "p": 0.815
+      "p": 0.812
      },
      {
       "v": "Trends",
@@ -91484,13 +91233,81 @@
     ],
     "votes": 4,
     "p": 0.806,
-    "fair": -416
+    "fair": -414
    },
    {
-    "id": "ncaab|amariallen|pra|15|over",
+    "id": "ncaab|joshuadent|fg3|1|over",
     "sp": "ncaab",
-    "player": "Amari Allen",
-    "team": "ALA",
+    "player": "Joshua Dent",
+    "team": "SMC",
+    "k": "fg3",
+    "lab": "3PM",
+    "thr": 1,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     4,
+     0,
+     4,
+     0,
+     5,
+     5,
+     3,
+     1,
+     1,
+     2
+    ],
+    "dates": [
+     "260228",
+     "260309",
+     "260319",
+     "261102",
+     "261104",
+     "261108",
+     "261113",
+     "261116",
+     "261120",
+     "261122"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": 6,
+    "avg10": 2.5,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.813
+     },
+     {
+      "v": "Trends",
+      "p": 0.806
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.803
+     }
+    ],
+    "votes": 4,
+    "p": 0.806,
+    "fair": -417
+   },
+   {
+    "id": "ncaab|billyrichmondiii|pra|15|over",
+    "sp": "ncaab",
+    "player": "Billy Richmond III",
+    "team": "ARK",
     "k": "pra",
     "lab": "PTS+REB+AST",
     "thr": 15,
@@ -91499,28 +91316,28 @@
     "home": null,
     "start": null,
     "last": [
-     20,
-     20,
-     13,
-     20,
-     40,
+     12,
      22,
-     32,
-     21,
-     17,
-     31
+     24,
+     24,
+     34,
+     34,
+     26,
+     26,
+     24,
+     24
     ],
     "dates": [
-     "260320",
-     "260322",
-     "260327",
      "261103",
-     "261106",
-     "261109",
+     "261108",
+     "261111",
+     "261111",
+     "261113",
      "261113",
      "261117",
-     "261119",
-     "261124"
+     "261117",
+     "261120",
+     "261120"
     ],
     "l5": [
      5,
@@ -91530,12 +91347,148 @@
      9,
      10
     ],
-    "streak": 7,
-    "avg10": 23.6,
+    "streak": 9,
+    "avg10": 25,
     "by": [
      {
       "v": "Judge",
-      "p": 0.815
+      "p": 0.812
+     },
+     {
+      "v": "Trends",
+      "p": 0.806
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.801
+     }
+    ],
+    "votes": 4,
+    "p": 0.806,
+    "fair": -415
+   },
+   {
+    "id": "ncaab|cruzdavis|fg3|1|over",
+    "sp": "ncaab",
+    "player": "Cruz Davis",
+    "team": "TTU",
+    "k": "fg3",
+    "lab": "3PM",
+    "thr": 1,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     5,
+     2,
+     1,
+     1,
+     1,
+     1,
+     3,
+     1,
+     4,
+     1
+    ],
+    "dates": [
+     "260308",
+     "260309",
+     "260310",
+     "260320",
+     "261102",
+     "261105",
+     "261110",
+     "261114",
+     "261118",
+     "261124"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 2,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.812
+     },
+     {
+      "v": "Trends",
+      "p": 0.805
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
+     }
+    ],
+    "votes": 4,
+    "p": 0.806,
+    "fair": -415
+   },
+   {
+    "id": "ncaab|abdibashirjr|fg3|2|over",
+    "sp": "ncaab",
+    "player": "Abdi Bashir Jr.",
+    "team": "LSU",
+    "k": "fg3",
+    "lab": "3PM",
+    "thr": 2,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     6,
+     4,
+     5,
+     3,
+     4,
+     4,
+     5,
+     3,
+     4,
+     4
+    ],
+    "dates": [
+     "260110",
+     "260114",
+     "260117",
+     "261103",
+     "261106",
+     "261109",
+     "261114",
+     "261118",
+     "261121",
+     "261125"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     10,
+     10
+    ],
+    "streak": 10,
+    "avg10": 4.2,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.812
      },
      {
       "v": "Trends",
@@ -91552,11 +91505,214 @@
     ],
     "votes": 4,
     "p": 0.806,
-    "fair": -416
+    "fair": -414
+   },
+   {
+    "id": "ncaab|jeremyfearsjr|pts|10|over",
+    "sp": "ncaab",
+    "player": "Jeremy Fears Jr.",
+    "team": "MSU",
+    "k": "pts",
+    "lab": "PTS",
+    "thr": 10,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     21,
+     7,
+     12,
+     13,
+     13,
+     12,
+     18,
+     24,
+     16,
+     17
+    ],
+    "dates": [
+     "260313",
+     "260319",
+     "260321",
+     "260327",
+     "261102",
+     "261105",
+     "261110",
+     "261113",
+     "261117",
+     "261121"
+    ],
+    "l5": [
+     5,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 8,
+    "avg10": 15.3,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.812
+     },
+     {
+      "v": "Trends",
+      "p": 0.806
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
+     }
+    ],
+    "votes": 4,
+    "p": 0.806,
+    "fair": -415
+   },
+   {
+    "id": "ncaab|jeremyfearsjr|ast|5|over",
+    "sp": "ncaab",
+    "player": "Jeremy Fears Jr.",
+    "team": "MSU",
+    "k": "ast",
+    "lab": "AST",
+    "thr": 5,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     13,
+     11,
+     16,
+     7,
+     11,
+     9,
+     11,
+     9,
+     2,
+     14
+    ],
+    "dates": [
+     "260313",
+     "260319",
+     "260321",
+     "260327",
+     "261102",
+     "261105",
+     "261110",
+     "261113",
+     "261117",
+     "261121"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     9,
+     10
+    ],
+    "streak": 1,
+    "avg10": 10.3,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.812
+     },
+     {
+      "v": "Trends",
+      "p": 0.806
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.801
+     }
+    ],
+    "votes": 4,
+    "p": 0.806,
+    "fair": -415
+   },
+   {
+    "id": "ncaab|donniefreeman|pra|15|over",
+    "sp": "ncaab",
+    "player": "Donnie Freeman",
+    "team": "SJU",
+    "k": "pra",
+    "lab": "PTS+REB+AST",
+    "thr": 15,
+    "side": "over",
+    "opp": null,
+    "home": null,
+    "start": null,
+    "last": [
+     31,
+     18,
+     22,
+     26,
+     14,
+     16,
+     33,
+     22,
+     32,
+     13
+    ],
+    "dates": [
+     "260202",
+     "260207",
+     "260211",
+     "260214",
+     "260216",
+     "260221",
+     "260228",
+     "260303",
+     "260307",
+     "260310"
+    ],
+    "l5": [
+     4,
+     5
+    ],
+    "l10": [
+     8,
+     10
+    ],
+    "streak": -1,
+    "avg10": 22.7,
+    "by": [
+     {
+      "v": "Judge",
+      "p": 0.812
+     },
+     {
+      "v": "Trends",
+      "p": 0.805
+     },
+     {
+      "v": "Sim",
+      "p": 0.804
+     },
+     {
+      "v": "Most common",
+      "p": 0.802
+     }
+    ],
+    "votes": 4,
+    "p": 0.806,
+    "fair": -415
    }
   ]
  },
- "betaSig": "[[\"nfl|patrickmahomes|cmp|15|over5\",\"nfl|tylerbass|fgm|1|over5\",\"nfl|jaredgoff|cmp|15|over5\",\"nfl|javontewilliams|car|10|over5\",\"nfl|dandreswift|car|10|over5\",\"nfl|brandonaubrey|kpts|5|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|saquonbarkley|car|10|over5\",\"nfl|jeremiahtrotterjr|tkl|4|over5\",\"nfl|jakebates|kpts|5|over5\",\"nfl|druetranquill|tkl|4|over5\",\"nfl|jamescookiii|ry|50|over5\",\"nfl|patrickmahomes|py|200|over5\",\"nfl|jalenhurts|ptd|1|over5\",\"nfl|amonrastbrown|wy|40|over5\",\"nfl|jaredgoff|att|25|over5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|georgepickens|rec|4|over5\",\"nfl|ceedeelamb|wy|40|over5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|jamesonwilliams|lwy|20|over5\",\"nfl|dillonthieneman|tkl|4|over5\",\"nfl|calebdowns|tkl|4|over5\",\"nfl|jahmyrgibbs|rry|80|over5\",\"nfl|jihaadcampbell|tkl|4|over5\",\"nfl|jakebates|fgm|1|over5\",\"nfl|calebwilliams|att|25|over5\",\"nfl|calebwilliams|cmp|15|over5\",\"nfl|lutherburdeniii|lwy|15|over5\",\"nfl|jackcampbell|tkl|4|over5\",\"nfl|brandonaubrey|fgm|1|over5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|amonrastbrown|lwy|15|over5\",\"nfl|samlaporta|lwy|15|over5\",\"nfl|dakprescott|py|200|over5\",\"nfl|georgepickens|wy|40|over5\",\"nfl|calebwilliams|ptd|1|over5\",\"nfl|cairosantos|kpts|5|over5\",\"nfl|cairosantos|fgm|1|over5\",\"nfl|romeodunze|lwy|15|over5\",\"nfl|jahmyrgibbs|lry|10|over5\",\"nfl|harrisonbutker|kpts|5|over5\",\"nfl|traviskelce|lwy|15|over5\",\"nfl|kylemonangai|lry|10|over5\",\"nfl|khalilshakir|lwy|15|over5\",\"nfl|amanihooker|tkl|4|over5\",\"nfl|tylerbass|kpts|7|over5\",\"nfl|joshallen|cmp|15|over5\",\"nfl|jamescookiii|car|15|over5\",\"nfl|terrelbernard|tkl|4|over5\",\"nfl|daltonkincaid|lwy|15|over5\",\"ncaaf|jkobywilliams|ry|50|over5\",\"nfl|dorianwilliams|tkl|4|over5\",\"ncaaf|thomascastellanos|ptd|1|over5\",\"nfl|ceedeelamb|rry|60|over5\",\"nfl|georgepickens|lwy|20|over5\",\"nfl|harrisonbutker|fgm|1|over5\",\"nfl|amonrastbrown|rec|5|over5\",\"nfl|ceedeelamb|lwy|20|over5\",\"nfl|dariuscooper|lwy|15|over5\",\"nfl|devinbush|tkl|4|over5\",\"nfl|dakprescott|att|30|over5\",\"nfl|jamesonwilliams|wy|40|over5\",\"nfl|kylemonangai|car|10|over5\",\"nfl|dakprescott|pry|220|over5\",\"ncaab|dallinhall|ast|3|over4\",\"ncaab|dallinhall|fg3|1|over4\",\"ncaab|dallinhall|ra|6|over4\",\"ncaab|willhornseth|pts|10|over4\",\"ncaab|willhornseth|pa|12|over4\",\"ncaab|willhornseth|pra|15|over4\",\"ncaab|willhornseth|ra|6|over4\",\"ncaab|javontaecampbell|stl|1|over4\",\"ncaab|javontaecampbell|ast|3|over4\",\"nfl|patrickmahomes|att|25|over4\",\"ncaab|joelfoxwell|ast|3|over4\",\"ncaab|masonfalslev|pts|10|over4\",\"ncaab|masonfalslev|ra|8|over4\",\"ncaab|daidaiames|pts|10|over4\",\"ncaab|elliotcadeau|pra|15|over4\",\"ncaab|ericdaileyjr|pra|15|over4\",\"ncaab|billyrichmondiii|ra|6|over4\",\"ncaab|cruzdavis|ast|3|over4\",\"ncaab|keyshawnhall|pra|20|over4\",\"ncaab|keyshawnhall|pa|15|over4\",\"ncaab|javontaecampbell|to|2|over4\",\"ncaab|joelfoxwell|pra|20|over4\",\"ncaab|joelfoxwell|pr|15|over4\",\"ncaab|xavieredmonds|pts|10|over4\",\"ncaab|amariallen|fg3|1|over4\",\"ncaab|davionthompson|pa|12|over4\",\"ncaab|wesenis|pr|15|over4\",\"ncaab|donovandent|stl|1|over4\",\"ncaab|masonfalslev|pra|20|over4\",\"ncaab|skyyclark|fg3|1|over4\",\"ncaaf|jordandwyer|lwy|15|over4\",\"ncaab|florybidunga|ra|8|over4\",\"ncaab|masonfalslev|pa|15|over4\",\"ncaab|jeremiahwilkinson|pr|12|over4\",\"ncaab|jeremiahwilkinson|pa|12|over4\",\"ncaab|billyrichmondiii|pr|15|over4\",\"ncaab|davionthompson|ra|6|over4\",\"ncaab|nickanderson|pra|15|over4\",\"ncaaf|jadencraig|py|200|over4\",\"ncaab|naithangeorge|stl|1|over4\",\"ncaab|masonfalslev|reb|5|over4\",\"ncaab|masonfalslev|ast|3|over4\",\"ncaab|naithangeorge|pra|15|over4\",\"ncaab|alijaharenas|pra|15|over4\",\"ncaab|jeremiahwilkinson|pts|10|over4\",\"ncaab|billyrichmondiii|pts|10|over4\",\"ncaab|isaiahchappell|fg3|1|over4\",\"ncaab|nickanderson|pts|10|over4\",\"ncaab|rowanbrumbaugh|pra|15|over4\",\"ncaab|laydenblocker|stl|1|over4\",\"ncaab|donovanatwell|fg3|2|over4\",\"ncaab|cruzdavis|stl|1|over4\",\"ncaab|javonbennett|fg3|1|over4\",\"ncaab|vinceiwuchukwu|pra|15|over4\",\"ncaab|cruzdavis|pts|10|over4\",\"ncaab|donniefreeman|pts|10|over4\",\"ncaab|robbieavila|pr|12|over4\",\"ncaab|brentbland|fg3|1|over4\",\"ncaab|cruzdavis|pr|15|over4\",\"ncaab|cruzdavis|pa|15|over4\",\"ncaab|malachibrown|fg3|1|over4\",\"ncaab|dukebrennan|pra|15|over4\",\"ncaab|robbieavila|fg3|1|over4\",\"ncaab|robbieavila|pra|15|over4\",\"ncaab|robbieavila|ra|6|over4\",\"ncaab|koreecotton|pra|15|over4\",\"nfl|devontasmith|lwy|15|over4\",\"ncaab|joshuadent|ast|3|over4\",\"ncaab|javontaecampbell|pr|15|over4\",\"ncaab|dukebrennan|pr|15|over4\",\"ncaab|xavieredmonds|pra|15|over4\",\"ncaab|florybidunga|blk|1|over4\",\"ncaab|joshuadent|fg3|1|over4\",\"ncaab|elliotcadeau|ast|3|over4\",\"ncaab|jeremyfearsjr|pts|10|over4\",\"ncaab|keyshawnhall|pts|10|over4\",\"ncaab|keyshawnhall|pr|15|over4\",\"ncaab|brandonbenjamin|reb|7|over4\",\"ncaab|brandonbenjamin|pr|15|over4\",\"ncaab|xavieredmonds|ra|6|over4\",\"ncaab|florybidunga|pra|15|over4\",\"ncaab|quinnellis|ast|3|over4\",\"ncaab|quinnellis|stl|1|over4\",\"ncaab|amariallen|pra|15|over4\"],[\"live:l~9l~10oooooooo\",\"live:oooooooooooooooooooooool62~5l210~5l5~5l2~5h55l~8l29~5h114l5~5l~2\",\"live:ol~9oool~10oooo\",\"live:ooohhhhl~0oo\",\"live:hhoooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"lost:oooommoooo\",\"lost:ml~6hl~10l~10l~10oooo\",\"lost:ooooml~8l~10oo\",\"lost:hh8mhhh35h1m11h12h3h10m19m5h19m11h28hmm1h4m0h30\"],[[2,[\"strong\",\"value\"],15],[3,[\"strong\",\"strong\",\"strong\"],11],[1,[\"supreme*\"],18],[0,[],17],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],18],[1,[\"supreme\"],21],[2,[\"supreme*\",\"strong\"],22],[0,[],23],[1,[\"supreme*\"],17],[0,[],22],[0,[],21],[1,[\"strong\"],22],[0,[],16],[1,[\"supreme*\"],23],[0,[],19],[0,[],18],[0,[],23],[1,[\"strong!\"],17],[0,[],22],[0,[],18],[2,[\"strong\",\"strong\"],19],[1,[\"supreme\"],20],[3,[\"supreme*\",\"strong\",\"value\"],23],[0,[],18],[1,[\"strong\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"supreme*\",\"value\"],21],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],22],[0,[],20],[1,[\"supreme*\"],17],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"strong\"],16],[3,[\"strong\",\"value\",\"value\"],19],[2,[\"strong\",\"strong\"],22],[0,[],16],[1,[\"supreme*\"],14],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"supreme\",\"strong\"],20],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],19],[1,[\"value\"],19],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],17],[1,[\"strong\"],19],[1,[\"strong\"],23],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],20],[1,[\"value\"],22],[0,[],22],[0,[],19],[2,[\"strong\",\"strong\"],21],[2,[\"strong\",\"value\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[1,[\"strong\"],11],[0,[],19],[0,[],20],[3,[\"supreme\",\"strong\",\"strong\"],15],[0,[],15],[1,[\"strong\"],22],[1,[\"strong\"],24],[2,[\"strong\",\"value\"],18],[2,[\"supreme\",\"strong\"],21],[1,[\"strong\"],20],[1,[\"supreme*\"],21],[0,[],17],[2,[\"strong\",\"strong\"],21],[0,[],12],[0,[],20],[2,[\"strong\",\"strong\"],16],[1,[\"strong\"],23],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[2,[\"strong\",\"strong\"],22],[1,[\"value\"],14],[1,[\"strong\"],21],[1,[\"value\"],19],[1,[\"supreme\"],22],[1,[\"supreme\"],14],[1,[\"strong\"],20],[1,[\"strong\"],16],[1,[\"strong\"],19],[1,[\"strong\"],17],[2,[\"strong\",\"strong\"],15],[1,[\"strong\"],23],[1,[\"strong\"],17],[2,[\"strong\",\"value\"],13],[0,[],20],[0,[],18],[2,[\"strong\",\"value\"],21],[0,[],21],[2,[\"strong\",\"strong\"],17],[0,[],19],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],13]],[0,12,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-14-0\",\"18-13-0\"]],[7,[null,null,null,null,null,null,null],[\"3-16-0\",\"2-10-0\",\"19-7-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"4-1-0\",\"11-16-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-8-0\",\"15-18-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[0,[],[\"1-1-0\",\"1-4-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"16-10-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[2,[null,null],[\"1-7-0\",\"4-13-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-1-0\",\"0-0-0\"]],[1,[null],[\"1-11-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-2-0\",\"0-0-0\"]],[2,[null,null],[\"0-1-0\",\"0-1-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
- "simple": 1,
- "by": "worker"
+ "betaSig": "[[\"nfl|patrickmahomes|cmp|15|over5\",\"nfl|tylerbass|fgm|1|over5\",\"nfl|jaredgoff|cmp|15|over5\",\"nfl|javontewilliams|car|10|over5\",\"nfl|dandreswift|car|10|over5\",\"nfl|brandonaubrey|kpts|5|over5\",\"nfl|dakprescott|ptd|1|over5\",\"nfl|saquonbarkley|car|10|over5\",\"nfl|jeremiahtrotterjr|tkl|4|over5\",\"nfl|jakebates|kpts|5|over5\",\"nfl|druetranquill|tkl|4|over5\",\"nfl|jamescookiii|ry|50|over5\",\"nfl|patrickmahomes|py|200|over5\",\"nfl|jaredgoff|att|25|over5\",\"nfl|amonrastbrown|wy|40|over5\",\"nfl|jalenhurts|ptd|1|over5\",\"nfl|patrickmahomes|ptd|1|over5\",\"nfl|ceedeelamb|wy|40|over5\",\"nfl|jahmyrgibbs|ry|50|over5\",\"nfl|georgepickens|rec|4|over5\",\"nfl|dillonthieneman|tkl|4|over5\",\"nfl|jamesonwilliams|lwy|20|over5\",\"nfl|jahmyrgibbs|rry|80|over5\",\"nfl|calebdowns|tkl|4|over5\",\"nfl|jihaadcampbell|tkl|4|over5\",\"nfl|jakebates|fgm|1|over5\",\"nfl|brandonaubrey|fgm|1|over5\",\"nfl|calebwilliams|att|25|over5\",\"nfl|lutherburdeniii|lwy|15|over5\",\"nfl|jackcampbell|tkl|4|over5\",\"nfl|georgepickens|wy|40|over5\",\"nfl|calebwilliams|cmp|15|over5\",\"nfl|cairosantos|kpts|5|over5\",\"nfl|jaredgoff|py|200|over5\",\"nfl|jaredgoff|ptd|1|over5\",\"nfl|amonrastbrown|lwy|15|over5\",\"nfl|samlaporta|lwy|15|over5\",\"nfl|dakprescott|py|200|over5\",\"nfl|calebwilliams|ptd|1|over5\",\"nfl|cairosantos|fgm|1|over5\",\"nfl|romeodunze|lwy|15|over5\",\"nfl|jahmyrgibbs|lry|10|over5\",\"nfl|harrisonbutker|kpts|5|over5\",\"nfl|kylemonangai|lry|10|over5\",\"nfl|tylerbass|kpts|7|over5\",\"nfl|traviskelce|lwy|15|over5\",\"nfl|khalilshakir|lwy|15|over5\",\"nfl|amanihooker|tkl|4|over5\",\"nfl|joshallen|cmp|15|over5\",\"nfl|jamescookiii|car|15|over5\",\"ncaaf|jkobywilliams|ry|50|over5\",\"nfl|terrelbernard|tkl|4|over5\",\"nfl|daltonkincaid|lwy|15|over5\",\"nfl|dorianwilliams|tkl|4|over5\",\"ncaaf|thomascastellanos|ptd|1|over5\",\"nfl|ceedeelamb|rry|60|over5\",\"nfl|georgepickens|lwy|20|over5\",\"nfl|harrisonbutker|fgm|1|over5\",\"nfl|amonrastbrown|rec|5|over5\",\"nfl|ceedeelamb|lwy|20|over5\",\"nfl|dariuscooper|lwy|15|over5\",\"nfl|devinbush|tkl|4|over5\",\"nfl|dakprescott|att|30|over5\",\"nfl|jamesonwilliams|wy|40|over5\",\"nfl|kylemonangai|car|10|over5\",\"nfl|dakprescott|pry|220|over5\",\"ncaab|dallinhall|ast|3|over4\",\"ncaab|dallinhall|fg3|1|over4\",\"ncaab|dallinhall|ra|6|over4\",\"ncaab|willhornseth|pts|10|over4\",\"ncaab|willhornseth|pa|12|over4\",\"ncaab|willhornseth|pra|15|over4\",\"ncaab|willhornseth|ra|6|over4\",\"ncaab|javontaecampbell|stl|1|over4\",\"ncaab|javontaecampbell|ast|3|over4\",\"nfl|patrickmahomes|att|25|over4\",\"ncaab|masonfalslev|pts|10|over4\",\"ncaab|joelfoxwell|ast|3|over4\",\"ncaab|masonfalslev|ra|8|over4\",\"ncaab|elliotcadeau|pra|15|over4\",\"ncaab|keyshawnhall|pa|15|over4\",\"ncaab|joelfoxwell|pra|20|over4\",\"ncaab|masonfalslev|pra|20|over4\",\"ncaab|daidaiames|pts|10|over4\",\"ncaab|amariallen|fg3|1|over4\",\"ncaab|ericdaileyjr|pra|15|over4\",\"ncaab|billyrichmondiii|ra|6|over4\",\"ncaab|davionthompson|pa|12|over4\",\"ncaab|cruzdavis|ast|3|over4\",\"ncaab|skyyclark|fg3|1|over4\",\"ncaab|donovandent|stl|1|over4\",\"ncaab|keyshawnhall|pra|20|over4\",\"ncaab|javontaecampbell|to|2|over4\",\"ncaab|joelfoxwell|pr|15|over4\",\"ncaab|xavieredmonds|pts|10|over4\",\"ncaab|wesenis|pr|15|over4\",\"ncaab|masonfalslev|pa|15|over4\",\"ncaaf|jadencraig|py|200|over4\",\"ncaaf|jordandwyer|lwy|15|over4\",\"ncaab|florybidunga|ra|8|over4\",\"ncaab|masonfalslev|reb|5|over4\",\"ncaab|masonfalslev|ast|3|over4\",\"ncaab|jeremiahwilkinson|pr|12|over4\",\"ncaab|jeremiahwilkinson|pa|12|over4\",\"ncaab|billyrichmondiii|pr|15|over4\",\"ncaab|davionthompson|ra|6|over4\",\"ncaab|nickanderson|pra|15|over4\",\"ncaab|naithangeorge|pra|15|over4\",\"ncaab|naithangeorge|stl|1|over4\",\"ncaab|billyrichmondiii|pts|10|over4\",\"ncaab|isaiahchappell|fg3|1|over4\",\"ncaab|alijaharenas|pra|15|over4\",\"ncaab|jeremiahwilkinson|pts|10|over4\",\"ncaab|nickanderson|pts|10|over4\",\"ncaab|donovanatwell|fg3|2|over4\",\"ncaab|rowanbrumbaugh|pra|15|over4\",\"ncaab|cruzdavis|stl|1|over4\",\"ncaab|laydenblocker|stl|1|over4\",\"ncaab|javonbennett|fg3|1|over4\",\"ncaab|vinceiwuchukwu|pra|15|over4\",\"ncaab|cruzdavis|pts|10|over4\",\"ncaab|brentbland|fg3|1|over4\",\"ncaab|donniefreeman|pts|10|over4\",\"ncaab|robbieavila|fg3|1|over4\",\"ncaab|robbieavila|pra|15|over4\",\"ncaab|robbieavila|pr|12|over4\",\"nfl|devontasmith|lwy|15|over4\",\"ncaab|joshuadent|ast|3|over4\",\"ncaab|cruzdavis|pr|15|over4\",\"ncaab|cruzdavis|pa|15|over4\",\"ncaab|malachibrown|fg3|1|over4\",\"ncaab|javontaecampbell|pr|15|over4\",\"ncaab|dukebrennan|pra|15|over4\",\"ncaab|dukebrennan|pr|15|over4\",\"ncaab|robbieavila|ra|6|over4\",\"ncaab|koreecotton|pra|15|over4\",\"ncaab|elliotcadeau|ast|3|over4\",\"ncaab|keyshawnhall|pts|10|over4\",\"ncaab|brandonbenjamin|reb|7|over4\",\"ncaab|xavieredmonds|pra|15|over4\",\"ncaab|florybidunga|blk|1|over4\",\"ncaab|quinnellis|ast|3|over4\",\"ncaab|quinnellis|stl|1|over4\",\"ncaab|joshuadent|fg3|1|over4\",\"ncaab|billyrichmondiii|pra|15|over4\",\"ncaab|cruzdavis|fg3|1|over4\",\"ncaab|abdibashirjr|fg3|2|over4\",\"ncaab|jeremyfearsjr|pts|10|over4\",\"ncaab|jeremyfearsjr|ast|5|over4\",\"ncaab|donniefreeman|pra|15|over4\"],[\"live:oooooooooooooooooooooooh94l210~5l5~5l2~5h55l~5l29~5h114l5~5l~5\",\"live:ooohhhhooo\",\"live:hhoooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"open:oooooooooo\",\"lost:ml~5hooooooo\",\"lost:ooooml~6ooo\",\"lost:hh8mhhh35h1m11h12h3h10m19m5h19m11h28hmm1h4m0h30\"],[[2,[\"strong\",\"value\"],15],[3,[\"strong\",\"strong\",\"strong\"],11],[1,[\"supreme*\"],18],[0,[],17],[2,[\"supreme*\",\"strong\"],21],[0,[],21],[0,[],18],[1,[\"supreme\"],21],[2,[\"supreme*\",\"strong\"],22],[0,[],23],[1,[\"supreme*\"],17],[0,[],22],[0,[],21],[1,[\"strong\"],22],[0,[],16],[1,[\"supreme*\"],23],[0,[],19],[0,[],18],[0,[],23],[1,[\"strong!\"],17],[0,[],22],[0,[],18],[2,[\"strong\",\"strong\"],19],[1,[\"supreme\"],20],[3,[\"supreme*\",\"strong\",\"value\"],23],[0,[],18],[1,[\"strong\"],12],[2,[\"strong\",\"strong\"],17],[2,[\"supreme*\",\"value\"],21],[1,[\"strong\"],18],[1,[\"value\"],15],[0,[],22],[0,[],20],[1,[\"supreme*\"],17],[2,[\"supreme\",\"strong\"],20],[2,[\"supreme\",\"strong\"],16],[3,[\"strong\",\"value\",\"value\"],19],[2,[\"strong\",\"strong\"],22],[0,[],16],[1,[\"supreme*\"],14],[1,[\"strong\"],14],[2,[\"strong\",\"strong\"],18],[2,[\"supreme\",\"strong\"],20],[2,[\"strong\",\"value\"],11],[1,[\"strong\"],19],[1,[\"value\"],19],[2,[\"strong\",\"strong\"],19],[1,[\"strong\"],17],[1,[\"strong\"],19],[1,[\"strong\"],23],[3,[\"strong\",\"strong\",\"strong\"],20],[2,[\"strong\",\"strong\"],18],[2,[\"strong\",\"strong\"],20],[1,[\"value\"],22],[0,[],22],[0,[],19],[2,[\"strong\",\"strong\"],21],[2,[\"strong\",\"value\"],20],[3,[\"strong\",\"value\",\"value\"],13],[2,[\"strong\",\"strong\"],20],[1,[\"strong\"],20],[1,[\"strong\"],11],[0,[],19],[0,[],20],[3,[\"supreme\",\"strong\",\"strong\"],15],[0,[],15],[1,[\"strong\"],22],[1,[\"strong\"],24],[2,[\"strong\",\"value\"],18],[2,[\"supreme\",\"strong\"],21],[1,[\"strong\"],20],[1,[\"supreme*\"],21],[0,[],17],[2,[\"strong\",\"strong\"],21],[0,[],12],[0,[],20],[2,[\"strong\",\"strong\"],16],[1,[\"strong\"],23],[1,[\"strong\"],14],[3,[\"supreme\",\"strong\",\"strong\"],17],[1,[\"supreme*\"],19],[2,[\"strong\",\"strong\"],22],[1,[\"value\"],14],[1,[\"strong\"],21],[1,[\"value\"],19],[1,[\"supreme\"],22],[1,[\"supreme\"],14],[1,[\"strong\"],20],[1,[\"strong\"],16],[1,[\"strong\"],19],[1,[\"strong\"],17],[2,[\"strong\",\"strong\"],15],[1,[\"strong\"],23],[1,[\"strong\"],17],[2,[\"strong\",\"value\"],13],[0,[],20],[0,[],18],[2,[\"strong\",\"value\"],21],[0,[],21],[2,[\"strong\",\"strong\"],17],[0,[],19],[1,[\"value\"],22],[2,[\"strong\",\"strong\"],13]],[0,12,null],[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-14-0\",\"18-13-0\"]],[7,[null,null,null,null,null,null,null],[\"3-16-0\",\"2-10-0\",\"19-7-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"4-1-0\",\"11-16-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-8-0\",\"15-18-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[0,[],[\"1-1-0\",\"1-4-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"16-10-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[2,[null,null],[\"1-7-0\",\"4-13-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-1-0\",\"0-0-0\"]],[1,[null],[\"1-11-0\",\"1-6-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-2-0\",\"0-0-0\"]],[2,[null,null],[\"0-1-0\",\"0-1-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "simple": 1
 }
