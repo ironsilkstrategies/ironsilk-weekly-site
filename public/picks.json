@@ -1,6 +1,6 @@
 {
  "v": 4,
- "generated": 1795789917412,
+ "generated": 1795791773356,
  "cashed": [],
  "brand": "TheDesk",
  "price": "$50/mo · $300/yr · $100/league season · $20 2-day pass · $2 single pick",
@@ -839,7 +839,7 @@
     {
      "sp": "ncaaf",
      "game": "FSU@PITT",
-     "gl": "#75 FSU@#55 PITT",
+     "gl": "#75 FSU@#54 PITT",
      "pick": "PITT ML",
      "price": -168,
      "p": 0.713,
@@ -12430,7 +12430,7 @@
      "sp": "ncaaf",
      "pick": "TA&M +7",
      "price": -110,
-     "gl": "#58 TA&M@#17 OU",
+     "gl": "#57 TA&M@#17 OU",
      "r": "loss"
     },
     {
@@ -20265,7 +20265,7 @@
      "kind": "game",
      "sp": "ncaaf",
      "game": "TEX@TA&M",
-     "gl": "#3 TEX@#58 TA&M",
+     "gl": "#3 TEX@#57 TA&M",
      "pick": "Under 40.5",
      "price": -110,
      "p": 0.602,
@@ -20308,7 +20308,7 @@
      "sp": "ncaaf",
      "pick": "Under 46.5",
      "price": -105,
-     "gl": "#50 TCU@#11 TTU",
+     "gl": "#59 TCU@#11 TTU",
      "r": "loss"
     },
     {
@@ -20723,7 +20723,6 @@
     "genAt": null,
     "genBy": null,
     "family": [
-     "Picking up The Scout's NFL spread favorites",
      "Picking up The Scorekeeper's CBB spread dogs"
     ],
     "lessons": []
@@ -20932,8 +20931,8 @@
     [
      "ncaab|ml|fav",
      75,
-     57,
-     -12.9,
+     56,
+     -11.9,
      7,
      9
     ]
@@ -22110,7 +22109,7 @@
      "sp": "ncaaf",
      "pick": "UL ML",
      "price": -290,
-     "gl": "#104 USA@#54 UL",
+     "gl": "#104 USA@#53 UL",
      "r": "win"
     },
     {
@@ -22759,7 +22758,7 @@
     "gen": 1,
     "champ": "the original confidence",
     "heirs": 2,
-    "retired": 0,
+    "retired": 1,
     "best": null,
     "hist": []
    },
@@ -22930,7 +22929,18 @@
    }
   ],
   "womb": {
-   "litters": [],
+   "litters": [
+    {
+     "a": "The Coach",
+     "b": "The Scout",
+     "ca": "#5FD3E8",
+     "cb": "#fb7185",
+     "arch": "Steady All-rounder",
+     "conceived": "2026-11-27",
+     "embryos": 3,
+     "due": false
+    }
+   ],
    "heirs": 2,
    "events": [
     {
@@ -23044,7 +23054,7 @@
       "sd": "home",
       "pick": "BOS ML",
       "price": -155,
-      "p": 0.726,
+      "p": 0.735,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -23063,7 +23073,7 @@
        "s": "home",
        "pick": "BOS ML",
        "price": -155,
-       "p": 0.488,
+       "p": 0.481,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23076,7 +23086,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me with BOS ml 10-6 · division game · me vs TOR ml 6-4"
+       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me with BOS ml 10-6 · picked team leads the head-to-head series · me vs TOR ml 6-4"
       },
       {
        "v": "Judge",
@@ -23096,7 +23106,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me with BOS ml 12-7 · division game"
+       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me with BOS ml 12-7 · picked team leads the head-to-head series"
       },
       {
        "v": "Covers",
@@ -23116,14 +23126,14 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · division game"
+       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
       },
       {
        "v": "Power",
        "s": "home",
        "pick": "BOS ML",
        "price": -155,
-       "p": 0.483,
+       "p": 0.476,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23136,7 +23146,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me with BOS ml 9-4 · division game"
+       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me with BOS ml 9-4 · picked team leads the head-to-head series"
       },
       {
        "v": "Scout",
@@ -23156,14 +23166,14 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me with BOS ml 5-2 · division game · me vs TOR ml 3-1"
+       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · me with BOS ml 5-2 · picked team leads the head-to-head series · me vs TOR ml 3-1"
       },
       {
        "v": "H_L2e1",
        "s": "home",
        "pick": "BOS ML",
        "price": -155,
-       "p": 0.551,
+       "p": 0.55,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23176,14 +23186,14 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · division game"
+       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
       },
       {
        "v": "H_L3e1",
        "s": "home",
        "pick": "BOS ML",
        "price": -155,
-       "p": 0.605,
+       "p": 0.604,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23191,7 +23201,7 @@
         "of": 10
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · division game"
+       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
       }
      ],
      "spread": [
@@ -23220,7 +23230,7 @@
        "s": "away",
        "pick": "TOR +1.5",
        "price": -180,
-       "p": 0.467,
+       "p": 0.458,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -23280,7 +23290,7 @@
        "s": "away",
        "pick": "TOR +1.5",
        "price": -180,
-       "p": 0.468,
+       "p": 0.458,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -23300,7 +23310,7 @@
        "s": "home",
        "pick": "BOS -1.5",
        "price": 150,
-       "p": 0.427,
+       "p": 0.428,
        "o": 0,
        "r": {
         "k": "nhl|spread|fav",
@@ -23313,14 +23323,14 @@
         "say": "top"
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · division game"
+       "q": "picked team won 1 or fewer of its last 5 · picked team has the clear talent edge (Scout) · picked team leads the head-to-head series"
       },
       {
        "v": "H_L2e1",
        "s": "away",
        "pick": "TOR +1.5",
        "price": -180,
-       "p": 0.543,
+       "p": 0.542,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -23340,7 +23350,7 @@
        "s": "away",
        "pick": "TOR +1.5",
        "price": -180,
-       "p": 0.547,
+       "p": 0.546,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -23382,7 +23392,7 @@
        "s": "over",
        "pick": "Over 6.5",
        "price": -115,
-       "p": 0.41,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -23402,7 +23412,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -105,
-       "p": 0.399,
+       "p": 0.403,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -23468,7 +23478,447 @@
       4
      ]
     },
-    "fx": "avg TOR 3.2-3.5 BOS 3.5-2.7 · rec TOR 9-14 BOS 15-8 · last5 TOR 1-4 BOS 1-4 · past 6.5: TOR 4/8 BOS 4/8"
+    "fx": "avg TOR 3.2-3.5 BOS 3.5-2.7 · rec TOR 9-14 BOS 15-8 · last5 TOR 1-4 BOS 1-4 · past 6.5: TOR 4/8 BOS 4/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.571,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.585,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 BOS ML",
+       "price": -150,
+       "p": 0.567,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.404,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.493,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 BOS -0.5",
+       "price": 140,
+       "p": 0.424,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 125,
+       "p": 0.423,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 125,
+       "p": 0.42,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.582,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -23483,7 +23933,7 @@
       "sd": "home",
       "pick": "NJ ML",
       "price": -285,
-      "p": 0.837,
+      "p": 0.851,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -23501,7 +23951,7 @@
        "s": "home",
        "pick": "NJ ML",
        "price": -285,
-       "p": 0.622,
+       "p": 0.616,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23521,7 +23971,7 @@
        "s": "home",
        "pick": "NJ ML",
        "price": -285,
-       "p": 0.689,
+       "p": 0.691,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23541,7 +23991,7 @@
        "s": "home",
        "pick": "NJ ML",
        "price": -285,
-       "p": 0.66,
+       "p": 0.68,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23561,7 +24011,7 @@
        "s": "home",
        "pick": "NJ ML",
        "price": -285,
-       "p": 0.645,
+       "p": 0.664,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23581,7 +24031,7 @@
        "s": "home",
        "pick": "NJ ML",
        "price": -285,
-       "p": 0.623,
+       "p": 0.628,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23601,7 +24051,7 @@
        "s": "home",
        "pick": "NJ ML",
        "price": -285,
-       "p": 0.611,
+       "p": 0.609,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23618,7 +24068,7 @@
        "s": "away",
        "pick": "CGY +1.5",
        "price": -112,
-       "p": 0.483,
+       "p": 0.471,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -23638,7 +24088,7 @@
        "s": "away",
        "pick": "CGY +1.5",
        "price": -112,
-       "p": 0.466,
+       "p": 0.458,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -23698,7 +24148,7 @@
        "s": "away",
        "pick": "CGY +1.5",
        "price": -112,
-       "p": 0.467,
+       "p": 0.458,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -23758,7 +24208,7 @@
        "s": "home",
        "pick": "NJ -1.5",
        "price": -108,
-       "p": 0.503,
+       "p": 0.506,
        "o": 0,
        "r": {
         "k": "nhl|spread|fav",
@@ -23795,7 +24245,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -130,
-       "p": 0.455,
+       "p": 0.447,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -23815,7 +24265,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -130,
-       "p": 0.487,
+       "p": 0.488,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -23866,7 +24316,411 @@
       4
      ]
     },
-    "fx": "avg CGY 2.6-3.4 NJ 3.8-3.1 · rec CGY 11-13 NJ 17-8 · last5 CGY 2-3 NJ 4-1 · past 6.5: CGY 4/8 NJ 4/8"
+    "fx": "avg CGY 2.6-3.4 NJ 3.8-3.1 · rec CGY 11-13 NJ 17-8 · last5 CGY 2-3 NJ 4-1 · past 6.5: CGY 4/8 NJ 4/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 CGY ML",
+       "price": 172,
+       "p": 0.349,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 CGY ML",
+       "price": 172,
+       "p": 0.349,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 CGY ML",
+       "price": 172,
+       "p": 0.353,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 CGY ML",
+       "price": 172,
+       "p": 0.353,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "P1 CGY ML",
+       "price": 172,
+       "p": 0.353,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 NJ ML",
+       "price": -225,
+       "p": 0.665,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 CGY ML",
+       "price": 172,
+       "p": 0.349,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 CGY ML",
+       "price": 172,
+       "p": 0.353,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 NJ ML",
+       "price": -225,
+       "p": 0.665,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 CGY ML",
+       "price": 172,
+       "p": 0.349,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 NJ ML",
+       "price": -225,
+       "p": 0.665,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 CGY +0.5",
+       "price": -143,
+       "p": 0.589,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 CGY +0.5",
+       "price": -143,
+       "p": 0.589,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 CGY +0.5",
+       "price": -143,
+       "p": 0.569,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 CGY +0.5",
+       "price": -143,
+       "p": 0.569,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "P1 CGY +0.5",
+       "price": -143,
+       "p": 0.569,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 NJ -0.5",
+       "price": 106,
+       "p": 0.5,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 CGY +0.5",
+       "price": -143,
+       "p": 0.589,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 CGY +0.5",
+       "price": -143,
+       "p": 0.569,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 NJ -0.5",
+       "price": 106,
+       "p": 0.5,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 CGY +0.5",
+       "price": -143,
+       "p": 0.589,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 NJ -0.5",
+       "price": 106,
+       "p": 0.5,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.443,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.443,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.441,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.443,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.441,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.443,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.441,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -23881,7 +24735,7 @@
       "sd": "home",
       "pick": "NSH +1.5",
       "price": -258,
-      "p": 0.906,
+      "p": 0.921,
       "tier": "supreme",
       "unan": false,
       "off": false,
@@ -23900,7 +24754,7 @@
        "s": "home",
        "pick": "NSH ML",
        "price": -105,
-       "p": 0.499,
+       "p": 0.492,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23920,7 +24774,7 @@
        "s": "home",
        "pick": "NSH ML",
        "price": -105,
-       "p": 0.492,
+       "p": 0.485,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23940,7 +24794,7 @@
        "s": "away",
        "pick": "UTAH ML",
        "price": -115,
-       "p": 0.338,
+       "p": 0.44,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23960,7 +24814,7 @@
        "s": "home",
        "pick": "NSH ML",
        "price": -105,
-       "p": 0.484,
+       "p": 0.477,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -23980,7 +24834,7 @@
        "s": "away",
        "pick": "UTAH ML",
        "price": -115,
-       "p": 0.505,
+       "p": 0.429,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24020,7 +24874,7 @@
        "s": "away",
        "pick": "UTAH ML",
        "price": -115,
-       "p": 0.504,
+       "p": 0.506,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24117,7 +24971,7 @@
        "s": "home",
        "pick": "NSH +1.5",
        "price": -258,
-       "p": 0.622,
+       "p": 0.626,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -24179,7 +25033,7 @@
        "s": "over",
        "pick": "Over 6.5",
        "price": -108,
-       "p": 0.41,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -24199,7 +25053,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -112,
-       "p": 0.42,
+       "p": 0.426,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -24259,7 +25113,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -112,
-       "p": 0.47,
+       "p": 0.472,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -24320,7 +25174,7 @@
       "sd": "home",
       "pick": "STL +1.5",
       "price": -218,
-      "p": 0.868,
+      "p": 0.862,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -24342,7 +25196,7 @@
        "s": "away",
        "pick": "DAL ML",
        "price": -142,
-       "p": 0.501,
+       "p": 0.493,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24382,7 +25236,7 @@
        "s": "away",
        "pick": "DAL ML",
        "price": -142,
-       "p": 0.485,
+       "p": 0.473,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24402,7 +25256,7 @@
        "s": "away",
        "pick": "DAL ML",
        "price": -142,
-       "p": 0.485,
+       "p": 0.478,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24422,7 +25276,7 @@
        "s": "away",
        "pick": "DAL ML",
        "price": -142,
-       "p": 0.549,
+       "p": 0.548,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24444,7 +25298,7 @@
        "s": "home",
        "pick": "STL +1.5",
        "price": -218,
-       "p": 0.476,
+       "p": 0.49,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -24464,7 +25318,7 @@
        "s": "home",
        "pick": "STL +1.5",
        "price": -218,
-       "p": 0.467,
+       "p": 0.479,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -24524,7 +25378,7 @@
        "s": "home",
        "pick": "STL +1.5",
        "price": -218,
-       "p": 0.432,
+       "p": 0.433,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -24537,7 +25391,7 @@
         "say": "worst"
        },
        "hit": null,
-       "q": "outside consensus DAL by 0.5 vs the line +1.5 · Kalshi DAL 56% · me vs DAL ats 6-3 · Polymarket DAL 56% · DRatings DAL 51% · OddsShark computer DAL 3.12–2.76 STL"
+       "q": "outside consensus DAL by 0.4 vs the line +1.5 · Kalshi DAL 55% · me vs DAL ats 6-3 · Polymarket DAL 56% · DRatings STL 50% · OddsShark computer DAL 3.12–2.76 STL"
       },
       {
        "v": "Coach",
@@ -24564,7 +25418,7 @@
        "s": "home",
        "pick": "STL +1.5",
        "price": -218,
-       "p": 0.468,
+       "p": 0.48,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -24584,7 +25438,7 @@
        "s": "home",
        "pick": "STL +1.5",
        "price": -218,
-       "p": 0.599,
+       "p": 0.602,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -24646,7 +25500,7 @@
        "s": "over",
        "pick": "Over 5.5",
        "price": -122,
-       "p": 0.46,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -24756,7 +25610,411 @@
       3
      ]
     },
-    "fx": "avg DAL 2.8-2.5 STL 3.4-3.2 · rec DAL 15-7 STL 13-9 · last5 DAL 3-2 STL 3-2 · past 5.5: DAL 3/8 STL 3/8"
+    "fx": "avg DAL 2.8-2.5 STL 3.4-3.2 · rec DAL 15-7 STL 13-9 · last5 DAL 3-2 STL 3-2 · past 5.5: DAL 3/8 STL 3/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 DAL ML",
+       "price": -140,
+       "p": 0.549,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 DAL ML",
+       "price": -140,
+       "p": 0.549,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 STL ML",
+       "price": -100,
+       "p": 0.483,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 STL ML",
+       "price": -100,
+       "p": 0.483,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 STL ML",
+       "price": -100,
+       "p": 0.483,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 STL ML",
+       "price": -100,
+       "p": 0.483,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 STL ML",
+       "price": -100,
+       "p": 0.487,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "P1 DAL ML",
+       "price": -140,
+       "p": 0.549,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 DAL ML",
+       "price": -140,
+       "p": 0.549,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 DAL ML",
+       "price": -140,
+       "p": 0.549,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 STL ML",
+       "price": -100,
+       "p": 0.487,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 DAL -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 DAL -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 STL +0.5",
+       "price": -210,
+       "p": 0.714,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 STL +0.5",
+       "price": -210,
+       "p": 0.714,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 STL +0.5",
+       "price": -210,
+       "p": 0.714,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 STL +0.5",
+       "price": -210,
+       "p": 0.714,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 STL +0.5",
+       "price": -210,
+       "p": 0.753,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "P1 DAL -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 DAL -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 DAL -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 STL +0.5",
+       "price": -210,
+       "p": 0.753,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": -103,
+       "p": 0.479,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -125,
+       "p": 0.525,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": -103,
+       "p": 0.479,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -24771,7 +26029,7 @@
       "sd": "away",
       "pick": "OTT +1.5",
       "price": -218,
-      "p": 0.813,
+      "p": 0.807,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -24789,7 +26047,7 @@
       "sd": "over",
       "pick": "Over 5.5",
       "price": -135,
-      "p": 0.632,
+      "p": 0.604,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -24809,7 +26067,7 @@
        "s": "home",
        "pick": "TB ML",
        "price": -142,
-       "p": 0.499,
+       "p": 0.492,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24829,7 +26087,7 @@
        "s": "home",
        "pick": "TB ML",
        "price": -142,
-       "p": 0.493,
+       "p": 0.482,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24849,7 +26107,7 @@
        "s": "home",
        "pick": "TB ML",
        "price": -142,
-       "p": 0.485,
+       "p": 0.473,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24869,7 +26127,7 @@
        "s": "home",
        "pick": "TB ML",
        "price": -142,
-       "p": 0.484,
+       "p": 0.477,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -24889,7 +26147,7 @@
        "s": "home",
        "pick": "TB ML",
        "price": -142,
-       "p": 0.549,
+       "p": 0.548,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25031,7 +26289,7 @@
        "s": "away",
        "pick": "OTT +1.5",
        "price": -218,
-       "p": 0.599,
+       "p": 0.602,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -25188,7 +26446,7 @@
        "s": "over",
        "pick": "Over 5.5",
        "price": -135,
-       "p": 0.497,
+       "p": 0.499,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -25234,7 +26492,411 @@
       4
      ]
     },
-    "fx": "avg OTT 3.2-2.9 TB 3.5-3 · rec OTT 16-7 TB 15-7 · last5 OTT 4-1 TB 2-3 · past 5.5: OTT 4/8 TB 5/8"
+    "fx": "avg OTT 3.2-2.9 TB 3.5-3 · rec OTT 16-7 TB 15-7 · last5 OTT 4-1 TB 2-3 · past 5.5: OTT 4/8 TB 5/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.552,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 TB ML",
+       "price": -138,
+       "p": 0.547,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.402,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 TB -0.5",
+       "price": 152,
+       "p": 0.422,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": -100,
+       "p": 0.464,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.54,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -25251,7 +26913,7 @@
        "s": "home",
        "pick": "PHI ML",
        "price": -245,
-       "p": 0.603,
+       "p": 0.604,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25271,7 +26933,7 @@
        "s": "home",
        "pick": "PHI ML",
        "price": -245,
-       "p": 0.604,
+       "p": 0.597,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25311,7 +26973,7 @@
        "s": "home",
        "pick": "PHI ML",
        "price": -245,
-       "p": 0.58,
+       "p": 0.575,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25331,7 +26993,7 @@
        "s": "home",
        "pick": "PHI ML",
        "price": -245,
-       "p": 0.605,
+       "p": 0.607,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25353,7 +27015,7 @@
        "s": "away",
        "pick": "VAN +1.5",
        "price": -125,
-       "p": 0.474,
+       "p": 0.463,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -25373,7 +27035,7 @@
        "s": "away",
        "pick": "VAN +1.5",
        "price": -125,
-       "p": 0.466,
+       "p": 0.458,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -25433,7 +27095,7 @@
        "s": "away",
        "pick": "VAN +1.5",
        "price": -125,
-       "p": 0.467,
+       "p": 0.458,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -25578,7 +27240,375 @@
       4
      ]
     },
-    "fx": "avg VAN 2.8-4.4 PHI 2.6-3.5 · rec VAN 6-20 PHI 9-12 · last5 VAN 2-3 PHI 3-2 · past 6.5: VAN 4/8 PHI 6/8"
+    "fx": "avg VAN 2.8-4.4 PHI 2.6-3.5 · rec VAN 6-20 PHI 9-12 · last5 VAN 2-3 PHI 3-2 · past 6.5: VAN 4/8 PHI 6/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 VAN ML",
+       "price": 155,
+       "p": 0.373,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 VAN ML",
+       "price": 155,
+       "p": 0.373,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 VAN ML",
+       "price": 155,
+       "p": 0.373,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 VAN ML",
+       "price": 155,
+       "p": 0.373,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "P1 VAN ML",
+       "price": 155,
+       "p": 0.373,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "P1 VAN ML",
+       "price": 155,
+       "p": 0.373,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 VAN ML",
+       "price": 155,
+       "p": 0.373,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 PHI ML",
+       "price": -202,
+       "p": 0.631,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 VAN ML",
+       "price": 155,
+       "p": 0.373,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 PHI ML",
+       "price": -202,
+       "p": 0.631,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.59,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 VAN +0.5",
+       "price": -153,
+       "p": 0.59,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.443,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -147,
+       "p": 0.562,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.443,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -25593,7 +27623,7 @@
       "sd": "home",
       "pick": "WSH +1.5",
       "price": -250,
-      "p": 0.793,
+      "p": 0.775,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -25611,8 +27641,8 @@
       "m": "total",
       "sd": "over",
       "pick": "Over 6.5",
-      "price": -115,
-      "p": 0.574,
+      "price": -118,
+      "p": 0.587,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -25631,7 +27661,7 @@
        "s": "home",
        "pick": "WSH ML",
        "price": -105,
-       "p": 0.338,
+       "p": 0.496,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25644,14 +27674,14 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team won 1 or fewer of its last 5 · conference game (not division) · me vs FLA ml 8-4 · me with WSH ml 7-3"
+       "q": "picked team won 1 or fewer of its last 5 · picked team trails the head-to-head series · me vs FLA ml 8-4 · conference game (not division) · me with WSH ml 7-3"
       },
       {
        "v": "Judge",
        "s": "away",
        "pick": "FLA ML",
        "price": -115,
-       "p": 0.518,
+       "p": 0.482,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25664,14 +27694,14 @@
         "say": ""
        },
        "hit": null,
-       "q": "road favorite · conference game (not division) · me vs WSH ml 6-1 · me with FLA ml 9-6"
+       "q": "road favorite · picked team leads the head-to-head series · me vs WSH ml 6-1 · conference game (not division) · me with FLA ml 9-6"
       },
       {
        "v": "Power",
        "s": "away",
        "pick": "FLA ML",
        "price": -115,
-       "p": 0.513,
+       "p": 0.501,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25684,14 +27714,14 @@
         "say": ""
        },
        "hit": null,
-       "q": "road favorite · conference game (not division) · me with FLA ml 8-4 · me vs WSH ml 4-0"
+       "q": "road favorite · picked team leads the head-to-head series · me with FLA ml 8-4 · conference game (not division) · me vs WSH ml 4-0"
       },
       {
        "v": "H_L2e1",
-       "s": "away",
-       "pick": "FLA ML",
-       "price": -115,
-       "p": 0.488,
+       "s": "home",
+       "pick": "WSH ML",
+       "price": -105,
+       "p": 0.487,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -25704,7 +27734,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "road favorite · conference game (not division)"
+       "q": "picked team won 1 or fewer of its last 5 · picked team trails the head-to-head series · conference game (not division)"
       }
      ],
      "spread": [
@@ -25726,7 +27756,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "home underdog · picked team won 1 or fewer of its last 5 · me with WSH ats 2-6 · conference game (not division) · me vs FLA ats 8-5"
+       "q": "home underdog · picked team won 1 or fewer of its last 5 · me with WSH ats 2-6 · picked team trails the head-to-head series · me vs FLA ats 8-5"
       },
       {
        "v": "Judge",
@@ -25746,7 +27776,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "home underdog · picked team won 1 or fewer of its last 5 · me with WSH ats 2-6 · conference game (not division) · me vs FLA ats 8-5"
+       "q": "home underdog · picked team won 1 or fewer of its last 5 · me with WSH ats 2-6 · picked team trails the head-to-head series · me vs FLA ats 8-5"
       },
       {
        "v": "Most common",
@@ -25786,7 +27816,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "home underdog · picked team won 1 or fewer of its last 5 · me with WSH ats 0-3 · conference game (not division)"
+       "q": "home underdog · picked team won 1 or fewer of its last 5 · me with WSH ats 0-3 · picked team trails the head-to-head series"
       },
       {
        "v": "Pred",
@@ -25806,7 +27836,7 @@
         "say": "worst"
        },
        "hit": null,
-       "q": "outside consensus FLA by 0.3 vs the line +1.5 · Kalshi FLA 51% · Polymarket FLA 51% · DRatings WSH 52% · OddsShark computer FLA 3.23–3.23 WSH · DRatings: WSH by 0.2 — 61% on 120"
+       "q": "outside consensus FLA by 0.2 vs the line +1.5 · Kalshi FLA 51% · Polymarket FLA 52% · DRatings WSH 53% · OddsShark computer FLA 3.23–3.23 WSH · DRatings: WSH by 0.3 — 61% on 120"
       },
       {
        "v": "Coach",
@@ -25833,7 +27863,7 @@
        "s": "home",
        "pick": "WSH +1.5",
        "price": -250,
-       "p": 0.468,
+       "p": 0.48,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -25846,14 +27876,14 @@
         "say": ""
        },
        "hit": null,
-       "q": "home underdog · picked team won 1 or fewer of its last 5 · me with WSH ats 1-5 · conference game (not division)"
+       "q": "home underdog · picked team won 1 or fewer of its last 5 · me with WSH ats 1-5 · picked team trails the head-to-head series"
       },
       {
        "v": "H_L2e1",
        "s": "home",
        "pick": "WSH +1.5",
        "price": -250,
-       "p": 0.6,
+       "p": 0.603,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -25866,7 +27896,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "home underdog · picked team won 1 or fewer of its last 5 · conference game (not division)"
+       "q": "home underdog · picked team won 1 or fewer of its last 5 · picked team trails the head-to-head series"
       },
       {
        "v": "H_L3e1",
@@ -25886,7 +27916,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "home underdog · picked team won 1 or fewer of its last 5 · conference game (not division)"
+       "q": "home underdog · picked team won 1 or fewer of its last 5 · picked team trails the head-to-head series"
       }
      ],
      "total": [
@@ -25894,7 +27924,7 @@
        "v": "Sim",
        "s": "over",
        "pick": "Over 6.5",
-       "price": -115,
+       "price": -118,
        "p": 0.476,
        "o": 0,
        "r": {
@@ -25914,8 +27944,8 @@
        "v": "Judge",
        "s": "over",
        "pick": "Over 6.5",
-       "price": -115,
-       "p": 0.41,
+       "price": -118,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -25934,7 +27964,7 @@
        "v": "Most common",
        "s": "over",
        "pick": "Over 6.5",
-       "price": -115,
+       "price": -118,
        "p": 0.439,
        "o": 0,
        "r": {
@@ -25954,8 +27984,8 @@
        "v": "Covers",
        "s": "under",
        "pick": "Under 6.5",
-       "price": -105,
-       "p": 0.401,
+       "price": -102,
+       "p": 0.403,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -25974,7 +28004,7 @@
        "v": "Coach",
        "s": "over",
        "pick": "Over 6.5",
-       "price": -115,
+       "price": -118,
        "p": 0.44,
        "o": 0,
        "r": {
@@ -25994,7 +28024,7 @@
        "v": "Scout",
        "s": "over",
        "pick": "Over 6.5",
-       "price": -115,
+       "price": -118,
        "p": 0.46,
        "o": 0,
        "r": {
@@ -26014,7 +28044,7 @@
        "v": "H_L2e1",
        "s": "over",
        "pick": "Over 6.5",
-       "price": -115,
+       "price": -118,
        "p": 0.487,
        "o": 0,
        "r": {
@@ -26029,8 +28059,8 @@
        "v": "H_L3e1",
        "s": "over",
        "pick": "Over 6.5",
-       "price": -115,
-       "p": 0.504,
+       "price": -118,
+       "p": 0.506,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -26056,8 +28086,8 @@
       3
      ],
      "H_L2e1": [
-      5,
-      4
+      4,
+      5
      ],
      "Most common": [
       4,
@@ -26084,7 +28114,447 @@
       5
      ]
     },
-    "fx": "avg FLA 3.2-3 WSH 3.6-3.9 · rec FLA 14-8 WSH 11-11 · last5 FLA 3-2 WSH 1-4 · past 6.5: FLA 4/8 WSH 7/8"
+    "fx": "avg FLA 3.2-3 WSH 3.6-3.9 · rec FLA 14-8 WSH 11-11 · last5 FLA 3-2 WSH 1-4 · past 6.5: FLA 4/8 WSH 7/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 WSH ML",
+       "price": -110,
+       "p": 0.507,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 FLA ML",
+       "price": -118,
+       "p": 0.523,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 WSH ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 WSH ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "P1 FLA ML",
+       "price": -118,
+       "p": 0.523,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 WSH ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 FLA ML",
+       "price": -118,
+       "p": 0.523,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 WSH ML",
+       "price": -110,
+       "p": 0.527,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 FLA ML",
+       "price": -118,
+       "p": 0.523,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 WSH ML",
+       "price": -110,
+       "p": 0.507,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 WSH ML",
+       "price": -110,
+       "p": 0.507,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 WSH ML",
+       "price": -110,
+       "p": 0.507,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 WSH +0.5",
+       "price": -220,
+       "p": 0.69,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 FLA -0.5",
+       "price": 162,
+       "p": 0.42,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 WSH +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 WSH +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "P1 FLA -0.5",
+       "price": 162,
+       "p": 0.42,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 WSH +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 FLA -0.5",
+       "price": 162,
+       "p": 0.42,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 WSH +0.5",
+       "price": -220,
+       "p": 0.795,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 FLA -0.5",
+       "price": 162,
+       "p": 0.42,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 WSH +0.5",
+       "price": -220,
+       "p": 0.69,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 WSH +0.5",
+       "price": -220,
+       "p": 0.69,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 WSH +0.5",
+       "price": -220,
+       "p": 0.69,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.591,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.588,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.588,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.588,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.588,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.588,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.588,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 128,
+       "p": 0.414,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.588,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.591,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.591,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -166,
+       "p": 0.591,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -26099,7 +28569,7 @@
       "sd": "away",
       "pick": "DET +1.5",
       "price": -238,
-      "p": 0.878,
+      "p": 0.88,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -26119,7 +28589,7 @@
        "s": "home",
        "pick": "CBJ ML",
        "price": -130,
-       "p": 0.499,
+       "p": 0.492,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26139,7 +28609,7 @@
        "s": "home",
        "pick": "CBJ ML",
        "price": -130,
-       "p": 0.493,
+       "p": 0.482,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26159,7 +28629,7 @@
        "s": "home",
        "pick": "CBJ ML",
        "price": -130,
-       "p": 0.485,
+       "p": 0.478,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26179,7 +28649,7 @@
        "s": "away",
        "pick": "DET ML",
        "price": 110,
-       "p": 0.483,
+       "p": 0.428,
        "o": 0,
        "r": {
         "k": "nhl|ml|dog",
@@ -26187,7 +28657,7 @@
         "of": 5
        },
        "hit": null,
-       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · conference game (not division)"
+       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · picked team leads the head-to-head series"
       },
       {
        "v": "H_L2e1",
@@ -26214,7 +28684,7 @@
        "s": "away",
        "pick": "DET ML",
        "price": 110,
-       "p": 0.504,
+       "p": 0.506,
        "o": 0,
        "r": {
         "k": "nhl|ml|dog",
@@ -26222,7 +28692,7 @@
         "of": 5
        },
        "hit": null,
-       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · conference game (not division)"
+       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · picked team leads the head-to-head series"
       }
      ],
      "spread": [
@@ -26244,7 +28714,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · me with DET ats 8-2 · conference game (not division) · me vs CBJ ats 5-0"
+       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · me with DET ats 8-2 · picked team leads the head-to-head series · me vs CBJ ats 5-0"
       },
       {
        "v": "Judge",
@@ -26264,7 +28734,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · me with DET ats 7-2 · conference game (not division) · me vs CBJ ats 5-0"
+       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · me with DET ats 7-2 · picked team leads the head-to-head series · me vs CBJ ats 5-0"
       },
       {
        "v": "Most common",
@@ -26324,7 +28794,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · me with DET ats 8-2 · conference game (not division) · me vs CBJ ats 4-0"
+       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · me with DET ats 8-2 · picked team leads the head-to-head series · me vs CBJ ats 4-0"
       },
       {
        "v": "Scout",
@@ -26339,14 +28809,14 @@
         "of": 12
        },
        "hit": null,
-       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · me vs CBJ ats 2-6 · conference game (not division)"
+       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · me vs CBJ ats 2-6 · picked team leads the head-to-head series"
       },
       {
        "v": "H_L2e1",
        "s": "away",
        "pick": "DET +1.5",
        "price": -238,
-       "p": 0.621,
+       "p": 0.625,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -26359,14 +28829,14 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · conference game (not division)"
+       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · picked team leads the head-to-head series"
       },
       {
        "v": "H_L3e1",
        "s": "away",
        "pick": "DET +1.5",
        "price": -238,
-       "p": 0.577,
+       "p": 0.576,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -26379,7 +28849,7 @@
         "say": ""
        },
        "hit": null,
-       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · conference game (not division)"
+       "q": "picked team has the clear talent edge (Scout) · picked team's main goalie is bottom 20% · picked team leads the head-to-head series"
       }
      ],
      "total": [
@@ -26408,7 +28878,7 @@
        "s": "over",
        "pick": "Over 5.5",
        "price": -122,
-       "p": 0.41,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -26483,7 +28953,7 @@
        "s": "over",
        "pick": "Over 5.5",
        "price": -122,
-       "p": 0.503,
+       "p": 0.506,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -26529,7 +28999,411 @@
       4
      ]
     },
-    "fx": "avg DET 2.7-3 CBJ 2.5-3.2 · rec DET 9-12 CBJ 9-13 · last5 DET 2-3 CBJ 1-4 · past 5.5: DET 3/8 CBJ 3/8"
+    "fx": "avg DET 2.7-3 CBJ 2.5-3.2 · rec DET 9-12 CBJ 9-13 · last5 DET 2-3 CBJ 1-4 · past 5.5: DET 3/8 CBJ 3/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 CBJ ML",
+       "price": -128,
+       "p": 0.537,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 CBJ ML",
+       "price": -128,
+       "p": 0.537,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 CBJ ML",
+       "price": -128,
+       "p": 0.537,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 CBJ ML",
+       "price": -128,
+       "p": 0.537,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 CBJ ML",
+       "price": -128,
+       "p": 0.537,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 CBJ ML",
+       "price": -128,
+       "p": 0.542,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 DET ML",
+       "price": -103,
+       "p": 0.499,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 CBJ ML",
+       "price": -128,
+       "p": 0.537,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "P1 DET ML",
+       "price": -103,
+       "p": 0.499,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 CBJ ML",
+       "price": -128,
+       "p": 0.537,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "P1 DET ML",
+       "price": -103,
+       "p": 0.513,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 CBJ -0.5",
+       "price": 159,
+       "p": 0.421,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 CBJ -0.5",
+       "price": 159,
+       "p": 0.421,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 CBJ -0.5",
+       "price": 159,
+       "p": 0.421,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 CBJ -0.5",
+       "price": 159,
+       "p": 0.421,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 CBJ -0.5",
+       "price": 159,
+       "p": 0.421,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 CBJ -0.5",
+       "price": 159,
+       "p": 0.401,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 DET +0.5",
+       "price": -215,
+       "p": 0.753,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 CBJ -0.5",
+       "price": 159,
+       "p": 0.421,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "P1 DET +0.5",
+       "price": -215,
+       "p": 0.753,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 CBJ -0.5",
+       "price": 159,
+       "p": 0.421,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "P1 DET +0.5",
+       "price": -215,
+       "p": 0.795,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -130,
+       "p": 0.533,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -130,
+       "p": 0.533,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -130,
+       "p": 0.533,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -130,
+       "p": 0.533,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -130,
+       "p": 0.533,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": -100,
+       "p": 0.472,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": -100,
+       "p": 0.472,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -130,
+       "p": 0.533,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": -100,
+       "p": 0.472,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -130,
+       "p": 0.533,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -130,
+       "p": 0.531,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -26544,7 +29418,7 @@
       "sd": "away",
       "pick": "COL +1.5",
       "price": -230,
-      "p": 0.866,
+      "p": 0.864,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -26566,7 +29440,7 @@
        "s": "home",
        "pick": "MIN ML",
        "price": -125,
-       "p": 0.487,
+       "p": 0.479,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26586,7 +29460,7 @@
        "s": "home",
        "pick": "MIN ML",
        "price": -125,
-       "p": 0.489,
+       "p": 0.481,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26606,7 +29480,7 @@
        "s": "home",
        "pick": "MIN ML",
        "price": -125,
-       "p": 0.485,
+       "p": 0.473,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26626,7 +29500,7 @@
        "s": "home",
        "pick": "MIN ML",
        "price": -125,
-       "p": 0.481,
+       "p": 0.475,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26646,7 +29520,7 @@
        "s": "home",
        "pick": "MIN ML",
        "price": -125,
-       "p": 0.483,
+       "p": 0.429,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26686,7 +29560,7 @@
        "s": "home",
        "pick": "MIN ML",
        "price": -125,
-       "p": 0.505,
+       "p": 0.508,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -26796,7 +29670,7 @@
         "say": "worst"
        },
        "hit": null,
-       "q": "outside consensus MIN by 0.8 vs the line -1.5 · Kalshi MIN 54% · Polymarket MIN 54% · DRatings MIN 57% · OddsShark computer COL 3–3.32 MIN · DRatings: COL by 0.7 — 61% on 120"
+       "q": "outside consensus MIN by 0.7 vs the line -1.5 · Kalshi MIN 54% · Polymarket MIN 54% · DRatings MIN 56% · OddsShark computer COL 3–3.32 MIN · DRatings: COL by 0.7 — 61% on 120"
       },
       {
        "v": "Coach",
@@ -26843,7 +29717,7 @@
        "s": "away",
        "pick": "COL +1.5",
        "price": -230,
-       "p": 0.599,
+       "p": 0.603,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -26863,7 +29737,7 @@
        "s": "away",
        "pick": "COL +1.5",
        "price": -230,
-       "p": 0.54,
+       "p": 0.539,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -26905,7 +29779,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -130,
-       "p": 0.397,
+       "p": 0.408,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -26985,7 +29859,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -130,
-       "p": 0.493,
+       "p": 0.495,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -27039,7 +29913,447 @@
       4
      ]
     },
-    "fx": "avg COL 4-2.8 MIN 3.6-2.3 · rec COL 14-7 MIN 18-4 · last5 COL 4-1 MIN 3-2 · past 6.5: COL 4/8 MIN 6/8"
+    "fx": "avg COL 4-2.8 MIN 3.6-2.3 · rec COL 14-7 MIN 18-4 · last5 COL 4-1 MIN 3-2 · past 6.5: COL 4/8 MIN 6/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.54,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.54,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.536,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.536,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.536,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.536,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.54,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.54,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.536,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.536,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.54,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 MIN ML",
+       "price": -125,
+       "p": 0.54,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.401,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.401,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.42,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.42,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.42,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.42,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.401,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.401,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.42,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.42,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.401,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 MIN -0.5",
+       "price": 159,
+       "p": 0.401,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -27073,7 +30387,7 @@
       "sd": "home",
       "pick": "ANA ML",
       "price": -105,
-      "p": 0.548,
+      "p": 0.559,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -27091,7 +30405,7 @@
        "s": "home",
        "pick": "ANA ML",
        "price": -105,
-       "p": 0.539,
+       "p": 0.496,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27111,7 +30425,7 @@
        "s": "home",
        "pick": "ANA ML",
        "price": -105,
-       "p": 0.532,
+       "p": 0.511,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27131,7 +30445,7 @@
        "s": "home",
        "pick": "ANA ML",
        "price": -105,
-       "p": 0.523,
+       "p": 0.507,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27253,7 +30567,7 @@
        "s": "home",
        "pick": "ANA +1.5",
        "price": -250,
-       "p": 0.439,
+       "p": 0.438,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -27266,7 +30580,7 @@
         "say": "worst"
        },
        "hit": null,
-       "q": "outside consensus LA by 0.1 vs the line +1.5 · Kalshi LA 51% · Polymarket LA 52% · DRatings ANA 55% · OddsShark computer LA 3.21–3.23 ANA · DRatings: ANA by 0.5 — 61% on 120"
+       "q": "outside consensus LA by 0.1 vs the line +1.5 · Kalshi LA 52% · Polymarket LA 53% · DRatings ANA 55% · OddsShark computer LA 3.21–3.23 ANA · DRatings: ANA by 0.5 — 61% on 120"
       },
       {
        "v": "Coach",
@@ -27328,7 +30642,7 @@
        "s": "home",
        "pick": "ANA +1.5",
        "price": -250,
-       "p": 0.6,
+       "p": 0.603,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -27390,7 +30704,7 @@
        "s": "over",
        "pick": "Over 6.5",
        "price": -115,
-       "p": 0.41,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -27410,7 +30724,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -105,
-       "p": 0.399,
+       "p": 0.403,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -27484,7 +30798,411 @@
       3
      ]
     },
-    "fx": "avg LA 2.7-3.2 ANA 3.7-3.7 · rec LA 8-12 ANA 12-13 · last5 LA 2-3 ANA 2-3 · past 6.5: LA 3/8 ANA 5/8"
+    "fx": "avg LA 2.7-3.2 ANA 3.7-3.7 · rec LA 8-12 ANA 12-13 · last5 LA 2-3 ANA 2-3 · past 6.5: LA 3/8 ANA 5/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.513,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.527,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.509,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 ANA ML",
+       "price": -110,
+       "p": 0.513,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.754,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.795,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.715,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 ANA +0.5",
+       "price": -220,
+       "p": 0.754,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -151,
+       "p": 0.574,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -151,
+       "p": 0.574,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -151,
+       "p": 0.574,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -151,
+       "p": 0.574,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -151,
+       "p": 0.574,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -151,
+       "p": 0.574,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 123,
+       "p": 0.43,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 123,
+       "p": 0.428,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -151,
+       "p": 0.574,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -151,
+       "p": 0.574,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 123,
+       "p": 0.43,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -27518,7 +31236,7 @@
        "s": "away",
        "pick": "VGK ML",
        "price": -218,
-       "p": 0.6,
+       "p": 0.593,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27538,7 +31256,7 @@
        "s": "away",
        "pick": "VGK ML",
        "price": -218,
-       "p": 0.676,
+       "p": 0.69,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27578,7 +31296,7 @@
        "s": "away",
        "pick": "VGK ML",
        "price": -218,
-       "p": 0.645,
+       "p": 0.664,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27598,7 +31316,7 @@
        "s": "away",
        "pick": "VGK ML",
        "price": -218,
-       "p": 0.644,
+       "p": 0.662,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27618,7 +31336,7 @@
        "s": "away",
        "pick": "VGK ML",
        "price": -218,
-       "p": 0.62,
+       "p": 0.625,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27638,7 +31356,7 @@
        "s": "away",
        "pick": "VGK ML",
        "price": -218,
-       "p": 0.608,
+       "p": 0.607,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -27655,7 +31373,7 @@
        "s": "home",
        "pick": "SJ +1.5",
        "price": -142,
-       "p": 0.455,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -27675,7 +31393,7 @@
        "s": "home",
        "pick": "SJ +1.5",
        "price": -142,
-       "p": 0.452,
+       "p": 0.457,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -27695,7 +31413,7 @@
        "s": "home",
        "pick": "SJ +1.5",
        "price": -142,
-       "p": 0.528,
+       "p": 0.527,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -27750,7 +31468,7 @@
        "s": "home",
        "pick": "SJ +1.5",
        "price": -142,
-       "p": 0.452,
+       "p": 0.457,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -27790,7 +31508,7 @@
        "s": "home",
        "pick": "SJ +1.5",
        "price": -142,
-       "p": 0.54,
+       "p": 0.539,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -27810,7 +31528,7 @@
        "s": "home",
        "pick": "SJ +1.5",
        "price": -142,
-       "p": 0.501,
+       "p": 0.503,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -27852,7 +31570,7 @@
        "s": "over",
        "pick": "Over 6.5",
        "price": -115,
-       "p": 0.41,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -27872,7 +31590,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -105,
-       "p": 0.401,
+       "p": 0.403,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -27942,7 +31660,447 @@
       4
      ]
     },
-    "fx": "avg VGK 3.5-3 SJ 2.6-3.7 · rec VGK 15-6 SJ 11-14 · last5 VGK 3-2 SJ 3-2 · past 6.5: VGK 4/8 SJ 5/8"
+    "fx": "avg VGK 3.5-3 SJ 2.6-3.7 · rec VGK 15-6 SJ 11-14 · last5 VGK 3-2 SJ 3-2 · past 6.5: VGK 4/8 SJ 5/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 SJ ML",
+       "price": 144,
+       "p": 0.387,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 SJ ML",
+       "price": 144,
+       "p": 0.387,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 SJ ML",
+       "price": 144,
+       "p": 0.387,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 VGK ML",
+       "price": -186,
+       "p": 0.631,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 SJ ML",
+       "price": 144,
+       "p": 0.419,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 SJ ML",
+       "price": 144,
+       "p": 0.387,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 VGK ML",
+       "price": -186,
+       "p": 0.617,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "P1 VGK ML",
+       "price": -186,
+       "p": 0.617,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 SJ ML",
+       "price": 144,
+       "p": 0.387,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "P1 VGK ML",
+       "price": -186,
+       "p": 0.631,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 SJ ML",
+       "price": 144,
+       "p": 0.387,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "P1 VGK ML",
+       "price": -186,
+       "p": 0.617,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 VGK -0.5",
+       "price": 120,
+       "p": 0.428,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 VGK -0.5",
+       "price": 120,
+       "p": 0.428,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 VGK -0.5",
+       "price": 120,
+       "p": 0.428,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 VGK -0.5",
+       "price": 120,
+       "p": 0.497,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 SJ +0.5",
+       "price": -162,
+       "p": 0.707,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "P1 VGK -0.5",
+       "price": 120,
+       "p": 0.428,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 SJ +0.5",
+       "price": -162,
+       "p": 0.592,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 SJ +0.5",
+       "price": -162,
+       "p": 0.592,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 VGK -0.5",
+       "price": 120,
+       "p": 0.428,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "P1 VGK -0.5",
+       "price": 120,
+       "p": 0.497,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 VGK -0.5",
+       "price": 120,
+       "p": 0.428,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 SJ +0.5",
+       "price": -162,
+       "p": 0.592,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -162,
+       "p": 0.583,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -162,
+       "p": 0.583,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -162,
+       "p": 0.583,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 125,
+       "p": 0.419,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -162,
+       "p": 0.583,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -162,
+       "p": 0.583,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 125,
+       "p": 0.422,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 125,
+       "p": 0.422,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -162,
+       "p": 0.583,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 125,
+       "p": 0.419,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -162,
+       "p": 0.583,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 125,
+       "p": 0.422,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -27957,7 +32115,7 @@
       "sd": "home",
       "pick": "CHI +1.5",
       "price": -175,
-      "p": 0.819,
+      "p": 0.812,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -27975,7 +32133,7 @@
       "sd": "away",
       "pick": "NYR ML",
       "price": -175,
-      "p": 0.724,
+      "p": 0.733,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -28094,7 +32252,7 @@
        "s": "away",
        "pick": "NYR ML",
        "price": -175,
-       "p": 0.555,
+       "p": 0.554,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28114,7 +32272,7 @@
        "s": "away",
        "pick": "NYR ML",
        "price": -175,
-       "p": 0.606,
+       "p": 0.605,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28131,7 +32289,7 @@
        "s": "home",
        "pick": "CHI +1.5",
        "price": -175,
-       "p": 0.475,
+       "p": 0.476,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -28151,7 +32309,7 @@
        "s": "home",
        "pick": "CHI +1.5",
        "price": -175,
-       "p": 0.467,
+       "p": 0.468,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -28271,7 +32429,7 @@
        "s": "home",
        "pick": "CHI +1.5",
        "price": -175,
-       "p": 0.537,
+       "p": 0.536,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -28291,7 +32449,7 @@
        "s": "home",
        "pick": "CHI +1.5",
        "price": -175,
-       "p": 0.517,
+       "p": 0.516,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -28333,7 +32491,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -125,
-       "p": 0.395,
+       "p": 0.406,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -28373,7 +32531,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -125,
-       "p": 0.426,
+       "p": 0.427,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -28393,7 +32551,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -125,
-       "p": 0.487,
+       "p": 0.488,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -28413,7 +32571,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -125,
-       "p": 0.493,
+       "p": 0.495,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -28463,7 +32621,447 @@
       4
      ]
     },
-    "fx": "avg NYR 2.9-2.8 CHI 2.7-3.9 · rec NYR 13-10 CHI 9-14 · last5 NYR 2-3 CHI 4-1 · past 6.5: NYR 2/8 CHI 5/8"
+    "fx": "avg NYR 2.9-2.8 CHI 2.7-3.9 · rec NYR 13-10 CHI 9-14 · last5 NYR 2-3 CHI 4-1 · past 6.5: NYR 2/8 CHI 5/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.589,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.589,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.585,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.585,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 CHI ML",
+       "price": 125,
+       "p": 0.447,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.585,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 CHI ML",
+       "price": 125,
+       "p": 0.451,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.589,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.585,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.603,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.589,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "P1 NYR ML",
+       "price": -160,
+       "p": 0.589,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.405,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.405,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.425,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.425,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 CHI +0.5",
+       "price": -183,
+       "p": 0.711,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.425,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 CHI +0.5",
+       "price": -183,
+       "p": 0.75,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.405,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.425,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.493,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.405,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "P1 NYR -0.5",
+       "price": 137,
+       "p": 0.405,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -140,
+       "p": 0.543,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.459,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 102,
+       "p": 0.462,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -28478,7 +33076,7 @@
       "sd": "away",
       "pick": "WPG +1.5",
       "price": -225,
-      "p": 0.883,
+      "p": 0.901,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -28498,7 +33096,7 @@
        "s": "home",
        "pick": "NYI ML",
        "price": -135,
-       "p": 0.511,
+       "p": 0.503,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28518,7 +33116,7 @@
        "s": "home",
        "pick": "NYI ML",
        "price": -135,
-       "p": 0.512,
+       "p": 0.482,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28538,7 +33136,7 @@
        "s": "home",
        "pick": "NYI ML",
        "price": -135,
-       "p": 0.498,
+       "p": 0.492,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28558,7 +33156,7 @@
        "s": "home",
        "pick": "NYI ML",
        "price": -135,
-       "p": 0.484,
+       "p": 0.429,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28598,7 +33196,7 @@
        "s": "home",
        "pick": "NYI ML",
        "price": -135,
-       "p": 0.567,
+       "p": 0.565,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28715,7 +33313,7 @@
        "s": "away",
        "pick": "WPG +1.5",
        "price": -225,
-       "p": 0.618,
+       "p": 0.622,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -28777,7 +33375,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -115,
-       "p": 0.433,
+       "p": 0.444,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -28848,7 +33446,411 @@
       4
      ]
     },
-    "fx": "avg WPG 3.2-3.3 NYI 3.2-2.9 · rec WPG 13-9 NYI 12-7 · last5 WPG 3-2 NYI 4-1 · past 6.5: WPG 4/8 NYI 3/8"
+    "fx": "avg WPG 3.2-3.3 NYI 3.2-2.9 · rec WPG 13-9 NYI 12-7 · last5 WPG 3-2 NYI 4-1 · past 6.5: WPG 4/8 NYI 3/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.547,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.547,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.542,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.542,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.542,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.542,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.547,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.542,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.542,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.547,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 NYI ML",
+       "price": -129,
+       "p": 0.547,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.402,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.402,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.402,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.421,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.402,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 NYI -0.5",
+       "price": 155,
+       "p": 0.402,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.444,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.444,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -145,
+       "p": 0.56,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -145,
+       "p": 0.56,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -145,
+       "p": 0.56,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -145,
+       "p": 0.56,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.444,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -145,
+       "p": 0.56,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -145,
+       "p": 0.56,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.444,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 114,
+       "p": 0.444,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -28863,7 +33865,7 @@
       "sd": "away",
       "pick": "PIT +1.5",
       "price": -185,
-      "p": 0.779,
+      "p": 0.774,
       "tier": "supreme",
       "unan": true,
       "off": false,
@@ -28880,7 +33882,7 @@
       "sd": "home",
       "pick": "BUF ML",
       "price": -155,
-      "p": 0.695,
+      "p": 0.693,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -28896,7 +33898,7 @@
       "sd": "over",
       "pick": "Over 6.5",
       "price": -115,
-      "p": 0.505,
+      "p": 0.51,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -28913,7 +33915,7 @@
        "s": "home",
        "pick": "BUF ML",
        "price": -155,
-       "p": 0.488,
+       "p": 0.481,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28933,7 +33935,7 @@
        "s": "home",
        "pick": "BUF ML",
        "price": -155,
-       "p": 0.489,
+       "p": 0.482,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28953,7 +33955,7 @@
        "s": "home",
        "pick": "BUF ML",
        "price": -155,
-       "p": 0.579,
+       "p": 0.578,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28973,7 +33975,7 @@
        "s": "home",
        "pick": "BUF ML",
        "price": -155,
-       "p": 0.483,
+       "p": 0.476,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -28993,7 +33995,7 @@
        "s": "home",
        "pick": "BUF ML",
        "price": -155,
-       "p": 0.483,
+       "p": 0.429,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -29013,7 +34015,7 @@
        "s": "home",
        "pick": "BUF ML",
        "price": -155,
-       "p": 0.55,
+       "p": 0.549,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -29033,7 +34035,7 @@
        "s": "home",
        "pick": "BUF ML",
        "price": -155,
-       "p": 0.566,
+       "p": 0.563,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -29050,7 +34052,7 @@
        "s": "away",
        "pick": "PIT +1.5",
        "price": -185,
-       "p": 0.475,
+       "p": 0.476,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -29070,7 +34072,7 @@
        "s": "away",
        "pick": "PIT +1.5",
        "price": -185,
-       "p": 0.467,
+       "p": 0.468,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -29130,7 +34132,7 @@
        "s": "away",
        "pick": "PIT +1.5",
        "price": -185,
-       "p": 0.468,
+       "p": 0.469,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -29150,7 +34152,7 @@
        "s": "away",
        "pick": "PIT +1.5",
        "price": -185,
-       "p": 0.603,
+       "p": 0.607,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -29192,7 +34194,7 @@
        "s": "over",
        "pick": "Over 6.5",
        "price": -115,
-       "p": 0.41,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -29212,7 +34214,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -105,
-       "p": 0.401,
+       "p": 0.403,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -29267,7 +34269,7 @@
        "s": "over",
        "pick": "Over 6.5",
        "price": -115,
-       "p": 0.504,
+       "p": 0.506,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -29313,7 +34315,447 @@
       4
      ]
     },
-    "fx": "avg PIT 2.9-3.6 BUF 3.1-3.4 · rec PIT 7-15 BUF 11-10 · last5 PIT 1-4 BUF 2-3 · past 6.5: PIT 5/8 BUF 4/8"
+    "fx": "avg PIT 2.9-3.6 BUF 3.1-3.4 · rec PIT 7-15 BUF 11-10 · last5 PIT 1-4 BUF 2-3 · past 6.5: PIT 5/8 BUF 4/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.571,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.571,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 BUF ML",
+       "price": -147,
+       "p": 0.567,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.405,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.405,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "home",
+       "pick": "P1 BUF -0.5",
+       "price": 137,
+       "p": 0.424,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 124,
+       "p": 0.424,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 124,
+       "p": 0.424,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -160,
+       "p": 0.581,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    },
    {
     "sp": "nhl",
@@ -29328,7 +34770,7 @@
       "sd": "home",
       "pick": "EDM ML",
       "price": -218,
-      "p": 0.769,
+      "p": 0.768,
       "tier": "strong",
       "unan": false,
       "off": false,
@@ -29344,7 +34786,7 @@
       "sd": "over",
       "pick": "Over 6.5",
       "price": -108,
-      "p": 0.493,
+      "p": 0.503,
       "tier": "value",
       "unan": false,
       "off": false,
@@ -29381,7 +34823,7 @@
        "s": "home",
        "pick": "EDM ML",
        "price": -218,
-       "p": 0.599,
+       "p": 0.593,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -29441,7 +34883,7 @@
        "s": "home",
        "pick": "EDM ML",
        "price": -218,
-       "p": 0.578,
+       "p": 0.573,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -29461,7 +34903,7 @@
        "s": "home",
        "pick": "EDM ML",
        "price": -218,
-       "p": 0.62,
+       "p": 0.625,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -29481,7 +34923,7 @@
        "s": "home",
        "pick": "EDM ML",
        "price": -218,
-       "p": 0.609,
+       "p": 0.607,
        "o": 0,
        "r": {
         "k": "nhl|ml|fav",
@@ -29498,7 +34940,7 @@
        "s": "away",
        "pick": "SEA +1.5",
        "price": -135,
-       "p": 0.475,
+       "p": 0.476,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -29598,7 +35040,7 @@
        "s": "away",
        "pick": "SEA +1.5",
        "price": -135,
-       "p": 0.468,
+       "p": 0.459,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -29658,7 +35100,7 @@
        "s": "away",
        "pick": "SEA +1.5",
        "price": -135,
-       "p": 0.47,
+       "p": 0.472,
        "o": 0,
        "r": {
         "k": "nhl|spread|dog",
@@ -29700,7 +35142,7 @@
        "s": "over",
        "pick": "Over 6.5",
        "price": -108,
-       "p": 0.41,
+       "p": 0.462,
        "o": 0,
        "r": {
         "k": "nhl|total|over",
@@ -29720,7 +35162,7 @@
        "s": "under",
        "pick": "Under 6.5",
        "price": -112,
-       "p": 0.401,
+       "p": 0.403,
        "o": 0,
        "r": {
         "k": "nhl|total|under",
@@ -29790,7 +35232,447 @@
       4
      ]
     },
-    "fx": "avg SEA 3.2-3.5 EDM 3.9-3 · rec SEA 11-10 EDM 17-6 · last5 SEA 1-4 EDM 2-3 · past 6.5: SEA 2/7 EDM 5/8"
+    "fx": "avg SEA 3.2-3.5 EDM 3.9-3 · rec SEA 11-10 EDM 17-6 · last5 SEA 1-4 EDM 2-3 · past 6.5: SEA 2/7 EDM 5/8",
+    "half": {
+     "ml": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -1.1,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.7,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 19,
+       "l": 31,
+       "u": -0.7,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -3.4,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 18,
+       "l": 32,
+       "u": -2.9,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 20,
+       "l": 30,
+       "u": 1.8,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "home",
+       "pick": "P1 EDM ML",
+       "price": -188,
+       "p": 0.618,
+       "o": 0,
+       "w": 19,
+       "l": 32,
+       "u": -1.6,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "home",
+       "pick": "P1 EDM ML",
+       "price": -188,
+       "p": 0.618,
+       "o": 0,
+       "w": 13,
+       "l": 22,
+       "u": -0.8,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 18,
+       "l": 33,
+       "u": 0.2,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 EDM ML",
+       "price": -188,
+       "p": 0.627,
+       "o": 0,
+       "w": 15,
+       "l": 25,
+       "u": -1.8,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 8,
+       "l": 12,
+       "u": 1.1,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "P1 SEA ML",
+       "price": 145,
+       "p": 0.386,
+       "o": 0,
+       "w": 5,
+       "l": 9,
+       "u": -1.2,
+       "hit": null
+      }
+     ],
+     "spread": [
+      {
+       "v": "Sim",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": -0.5,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 29,
+       "l": 21,
+       "u": 1.4,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 30,
+       "l": 20,
+       "u": 2.1,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 4.6,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 31,
+       "l": 19,
+       "u": 3.1,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 32,
+       "l": 18,
+       "u": 6.7,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.591,
+       "o": 0,
+       "w": 33,
+       "l": 18,
+       "u": 3.3,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.591,
+       "o": 0,
+       "w": 23,
+       "l": 12,
+       "u": 4.2,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 31,
+       "l": 20,
+       "u": 2.7,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "home",
+       "pick": "P1 EDM -0.5",
+       "price": 118,
+       "p": 0.502,
+       "o": 0,
+       "w": 17,
+       "l": 23,
+       "u": -3.7,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 10,
+       "l": 10,
+       "u": 1.6,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "away",
+       "pick": "P1 SEA +0.5",
+       "price": -156,
+       "p": 0.572,
+       "o": 0,
+       "w": 6,
+       "l": 8,
+       "u": -0.7,
+       "hit": null
+      }
+     ],
+     "total": [
+      {
+       "v": "Sim",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 1.9,
+       "hit": null
+      },
+      {
+       "v": "Judge",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -3.8,
+       "hit": null
+      },
+      {
+       "v": "Dog",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Trends",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Coach",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Pred",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 5,
+       "l": 8,
+       "u": -4.5,
+       "hit": null
+      },
+      {
+       "v": "Most common",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 119,
+       "p": 0.433,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.5,
+       "hit": null
+      },
+      {
+       "v": "Covers",
+       "s": "under",
+       "pick": "P1 Under 1.5",
+       "price": 119,
+       "p": 0.433,
+       "o": 0,
+       "w": 4,
+       "l": 5,
+       "u": -1.4,
+       "hit": null
+      },
+      {
+       "v": "Power",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 4,
+       "l": 9,
+       "u": -6.5,
+       "hit": null
+      },
+      {
+       "v": "Scout",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.573,
+       "o": 0,
+       "w": 3,
+       "l": 8,
+       "u": -5.3,
+       "hit": null
+      },
+      {
+       "v": "H_L2e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 9,
+       "l": 4,
+       "u": 4.7,
+       "hit": null
+      },
+      {
+       "v": "H_L3e1",
+       "s": "over",
+       "pick": "P1 Over 1.5",
+       "price": -153,
+       "p": 0.571,
+       "o": 0,
+       "w": 8,
+       "l": 5,
+       "u": 2.5,
+       "hit": null
+      }
+     ]
+    }
    }
   ],
   "cast": {
@@ -29834,16 +35716,6 @@
     "chip": "⚙️ CLOSER",
     "color": "#d17ec0"
    },
-   "Most common": {
-    "name": "The Scorekeeper",
-    "chip": "SCORE",
-    "color": "#a78bfa"
-   },
-   "Pred": {
-    "name": "The Oracle",
-    "chip": "ORACLE",
-    "color": "#e8c15a"
-   },
    "Dog": {
     "name": "The Underdog Spotter",
     "chip": "🐕 DOG",
@@ -29853,6 +35725,16 @@
     "name": "The Historian",
     "chip": "TRENDS",
     "color": "#34d399"
+   },
+   "Pred": {
+    "name": "The Oracle",
+    "chip": "ORACLE",
+    "color": "#e8c15a"
+   },
+   "Most common": {
+    "name": "The Scorekeeper",
+    "chip": "SCORE",
+    "color": "#a78bfa"
    }
   },
   "heavy": -500,
@@ -30111,15 +35993,6 @@
     "l30": 50,
     "u30": -6.9
    },
-   "ncaab|ml|fav": {
-    "lv": -2,
-    "w": 122,
-    "l": 93,
-    "u": -26.2,
-    "w30": 122,
-    "l30": 93,
-    "u30": -26.2
-   },
    "ncaab|ml|dog": {
     "lv": 2,
     "w": 51,
@@ -30146,6 +36019,15 @@
     "w30": 154,
     "l30": 146,
     "u30": -6.4
+   },
+   "ncaab|ml|fav": {
+    "lv": -1,
+    "w": 122,
+    "l": 92,
+    "u": -25.2,
+    "w30": 122,
+    "l30": 92,
+    "u30": -25.2
    },
    "ncaab|spread|fav": {
     "lv": -2,
@@ -30246,10 +36128,10 @@
       "price": -110,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "hit",
+      "st": "open",
       "p": 0.524,
       "q": 1,
-      "detail": "LSU 95–86 SMU · margin +9",
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -30270,7 +36152,7 @@
     ],
     "dec": 50.68,
     "res": "lost",
-    "hit": 4,
+    "hit": 3,
     "p0": 0.01973,
     "now": 0
    },
@@ -30452,10 +36334,10 @@
       "price": 226,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "miss",
+      "st": "open",
       "p": 0.307,
       "q": 0,
-      "detail": "LSU 95–86 SMU",
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -30548,10 +36430,10 @@
       "price": -154,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "miss",
+      "st": "open",
       "p": 0.606,
-      "q": 0,
-      "detail": "LSU 95–86 SMU · margin -9",
+      "q": 0.002,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -30672,10 +36554,10 @@
       "price": -275,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "hit",
+      "st": "open",
       "p": 0.733,
       "q": 1,
-      "detail": "LSU 95–86 SMU",
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -30780,7 +36662,7 @@
     ],
     "dec": 161.072,
     "res": "lost",
-    "hit": 6,
+    "hit": 5,
     "p0": 0.00621,
     "now": 0
    },
@@ -30852,10 +36734,10 @@
       "price": -275,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "hit",
+      "st": "open",
       "p": 0.733,
       "q": 1,
-      "detail": "LSU 95–86 SMU",
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -30932,7 +36814,7 @@
     ],
     "dec": 132.384,
     "res": "lost",
-    "hit": 8,
+    "hit": 7,
     "p0": 0.00755,
     "now": 0
    },
@@ -31114,10 +36996,10 @@
       "price": -154,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "hit",
+      "st": "open",
       "p": 0.606,
       "q": 1,
-      "detail": "LSU 95–86 SMU · margin +9",
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -31236,7 +37118,7 @@
     ],
     "dec": 152.65,
     "res": "lost",
-    "hit": 6,
+    "hit": 5,
     "p0": 0.00655,
     "now": 0
    },
@@ -31418,10 +37300,10 @@
       "price": -300,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "hit",
+      "st": "open",
       "p": 0.75,
       "q": 1,
-      "detail": "LSU 95–86 SMU",
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -31484,7 +37366,7 @@
     ],
     "dec": 118.21,
     "res": "lost",
-    "hit": 5,
+    "hit": 4,
     "p0": 0.00846,
     "now": 0
    },
@@ -32746,10 +38628,10 @@
       "price": -150,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "push",
+      "st": "open",
       "p": 0.6,
-      "q": 1,
-      "detail": "LSU 95–86 SMU · margin -9 — push, refunded, not counted as a loss",
+      "q": 0.493,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -33106,10 +38988,10 @@
       "price": -150,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "push",
+      "st": "open",
       "p": 0.6,
-      "q": 1,
-      "detail": "LSU 95–86 SMU · margin -9 — push, refunded, not counted as a loss",
+      "q": 0.493,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -33188,10 +39070,10 @@
       "price": -315,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "hit",
+      "st": "open",
       "p": 0.759,
       "q": 1,
-      "detail": "LSU 95–86 SMU",
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -33282,7 +39164,7 @@
     ],
     "dec": 50.28,
     "res": "lost",
-    "hit": 5,
+    "hit": 4,
     "p0": 0.02,
     "now": 0
    },
@@ -33464,10 +39346,10 @@
       "price": -152,
       "start": "2026-11-27T00:00:00Z",
       "day": "2026-11-26",
-      "st": "push",
+      "st": "open",
       "p": 0.603,
-      "q": 1,
-      "detail": "LSU 95–86 SMU · margin -9 — push, refunded, not counted as a loss",
+      "q": 0.493,
+      "detail": null,
       "prog": null,
       "prop": false
      },
@@ -40577,6 +46459,6 @@
    }
   ]
  },
- "betaSig": "[[\"nhl|conortimmins|bs|1|over5\",\"nhl|brandonhagel|s|2|over5\",\"nhl|mattboldy|s|2|over5\",\"nhl|davidpastrnak|s|2|over5\",\"nhl|macklincelebrini|s|2|over5\",\"nhl|connorhellebuyck|ga|2|over5\",\"nhl|jackquinn|s|2|over5\",\"nhl|bradytkachuk|ht|2|over5\",\"nhl|adamfantilli|s|2|over5\",\"nhl|nikitakucherov|s|2|over5\",\"nhl|thomasharley|bs|1|over5\",\"nhl|leondraisaitl|s|2|over5\",\"nhl|jakemccabe|bs|1|over5\",\"nhl|jakobchychrun|s|2|over5\",\"nhl|leevimerilainen|sv|20|over5\",\"nhl|juddcaulfield|ht|2|over5\",\"nhl|camtalbot|ga|2|over5\",\"nhl|timomeier|s|2|over5\",\"nhl|connormcdavid|pts|1|over5\",\"nhl|jackhughes|s|2|over5\",\"nhl|matthewschaefer|s|2|over5\",\"nhl|leondraisaitl|pts|1|over5\",\"nhl|alexdebrincat|s|2|over5\",\"nhl|esalindell|bs|1|over5\",\"nhl|leevimerilainen|ga|2|over5\",\"nhl|devonlevi|ga|2|over5\",\"nhl|zachwerenski|s|2|over5\",\"nhl|joelerikssonek|s|2|over5\",\"nhl|sheatheodore|bs|1|over5\",\"nhl|samreinhart|s|2|over5\",\"nhl|dougiehamilton|s|2|over5\",\"nhl|willborgen|bs|1|over5\",\"nhl|jeremylauzon|ht|2|over5\",\"nhl|austonmatthews|s|2|over5\",\"nhl|spencerknight|sv|20|over5\",\"nhl|garnethathaway|ht|2|over5\",\"nhl|andrewpeeke|bs|1|over5\",\"nhl|jackeichel|s|2|over5\",\"nhl|connormcdavid|a|1|over5\",\"nhl|evanbouchard|pts|1|over5\",\"nhl|ryanleonard|s|2|over5\",\"nhl|spencerknight|ga|2|over5\",\"nhl|dustinwolf|ga|2|over5\",\"nhl|adamklapka|ht|2|over5\",\"nhl|traviskonecny|ht|2|over5\",\"nhl|bradytkachuk|s|2|over5\",\"nhl|rickardrakell|s|2|over5\",\"nhl|nicdowd|ht|2|over5\",\"nhl|jasonrobertson|s|2|over5\",\"nhl|simonnemec|bs|1|over5\",\"nhl|zachwhitecloud|bs|1|over5\",\"nhl|filipforsberg|s|2|over5\",\"nhl|troystecher|bs|1|over5\",\"nhl|kirillkaprizov|pts|1|over5\",\"nhl|pavelmintyukov|bs|1|over5\",\"nhl|jaredspurgeon|bs|1|over5\",\"nhl|joelhanley|bs|1|over5\",\"nhl|romanjosi|s|2|over5\",\"nhl|jakesanderson|bs|1|over5\",\"nhl|artemzub|bs|1|over5\",\"nhl|jesperwallstedt|ga|2|over5\",\"nhl|camtalbot|sv|20|over5\",\"nhl|wyattjohnston|s|2|over5\",\"nhl|kirillkaprizov|s|2|over5\",\"nhl|tagethompson|s|2|over4\",\"nhl|kyleconnor|s|2|over4\",\"nhl|bohorvat|s|2|over4\",\"nhl|darrenraddysh|s|2|over4\",\"nhl|mitchmarner|s|2|over4\",\"nhl|travissanheim|bs|1|over4\",\"nhl|nickseeler|bs|1|over4\",\"nhl|mackenzieweegar|bs|1|over4\",\"nhl|cuttergauthier|s|3|over4\",\"nhl|kyleconnor|pts|1|over3\",\"nhl|trevorconnelly|s|2|over3\",\"nhl|viktorarvidsson|s|2|over3\",\"nhl|jakeoettinger|sv|20|over3\",\"nhl|connormcdavid|s|2|over3\",\"nhl|davidpastrnak|pts|1|over3\",\"nhl|matthewtkachuk|s|2|over2\",\"nhl|mikhailsergachev|bs|1|over2\",\"nhl|tannerjeannot|ht|2|over2\",\"nhl|jackeichel|pts|1|over2\",\"nhl|cuttergauthier|s|2|over1\",\"nhl|lucasraymond|s|2|over1\",\"nhl|kyleconnor|s|3|over1\",\"nhl|calemakar|pts|1|over1\",\"nhl|tagethompson|pts|1|over1\",\"nhl|mattcoronato|s|2|over1\",\"nhl|dylanguenther|s|2|over1\",\"nhl|johncarlson|s|2|over1\",\"nhl|paulcotter|ht|2|over1\",\"nhl|markscheifele|pts|1|over1\",\"nhl|martinnecas|s|2|over1\",\"nhl|colehutson|s|2|over1\",\"nhl|ridlygreig|s|2|over1\",\"nhl|joshmorrissey|bs|1|over1\",\"nhl|rasmusdahlin|s|2|over1\",\"nhl|tagethompson|s|3|over1\",\"nhl|antonlundell|s|2|over1\",\"nhl|lukeevangelista|s|2|over1\",\"nhl|juusesaros|ga|2|over1\",\"nhl|ianmoore|bs|1|over1\"],[\"lost:mhhhhp\",\"lost:hhmhmhmhmh\",\"lost:mmhmmm\",\"lost:mmmmhhh\",\"lost:mmhhmhhmhh\",\"lost:hhhhhmmhhh\",\"lost:hhhhmmhhhm\",\"lost:mhmhhmhhmh\",\"lost:hmmmhh\",\"lost:hmhmmhmmhh\",\"lost:hhhmhmmhmm\",\"lost:mhmhmhmhmm\",\"lost:hmhhmmhmhh\",\"lost:hhhhmmhmhm\",\"lost:m0m0h134m7m14h291h67h331hhh1h1h33m81h117h71m15m19m13mhm13m0h205h345h7m3h65hm44h146m5m\",\"lost:hhhhphmmmm\",\"lost:mhmhhhhhmh\",\"lost:hhmhhmhhph\",\"lost:hmmhmhmhmh\",\"lost:mmhhhhhhmh\",\"lost:mphhmmhhh\",\"lost:hh8mhhh35h1m11h12h3h10m19m5h19m11h28hmm1h4m0h30\"],[[1,[\"supreme\"],19],[1,[\"strong\"],17],[1,[\"supreme\"],19],[1,[\"supreme*\"],19],[2,[\"supreme*\",\"supreme*\"],20],[0,[],15],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[1,[\"supreme*\"],22],[2,[\"supreme*\",\"strong\"],18],[1,[\"strong\"],20],[2,[\"supreme*\",\"strong\"],22],[1,[\"supreme*\"],16],[3,[\"supreme*\",\"strong\",\"value\"],19],[2,[\"strong\",\"value\"],20]],0,[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-15-0\",\"18-13-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"3-10-0\",\"19-8-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"4-2-0\",\"11-16-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-8-0\",\"15-18-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[4,[null,null,null,null],[\"1-1-0\",\"2-4-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"16-11-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[0,[],[\"1-7-0\",\"4-14-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-1-0\",\"0-0-0\"]],[0,[],[\"1-11-0\",\"1-7-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-2-0\",\"0-0-0\"]],[4,[null,null,null,null],[\"0-2-0\",\"0-1-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
+ "betaSig": "[[\"nhl|conortimmins|bs|1|over5\",\"nhl|brandonhagel|s|2|over5\",\"nhl|mattboldy|s|2|over5\",\"nhl|davidpastrnak|s|2|over5\",\"nhl|macklincelebrini|s|2|over5\",\"nhl|connorhellebuyck|ga|2|over5\",\"nhl|jackquinn|s|2|over5\",\"nhl|bradytkachuk|ht|2|over5\",\"nhl|adamfantilli|s|2|over5\",\"nhl|nikitakucherov|s|2|over5\",\"nhl|thomasharley|bs|1|over5\",\"nhl|leondraisaitl|s|2|over5\",\"nhl|jakemccabe|bs|1|over5\",\"nhl|jakobchychrun|s|2|over5\",\"nhl|leevimerilainen|sv|20|over5\",\"nhl|juddcaulfield|ht|2|over5\",\"nhl|camtalbot|ga|2|over5\",\"nhl|timomeier|s|2|over5\",\"nhl|connormcdavid|pts|1|over5\",\"nhl|jackhughes|s|2|over5\",\"nhl|matthewschaefer|s|2|over5\",\"nhl|leondraisaitl|pts|1|over5\",\"nhl|alexdebrincat|s|2|over5\",\"nhl|esalindell|bs|1|over5\",\"nhl|leevimerilainen|ga|2|over5\",\"nhl|devonlevi|ga|2|over5\",\"nhl|zachwerenski|s|2|over5\",\"nhl|joelerikssonek|s|2|over5\",\"nhl|sheatheodore|bs|1|over5\",\"nhl|samreinhart|s|2|over5\",\"nhl|dougiehamilton|s|2|over5\",\"nhl|willborgen|bs|1|over5\",\"nhl|jeremylauzon|ht|2|over5\",\"nhl|austonmatthews|s|2|over5\",\"nhl|spencerknight|sv|20|over5\",\"nhl|garnethathaway|ht|2|over5\",\"nhl|andrewpeeke|bs|1|over5\",\"nhl|jackeichel|s|2|over5\",\"nhl|connormcdavid|a|1|over5\",\"nhl|evanbouchard|pts|1|over5\",\"nhl|ryanleonard|s|2|over5\",\"nhl|spencerknight|ga|2|over5\",\"nhl|dustinwolf|ga|2|over5\",\"nhl|adamklapka|ht|2|over5\",\"nhl|traviskonecny|ht|2|over5\",\"nhl|bradytkachuk|s|2|over5\",\"nhl|rickardrakell|s|2|over5\",\"nhl|nicdowd|ht|2|over5\",\"nhl|jasonrobertson|s|2|over5\",\"nhl|simonnemec|bs|1|over5\",\"nhl|zachwhitecloud|bs|1|over5\",\"nhl|filipforsberg|s|2|over5\",\"nhl|troystecher|bs|1|over5\",\"nhl|kirillkaprizov|pts|1|over5\",\"nhl|pavelmintyukov|bs|1|over5\",\"nhl|jaredspurgeon|bs|1|over5\",\"nhl|joelhanley|bs|1|over5\",\"nhl|romanjosi|s|2|over5\",\"nhl|jakesanderson|bs|1|over5\",\"nhl|artemzub|bs|1|over5\",\"nhl|jesperwallstedt|ga|2|over5\",\"nhl|camtalbot|sv|20|over5\",\"nhl|wyattjohnston|s|2|over5\",\"nhl|kirillkaprizov|s|2|over5\",\"nhl|tagethompson|s|2|over4\",\"nhl|kyleconnor|s|2|over4\",\"nhl|bohorvat|s|2|over4\",\"nhl|darrenraddysh|s|2|over4\",\"nhl|mitchmarner|s|2|over4\",\"nhl|travissanheim|bs|1|over4\",\"nhl|nickseeler|bs|1|over4\",\"nhl|mackenzieweegar|bs|1|over4\",\"nhl|cuttergauthier|s|3|over4\",\"nhl|kyleconnor|pts|1|over3\",\"nhl|trevorconnelly|s|2|over3\",\"nhl|viktorarvidsson|s|2|over3\",\"nhl|jakeoettinger|sv|20|over3\",\"nhl|connormcdavid|s|2|over3\",\"nhl|davidpastrnak|pts|1|over3\",\"nhl|matthewtkachuk|s|2|over2\",\"nhl|mikhailsergachev|bs|1|over2\",\"nhl|tannerjeannot|ht|2|over2\",\"nhl|jackeichel|pts|1|over2\",\"nhl|cuttergauthier|s|2|over1\",\"nhl|lucasraymond|s|2|over1\",\"nhl|kyleconnor|s|3|over1\",\"nhl|calemakar|pts|1|over1\",\"nhl|tagethompson|pts|1|over1\",\"nhl|mattcoronato|s|2|over1\",\"nhl|dylanguenther|s|2|over1\",\"nhl|johncarlson|s|2|over1\",\"nhl|paulcotter|ht|2|over1\",\"nhl|markscheifele|pts|1|over1\",\"nhl|martinnecas|s|2|over1\",\"nhl|colehutson|s|2|over1\",\"nhl|ridlygreig|s|2|over1\",\"nhl|joshmorrissey|bs|1|over1\",\"nhl|rasmusdahlin|s|2|over1\",\"nhl|tagethompson|s|3|over1\",\"nhl|antonlundell|s|2|over1\",\"nhl|lukeevangelista|s|2|over1\",\"nhl|juusesaros|ga|2|over1\",\"nhl|ianmoore|bs|1|over1\"],[\"lost:mhhhop\",\"lost:hhmhmhmhmh\",\"lost:mohmmm\",\"lost:mommhhh\",\"lost:mmohmhhmhh\",\"lost:hhhhommhhh\",\"lost:hhhhmmhhhm\",\"lost:momhhmhhmh\",\"lost:hmmmhh\",\"lost:hmhmmommhh\",\"lost:hhhmhmmhmm\",\"lost:mhmhmhmhmm\",\"lost:hmhhmmhmhh\",\"lost:hhhhmmhmhm\",\"lost:m0m0h134m7m14h291h67h331hhh1h1h33m81h117h71m15m19m13mhm13m0h205h345h7m3h65hm44h146m5m\",\"lost:hhhhohmmmm\",\"lost:mhmhhhhhmh\",\"lost:hhmhhmhhoh\",\"lost:hmmomhmhmh\",\"lost:mmhhhhhhmh\",\"lost:mohhmmhhh\",\"lost:hh8mhhh35h1m11h12h3h10m19m5h19m11h28hmm1h4m0h30\"],[[1,[\"supreme\"],19],[1,[\"strong\"],17],[1,[\"supreme\"],19],[1,[\"supreme*\"],19],[2,[\"supreme*\",\"supreme*\"],20],[0,[],15],[2,[\"supreme*\",\"strong\"],21],[1,[\"supreme*\"],20],[1,[\"supreme*\"],22],[2,[\"supreme*\",\"strong\"],18],[1,[\"strong\"],20],[2,[\"supreme*\",\"strong\"],22],[1,[\"supreme*\"],16],[3,[\"supreme*\",\"strong\",\"value\"],19],[2,[\"strong\",\"value\"],20]],0,[[6,[null,null,null,null,null,null],[\"6-10-0\",\"8-15-0\",\"18-13-0\"]],[6,[null,null,null,null,null,null],[\"3-16-0\",\"3-10-0\",\"19-8-0\"]],[6,[null,null,null,null,null,null],[\"1-11-0\",\"4-2-0\",\"11-16-0\"]],[6,[null,null,null,null,null,null],[\"6-15-0\",\"1-8-0\",\"15-18-0\"]],[0,[],[\"2-4-0\",\"3-3-0\",\"0-0-0\"]],[4,[null,null,null,null],[\"1-1-0\",\"2-4-0\",\"0-0-0\"]],[6,[null,null,null,null,null,null],[\"0-3-0\",\"1-1-0\",\"16-11-0\"]],[0,[],[\"0-1-0\",\"1-1-0\",\"0-0-0\"]],[0,[],[\"1-7-0\",\"4-14-0\",\"0-0-0\"]],[0,[],[\"0-11-0\",\"4-1-0\",\"0-0-0\"]],[0,[],[\"1-11-0\",\"1-7-0\",\"0-0-0\"]],[0,[],[\"0-0-0\",\"1-2-0\",\"0-0-0\"]],[4,[null,null,null,null],[\"0-2-0\",\"0-1-0\",\"0-0-0\"]],[0,[],[\"0-3-0\",\"0-0-0\",\"0-0-0\"]],[0,[],[\"0-5-0\",\"1-7-0\",\"0-0-0\"]]],[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]",
  "simple": 1
 }
